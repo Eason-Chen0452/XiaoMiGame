@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aonesdk_welcome">xxx,selamat datang kembali!</string>
+    <string name="aonesdk_qRegisterAccount">Informasi pendaftaran akun cepat</string>
+    <string name="aonesdk_account">Akun:</string>
+    <string name="aonesdk_quickregisterpassword">Kata sandi:</string>
+</resources>

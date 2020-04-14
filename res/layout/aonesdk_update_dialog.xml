@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:background="@drawable/aonesdk_update_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/aonesdk_update_title_textsize" android:textColor="@color/aonesdk_update_title_color" android:layout_gravity="center" android:id="@id/aonesdk_update_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/aonesdk_update_title_margin_top_bottom" android:layout_marginBottom="@dimen/aonesdk_update_title_margin_top_bottom" android:text="@string/aonesdk_update_title" />
+    <LinearLayout android:background="@color/aonesdk_update_title_underline_color" android:layout_width="fill_parent" android:layout_height="@dimen/aonesdk_update_title_underline_height" android:layout_marginLeft="@dimen/aonesdk_update_margin_left_right" android:layout_marginRight="@dimen/aonesdk_update_margin_left_right" />
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ScrollView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/aonesdk_update_margin_left_right" android:layout_marginRight="@dimen/aonesdk_update_margin_left_right" android:layout_marginBottom="@dimen/aonesdk_update_margin_bottom">
+            <TextView android:textColor="@color/aonesdk_update_content_color" android:id="@id/aonesdk_update_content" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="asfesad" />
+        </ScrollView>
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/aonesdk_update_button_margin_bottom">
+            <Button android:textSize="@dimen/aonesdk_update_button_textsize" android:textColor="@color/aonesdk_update_button_cancel_color" android:id="@id/aonesdk_button_cancel" android:background="@drawable/aonesdk_button_update_cancel" android:padding="@dimen/aonesdk_update_button_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/aonesdk_update_margin_left_right" android:minHeight="@dimen/aonesdk_update_button_minheight" android:text="@string/aonesdk_update_cancel" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true" />
+            <Button android:textSize="@dimen/aonesdk_update_button_textsize" android:id="@id/aonesdk_button_confirm" android:background="@drawable/aonesdk_button_update_confirm" android:padding="@dimen/aonesdk_update_button_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/aonesdk_update_margin_left_right" android:minHeight="@dimen/aonesdk_update_button_minheight" android:text="@string/aonesdk_update_confirm" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+        </RelativeLayout>
+    </RelativeLayout>
+</LinearLayout>

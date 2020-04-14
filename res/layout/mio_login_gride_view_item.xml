@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/login_third_account_icon_layout" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true">
+        <ImageView android:id="@id/login_third_account_item_icon" android:clickable="false" android:layout_width="@dimen/view_dimen_120" android:layout_height="@dimen/view_dimen_120" android:scaleType="fitXY" android:layout_centerHorizontal="true" />
+        <TextView android:textSize="@dimen/text_font_size_24" android:textColor="@android:color/white" android:gravity="center" android:id="@id/login_third_account_last_login" android:background="@drawable/mio_shape_last_login_tip" android:visibility="visible" android:clickable="false" android:layout_width="@dimen/view_dimen_123" android:layout_height="@dimen/view_dimen_41" android:text="上次登录" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+    <TextView android:textSize="@dimen/text_font_size_32" android:textColor="@android:color/black" android:id="@id/login_third_account_item_text" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/view_dimen_20" android:layout_below="@id/login_third_account_icon_layout" android:layout_centerHorizontal="true" />
+</RelativeLayout>

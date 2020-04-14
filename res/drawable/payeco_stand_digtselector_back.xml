@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="false">
+        <layer-list>
+            <item>
+                <shape android:shape="rectangle">
+                    <solid android:color="#fff5f5f5" />
+                    <corners android:radius="1.0px" />
+                    <stroke android:width="1.0px" android:color="#ffd0d6d9" />
+                </shape>
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/payeco_plugin_back" android:antialias="true" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:state_pressed="true">
+        <layer-list>
+            <item>
+                <shape android:shape="rectangle">
+                    <solid android:color="#ffcfcfcf" />
+                    <corners android:radius="1.0px" />
+                    <stroke android:width="1.0px" android:color="#ffd0d6d9" />
+                </shape>
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/payeco_plugin_back" android:antialias="true" />
+            </item>
+        </layer-list>
+    </item>
+</selector>

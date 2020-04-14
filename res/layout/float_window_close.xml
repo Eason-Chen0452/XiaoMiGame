@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/float_window_close" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/text_font_size_large" android:textColor="@color/color_text_window_close_orange" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/shake" />
+        <TextView android:textSize="@dimen/text_font_size_large" android:textColor="@color/color_white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/float_window_close_tip_text_margin_left" android:text="@string/show_box" />
+    </LinearLayout>
+    <ImageView android:layout_gravity="center" android:id="@id/animation_shake" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/float_window_close_tip_animation_margin_top" android:src="@drawable/animlist_shake" />
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/float_window_close_tip_reminder_margin_top">
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/layout_check" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <CheckBox android:layout_gravity="center" android:id="@id/cb_check" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checked="false" style="@style/checkBoxStyle" />
+            <TextView android:textSize="@dimen/text_font_size_large" android:textColor="@color/text_color_black_60" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/float_window_close_tip_reminder_margin_left" android:text="@string/no_longer_remind" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/float_window_close_tip_btn_margin_top">
+        <TextView android:textColor="@color/color_button_window_close_blue" android:gravity="center" android:id="@id/btn_cancel" android:background="@drawable/selector_btn_float_window_close_white" android:layout_width="@dimen/float_window_close_tip_btn_width" android:layout_height="@dimen/float_window_close_tip_btn_height" android:text="@string/btn_cancel" />
+        <TextView android:textColor="@color/color_white" android:gravity="center" android:id="@id/btn_hide" android:background="@drawable/selector_btn_float_window_close_blue" android:layout_width="@dimen/float_window_close_tip_btn_width" android:layout_height="@dimen/float_window_close_tip_btn_height" android:layout_marginLeft="@dimen/float_window_close_tip_btn_margin_left" android:text="@string/btn_hide" />
+    </LinearLayout>
+</LinearLayout>

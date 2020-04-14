@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="black_btn" />
+    <item type="id" name="sure" />
+    <item type="id" name="src_pic" />
+    <item type="id" name="urlopen_web" />
+    <item type="id" name="urlopen_title" />
+    <item type="id" name="back_button" />
+    <item type="id" name="announce_webview" />
+    <item type="id" name="aonesdk_update_title" />
+    <item type="id" name="aonesdk_update_content" />
+    <item type="id" name="aonesdk_button_cancel" />
+    <item type="id" name="aonesdk_button_confirm" />
+    <item type="id" name="global_screenshot_background" />
+    <item type="id" name="global_screenshot" />
+    <item type="id" name="global_screenshot_flash" />
+    <item type="id" name="iv_userinfo_takepic" />
+    <item type="id" name="iv_userinfo_choosepic" />
+    <item type="id" name="iv_userinfo_cancle" />
+    <item type="id" name="item_touch_helper_previous_elevation" />
+    <item type="id" name="float_window_layout">false</item>
+    <item type="id" name="wid_layout">false</item>
+    <item type="id" name="img_float_1">false</item>
+    <item type="id" name="img_float_point">false</item>
+    <item type="id" name="float_new_msg_win_icon">false</item>
+    <item type="id" name="float_newmsg_win_btnroot">false</item>
+    <item type="id" name="float_new_msg_win_close_btn">false</item>
+    <item type="id" name="float_new_msg_win_line">false</item>
+    <item type="id" name="float_new_msg_win_arrow">false</item>
+    <item type="id" name="float_new_msg_win_message">false</item>
+    <item type="id" name="float_window_close">false</item>
+    <item type="id" name="animation_shake">false</item>
+    <item type="id" name="layout_check">false</item>
+    <item type="id" name="cb_check">false</item>
+    <item type="id" name="btn_cancel">false</item>
+    <item type="id" name="btn_hide">false</item>
+    <item type="id" name="float_hide_tip_rootlayout">false</item>
+    <item type="id" name="float_hide_view">false</item>
+    <item type="id" name="float_hide_tip_icon">false</item>
+    <item type="id" name="float_hide_tip_text">false</item>
+    <item type="id" name="mifloat_menu_title_parent">false</item>
+    <item type="id" name="mifloat_menu_userav">false</item>
+    <item type="id" name="mifloat_menu_username">false</item>
+    <item type="id" name="mifloat_menu_member">false</item>
+    <item type="id" name="mifloat_menu_vip">false</item>
+    <item type="id" name="mifloat_name_top_margin">false</item>
+    <item type="id" name="mifloat_menu_redpoint_root">false</item>
+    <item type="id" name="mifloat_menu_vip_tips">false</item>
+    <item type="id" name="mifloat_menu_redpoint">false</item>
+    <item type="id" name="mifloat_menu_arrow">false</item>
+    <item type="id" name="mifloat_menu_parent">false</item>
+    <item type="id" name="mifloat_menu_recyclerview">false</item>
+    <item type="id" name="mifloat_menu_icon">false</item>
+    <item type="id" name="mifloat_menu_icon_redpoint">false</item>
+    <item type="id" name="mifloat_menu_name">false</item>
+    <item type="id" name="ll_container">false</item>
+    <item type="id" name="tv_purchase_name">false</item>
+    <item type="id" name="tv_price">false</item>
+    <item type="id" name="lv_pay">false</item>
+    <item type="id" name="login_wait_icon">false</item>
+    <item type="id" name="login_wait_change_btn">false</item>
+    <item type="id" name="login_wait_username">false</item>
+    <item type="id" name="login_wait_text">false</item>
+    <item type="id" name="login_wait_loading">false</item>
+    <item type="id" name="btn_close">false</item>
+    <item type="id" name="tv_title">false</item>
+    <item type="id" name="tv_info">false</item>
+    <item type="id" name="llDialogOptions">false</item>
+    <item type="id" name="btn_left">false</item>
+    <item type="id" name="btn_right">false</item>
+    <item type="id" name="iv_icon">false</item>
+    <item type="id" name="btn">false</item>
+    <item type="id" name="choose_account_root">false</item>
+    <item type="id" name="progressbar_title">false</item>
+    <item type="id" name="progressbar">false</item>
+    <item type="id" name="progressbar_progress">false</item>
+    <item type="id" name="fault_notice_close">false</item>
+    <item type="id" name="fault_notice_title_icon">false</item>
+    <item type="id" name="fault_notice_title">false</item>
+    <item type="id" name="fault_notice_btn_parent">false</item>
+    <item type="id" name="fault_notice_okbtn">false</item>
+    <item type="id" name="fault_notice_actionbtn">false</item>
+    <item type="id" name="fault_scroll">false</item>
+    <item type="id" name="fault_notice_content">false</item>
+    <item type="id" name="iv_logo">false</item>
+    <item type="id" name="tv_name">false</item>
+    <item type="id" name="act_item_arrow">false</item>
+    <item type="id" name="is_float_icon">false</item>
+    <item type="id" name="login_title">false</item>
+    <item type="id" name="choose_account_layout">false</item>
+    <item type="id" name="mi_account_layout">false</item>
+    <item type="id" name="mi_account_icon_layout">false</item>
+    <item type="id" name="mi_account_icon">false</item>
+    <item type="id" name="mi_account_last_login">false</item>
+    <item type="id" name="mi_account_icon_text">false</item>
+    <item type="id" name="qq_account_layout">false</item>
+    <item type="id" name="qq_account_icon_layout">false</item>
+    <item type="id" name="qq_account_icon">false</item>
+    <item type="id" name="qq_account_last_login">false</item>
+    <item type="id" name="qq_account_icon_text">false</item>
+    <item type="id" name="wechat_account_layout">false</item>
+    <item type="id" name="wechat_account_icon_layout">false</item>
+    <item type="id" name="wechat_account_icon">false</item>
+    <item type="id" name="wechat_account_last_login">false</item>
+    <item type="id" name="wechat_account_icon_text">false</item>
+    <item type="id" name="weibo_account_layout">false</item>
+    <item type="id" name="weibo_account_icon_layout">false</item>
+    <item type="id" name="weibo_account_icon">false</item>
+    <item type="id" name="weibo_account_icon_text">false</item>
+    <item type="id" name="info_text">false</item>
+    <item type="id" name="version_text">false</item>
+    <item type="id" name="login_third_account_icon_layout">false</item>
+    <item type="id" name="login_third_account_item_icon">false</item>
+    <item type="id" name="login_third_account_last_login">false</item>
+    <item type="id" name="login_third_account_item_text">false</item>
+    <item type="id" name="mio_notice_img_parent">false</item>
+    <item type="id" name="mio_notice_image">false</item>
+    <item type="id" name="mio_notice_close">false</item>
+    <item type="id" name="mio_notice_checkbox_parent">false</item>
+    <item type="id" name="mio_notice_checkbox">false</item>
+    <item type="id" name="mio_notice_checkbox_tip">false</item>
+    <item type="id" name="mio_notice_title_icon">false</item>
+    <item type="id" name="mio_notice_title">false</item>
+    <item type="id" name="mio_notice_btn_parent">false</item>
+    <item type="id" name="mio_notice_btn">false</item>
+    <item type="id" name="mio_scroll">false</item>
+    <item type="id" name="mio_notice_content">false</item>
+</resources>

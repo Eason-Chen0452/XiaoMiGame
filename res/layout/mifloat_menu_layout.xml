@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="@dimen/view_dimen_740" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/mifloat_menu_title_parent" android:background="@drawable/mio_corner_16_top_17191e" android:layout_width="@dimen/view_dimen_740" android:layout_height="@dimen/view_dimen_140">
+        <FrameLayout android:layout_gravity="center_vertical" android:layout_width="@dimen/view_dimen_96" android:layout_height="@dimen/view_dimen_96" android:layout_marginLeft="@dimen/common_title_icon_left_padding">
+            <ImageView android:id="@id/mifloat_menu_userav" android:layout_width="@dimen/view_dimen_96" android:layout_height="@dimen/view_dimen_96" android:src="@drawable/game_icon" />
+            <ImageView android:layout_width="@dimen/view_dimen_96" android:layout_height="@dimen/view_dimen_96" android:src="@drawable/avatar_background_white" />
+        </FrameLayout>
+        <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/view_dimen_32" android:layout_weight="1.0">
+            <TextView android:textSize="@dimen/text_font_size_42" android:textColor="@color/color_black" android:ellipsize="end" android:id="@id/mifloat_menu_username" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/view_dimen_5" android:maxLines="1" />
+            <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <ImageView android:id="@id/mifloat_menu_member" android:visibility="gone" android:layout_width="@dimen/view_dimen_118" android:layout_height="@dimen/view_dimen_38" android:layout_marginTop="@dimen/view_dimen_5" android:layout_marginRight="@dimen/view_dimen_12" android:layout_below="@id/mifloat_menu_username" />
+                <ImageView android:id="@id/mifloat_menu_vip" android:visibility="gone" android:layout_width="@dimen/view_dimen_117" android:layout_height="@dimen/view_dimen_38" android:layout_marginTop="@dimen/view_dimen_5" android:layout_toRightOf="@id/mifloat_menu_member" android:layout_below="@id/mifloat_menu_username" />
+            </LinearLayout>
+            <Space android:id="@id/mifloat_name_top_margin" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/view_dimen_12" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center_vertical" android:layout_gravity="center_vertical" android:orientation="horizontal" android:id="@id/mifloat_menu_redpoint_root" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/text_font_size_30" android:textColor="@color/text_colot_red_time" android:ellipsize="end" android:id="@id/mifloat_menu_vip_tips" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/view_dimen_10" android:text="@string/mifloat_menu_window_viptext" android:maxLines="1" />
+            <ImageView android:id="@id/mifloat_menu_redpoint" android:background="@drawable/shape_me_red_point" android:visibility="gone" android:clickable="false" android:layout_width="@dimen/view_dimen_18" android:layout_height="@dimen/view_dimen_18" android:scaleType="fitXY" />
+        </LinearLayout>
+        <ImageView android:layout_gravity="center_vertical" android:id="@id/mifloat_menu_arrow" android:layout_width="@dimen/view_dimen_40" android:layout_height="@dimen/view_dimen_90" android:layout_marginRight="@dimen/view_dimen_40" android:src="@drawable/mifloat_enter_icon_gray" android:scaleType="centerCrop" />
+    </LinearLayout>
+    <RelativeLayout android:id="@id/mifloat_menu_parent" android:background="@drawable/mio_corner_16_lb_rb" android:layout_width="@dimen/view_dimen_740" android:layout_height="wrap_content" android:layout_below="@id/mifloat_menu_title_parent">
+        <com.xiaomi.android.support.v7.widget.RecyclerView android:id="@id/mifloat_menu_recyclerview" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/view_dimen_40" android:layout_marginBottom="@dimen/view_dimen_40" />
+    </RelativeLayout>
+</LinearLayout>
