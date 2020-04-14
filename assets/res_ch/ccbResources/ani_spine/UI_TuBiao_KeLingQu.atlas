@@ -1,0 +1,27 @@
+
+UI_TuBiao_KeLingQu.png
+size: 128,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 26, 3
+  size: 21, 20
+  orig: 23, 22
+  offset: 1, 1
+  index: -1
+002
+  rotate: false
+  xy: 2, 2
+  size: 22, 21
+  orig: 24, 23
+  offset: 1, 1
+  index: -1
+003
+  rotate: false
+  xy: 49, 3
+  size: 20, 20
+  orig: 22, 22
+  offset: 1, 1
+  index: -1

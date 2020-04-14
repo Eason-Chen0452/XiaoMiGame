@@ -1,0 +1,48 @@
+
+ZC_ZhaoHuan_WenZi.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02-gongxihuode-bg01
+  rotate: false
+  xy: 2, 80
+  size: 811, 41
+  orig: 811, 41
+  offset: 0, 0
+  index: -1
+02-gongxihuode-bg02
+  rotate: false
+  xy: 2, 37
+  size: 802, 41
+  orig: 802, 41
+  offset: 0, 0
+  index: -1
+02-gongxihuode-texiao01
+  rotate: false
+  xy: 498, 18
+  size: 39, 17
+  orig: 39, 17
+  offset: 0, 0
+  index: -1
+02-gongxihuode-texiao02
+  rotate: false
+  xy: 815, 106
+  size: 51, 15
+  orig: 51, 15
+  offset: 0, 0
+  index: -1
+02-gongxihuode-txt01
+  rotate: false
+  xy: 2, 2
+  size: 247, 33
+  orig: 247, 33
+  offset: 0, 0
+  index: -1
+02-gongxihuode-txt02
+  rotate: false
+  xy: 251, 4
+  size: 245, 31
+  orig: 245, 31
+  offset: 0, 0
+  index: -1

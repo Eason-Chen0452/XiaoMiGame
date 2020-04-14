@@ -1,0 +1,23 @@
+info face="方正粗圆简体" size=20 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=1,1,1,1 spacing=1,1 outline=10
+common lineHeight=20 base=16 scaleW=256 scaleH=130 pages=1 packed=0 alphaChnl=0 redChnl=4 greenChnl=4 blueChnl=4
+page id=0 file="PowerNumWords_0.png"
+chars count=19
+char id=37   x=109   y=0     width=35    height=35    xoffset=-11   yoffset=-8    xadvance=13    page=0  chnl=15
+char id=46   x=128   y=73    width=26    height=25    xoffset=-11   yoffset=2     xadvance=5     page=0  chnl=15
+char id=47   x=198   y=36    width=31    height=35    xoffset=-12   yoffset=-8    xadvance=7     page=0  chnl=15
+char id=48   x=145   y=0     width=33    height=35    xoffset=-11   yoffset=-8    xadvance=10    page=0  chnl=15
+char id=49   x=32    y=76    width=28    height=35    xoffset=-11   yoffset=-8    xadvance=7     page=0  chnl=15
+char id=50   x=213   y=0     width=32    height=35    xoffset=-11   yoffset=-8    xadvance=10    page=0  chnl=15
+char id=51   x=0     y=40    width=32    height=35    xoffset=-11   yoffset=-8    xadvance=10    page=0  chnl=15
+char id=52   x=179   y=0     width=33    height=35    xoffset=-11   yoffset=-8    xadvance=10    page=0  chnl=15
+char id=53   x=33    y=40    width=32    height=35    xoffset=-11   yoffset=-8    xadvance=10    page=0  chnl=15
+char id=54   x=66    y=39    width=32    height=35    xoffset=-11   yoffset=-8    xadvance=10    page=0  chnl=15
+char id=55   x=99    y=37    width=32    height=35    xoffset=-11   yoffset=-8    xadvance=10    page=0  chnl=15
+char id=56   x=132   y=36    width=32    height=35    xoffset=-11   yoffset=-8    xadvance=10    page=0  chnl=15
+char id=57   x=165   y=36    width=32    height=35    xoffset=-11   yoffset=-8    xadvance=10    page=0  chnl=15
+char id=76   x=0     y=76    width=31    height=35    xoffset=-11   yoffset=-8    xadvance=8     page=0  chnl=15
+char id=108  x=82    y=0     width=26    height=36    xoffset=-11   yoffset=-9    xadvance=4     page=0  chnl=15
+char id=118  x=95    y=75    width=32    height=32    xoffset=-12   yoffset=-5    xadvance=8     page=0  chnl=15
+char id=120  x=61    y=76    width=33    height=32    xoffset=-12   yoffset=-5    xadvance=9     page=0  chnl=15
+char id=19975 x=41    y=0     width=40    height=38    xoffset=-11   yoffset=-9    xadvance=18    page=0  chnl=15
+char id=20159 x=0     y=0     width=40    height=39    xoffset=-11   yoffset=-10   xadvance=18    page=0  chnl=15
