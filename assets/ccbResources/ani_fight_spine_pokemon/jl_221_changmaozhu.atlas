@@ -1,0 +1,139 @@
+
+jl_221_changmaozhu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blur_Die
+  rotate: false
+  xy: 616, 320
+  size: 187, 186
+  orig: 187, 186
+  offset: 0, 0
+  index: -1
+Blur_Hit
+  rotate: false
+  xy: 363, 125
+  size: 175, 192
+  orig: 175, 192
+  offset: 0, 0
+  index: -1
+Blur_Hit2
+  rotate: true
+  xy: 221, 321
+  size: 185, 197
+  orig: 185, 197
+  offset: 0, 0
+  index: -1
+Blur_Hit3
+  rotate: false
+  xy: 2, 118
+  size: 190, 196
+  orig: 190, 196
+  offset: 0, 0
+  index: -1
+Blur_Show
+  rotate: true
+  xy: 805, 327
+  size: 179, 194
+  orig: 179, 194
+  offset: 0, 0
+  index: -1
+Blur_Skill
+  rotate: false
+  xy: 194, 108
+  size: 167, 206
+  orig: 167, 206
+  offset: 0, 0
+  index: -1
+Blur_Skill1
+  rotate: false
+  xy: 2, 316
+  size: 217, 190
+  orig: 217, 190
+  offset: 0, 0
+  index: -1
+Blur_Skill2
+  rotate: false
+  xy: 420, 319
+  size: 194, 187
+  orig: 194, 187
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 540, 135
+  size: 160, 182
+  orig: 161, 182
+  offset: 1, 0
+  index: -1
+Brow_L
+  rotate: true
+  xy: 54, 73
+  size: 43, 61
+  orig: 43, 61
+  offset: 0, 0
+  index: -1
+Brow_R
+  rotate: false
+  xy: 2, 60
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+Ear_R
+  rotate: false
+  xy: 2, 2
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+Gu
+  rotate: false
+  xy: 702, 275
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: true
+  xy: 1001, 476
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+Ya_L
+  rotate: false
+  xy: 153, 78
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+Ya_R
+  rotate: false
+  xy: 117, 75
+  size: 34, 41
+  orig: 35, 41
+  offset: 1, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 363, 110
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 363, 110
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 363, 110
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1

@@ -1,0 +1,76 @@
+
+ZC_ZhaoHuan_S.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02-L-S-UI-02
+  rotate: false
+  xy: 2, 22
+  size: 87, 98
+  orig: 87, 98
+  offset: 0, 0
+  index: -1
+02-L-S-UI-04
+  rotate: true
+  xy: 67, 4
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+02-L-S-UI-06
+  rotate: false
+  xy: 91, 82
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+02-L-S-UI-07
+  rotate: true
+  xy: 125, 75
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+02-L-S-UI-08
+  rotate: true
+  xy: 125, 105
+  size: 15, 50
+  orig: 15, 50
+  offset: 0, 0
+  index: -1
+02-L-S-UI-09
+  rotate: true
+  xy: 177, 109
+  size: 11, 38
+  orig: 11, 38
+  offset: 0, 0
+  index: -1
+02-L-S-UI-10
+  rotate: false
+  xy: 158, 70
+  size: 9, 33
+  orig: 9, 33
+  offset: 0, 0
+  index: -1
+02-L-S-UI-11
+  rotate: true
+  xy: 217, 110
+  size: 10, 37
+  orig: 10, 37
+  offset: 0, 0
+  index: -1
+02-L-S-UI-12
+  rotate: false
+  xy: 91, 36
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+02-L-S-UI-13
+  rotate: true
+  xy: 2, 2
+  size: 18, 63
+  orig: 18, 63
+  offset: 0, 0
+  index: -1

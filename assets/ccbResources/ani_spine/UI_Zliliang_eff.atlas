@@ -1,0 +1,125 @@
+
+UI_Zliliang_eff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha/bz_19
+  rotate: false
+  xy: 2, 606
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 260, 492
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+eyelight01
+  rotate: false
+  xy: 260, 755
+  size: 256, 107
+  orig: 256, 128
+  offset: 0, 11
+  index: -1
+huan
+  rotate: false
+  xy: 2, 218
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 260, 653
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+light02
+  rotate: false
+  xy: 2, 348
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+liufang
+  rotate: false
+  xy: 450, 707
+  size: 50, 46
+  orig: 64, 64
+  offset: 7, 9
+  index: -1
+sg/sg_001
+  rotate: false
+  xy: 362, 666
+  size: 86, 87
+  orig: 150, 150
+  offset: 28, 28
+  index: -1
+sg/sg_002
+  rotate: false
+  xy: 132, 252
+  size: 93, 94
+  orig: 150, 150
+  offset: 27, 27
+  index: -1
+sg/sg_003
+  rotate: false
+  xy: 518, 767
+  size: 95, 95
+  orig: 150, 150
+  offset: 27, 27
+  index: -1
+sg/sg_004
+  rotate: false
+  xy: 2, 121
+  size: 95, 95
+  orig: 150, 150
+  offset: 28, 28
+  index: -1
+sg/sg_005
+  rotate: false
+  xy: 260, 558
+  size: 93, 93
+  orig: 150, 150
+  offset: 30, 30
+  index: -1
+sg/sg_006
+  rotate: false
+  xy: 615, 778
+  size: 84, 84
+  orig: 150, 150
+  offset: 38, 38
+  index: -1
+shang01
+  rotate: false
+  xy: 701, 817
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+star06
+  rotate: false
+  xy: 2, 43
+  size: 83, 76
+  orig: 83, 76
+  offset: 0, 0
+  index: -1
+uiZ
+  rotate: false
+  xy: 2, 2
+  size: 46, 39
+  orig: 48, 40
+  offset: 1, 0
+  index: -1
+uibai
+  rotate: true
+  xy: 99, 180
+  size: 36, 31
+  orig: 38, 31
+  offset: 1, 0
+  index: -1

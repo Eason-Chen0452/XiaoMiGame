@@ -1,0 +1,146 @@
+
+jl_093_guisitong.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL1
+  rotate: false
+  xy: 225, 139
+  size: 198, 162
+  orig: 198, 162
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 425, 165
+  size: 62, 29
+  orig: 62, 29
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 451, 102
+  size: 28, 25
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: true
+  xy: 456, 166
+  size: 61, 29
+  orig: 62, 29
+  offset: 1, 0
+  index: -1
+Finger1_R
+  rotate: false
+  xy: 425, 130
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Finger2_R
+  rotate: false
+  xy: 456, 129
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+Finger3_R
+  rotate: false
+  xy: 424, 97
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 316, 83
+  size: 74, 54
+  orig: 74, 54
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 392, 96
+  size: 41, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 12
+  size: 146, 105
+  orig: 146, 105
+  offset: 0, 0
+  index: -1
+Light_L
+  rotate: false
+  xy: 225, 71
+  size: 89, 66
+  orig: 91, 68
+  offset: 1, 1
+  index: -1
+Light_R
+  rotate: true
+  xy: 425, 229
+  size: 72, 57
+  orig: 74, 59
+  offset: 1, 1
+  index: -1
+Mouth
+  rotate: true
+  xy: 150, 17
+  size: 100, 73
+  orig: 100, 73
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 150, 2
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 150, 2
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 150, 2
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_032_lv1_guisitong-0004_shouji1_3
+  rotate: true
+  xy: 332, 303
+  size: 207, 155
+  orig: 207, 155
+  offset: 0, 0
+  index: -1
+jl_032_lv1_guisitong-0005_shouji2_3
+  rotate: false
+  xy: 2, 119
+  size: 221, 183
+  orig: 221, 183
+  offset: 0, 0
+  index: -1
+jl_032_lv1_guisitong-0014_leiji_3
+  rotate: false
+  xy: 2, 304
+  size: 328, 206
+  orig: 328, 206
+  offset: 0, 0
+  index: -1
+jl_032_lv1_guisitong-0014_leiji_4
+  rotate: true
+  xy: 225, 17
+  size: 52, 72
+  orig: 324, 239
+  offset: 141, 110
+  index: -1

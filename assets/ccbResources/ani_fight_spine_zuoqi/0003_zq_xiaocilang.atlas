@@ -1,0 +1,153 @@
+
+0003_zq_xiaocilang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0003_npc_xiaocilang-0003_siwang_0
+  rotate: false
+  xy: 2, 208
+  size: 86, 153
+  orig: 86, 153
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: true
+  xy: 221, 344
+  size: 59, 82
+  orig: 63, 84
+  offset: 2, 2
+  index: -1
+Arm_R
+  rotate: true
+  xy: 43, 107
+  size: 99, 70
+  orig: 104, 74
+  offset: 3, 1
+  index: -1
+Body
+  rotate: true
+  xy: 362, 420
+  size: 90, 114
+  orig: 95, 118
+  offset: 3, 2
+  index: -1
+Eye1_L
+  rotate: false
+  xy: 79, 78
+  size: 31, 27
+  orig: 34, 29
+  offset: 0, 2
+  index: -1
+Eye1_R
+  rotate: false
+  xy: 43, 74
+  size: 34, 31
+  orig: 36, 33
+  offset: 1, 1
+  index: -1
+Eye_L
+  rotate: false
+  xy: 362, 338
+  size: 31, 27
+  orig: 33, 29
+  offset: 1, 1
+  index: -1
+Eye_R
+  rotate: true
+  xy: 477, 340
+  size: 35, 33
+  orig: 37, 35
+  offset: 1, 1
+  index: -1
+Foot_L
+  rotate: true
+  xy: 2, 18
+  size: 52, 36
+  orig: 56, 40
+  offset: 2, 3
+  index: -1
+Hair_B
+  rotate: false
+  xy: 108, 377
+  size: 111, 133
+  orig: 117, 136
+  offset: 2, 1
+  index: -1
+Hair_F
+  rotate: false
+  xy: 478, 443
+  size: 32, 67
+  orig: 36, 70
+  offset: 3, 3
+  index: -1
+Hair_L
+  rotate: false
+  xy: 2, 72
+  size: 39, 134
+  orig: 42, 137
+  offset: 1, 1
+  index: -1
+Hair_R
+  rotate: false
+  xy: 2, 363
+  size: 104, 147
+  orig: 109, 150
+  offset: 2, 2
+  index: -1
+Hand_R
+  rotate: false
+  xy: 477, 377
+  size: 33, 41
+  orig: 37, 43
+  offset: 2, 1
+  index: -1
+Head
+  rotate: true
+  xy: 221, 405
+  size: 105, 139
+  orig: 110, 143
+  offset: 2, 2
+  index: -1
+Kua
+  rotate: false
+  xy: 362, 367
+  size: 71, 51
+  orig: 77, 55
+  offset: 3, 2
+  index: -1
+Leg_L - 1
+  rotate: false
+  xy: 435, 368
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+Thigh_R-1
+  rotate: false
+  xy: 305, 342
+  size: 55, 61
+  orig: 56, 61
+  offset: 1, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 90, 345
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 90, 345
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 90, 345
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1

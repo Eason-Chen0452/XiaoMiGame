@@ -1,0 +1,132 @@
+
+jl_429_mengyaomo.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eye2
+  rotate: false
+  xy: 289, 45
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+all
+  rotate: true
+  xy: 388, 84
+  size: 161, 194
+  orig: 161, 194
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 2, 2
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 2, 2
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 2, 2
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+chushopu_r
+  rotate: true
+  xy: 775, 105
+  size: 47, 83
+  orig: 47, 83
+  offset: 0, 0
+  index: -1
+chushou_l
+  rotate: true
+  xy: 860, 114
+  size: 38, 92
+  orig: 38, 92
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 189, 47
+  size: 48, 26
+  orig: 48, 26
+  offset: 0, 0
+  index: -1
+eye-c
+  rotate: false
+  xy: 239, 46
+  size: 48, 27
+  orig: 48, 27
+  offset: 0, 0
+  index: -1
+ji_086_mengyaowang-0004_shouji1_3
+  rotate: true
+  xy: 584, 95
+  size: 150, 189
+  orig: 150, 189
+  offset: 0, 0
+  index: -1
+ji_086_mengyaowang-0005_shouji2_3
+  rotate: false
+  xy: 2, 63
+  size: 185, 182
+  orig: 185, 182
+  offset: 0, 0
+  index: -1
+ji_086_mengyaowang-0014_leiji_3
+  rotate: false
+  xy: 189, 75
+  size: 197, 170
+  orig: 197, 170
+  offset: 0, 0
+  index: -1
+jl_004_lv2_badahu-0014_leiji_4
+  rotate: true
+  xy: 118, 11
+  size: 50, 60
+  orig: 221, 199
+  offset: 89, 67
+  index: -1
+maozi
+  rotate: false
+  xy: 775, 154
+  size: 158, 91
+  orig: 158, 91
+  offset: 0, 0
+  index: -1
+maozi_h
+  rotate: false
+  xy: 2, 17
+  size: 114, 44
+  orig: 114, 44
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: true
+  xy: 935, 157
+  size: 88, 65
+  orig: 88, 65
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 323, 49
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 954, 117
+  size: 58, 38
+  orig: 58, 38
+  offset: 0, 0
+  index: -1

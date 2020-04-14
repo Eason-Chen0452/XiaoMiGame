@@ -1,0 +1,146 @@
+
+jl_071_dashihua.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 584, 288
+  size: 172, 221
+  orig: 172, 221
+  offset: 0, 0
+  index: -1
+ALL1
+  rotate: false
+  xy: 2, 2
+  size: 178, 227
+  orig: 178, 227
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 428, 213
+  size: 64, 106
+  orig: 65, 106
+  offset: 1, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 998, 403
+  size: 49, 24
+  orig: 49, 24
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 758, 305
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: true
+  xy: 998, 454
+  size: 55, 24
+  orig: 55, 24
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 900, 305
+  size: 122, 56
+  orig: 122, 56
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 182, 25
+  size: 65, 82
+  orig: 65, 82
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 182, 109
+  size: 86, 74
+  orig: 86, 74
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 900, 363
+  size: 96, 146
+  orig: 96, 146
+  offset: 0, 0
+  index: -1
+L
+  rotate: true
+  xy: 192, 185
+  size: 92, 234
+  orig: 92, 234
+  offset: 0, 0
+  index: -1
+R
+  rotate: false
+  xy: 758, 322
+  size: 140, 187
+  orig: 140, 187
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 270, 115
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 758, 290
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 758, 290
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 758, 290
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_026_lv2_dashihua-0004_shouji1_3
+  rotate: false
+  xy: 192, 279
+  size: 205, 230
+  orig: 205, 230
+  offset: 0, 0
+  index: -1
+jl_026_lv2_dashihua-0005_shouji2_3
+  rotate: false
+  xy: 399, 279
+  size: 183, 230
+  orig: 183, 230
+  offset: 0, 0
+  index: -1
+jl_026_lv2_dashihua-0014_leiji_3
+  rotate: false
+  xy: 2, 231
+  size: 188, 278
+  orig: 188, 278
+  offset: 0, 0
+  index: -1
+leiji
+  rotate: false
+  xy: 346, 129
+  size: 77, 54
+  orig: 248, 240
+  offset: 95, 100
+  index: -1

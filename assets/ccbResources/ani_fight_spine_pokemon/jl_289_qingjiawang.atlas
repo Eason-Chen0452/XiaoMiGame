@@ -1,0 +1,188 @@
+
+jl_289_qingjiawang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bip001 Eye-c
+  rotate: false
+  xy: 281, 254
+  size: 51, 12
+  orig: 51, 12
+  offset: 0, 0
+  index: -1
+Bip001 Head
+  rotate: false
+  xy: 791, 766
+  size: 107, 112
+  orig: 107, 112
+  offset: 0, 0
+  index: -1
+Bip001 Head01
+  rotate: false
+  xy: 791, 880
+  size: 179, 137
+  orig: 179, 137
+  offset: 0, 0
+  index: -1
+Bip001 L Calf
+  rotate: false
+  xy: 540, 699
+  size: 83, 58
+  orig: 83, 58
+  offset: 0, 0
+  index: -1
+Bip001 L Foot
+  rotate: false
+  xy: 625, 712
+  size: 85, 45
+  orig: 85, 45
+  offset: 0, 0
+  index: -1
+Bip001 L Forearm
+  rotate: false
+  xy: 167, 252
+  size: 112, 115
+  orig: 112, 115
+  offset: 0, 0
+  index: -1
+Bip001 L Hand
+  rotate: true
+  xy: 2, 2
+  size: 67, 83
+  orig: 67, 83
+  offset: 0, 0
+  index: -1
+Bip001 L Thigh
+  rotate: true
+  xy: 106, 122
+  size: 88, 57
+  orig: 88, 57
+  offset: 0, 0
+  index: -1
+Bip001 L UpperArm
+  rotate: false
+  xy: 972, 926
+  size: 49, 91
+  orig: 49, 91
+  offset: 0, 0
+  index: -1
+Bip001 Ponytail1
+  rotate: false
+  xy: 712, 724
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+Bip001 Ponytail2
+  rotate: false
+  xy: 972, 887
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+Bip001 R Calf
+  rotate: true
+  xy: 900, 786
+  size: 92, 53
+  orig: 92, 53
+  offset: 0, 0
+  index: -1
+Bip001 R Foot
+  rotate: false
+  xy: 369, 628
+  size: 85, 44
+  orig: 85, 44
+  offset: 0, 0
+  index: -1
+Bip001 R Forearm
+  rotate: false
+  xy: 2, 71
+  size: 102, 139
+  orig: 102, 139
+  offset: 0, 0
+  index: -1
+Bip001 R Hand
+  rotate: false
+  xy: 373, 674
+  size: 84, 83
+  orig: 84, 83
+  offset: 0, 0
+  index: -1
+Bip001 R Thigh
+  rotate: false
+  xy: 459, 675
+  size: 79, 82
+  orig: 79, 82
+  offset: 0, 0
+  index: -1
+Bip001 R UpperArm
+  rotate: true
+  xy: 281, 268
+  size: 99, 82
+  orig: 99, 82
+  offset: 0, 0
+  index: -1
+Bip001 Spine
+  rotate: false
+  xy: 2, 212
+  size: 163, 155
+  orig: 163, 155
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 165, 173
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 106, 74
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+buff_mid
+  rotate: false
+  xy: 106, 74
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+buff_up
+  rotate: false
+  xy: 106, 74
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 167, 212
+  size: 75, 38
+  orig: 75, 38
+  offset: 0, 0
+  index: -1
+jl_110_qingjiawang-0004_shouji1_3
+  rotate: false
+  xy: 373, 759
+  size: 416, 258
+  orig: 416, 258
+  offset: 0, 0
+  index: -1
+jl_110_qingjiawang-0005_shouji2_3
+  rotate: false
+  xy: 2, 684
+  size: 369, 333
+  orig: 369, 333
+  offset: 0, 0
+  index: -1
+jl_110_qingjiawang-0006_siwang_0
+  rotate: false
+  xy: 2, 369
+  size: 365, 313
+  orig: 365, 313
+  offset: 0, 0
+  index: -1

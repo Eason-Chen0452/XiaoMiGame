@@ -1,0 +1,188 @@
+
+CJ_penquan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light_000
+  rotate: false
+  xy: 2, 2
+  size: 90, 92
+  orig: 96, 96
+  offset: 3, 2
+  index: -1
+order2_jianzhu_005
+  rotate: false
+  xy: 2, 737
+  size: 459, 275
+  orig: 570, 570
+  offset: 59, 118
+  index: -1
+penquan/pq_000
+  rotate: false
+  xy: 477, 362
+  size: 132, 108
+  orig: 188, 188
+  offset: 27, 39
+  index: -1
+penquan/pq_001
+  rotate: false
+  xy: 611, 360
+  size: 135, 111
+  orig: 188, 188
+  offset: 24, 36
+  index: -1
+penquan/pq_002
+  rotate: false
+  xy: 336, 387
+  size: 139, 106
+  orig: 188, 188
+  offset: 21, 41
+  index: -1
+penquan/pq_003
+  rotate: true
+  xy: 619, 618
+  size: 134, 104
+  orig: 188, 188
+  offset: 28, 43
+  index: -1
+penquan/pq_004
+  rotate: true
+  xy: 631, 754
+  size: 130, 108
+  orig: 188, 188
+  offset: 29, 39
+  index: -1
+penquan/pq_005
+  rotate: true
+  xy: 741, 751
+  size: 133, 108
+  orig: 188, 188
+  offset: 26, 39
+  index: -1
+penquan/pq_006
+  rotate: true
+  xy: 477, 472
+  size: 137, 110
+  orig: 188, 188
+  offset: 24, 37
+  index: -1
+penquan/pq_007
+  rotate: false
+  xy: 336, 495
+  size: 139, 114
+  orig: 188, 188
+  offset: 25, 33
+  index: -1
+penquan/pq_008
+  rotate: true
+  xy: 504, 612
+  size: 140, 113
+  orig: 188, 188
+  offset: 23, 34
+  index: -1
+penquan/pq_009
+  rotate: true
+  xy: 589, 473
+  size: 137, 113
+  orig: 188, 188
+  offset: 22, 34
+  index: -1
+penquan/pq_010
+  rotate: true
+  xy: 725, 618
+  size: 131, 105
+  orig: 188, 188
+  offset: 28, 42
+  index: -1
+penquan/pq_011
+  rotate: true
+  xy: 851, 757
+  size: 133, 106
+  orig: 188, 188
+  offset: 26, 41
+  index: -1
+penquan02/pq02_000
+  rotate: false
+  xy: 798, 892
+  size: 168, 120
+  orig: 285, 285
+  offset: 60, 73
+  index: -1
+penquan02/pq02_001
+  rotate: false
+  xy: 170, 611
+  size: 168, 124
+  orig: 285, 285
+  offset: 62, 71
+  index: -1
+penquan02/pq02_002
+  rotate: false
+  xy: 2, 348
+  size: 165, 125
+  orig: 285, 285
+  offset: 66, 70
+  index: -1
+penquan02/pq02_003
+  rotate: false
+  xy: 463, 754
+  size: 164, 127
+  orig: 285, 285
+  offset: 67, 69
+  index: -1
+penquan02/pq02_004
+  rotate: false
+  xy: 2, 222
+  size: 164, 124
+  orig: 285, 285
+  offset: 67, 71
+  index: -1
+penquan02/pq02_005
+  rotate: false
+  xy: 170, 484
+  size: 164, 125
+  orig: 285, 285
+  offset: 67, 70
+  index: -1
+penquan02/pq02_006
+  rotate: false
+  xy: 2, 96
+  size: 162, 124
+  orig: 285, 285
+  offset: 66, 71
+  index: -1
+penquan02/pq02_007
+  rotate: false
+  xy: 340, 611
+  size: 162, 124
+  orig: 285, 285
+  offset: 66, 71
+  index: -1
+penquan02/pq02_008
+  rotate: false
+  xy: 631, 886
+  size: 165, 126
+  orig: 285, 285
+  offset: 63, 70
+  index: -1
+penquan02/pq02_009
+  rotate: false
+  xy: 2, 475
+  size: 166, 127
+  orig: 285, 285
+  offset: 63, 70
+  index: -1
+penquan02/pq02_010
+  rotate: false
+  xy: 463, 883
+  size: 166, 129
+  orig: 285, 285
+  offset: 62, 68
+  index: -1
+penquan02/pq02_011
+  rotate: false
+  xy: 2, 604
+  size: 166, 131
+  orig: 285, 285
+  offset: 61, 67
+  index: -1

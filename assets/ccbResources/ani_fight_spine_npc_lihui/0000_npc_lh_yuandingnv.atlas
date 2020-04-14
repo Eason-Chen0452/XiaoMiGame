@@ -1,0 +1,13 @@
+
+0000_npc_lh_yuandingnv.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0000_npc_lh_yuandingnv
+  rotate: false
+  xy: 2, 2
+  size: 141, 350
+  orig: 400, 400
+  offset: 136, 0
+  index: -1

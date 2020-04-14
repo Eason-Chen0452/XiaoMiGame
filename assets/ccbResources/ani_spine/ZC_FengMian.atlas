@@ -1,0 +1,138 @@
+
+ZC_FengMian.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PF12
+  rotate: false
+  xy: 602, 605
+  size: 416, 417
+  orig: 416, 417
+  offset: 0, 0
+  index: -1
+PF14
+  rotate: true
+  xy: 588, 11
+  size: 337, 370
+  orig: 337, 370
+  offset: 0, 0
+  index: -1
+PF15
+  rotate: true
+  xy: 2, 2
+  size: 170, 178
+  orig: 170, 178
+  offset: 0, 0
+  index: -1
+PF4
+  rotate: true
+  xy: 602, 350
+  size: 253, 401
+  orig: 253, 401
+  offset: 0, 0
+  index: -1
+PF5
+  rotate: false
+  xy: 960, 287
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+PF6
+  rotate: false
+  xy: 2, 174
+  size: 584, 388
+  orig: 584, 388
+  offset: 0, 0
+  index: -1
+mask
+  rotate: false
+  xy: 182, 27
+  size: 198, 38
+  orig: 200, 40
+  offset: 1, 0
+  index: -1
+sun
+  rotate: false
+  xy: 2, 564
+  size: 598, 458
+  orig: 598, 458
+  offset: 0, 0
+  index: -1
+sunshineF
+  rotate: false
+  xy: 182, 67
+  size: 374, 105
+  orig: 374, 105
+  offset: 0, 0
+  index: -1
+
+ZC_FengMian2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PF1
+  rotate: false
+  xy: 2, 196
+  size: 227, 188
+  orig: 227, 188
+  offset: 0, 0
+  index: -1
+PF10
+  rotate: true
+  xy: 2, 2
+  size: 192, 212
+  orig: 192, 212
+  offset: 0, 0
+  index: -1
+PF11
+  rotate: false
+  xy: 263, 421
+  size: 123, 258
+  orig: 123, 258
+  offset: 0, 0
+  index: -1
+PF13
+  rotate: false
+  xy: 445, 685
+  size: 160, 140
+  orig: 160, 141
+  offset: 0, 1
+  index: -1
+PF2
+  rotate: false
+  xy: 2, 386
+  size: 259, 293
+  orig: 259, 293
+  offset: 0, 0
+  index: -1
+PF3
+  rotate: false
+  xy: 607, 669
+  size: 133, 156
+  orig: 133, 161
+  offset: 0, 5
+  index: -1
+PF7
+  rotate: false
+  xy: 2, 681
+  size: 441, 329
+  orig: 441, 329
+  offset: 0, 0
+  index: -1
+PF8
+  rotate: false
+  xy: 703, 854
+  size: 213, 156
+  orig: 213, 156
+  offset: 0, 0
+  index: -1
+PF9
+  rotate: false
+  xy: 445, 827
+  size: 256, 183
+  orig: 256, 189
+  offset: 0, 0
+  index: -1

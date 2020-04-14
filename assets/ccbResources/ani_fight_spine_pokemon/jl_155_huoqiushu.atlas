@@ -1,0 +1,139 @@
+
+jl_155_huoqiushu.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eye2
+  rotate: true
+  xy: 121, 8
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+all
+  rotate: true
+  xy: 211, 36
+  size: 218, 194
+  orig: 218, 194
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 195, 5
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 195, 5
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 195, 5
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+eye
+  rotate: false
+  xy: 90, 5
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+gebo_01
+  rotate: false
+  xy: 151, 12
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+gebo_02
+  rotate: false
+  xy: 176, 6
+  size: 17, 34
+  orig: 18, 35
+  offset: 1, 1
+  index: -1
+huo_01
+  rotate: false
+  xy: 782, 126
+  size: 134, 128
+  orig: 134, 128
+  offset: 0, 0
+  index: -1
+ji_081_huoqiushu-0004_shouji1_3
+  rotate: true
+  xy: 407, 32
+  size: 222, 184
+  orig: 222, 184
+  offset: 0, 0
+  index: -1
+ji_081_huoqiushu-0005_shouji2_3
+  rotate: false
+  xy: 2, 42
+  size: 207, 212
+  orig: 207, 212
+  offset: 0, 0
+  index: -1
+ji_081_huoqiushu-0014_leiji_3
+  rotate: true
+  xy: 593, 42
+  size: 212, 187
+  orig: 212, 187
+  offset: 0, 0
+  index: -1
+jiao_01
+  rotate: true
+  xy: 195, 20
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+jiao_02
+  rotate: false
+  xy: 46, 2
+  size: 19, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+jl_004_lv2_badahu-0014_leiji_4
+  rotate: true
+  xy: 46, 14
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+shenzi_01
+  rotate: true
+  xy: 918, 92
+  size: 80, 89
+  orig: 80, 89
+  offset: 0, 0
+  index: -1
+tou_01
+  rotate: true
+  xy: 918, 174
+  size: 80, 95
+  orig: 80, 95
+  offset: 0, 0
+  index: -1
+tui_01
+  rotate: false
+  xy: 782, 77
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+tui_02
+  rotate: true
+  xy: 2, 4
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1

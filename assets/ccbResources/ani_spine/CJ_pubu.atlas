@@ -1,0 +1,139 @@
+
+CJ_pubu.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caihong
+  rotate: false
+  xy: 2, 79
+  size: 235, 170
+  orig: 360, 360
+  offset: 61, 88
+  index: -1
+ch/ch_000
+  rotate: false
+  xy: 652, 142
+  size: 105, 54
+  orig: 225, 150
+  offset: 59, 47
+  index: -1
+ch/ch_002
+  rotate: false
+  xy: 386, 2
+  size: 106, 54
+  orig: 225, 150
+  offset: 58, 46
+  index: -1
+ch/ch_004
+  rotate: false
+  xy: 652, 89
+  size: 105, 51
+  orig: 225, 150
+  offset: 59, 49
+  index: -1
+ch/ch_006
+  rotate: true
+  xy: 759, 96
+  size: 100, 52
+  orig: 225, 150
+  offset: 63, 48
+  index: -1
+ch/ch_008
+  rotate: false
+  xy: 138, 29
+  size: 99, 48
+  orig: 225, 150
+  offset: 63, 51
+  index: -1
+ch/ch_010
+  rotate: false
+  xy: 533, 71
+  size: 105, 54
+  orig: 225, 150
+  offset: 59, 47
+  index: -1
+pubu02/pb02_000
+  rotate: false
+  xy: 2, 8
+  size: 134, 69
+  orig: 225, 150
+  offset: 32, 28
+  index: -1
+pubu02/pb02_002
+  rotate: false
+  xy: 507, 180
+  size: 130, 69
+  orig: 225, 150
+  offset: 33, 28
+  index: -1
+pubu02/pb02_004
+  rotate: false
+  xy: 239, 180
+  size: 133, 69
+  orig: 225, 150
+  offset: 31, 28
+  index: -1
+pubu02/pb02_006
+  rotate: false
+  xy: 374, 180
+  size: 131, 69
+  orig: 225, 150
+  offset: 32, 28
+  index: -1
+pubu02/pb02_008
+  rotate: false
+  xy: 373, 109
+  size: 131, 69
+  orig: 225, 150
+  offset: 31, 28
+  index: -1
+pubu02/pb02_010
+  rotate: false
+  xy: 239, 109
+  size: 132, 69
+  orig: 225, 150
+  offset: 32, 28
+  index: -1
+shuiwen/sw_000
+  rotate: false
+  xy: 787, 199
+  size: 145, 50
+  orig: 225, 150
+  offset: 36, 55
+  index: -1
+shuiwen/sw_002
+  rotate: false
+  xy: 239, 6
+  size: 145, 50
+  orig: 225, 150
+  offset: 37, 55
+  index: -1
+shuiwen/sw_004
+  rotate: false
+  xy: 239, 58
+  size: 146, 49
+  orig: 225, 150
+  offset: 36, 55
+  index: -1
+shuiwen/sw_006
+  rotate: false
+  xy: 639, 198
+  size: 146, 51
+  orig: 225, 150
+  offset: 36, 54
+  index: -1
+shuiwen/sw_008
+  rotate: false
+  xy: 387, 58
+  size: 144, 49
+  orig: 225, 150
+  offset: 37, 55
+  index: -1
+shuiwen/sw_010
+  rotate: false
+  xy: 506, 127
+  size: 144, 51
+  orig: 225, 150
+  offset: 37, 55
+  index: -1

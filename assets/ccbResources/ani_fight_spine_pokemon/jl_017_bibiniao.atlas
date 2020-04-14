@@ -1,0 +1,167 @@
+
+jl_017_bibiniao.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blur_Die
+  rotate: false
+  xy: 492, 274
+  size: 202, 235
+  orig: 202, 236
+  offset: 0, 1
+  index: -1
+Blur_Hit
+  rotate: false
+  xy: 2, 76
+  size: 307, 213
+  orig: 307, 213
+  offset: 0, 0
+  index: -1
+Blur_Hit2
+  rotate: false
+  xy: 2, 291
+  size: 307, 218
+  orig: 307, 218
+  offset: 0, 0
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 311, 233
+  size: 179, 276
+  orig: 179, 276
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 872, 278
+  size: 89, 104
+  orig: 89, 104
+  offset: 0, 0
+  index: -1
+Crown
+  rotate: false
+  xy: 80, 26
+  size: 83, 48
+  orig: 83, 48
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 977, 442
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+Eye1
+  rotate: true
+  xy: 226, 23
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 2, 2
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 658, 229
+  size: 34, 43
+  orig: 35, 44
+  offset: 1, 0
+  index: -1
+Foot_R
+  rotate: false
+  xy: 977, 465
+  size: 32, 44
+  orig: 35, 48
+  offset: 3, 0
+  index: -1
+Gu
+  rotate: false
+  xy: 696, 369
+  size: 279, 140
+  orig: 298, 224
+  offset: 8, 39
+  index: -1
+Head
+  rotate: false
+  xy: 165, 23
+  size: 59, 51
+  orig: 59, 52
+  offset: 0, 1
+  index: -1
+Leg_L
+  rotate: false
+  xy: 226, 42
+  size: 38, 32
+  orig: 40, 35
+  offset: 0, 3
+  index: -1
+Leg_R
+  rotate: false
+  xy: 658, 194
+  size: 33, 33
+  orig: 37, 35
+  offset: 0, 2
+  index: -1
+Tail
+  rotate: false
+  xy: 2, 18
+  size: 76, 56
+  orig: 77, 56
+  offset: 1, 0
+  index: -1
+Wing_L
+  rotate: true
+  xy: 311, 46
+  size: 82, 175
+  orig: 82, 175
+  offset: 0, 0
+  index: -1
+Wing_LD
+  rotate: false
+  xy: 696, 281
+  size: 174, 86
+  orig: 174, 86
+  offset: 0, 0
+  index: -1
+Wing_R
+  rotate: true
+  xy: 492, 172
+  size: 100, 164
+  orig: 101, 167
+  offset: 0, 3
+  index: -1
+Wing_RD
+  rotate: false
+  xy: 311, 130
+  size: 167, 101
+  orig: 167, 101
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 266, 61
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 266, 61
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 266, 61
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1

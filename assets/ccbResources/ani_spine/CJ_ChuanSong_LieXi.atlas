@@ -1,0 +1,250 @@
+
+CJ_ChuanSong_LieXi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+26-1
+  rotate: false
+  xy: 774, 790
+  size: 225, 214
+  orig: 225, 214
+  offset: 0, 0
+  index: -1
+26-3
+  rotate: false
+  xy: 774, 790
+  size: 225, 214
+  orig: 225, 214
+  offset: 0, 0
+  index: -1
+26-2
+  rotate: false
+  xy: 774, 574
+  size: 225, 214
+  orig: 225, 214
+  offset: 0, 0
+  index: -1
+26-4
+  rotate: false
+  xy: 775, 292
+  size: 225, 214
+  orig: 225, 214
+  offset: 0, 0
+  index: -1
+261
+  rotate: false
+  xy: 2, 492
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+706f81a7-0ac5-4d45-8e2d-50a612939f8e01
+  rotate: false
+  xy: 774, 508
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+706f81a7-0ac5-4d45-8e2d-50a612939f8e02
+  rotate: false
+  xy: 840, 508
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+706f81a7-0ac5-4d45-8e2d-50a612939f8e03
+  rotate: false
+  xy: 906, 508
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+706f81a7-0ac5-4d45-8e2d-50a612939f8e04
+  rotate: false
+  xy: 925, 226
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+706f81a7-0ac5-4d45-8e2d-50a612939f8e05
+  rotate: false
+  xy: 925, 160
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+706f81a7-0ac5-4d45-8e2d-50a612939f8e06
+  rotate: false
+  xy: 925, 94
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+706f81a7-0ac5-4d45-8e2d-50a612939f8e07
+  rotate: false
+  xy: 925, 28
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Fog11
+  rotate: false
+  xy: 2, 2
+  size: 230, 230
+  orig: 256, 256
+  offset: 13, 13
+  index: -1
+Fog12
+  rotate: false
+  xy: 234, 2
+  size: 230, 230
+  orig: 256, 256
+  offset: 13, 13
+  index: -1
+Fog13
+  rotate: false
+  xy: 466, 2
+  size: 228, 230
+  orig: 256, 256
+  offset: 14, 13
+  index: -1
+Fog14
+  rotate: true
+  xy: 696, 2
+  size: 230, 227
+  orig: 256, 256
+  offset: 13, 15
+  index: -1
+cd6f430f-bae9-46ee-8612-7b35801358a301
+  rotate: false
+  xy: 2, 234
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+cd6f430f-bae9-46ee-8612-7b35801358a303
+  rotate: true
+  xy: 516, 492
+  size: 254, 256
+  orig: 256, 256
+  offset: 2, 0
+  index: -1
+cd6f430f-bae9-46ee-8612-7b35801358a305
+  rotate: true
+  xy: 518, 234
+  size: 256, 255
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+cd6f430f-bae9-46ee-8612-7b35801358a307
+  rotate: false
+  xy: 260, 234
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+cd6f430f-bae9-46ee-8612-7b35801358a308
+  rotate: false
+  xy: 516, 748
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+
+CJ_ChuanSong_LieXi2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+26-5
+  rotate: false
+  xy: 260, 38
+  size: 225, 214
+  orig: 225, 214
+  offset: 0, 0
+  index: -1
+706f81a7-0ac5-4d45-8e2d-50a612939f8e08
+  rotate: false
+  xy: 518, 444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+706f81a7-0ac5-4d45-8e2d-50a612939f8e09
+  rotate: false
+  xy: 518, 378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+706f81a7-0ac5-4d45-8e2d-50a612939f8e10
+  rotate: false
+  xy: 584, 444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+706f81a7-0ac5-4d45-8e2d-50a612939f8e11
+  rotate: false
+  xy: 518, 312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+706f81a7-0ac5-4d45-8e2d-50a612939f8e12
+  rotate: false
+  xy: 584, 378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+706f81a7-0ac5-4d45-8e2d-50a612939f8e13
+  rotate: false
+  xy: 650, 444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+706f81a7-0ac5-4d45-8e2d-50a612939f8e14
+  rotate: false
+  xy: 584, 312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+706f81a7-0ac5-4d45-8e2d-50a612939f8e15
+  rotate: false
+  xy: 650, 378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+706f81a7-0ac5-4d45-8e2d-50a612939f8e16
+  rotate: false
+  xy: 716, 444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+cd6f430f-bae9-46ee-8612-7b35801358a302
+  rotate: true
+  xy: 2, 2
+  size: 249, 256
+  orig: 256, 256
+  offset: 7, 0
+  index: -1
+cd6f430f-bae9-46ee-8612-7b35801358a304
+  rotate: false
+  xy: 260, 254
+  size: 256, 254
+  orig: 256, 256
+  offset: 0, 2
+  index: -1
+cd6f430f-bae9-46ee-8612-7b35801358a306
+  rotate: false
+  xy: 2, 253
+  size: 256, 255
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

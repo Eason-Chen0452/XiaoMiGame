@@ -1,0 +1,195 @@
+
+0021_npc_lh_xiaoxia.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bip001 Angry  Eye
+  rotate: true
+  xy: 76, 114
+  size: 68, 56
+  orig: 70, 58
+  offset: 1, 1
+  index: -1
+Bip001 Angry  Eyebrow
+  rotate: false
+  xy: 2, 2
+  size: 82, 20
+  orig: 84, 22
+  offset: 1, 1
+  index: -1
+Bip001 Angry  Mouth
+  rotate: true
+  xy: 467, 429
+  size: 50, 38
+  orig: 52, 40
+  offset: 1, 1
+  index: -1
+Bip001 Hair1
+  rotate: false
+  xy: 240, 412
+  size: 100, 98
+  orig: 102, 100
+  offset: 1, 1
+  index: -1
+Bip001 Hair2
+  rotate: false
+  xy: 2, 89
+  size: 72, 93
+  orig: 74, 95
+  offset: 1, 1
+  index: -1
+Bip001 Hair3
+  rotate: false
+  xy: 112, 209
+  size: 17, 13
+  orig: 19, 15
+  offset: 1, 1
+  index: -1
+Bip001 Hair4
+  rotate: false
+  xy: 273, 303
+  size: 29, 13
+  orig: 31, 15
+  offset: 1, 1
+  index: -1
+Bip001 Hair5
+  rotate: false
+  xy: 217, 299
+  size: 54, 68
+  orig: 56, 70
+  offset: 1, 1
+  index: -1
+Bip001 Hair6
+  rotate: false
+  xy: 2, 24
+  size: 69, 63
+  orig: 71, 65
+  offset: 1, 1
+  index: -1
+Bip001 Happy Eyebrow
+  rotate: false
+  xy: 112, 240
+  size: 77, 14
+  orig: 79, 16
+  offset: 1, 1
+  index: -1
+Bip001 Happy Mouth
+  rotate: true
+  xy: 339, 341
+  size: 26, 12
+  orig: 28, 14
+  offset: 1, 1
+  index: -1
+Bip001 Head
+  rotate: false
+  xy: 116, 377
+  size: 122, 133
+  orig: 124, 135
+  offset: 1, 1
+  index: -1
+Bip001 L Forearm
+  rotate: true
+  xy: 359, 372
+  size: 45, 56
+  orig: 47, 58
+  offset: 1, 1
+  index: -1
+Bip001 L Hand
+  rotate: true
+  xy: 417, 375
+  size: 44, 66
+  orig: 46, 68
+  offset: 1, 1
+  index: -1
+Bip001 L Thigh
+  rotate: true
+  xy: 116, 298
+  size: 77, 99
+  orig: 79, 101
+  offset: 1, 1
+  index: -1
+Bip001 L UpperArm
+  rotate: false
+  xy: 342, 419
+  size: 72, 91
+  orig: 74, 93
+  offset: 1, 1
+  index: -1
+Bip001 N Eyebrow
+  rotate: false
+  xy: 112, 224
+  size: 77, 14
+  orig: 79, 16
+  offset: 1, 1
+  index: -1
+Bip001 N Mouth
+  rotate: false
+  xy: 467, 481
+  size: 43, 29
+  orig: 45, 31
+  offset: 1, 1
+  index: -1
+Bip001 R Forearm
+  rotate: false
+  xy: 416, 421
+  size: 49, 89
+  orig: 51, 91
+  offset: 1, 1
+  index: -1
+Bip001 R Hand
+  rotate: false
+  xy: 273, 318
+  size: 64, 49
+  orig: 66, 51
+  offset: 1, 1
+  index: -1
+Bip001 R Thigh
+  rotate: false
+  xy: 2, 184
+  size: 108, 104
+  orig: 110, 106
+  offset: 1, 1
+  index: -1
+Bip001 R UpperArm
+  rotate: true
+  xy: 240, 369
+  size: 41, 117
+  orig: 43, 119
+  offset: 1, 1
+  index: -1
+Bip001 Sad  Eyebrow
+  rotate: false
+  xy: 116, 281
+  size: 81, 15
+  orig: 83, 17
+  offset: 1, 1
+  index: -1
+Bip001 Sad  Mouth
+  rotate: true
+  xy: 125, 94
+  size: 18, 7
+  orig: 20, 9
+  offset: 1, 1
+  index: -1
+Bip001 Shock  Eyebrow
+  rotate: false
+  xy: 112, 256
+  size: 77, 23
+  orig: 79, 25
+  offset: 1, 1
+  index: -1
+Bip001 Shock Mouth
+  rotate: false
+  xy: 76, 71
+  size: 47, 41
+  orig: 49, 43
+  offset: 1, 1
+  index: -1
+Bip001 Spine
+  rotate: false
+  xy: 2, 290
+  size: 112, 220
+  orig: 114, 222
+  offset: 1, 1
+  index: -1

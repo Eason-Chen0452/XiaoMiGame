@@ -1,0 +1,83 @@
+
+YS_chanjing.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1111
+  rotate: false
+  xy: 301, 27
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+cao1
+  rotate: false
+  xy: 616, 590
+  size: 194, 238
+  orig: 196, 240
+  offset: 1, 1
+  index: -1
+cao2
+  rotate: false
+  xy: 376, 373
+  size: 238, 348
+  orig: 243, 350
+  offset: 1, 1
+  index: -1
+cao3
+  rotate: false
+  xy: 2, 379
+  size: 372, 342
+  orig: 374, 344
+  offset: 1, 1
+  index: -1
+cao4
+  rotate: true
+  xy: 2, 2
+  size: 375, 297
+  orig: 377, 299
+  offset: 1, 1
+  index: -1
+cao5
+  rotate: false
+  xy: 2, 723
+  size: 505, 297
+  orig: 507, 299
+  offset: 1, 1
+  index: -1
+sd
+  rotate: false
+  xy: 616, 460
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+sd1
+  rotate: false
+  xy: 812, 700
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+sd11
+  rotate: false
+  xy: 301, 115
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+sd2
+  rotate: false
+  xy: 812, 570
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+sunshine
+  rotate: true
+  xy: 509, 830
+  size: 190, 500
+  orig: 201, 500
+  offset: 11, 0
+  index: -1

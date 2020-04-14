@@ -1,0 +1,293 @@
+
+jl_098_daqianxie.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 812, 379
+  size: 205, 131
+  orig: 205, 133
+  offset: 0, 1
+  index: -1
+Arm_L
+  rotate: false
+  xy: 494, 225
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 102, 2
+  size: 32, 50
+  orig: 34, 50
+  offset: 1, 0
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 270, 256
+  size: 216, 146
+  orig: 216, 146
+  offset: 0, 0
+  index: -1
+Bone
+  rotate: false
+  xy: 165, 36
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 253, 105
+  size: 66, 28
+  orig: 66, 28
+  offset: 0, 0
+  index: -1
+Eye2_L
+  rotate: false
+  xy: 470, 169
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+Eye2_R
+  rotate: true
+  xy: 470, 193
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+EyeBall_L
+  rotate: false
+  xy: 234, 30
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+EyeBall_R
+  rotate: false
+  xy: 535, 275
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: false
+  xy: 2, 2
+  size: 63, 21
+  orig: 66, 28
+  offset: 0, 2
+  index: -1
+Foot_L
+  rotate: false
+  xy: 812, 365
+  size: 25, 12
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+Foot_L2
+  rotate: false
+  xy: 545, 286
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: false
+  xy: 67, 7
+  size: 29, 16
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+Foot_R2
+  rotate: true
+  xy: 302, 77
+  size: 26, 14
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 488, 284
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1
+Hand_L_2
+  rotate: true
+  xy: 321, 100
+  size: 33, 46
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+Hand_L_3
+  rotate: false
+  xy: 369, 98
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 102, 36
+  size: 61, 71
+  orig: 62, 73
+  offset: 0, 1
+  index: -1
+Hand_R_1
+  rotate: false
+  xy: 253, 60
+  size: 47, 43
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+Hand_R_3
+  rotate: false
+  xy: 165, 49
+  size: 42, 58
+  orig: 43, 59
+  offset: 1, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 25
+  size: 98, 82
+  orig: 99, 83
+  offset: 1, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 488, 257
+  size: 25, 45
+  orig: 26, 48
+  offset: 0, 2
+  index: -1
+Leg_L2
+  rotate: false
+  xy: 545, 302
+  size: 23, 45
+  orig: 26, 48
+  offset: 2, 2
+  index: -1
+Leg_R
+  rotate: true
+  xy: 154, 2
+  size: 32, 49
+  orig: 35, 50
+  offset: 3, 1
+  index: -1
+Leg_R2
+  rotate: true
+  xy: 209, 71
+  size: 36, 42
+  orig: 37, 44
+  offset: 1, 2
+  index: -1
+Mouth
+  rotate: false
+  xy: 488, 349
+  size: 82, 53
+  orig: 83, 55
+  offset: 1, 1
+  index: -1
+Thigh_L
+  rotate: false
+  xy: 443, 101
+  size: 32, 32
+  orig: 36, 35
+  offset: 1, 2
+  index: -1
+Thigh_L2
+  rotate: false
+  xy: 406, 101
+  size: 35, 32
+  orig: 37, 34
+  offset: 1, 1
+  index: -1
+Thigh_R
+  rotate: true
+  xy: 209, 40
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+Thigh_R2
+  rotate: false
+  xy: 205, 5
+  size: 27, 33
+  orig: 28, 34
+  offset: 1, 0
+  index: -1
+UpArm_L
+  rotate: true
+  xy: 253, 278
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+UpArm_R
+  rotate: true
+  xy: 470, 222
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 253, 263
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 253, 263
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 253, 263
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_035_lv0_daqianxie_shouji1
+  rotate: false
+  xy: 576, 364
+  size: 234, 146
+  orig: 234, 146
+  offset: 0, 0
+  index: -1
+jl_daqianxie_leiji
+  rotate: false
+  xy: 2, 304
+  size: 266, 206
+  orig: 266, 206
+  offset: 0, 0
+  index: -1
+jl_daqianxie_shouji2
+  rotate: false
+  xy: 253, 135
+  size: 215, 119
+  orig: 215, 119
+  offset: 0, 0
+  index: -1
+jl_daqianxie_siwang
+  rotate: false
+  xy: 270, 404
+  size: 304, 106
+  orig: 304, 106
+  offset: 0, 0
+  index: -1
+leiji
+  rotate: false
+  xy: 2, 109
+  size: 249, 193
+  orig: 278, 203
+  offset: 17, 5
+  index: -1

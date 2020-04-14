@@ -1,0 +1,208 @@
+
+ZC_ZhaoHuan_TaiZi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01-CJ-UI02-qianjing
+  rotate: false
+  xy: 2, 713
+  size: 1020, 119
+  orig: 1020, 386
+  offset: 0, 0
+  index: -1
+01-CJ-UI04-dideng1-shadow
+  rotate: true
+  xy: 964, 24
+  size: 65, 23
+  orig: 65, 23
+  offset: 0, 0
+  index: -1
+01-CJ-UI08-zhedang
+  rotate: false
+  xy: 2, 573
+  size: 948, 138
+  orig: 948, 138
+  offset: 0, 0
+  index: -1
+01-CJ-UI09-maoding1
+  rotate: true
+  xy: 988, 620
+  size: 91, 33
+  orig: 91, 33
+  offset: 0, 0
+  index: -1
+01-CJ-UI10-jinggai1
+  rotate: true
+  xy: 964, 91
+  size: 106, 42
+  orig: 106, 42
+  offset: 0, 0
+  index: -1
+01-CJ-UI11-maoding1
+  rotate: false
+  xy: 722, 283
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+01-CJ-UI12-jinggai2
+  rotate: true
+  xy: 964, 199
+  size: 108, 40
+  orig: 108, 40
+  offset: 0, 0
+  index: -1
+01-CJ-UI13-jinggaiguang
+  rotate: false
+  xy: 253, 2
+  size: 161, 21
+  orig: 161, 21
+  offset: 0, 0
+  index: -1
+01-CJ-UI14-ditai
+  rotate: true
+  xy: 638, 38
+  size: 251, 82
+  orig: 251, 82
+  offset: 0, 0
+  index: -1
+01-CJ-UI15-ditai1
+  rotate: false
+  xy: 253, 25
+  size: 199, 37
+  orig: 199, 37
+  offset: 0, 0
+  index: -1
+01-CJ-UI16-sanguangdai
+  rotate: false
+  xy: 2, 291
+  size: 727, 90
+  orig: 727, 90
+  offset: 0, 0
+  index: -1
+01-CJ-UI17-zhongxinditai
+  rotate: false
+  xy: 2, 383
+  size: 733, 188
+  orig: 733, 188
+  offset: 0, 0
+  index: -1
+01-CJ-UI18-mouding
+  rotate: true
+  xy: 964, 309
+  size: 123, 32
+  orig: 123, 32
+  offset: 0, 0
+  index: -1
+01-CJ-UI19-jinggai2
+  rotate: true
+  xy: 952, 578
+  size: 133, 34
+  orig: 133, 34
+  offset: 0, 0
+  index: -1
+01-CJ-UI20-moudeng2
+  rotate: true
+  xy: 731, 374
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+01-CJ-UI21-jingga3
+  rotate: true
+  xy: 964, 434
+  size: 142, 35
+  orig: 142, 35
+  offset: 0, 0
+  index: -1
+01-CJ-UI22-jing
+  rotate: false
+  xy: 2, 2
+  size: 249, 60
+  orig: 249, 60
+  offset: 0, 0
+  index: -1
+01-CJ-UI23-ditai2
+  rotate: true
+  xy: 544, 55
+  size: 234, 92
+  orig: 234, 92
+  offset: 0, 0
+  index: -1
+01-CJ-UI25-jiantou
+  rotate: false
+  xy: 454, 40
+  size: 68, 22
+  orig: 68, 22
+  offset: 0, 0
+  index: -1
+01-CJ-UI26-ditao
+  rotate: false
+  xy: 2, 834
+  size: 1020, 188
+  orig: 1020, 386
+  offset: 0, 0
+  index: -1
+02-black
+  rotate: false
+  xy: 952, 575
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shandian02
+  rotate: false
+  xy: 2, 64
+  size: 540, 225
+  orig: 540, 225
+  offset: 0, 0
+  index: -1
+shandian17
+  rotate: true
+  xy: 737, 31
+  size: 540, 225
+  orig: 540, 225
+  offset: 0, 0
+  index: -1
+
+ZC_ZhaoHuan_TaiZi2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01-CJ-UI04-dideng1
+  rotate: false
+  xy: 879, 87
+  size: 73, 61
+  orig: 75, 61
+  offset: 2, 0
+  index: -1
+01-CJ-UI24-xianshiqi
+  rotate: true
+  xy: 959, 96
+  size: 155, 59
+  orig: 155, 59
+  offset: 0, 0
+  index: -1
+02-black-1
+  rotate: false
+  xy: 544, 150
+  size: 413, 101
+  orig: 413, 188
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 544, 2
+  size: 333, 146
+  orig: 420, 208
+  offset: 39, 29
+  index: -1
+shandian38
+  rotate: false
+  xy: 2, 26
+  size: 540, 225
+  orig: 540, 225
+  offset: 0, 0
+  index: -1

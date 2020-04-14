@@ -1,0 +1,146 @@
+
+jl_119_jinyuwang.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 812, 122
+  size: 164, 131
+  orig: 164, 131
+  offset: 0, 0
+  index: -1
+ALL1
+  rotate: false
+  xy: 491, 116
+  size: 170, 137
+  orig: 170, 137
+  offset: 0, 0
+  index: -1
+Back
+  rotate: false
+  xy: 69, 21
+  size: 69, 32
+  orig: 69, 32
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 382, 23
+  size: 114, 87
+  orig: 114, 105
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 183, 58
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: true
+  xy: 208, 58
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+EyeC
+  rotate: false
+  xy: 233, 60
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 144, 57
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 198, 13
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 69, 2
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+Tail_L
+  rotate: true
+  xy: 140, 15
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+Tail_R
+  rotate: true
+  xy: 258, 9
+  size: 74, 122
+  orig: 74, 122
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 94, 6
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 94, 6
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 94, 6
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_039_lv1_shuangdanwasi-0014_leiji_4
+  rotate: true
+  xy: 2, 3
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1
+jl_043_lv1_jinyuwang-0005_shouji2_3
+  rotate: true
+  xy: 144, 85
+  size: 168, 164
+  orig: 168, 164
+  offset: 0, 0
+  index: -1
+jl_043_lv1_jinyuwang-0006_siwang_10
+  rotate: true
+  xy: 663, 84
+  size: 169, 147
+  orig: 169, 147
+  offset: 0, 0
+  index: -1
+jl_043_lv1_jinyuwang-0008_shouji1_3
+  rotate: true
+  xy: 2, 55
+  size: 198, 140
+  orig: 198, 140
+  offset: 0, 0
+  index: -1
+jl_043_lv1_jinyuwang-0014_leiji_3
+  rotate: false
+  xy: 310, 112
+  size: 179, 141
+  orig: 179, 141
+  offset: 0, 0
+  index: -1

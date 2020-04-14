@@ -1,0 +1,97 @@
+
+zq_111_dujiaoxiniu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 2, 51
+  size: 260, 218
+  orig: 262, 220
+  offset: 1, 1
+  index: -1
+Arm_R
+  rotate: true
+  xy: 430, 258
+  size: 84, 80
+  orig: 86, 82
+  offset: 1, 1
+  index: -1
+Arm_R_1
+  rotate: false
+  xy: 264, 143
+  size: 84, 71
+  orig: 111, 86
+  offset: 1, 1
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 2, 271
+  size: 276, 239
+  orig: 276, 239
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 280, 344
+  size: 206, 166
+  orig: 208, 168
+  offset: 1, 1
+  index: -1
+Eye
+  rotate: false
+  xy: 47, 21
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: false
+  xy: 2, 17
+  size: 43, 32
+  orig: 45, 34
+  offset: 1, 1
+  index: -1
+Hand_L
+  rotate: false
+  xy: 330, 2
+  size: 66, 67
+  orig: 68, 69
+  offset: 1, 1
+  index: -1
+Hand_R
+  rotate: false
+  xy: 330, 71
+  size: 62, 70
+  orig: 64, 72
+  offset: 1, 1
+  index: -1
+Head
+  rotate: false
+  xy: 280, 216
+  size: 148, 126
+  orig: 150, 128
+  offset: 1, 1
+  index: -1
+Leg_L
+  rotate: true
+  xy: 350, 150
+  size: 64, 86
+  orig: 66, 88
+  offset: 1, 1
+  index: -1
+Leg_R
+  rotate: false
+  xy: 264, 54
+  size: 64, 87
+  orig: 66, 89
+  offset: 1, 1
+  index: -1
+Mouth
+  rotate: true
+  xy: 438, 165
+  size: 91, 60
+  orig: 93, 62
+  offset: 1, 1
+  index: -1

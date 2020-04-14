@@ -1,0 +1,363 @@
+
+jl_025_pikaqiu.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 198, 434
+  size: 86, 123
+  orig: 86, 123
+  offset: 0, 0
+  index: -1
+25eye
+  rotate: true
+  xy: 333, 65
+  size: 50, 20
+  orig: 50, 20
+  offset: 0, 0
+  index: -1
+25mouth
+  rotate: true
+  xy: 310, 321
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+Blur_Die
+  rotate: false
+  xy: 231, 848
+  size: 217, 174
+  orig: 217, 174
+  offset: 0, 0
+  index: -1
+Blur_Hit
+  rotate: false
+  xy: 2, 265
+  size: 191, 197
+  orig: 191, 197
+  offset: 0, 0
+  index: -1
+Blur_Hit2
+  rotate: false
+  xy: 450, 850
+  size: 215, 172
+  orig: 215, 172
+  offset: 0, 0
+  index: -1
+Blur_Hit3
+  rotate: false
+  xy: 2, 665
+  size: 217, 176
+  orig: 217, 176
+  offset: 0, 0
+  index: -1
+Blur_Show
+  rotate: true
+  xy: 667, 837
+  size: 185, 201
+  orig: 185, 201
+  offset: 0, 0
+  index: -1
+Blur_Skill
+  rotate: false
+  xy: 2, 843
+  size: 227, 179
+  orig: 227, 179
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 415, 748
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+Gu
+  rotate: false
+  xy: 198, 522
+  size: 98, 141
+  orig: 98, 141
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 221, 665
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 221, 665
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 221, 665
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+daiji_arm_l
+  rotate: true
+  xy: 311, 117
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+daiji_arm_r
+  rotate: true
+  xy: 339, 737
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+daiji_body
+  rotate: false
+  xy: 181, 63
+  size: 83, 96
+  orig: 83, 96
+  offset: 0, 0
+  index: -1
+daiji_ear_l
+  rotate: false
+  xy: 264, 748
+  size: 73, 24
+  orig: 73, 24
+  offset: 0, 0
+  index: -1
+daiji_ear_r
+  rotate: false
+  xy: 221, 680
+  size: 39, 63
+  orig: 40, 63
+  offset: 1, 0
+  index: -1
+daiji_eyes
+  rotate: true
+  xy: 311, 64
+  size: 51, 20
+  orig: 51, 20
+  offset: 0, 0
+  index: -1
+daiji_eyes2
+  rotate: false
+  xy: 249, 5
+  size: 51, 9
+  orig: 51, 10
+  offset: 0, 1
+  index: -1
+daiji_foot_l
+  rotate: false
+  xy: 379, 748
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+daiji_foot_r
+  rotate: true
+  xy: 1009, 992
+  size: 30, 11
+  orig: 31, 11
+  offset: 1, 0
+  index: -1
+daiji_head
+  rotate: false
+  xy: 264, 774
+  size: 76, 72
+  orig: 76, 72
+  offset: 0, 0
+  index: -1
+daiji_mouth
+  rotate: false
+  xy: 456, 825
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+daiji_mouth2
+  rotate: true
+  xy: 1016, 809
+  size: 21, 6
+  orig: 21, 6
+  offset: 0, 0
+  index: -1
+daiji_nose
+  rotate: false
+  xy: 960, 867
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+daiji_tail
+  rotate: false
+  xy: 870, 781
+  size: 95, 83
+  orig: 95, 83
+  offset: 0, 0
+  index: -1
+daiji_tail1
+  rotate: false
+  xy: 181, 161
+  size: 106, 92
+  orig: 106, 92
+  offset: 0, 0
+  index: -1
+jl_025_pikaqiu-0004_shouji1_3
+  rotate: false
+  xy: 2, 52
+  size: 177, 211
+  orig: 177, 211
+  offset: 0, 0
+  index: -1
+jl_025_pikaqiu-0005_shouji2_3
+  rotate: false
+  xy: 2, 464
+  size: 194, 199
+  orig: 194, 199
+  offset: 0, 0
+  index: -1
+pao_erduo1
+  rotate: false
+  xy: 967, 832
+  size: 55, 39
+  orig: 56, 39
+  offset: 1, 0
+  index: -1
+pao_erduo2
+  rotate: false
+  xy: 967, 786
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+pao_eye1
+  rotate: false
+  xy: 181, 258
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+pao_houtui1
+  rotate: true
+  xy: 197, 2
+  size: 59, 50
+  orig: 59, 50
+  offset: 0, 0
+  index: -1
+pao_houtui2
+  rotate: true
+  xy: 960, 873
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+pao_jiao1
+  rotate: true
+  xy: 439, 812
+  size: 34, 15
+  orig: 34, 16
+  offset: 0, 1
+  index: -1
+pao_jiao2
+  rotate: true
+  xy: 1008, 893
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+pao_qiantui1
+  rotate: false
+  xy: 289, 195
+  size: 35, 58
+  orig: 35, 58
+  offset: 0, 0
+  index: -1
+pao_qiantui2
+  rotate: true
+  xy: 289, 161
+  size: 32, 53
+  orig: 32, 53
+  offset: 0, 0
+  index: -1
+pao_shenti
+  rotate: true
+  xy: 870, 866
+  size: 156, 88
+  orig: 156, 88
+  offset: 0, 0
+  index: -1
+pao_weiba
+  rotate: false
+  xy: 195, 255
+  size: 113, 83
+  orig: 113, 83
+  offset: 0, 0
+  index: -1
+pao_weiba1
+  rotate: false
+  xy: 195, 340
+  size: 123, 92
+  orig: 123, 92
+  offset: 0, 0
+  index: -1
+shandian02/shandian02_01
+  rotate: true
+  xy: 99, 5
+  size: 45, 96
+  orig: 48, 96
+  offset: 3, 0
+  index: -1
+shandian02/shandian02_02
+  rotate: true
+  xy: 249, 16
+  size: 45, 95
+  orig: 48, 96
+  offset: 0, 0
+  index: -1
+shandian02/shandian02_03
+  rotate: false
+  xy: 266, 63
+  size: 43, 96
+  orig: 48, 96
+  offset: 4, 0
+  index: -1
+shandian02/shandian02_04
+  rotate: false
+  xy: 221, 745
+  size: 41, 96
+  orig: 48, 96
+  offset: 6, 0
+  index: -1
+shandian02/shandian02_05
+  rotate: false
+  xy: 960, 927
+  size: 47, 95
+  orig: 48, 96
+  offset: 1, 0
+  index: -1
+shandian02/shandian02_06
+  rotate: true
+  xy: 342, 804
+  size: 42, 95
+  orig: 48, 96
+  offset: 6, 0
+  index: -1
+shandian02/shandian02_07
+  rotate: true
+  xy: 342, 765
+  size: 37, 96
+  orig: 48, 96
+  offset: 11, 0
+  index: -1
+shandian02/shandian02_08
+  rotate: true
+  xy: 2, 2
+  size: 48, 95
+  orig: 48, 96
+  offset: 0, 0
+  index: -1

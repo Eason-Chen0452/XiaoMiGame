@@ -1,0 +1,139 @@
+
+ZC_ZhuangBeiShengXing.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di01
+  rotate: false
+  xy: 2, 250
+  size: 626, 232
+  orig: 626, 232
+  offset: 0, 0
+  index: -1
+diwenxulie/xiantiao01_000
+  rotate: false
+  xy: 2, 2
+  size: 194, 41
+  orig: 270, 270
+  offset: 27, 142
+  index: -1
+diwenxulie/xiantiao01_006
+  rotate: false
+  xy: 207, 98
+  size: 214, 22
+  orig: 270, 270
+  offset: 27, 161
+  index: -1
+diwenxulie/xiantiao01_007
+  rotate: false
+  xy: 785, 333
+  size: 214, 22
+  orig: 270, 270
+  offset: 27, 161
+  index: -1
+diwenxulie/xiantiao01_008
+  rotate: false
+  xy: 785, 311
+  size: 212, 20
+  orig: 270, 270
+  offset: 28, 161
+  index: -1
+diwenxulie/xiantiao01_009
+  rotate: false
+  xy: 785, 357
+  size: 217, 39
+  orig: 270, 270
+  offset: 22, 140
+  index: -1
+diwenxulie/xiantiao01_010
+  rotate: false
+  xy: 431, 121
+  size: 85, 41
+  orig: 270, 270
+  offset: 22, 140
+  index: -1
+diwenxulie/xiantiao01_011
+  rotate: false
+  xy: 518, 121
+  size: 85, 41
+  orig: 270, 270
+  offset: 22, 140
+  index: -1
+diwenxulie/xiantiao01_012
+  rotate: false
+  xy: 434, 164
+  size: 189, 41
+  orig: 270, 270
+  offset: 22, 140
+  index: -1
+diwenxulie/xiantiao01_013
+  rotate: false
+  xy: 207, 207
+  size: 225, 41
+  orig: 270, 270
+  offset: 22, 140
+  index: -1
+diwenxulie/xiantiao01_014
+  rotate: false
+  xy: 785, 441
+  size: 225, 41
+  orig: 270, 270
+  offset: 22, 140
+  index: -1
+diwenxulie/xiantiao01_015
+  rotate: false
+  xy: 207, 164
+  size: 225, 41
+  orig: 270, 270
+  offset: 22, 140
+  index: -1
+diwenxulie/xiantiao01_016
+  rotate: false
+  xy: 785, 398
+  size: 223, 41
+  orig: 270, 270
+  offset: 23, 140
+  index: -1
+diwenxulie/xiantiao01_017
+  rotate: false
+  xy: 207, 122
+  size: 222, 40
+  orig: 270, 270
+  offset: 23, 141
+  index: -1
+diwenxulie/xiantiao01_018
+  rotate: false
+  xy: 207, 56
+  size: 194, 40
+  orig: 270, 270
+  offset: 27, 142
+  index: -1
+diwenxulie/xiantiao01_019
+  rotate: false
+  xy: 434, 207
+  size: 194, 41
+  orig: 270, 270
+  offset: 27, 142
+  index: -1
+fang01
+  rotate: false
+  xy: 630, 329
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+fangkuai01
+  rotate: false
+  xy: 630, 250
+  size: 79, 77
+  orig: 93, 93
+  offset: 7, 8
+  index: -1
+zhen
+  rotate: false
+  xy: 2, 45
+  size: 203, 203
+  orig: 263, 263
+  offset: 30, 30
+  index: -1

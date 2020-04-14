@@ -1,0 +1,48 @@
+
+CJ_JiaYuan_DiaoXiang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fangsheguang01
+  rotate: false
+  xy: 2, 233
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fangsheguang02
+  rotate: false
+  xy: 118, 103
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fazhen02
+  rotate: false
+  xy: 260, 208
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+guangxian
+  rotate: false
+  xy: 2, 2
+  size: 114, 229
+  orig: 128, 256
+  offset: 9, 21
+  index: -1
+huan01
+  rotate: false
+  xy: 248, 82
+  size: 124, 124
+  orig: 128, 128
+  offset: 2, 2
+  index: -1
+star02
+  rotate: false
+  xy: 260, 338
+  size: 165, 151
+  orig: 165, 151
+  offset: 0, 0
+  index: -1

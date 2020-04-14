@@ -1,0 +1,76 @@
+
+ZC_ZhaoHuan_XinXi.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02-L-S-UI-01
+  rotate: false
+  xy: 900, 63
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+02-L-S-UI-02
+  rotate: false
+  xy: 748, 27
+  size: 87, 98
+  orig: 87, 98
+  offset: 0, 0
+  index: -1
+02-L-S-UI-03
+  rotate: false
+  xy: 456, 19
+  size: 290, 106
+  orig: 290, 106
+  offset: 0, 0
+  index: -1
+02-L-S-UI-031
+  rotate: false
+  xy: 2, 14
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+02-L-UI01
+  rotate: false
+  xy: 2, 14
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+02-R-UI01
+  rotate: false
+  xy: 2, 14
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+02-L-S-UI-05
+  rotate: false
+  xy: 2, 8
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+02-L-UI02
+  rotate: true
+  xy: 837, 2
+  size: 123, 61
+  orig: 123, 61
+  offset: 0, 0
+  index: -1
+02-R-UI02
+  rotate: false
+  xy: 2, 40
+  size: 452, 85
+  orig: 452, 85
+  offset: 0, 0
+  index: -1
+02-R-UI03
+  rotate: false
+  xy: 28, 21
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1

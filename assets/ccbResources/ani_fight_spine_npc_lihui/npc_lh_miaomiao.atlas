@@ -1,0 +1,118 @@
+
+npc_lh_miaomiao.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+al
+  rotate: false
+  xy: 393, 90
+  size: 69, 95
+  orig: 71, 97
+  offset: 1, 1
+  index: -1
+ar
+  rotate: false
+  xy: 225, 66
+  size: 60, 41
+  orig: 62, 43
+  offset: 1, 1
+  index: -1
+b
+  rotate: false
+  xy: 196, 109
+  size: 95, 145
+  orig: 97, 147
+  offset: 1, 1
+  index: -1
+e
+  rotate: false
+  xy: 2, 101
+  size: 192, 153
+  orig: 194, 155
+  offset: 1, 1
+  index: -1
+ec
+  rotate: false
+  xy: 293, 187
+  size: 156, 67
+  orig: 158, 69
+  offset: 1, 1
+  index: -1
+el
+  rotate: true
+  xy: 293, 108
+  size: 77, 98
+  orig: 79, 100
+  offset: 1, 1
+  index: -1
+er
+  rotate: true
+  xy: 287, 35
+  size: 71, 79
+  orig: 73, 81
+  offset: 1, 1
+  index: -1
+gold
+  rotate: false
+  xy: 451, 188
+  size: 41, 66
+  orig: 43, 68
+  offset: 1, 1
+  index: -1
+h1
+  rotate: false
+  xy: 225, 2
+  size: 36, 62
+  orig: 38, 64
+  offset: 1, 1
+  index: -1
+h2
+  rotate: false
+  xy: 263, 2
+  size: 20, 62
+  orig: 22, 64
+  offset: 1, 1
+  index: -1
+hand_r
+  rotate: true
+  xy: 165, 8
+  size: 91, 58
+  orig: 93, 60
+  offset: 1, 1
+  index: -1
+m1
+  rotate: true
+  xy: 368, 55
+  size: 51, 12
+  orig: 53, 14
+  offset: 1, 1
+  index: -1
+m2
+  rotate: true
+  xy: 464, 133
+  size: 53, 25
+  orig: 55, 27
+  offset: 1, 1
+  index: -1
+m3
+  rotate: true
+  xy: 494, 190
+  size: 64, 10
+  orig: 66, 12
+  offset: 1, 1
+  index: -1
+m4
+  rotate: true
+  xy: 464, 81
+  size: 50, 34
+  orig: 52, 36
+  offset: 1, 1
+  index: -1
+t
+  rotate: false
+  xy: 2, 9
+  size: 161, 90
+  orig: 163, 92
+  offset: 1, 1
+  index: -1

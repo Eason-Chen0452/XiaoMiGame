@@ -1,0 +1,125 @@
+
+0015_npc_lh_wuzang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bip001 Eye-c
+  rotate: true
+  xy: 279, 67
+  size: 61, 17
+  orig: 61, 17
+  offset: 0, 0
+  index: -1
+Bip001 Eye1
+  rotate: false
+  xy: 362, 321
+  size: 64, 23
+  orig: 64, 23
+  offset: 0, 0
+  index: -1
+Bip001 Eye2
+  rotate: true
+  xy: 244, 59
+  size: 69, 33
+  orig: 69, 33
+  offset: 0, 0
+  index: -1
+Bip001 Hair
+  rotate: false
+  xy: 2, 130
+  size: 293, 380
+  orig: 295, 382
+  offset: 1, 1
+  index: -1
+Bip001 Head
+  rotate: true
+  xy: 297, 218
+  size: 84, 75
+  orig: 86, 77
+  offset: 1, 1
+  index: -1
+Bip001 L Eye
+  rotate: false
+  xy: 244, 30
+  size: 31, 27
+  orig: 33, 29
+  offset: 1, 1
+  index: -1
+Bip001 L Thigh
+  rotate: true
+  xy: 458, 452
+  size: 58, 44
+  orig: 60, 128
+  offset: 1, 83
+  index: -1
+Bip001 L UpperArm
+  rotate: false
+  xy: 297, 304
+  size: 63, 206
+  orig: 65, 240
+  offset: 1, 33
+  index: -1
+Bip001 Mouth
+  rotate: true
+  xy: 270, 2
+  size: 26, 12
+  orig: 28, 14
+  offset: 1, 1
+  index: -1
+Bip001 Mouth1
+  rotate: false
+  xy: 458, 431
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+Bip001 Mouth2
+  rotate: false
+  xy: 353, 205
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+Bip001 Nose
+  rotate: false
+  xy: 362, 310
+  size: 10, 9
+  orig: 12, 11
+  offset: 1, 1
+  index: -1
+Bip001 R Eye
+  rotate: false
+  xy: 244, 2
+  size: 24, 26
+  orig: 26, 28
+  offset: 1, 1
+  index: -1
+Bip001 R Forearm
+  rotate: false
+  xy: 362, 346
+  size: 88, 81
+  orig: 90, 83
+  offset: 1, 1
+  index: -1
+Bip001 R Thigh
+  rotate: false
+  xy: 297, 175
+  size: 54, 41
+  orig: 56, 127
+  offset: 1, 85
+  index: -1
+Bip001 R UpperArm
+  rotate: false
+  xy: 362, 429
+  size: 94, 81
+  orig: 96, 83
+  offset: 1, 1
+  index: -1
+Bip001 Spine
+  rotate: true
+  xy: 2, 9
+  size: 119, 240
+  orig: 121, 242
+  offset: 1, 1
+  index: -1

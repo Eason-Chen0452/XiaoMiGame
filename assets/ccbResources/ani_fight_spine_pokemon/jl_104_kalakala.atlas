@@ -1,0 +1,146 @@
+
+jl_104_kalakala.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 671, 76
+  size: 158, 178
+  orig: 158, 179
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: false
+  xy: 521, 17
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 470, 15
+  size: 49, 52
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 348, 69
+  size: 173, 185
+  orig: 173, 185
+  offset: 0, 0
+  index: -1
+Body1
+  rotate: false
+  xy: 941, 13
+  size: 78, 104
+  orig: 80, 104
+  offset: 2, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 124, 12
+  size: 28, 31
+  orig: 29, 32
+  offset: 1, 0
+  index: -1
+Eye2
+  rotate: true
+  xy: 154, 16
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: false
+  xy: 180, 16
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 831, 4
+  size: 113, 108
+  orig: 113, 110
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 418, 13
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: true
+  xy: 2, 2
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 63, 9
+  size: 59, 34
+  orig: 59, 34
+  offset: 0, 0
+  index: -1
+WQ
+  rotate: true
+  xy: 348, 11
+  size: 56, 68
+  orig: 56, 68
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 205, 33
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 205, 33
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 205, 33
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_037_lv0_kalakala_shouji1
+  rotate: false
+  xy: 523, 71
+  size: 146, 183
+  orig: 146, 183
+  offset: 0, 0
+  index: -1
+jl_kalakala_leiji
+  rotate: false
+  xy: 2, 45
+  size: 196, 209
+  orig: 196, 209
+  offset: 0, 0
+  index: -1
+jl_kalakala_shouji2
+  rotate: false
+  xy: 200, 48
+  size: 146, 206
+  orig: 146, 206
+  offset: 0, 0
+  index: -1
+leiji
+  rotate: true
+  xy: 831, 119
+  size: 135, 173
+  orig: 232, 228
+  offset: 54, 21
+  index: -1

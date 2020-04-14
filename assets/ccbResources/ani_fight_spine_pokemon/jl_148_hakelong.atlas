@@ -1,0 +1,167 @@
+
+jl_148_hakelong.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: true
+  xy: 475, 134
+  size: 192, 213
+  orig: 192, 215
+  offset: 0, 0
+  index: -1
+ALL1
+  rotate: false
+  xy: 219, 42
+  size: 199, 218
+  orig: 199, 218
+  offset: 0, 0
+  index: -1
+Ball
+  rotate: false
+  xy: 51, 5
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Body_dj_01
+  rotate: false
+  xy: 690, 168
+  size: 130, 152
+  orig: 130, 155
+  offset: 0, 0
+  index: -1
+Body_dj_02
+  rotate: true
+  xy: 941, 385
+  size: 119, 50
+  orig: 119, 50
+  offset: 0, 0
+  index: -1
+Body_run_01
+  rotate: false
+  xy: 475, 328
+  size: 243, 176
+  orig: 243, 176
+  offset: 0, 0
+  index: -1
+Ear_L
+  rotate: true
+  xy: 690, 140
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+Ear_L1
+  rotate: true
+  xy: 2, 2
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+Ear_R
+  rotate: false
+  xy: 990, 328
+  size: 32, 55
+  orig: 32, 55
+  offset: 0, 0
+  index: -1
+Ear_R1
+  rotate: false
+  xy: 941, 319
+  size: 47, 64
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 898, 190
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: true
+  xy: 990, 285
+  size: 41, 32
+  orig: 43, 34
+  offset: 1, 1
+  index: -1
+Eye_L
+  rotate: true
+  xy: 923, 312
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: true
+  xy: 268, 264
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 822, 134
+  size: 71, 74
+  orig: 71, 74
+  offset: 0, 0
+  index: -1
+Tail_dj
+  rotate: false
+  xy: 822, 207
+  size: 99, 113
+  orig: 99, 113
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 993, 491
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 993, 491
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 993, 491
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_055_lv1_hakelong-0014_leiji_4
+  rotate: false
+  xy: 2, 42
+  size: 215, 218
+  orig: 263, 265
+  offset: 39, 30
+  index: -1
+jl_hakelong_leiji
+  rotate: false
+  xy: 2, 262
+  size: 264, 242
+  orig: 264, 242
+  offset: 0, 0
+  index: -1
+jl_hakelong_shouji2
+  rotate: false
+  xy: 268, 285
+  size: 205, 219
+  orig: 205, 219
+  offset: 0, 0
+  index: -1
+jl_hakelongshouji1
+  rotate: true
+  xy: 720, 322
+  size: 182, 219
+  orig: 182, 219
+  offset: 0, 0
+  index: -1

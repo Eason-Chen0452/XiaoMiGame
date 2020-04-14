@@ -1,0 +1,167 @@
+
+jl_039_pangding.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: true
+  xy: 174, 200
+  size: 143, 148
+  orig: 143, 148
+  offset: 0, 0
+  index: -1
+ALL1
+  rotate: false
+  xy: 2, 2
+  size: 149, 153
+  orig: 149, 153
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: true
+  xy: 487, 478
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 454, 325
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 162, 76
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+Ear_L
+  rotate: false
+  xy: 286, 102
+  size: 44, 41
+  orig: 46, 41
+  offset: 2, 0
+  index: -1
+Ear_R
+  rotate: false
+  xy: 286, 145
+  size: 49, 53
+  orig: 53, 57
+  offset: 0, 4
+  index: -1
+Eye2
+  rotate: false
+  xy: 292, 17
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+Eye_C_L
+  rotate: true
+  xy: 411, 327
+  size: 27, 41
+  orig: 29, 50
+  offset: 2, 0
+  index: -1
+Eye_C_R
+  rotate: false
+  xy: 292, 56
+  size: 39, 44
+  orig: 41, 50
+  offset: 0, 6
+  index: -1
+Eye_L
+  rotate: false
+  xy: 324, 243
+  size: 25, 40
+  orig: 30, 49
+  offset: 5, 0
+  index: -1
+Eye_R
+  rotate: true
+  xy: 326, 317
+  size: 37, 43
+  orig: 39, 49
+  offset: 0, 6
+  index: -1
+Foot_L
+  rotate: false
+  xy: 324, 285
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: false
+  xy: 371, 319
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 235, 17
+  size: 55, 57
+  orig: 55, 59
+  offset: 0, 2
+  index: -1
+buff_flo
+  rotate: false
+  xy: 487, 463
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 487, 463
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 487, 463
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_014_lv1_pangding-0004_shouji1_3
+  rotate: false
+  xy: 174, 345
+  size: 150, 163
+  orig: 150, 163
+  offset: 0, 0
+  index: -1
+jl_014_lv1_pangding-0005_shouji2_3
+  rotate: false
+  xy: 326, 356
+  size: 159, 152
+  orig: 159, 152
+  offset: 0, 0
+  index: -1
+jl_014_lv1_pangding-0006_siwang_10
+  rotate: false
+  xy: 2, 157
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+jl_014_lv1_pangding-0014_leiji_3
+  rotate: false
+  xy: 2, 317
+  size: 170, 191
+  orig: 170, 191
+  offset: 0, 0
+  index: -1
+leiji
+  rotate: false
+  xy: 153, 12
+  size: 80, 62
+  orig: 226, 218
+  offset: 81, 78
+  index: -1

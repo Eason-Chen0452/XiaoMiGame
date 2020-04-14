@@ -1,0 +1,83 @@
+
+ZC_shouchong_eff.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light01
+  rotate: false
+  xy: 214, 79
+  size: 84, 83
+  orig: 96, 96
+  offset: 6, 7
+  index: -1
+zhanshi/zs_00
+  rotate: false
+  xy: 2, 272
+  size: 122, 111
+  orig: 150, 131
+  offset: 13, 4
+  index: -1
+zhanshi/zs_01
+  rotate: false
+  xy: 126, 390
+  size: 124, 108
+  orig: 150, 131
+  offset: 12, 5
+  index: -1
+zhanshi/zs_02
+  rotate: true
+  xy: 2, 146
+  size: 124, 105
+  orig: 150, 131
+  offset: 12, 9
+  index: -1
+zhanshi/zs_03
+  rotate: false
+  xy: 126, 285
+  size: 123, 103
+  orig: 150, 131
+  offset: 12, 13
+  index: -1
+zhanshi/zs_04
+  rotate: true
+  xy: 2, 22
+  size: 122, 102
+  orig: 150, 131
+  offset: 12, 16
+  index: -1
+zhanshi/zs_05
+  rotate: false
+  xy: 377, 395
+  size: 121, 103
+  orig: 150, 131
+  offset: 13, 16
+  index: -1
+zhanshi/zs_06
+  rotate: true
+  xy: 214, 164
+  size: 119, 101
+  orig: 150, 131
+  offset: 14, 14
+  index: -1
+zhanshi/zs_07
+  rotate: false
+  xy: 252, 395
+  size: 123, 103
+  orig: 150, 131
+  offset: 13, 14
+  index: -1
+zhanshi/zs_08
+  rotate: true
+  xy: 109, 149
+  size: 121, 103
+  orig: 150, 131
+  offset: 12, 13
+  index: -1
+zhanshi/zs_09
+  rotate: false
+  xy: 2, 385
+  size: 122, 113
+  orig: 150, 131
+  offset: 12, 6
+  index: -1

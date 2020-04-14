@@ -1,0 +1,174 @@
+
+jl_021_lieque.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blur_Die
+  rotate: true
+  xy: 351, 320
+  size: 190, 221
+  orig: 190, 221
+  offset: 0, 0
+  index: -1
+Blur_Hit
+  rotate: false
+  xy: 2, 319
+  size: 347, 191
+  orig: 347, 191
+  offset: 0, 0
+  index: -1
+Blur_Hit2
+  rotate: false
+  xy: 574, 309
+  size: 218, 201
+  orig: 218, 201
+  offset: 0, 0
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 2, 89
+  size: 223, 228
+  orig: 223, 228
+  offset: 0, 0
+  index: -1
+Blur_Skill
+  rotate: false
+  xy: 794, 340
+  size: 152, 170
+  orig: 152, 177
+  offset: 0, 4
+  index: -1
+Body
+  rotate: false
+  xy: 903, 258
+  size: 75, 80
+  orig: 75, 80
+  offset: 0, 0
+  index: -1
+Eye1_L
+  rotate: false
+  xy: 28, 15
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Eye1_R
+  rotate: false
+  xy: 980, 279
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+Eye2_R
+  rotate: true
+  xy: 1005, 276
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: false
+  xy: 218, 2
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: false
+  xy: 2, 2
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 218, 16
+  size: 68, 43
+  orig: 68, 43
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: false
+  xy: 980, 298
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+Gu
+  rotate: true
+  xy: 227, 155
+  size: 162, 119
+  orig: 197, 210
+  offset: 10, 50
+  index: -1
+Head
+  rotate: false
+  xy: 133, 10
+  size: 83, 77
+  orig: 83, 77
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 948, 451
+  size: 74, 59
+  orig: 74, 59
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 288, 19
+  size: 50, 40
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+Wing_L
+  rotate: true
+  xy: 2, 25
+  size: 62, 129
+  orig: 62, 129
+  offset: 0, 0
+  index: -1
+Wing_LD
+  rotate: true
+  xy: 948, 345
+  size: 104, 71
+  orig: 104, 71
+  offset: 0, 0
+  index: -1
+Wing_R
+  rotate: true
+  xy: 227, 61
+  size: 92, 112
+  orig: 92, 112
+  offset: 0, 0
+  index: -1
+Wing_RD
+  rotate: false
+  xy: 794, 243
+  size: 107, 95
+  orig: 107, 95
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 903, 243
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 903, 243
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 903, 243
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1

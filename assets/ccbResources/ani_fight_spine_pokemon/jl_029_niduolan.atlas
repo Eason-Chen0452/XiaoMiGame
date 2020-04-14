@@ -1,0 +1,202 @@
+
+jl_029_niduolan.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: false
+  xy: 464, 21
+  size: 35, 68
+  orig: 35, 68
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 935, 76
+  size: 38, 68
+  orig: 38, 68
+  offset: 0, 0
+  index: -1
+Beard_L
+  rotate: false
+  xy: 630, 14
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Beard_L2
+  rotate: true
+  xy: 464, 2
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+Beard_R
+  rotate: true
+  xy: 176, 42
+  size: 41, 12
+  orig: 41, 12
+  offset: 0, 0
+  index: -1
+Beard_R2
+  rotate: true
+  xy: 84, 2
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+Blur_Die
+  rotate: false
+  xy: 809, 146
+  size: 164, 108
+  orig: 168, 120
+  offset: 4, 6
+  index: -1
+Blur_Head
+  rotate: false
+  xy: 373, 2
+  size: 89, 87
+  orig: 91, 87
+  offset: 0, 0
+  index: -1
+Blur_Hit
+  rotate: false
+  xy: 659, 111
+  size: 148, 143
+  orig: 152, 149
+  offset: 1, 2
+  index: -1
+Blur_Hit2
+  rotate: false
+  xy: 373, 91
+  size: 139, 163
+  orig: 147, 163
+  offset: 6, 0
+  index: -1
+Blur_Mouth
+  rotate: false
+  xy: 935, 33
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 194, 84
+  size: 177, 170
+  orig: 181, 174
+  offset: 2, 3
+  index: -1
+Blur_Skill
+  rotate: false
+  xy: 2, 85
+  size: 190, 169
+  orig: 191, 170
+  offset: 0, 1
+  index: -1
+Blur_Skill2
+  rotate: false
+  xy: 514, 103
+  size: 143, 151
+  orig: 148, 156
+  offset: 3, 4
+  index: -1
+Body
+  rotate: false
+  xy: 514, 4
+  size: 114, 97
+  orig: 114, 97
+  offset: 0, 0
+  index: -1
+Ear_L
+  rotate: true
+  xy: 975, 201
+  size: 53, 47
+  orig: 53, 48
+  offset: 0, 1
+  index: -1
+Ear_R
+  rotate: false
+  xy: 84, 24
+  size: 90, 59
+  orig: 90, 59
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 109, 3
+  size: 28, 19
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+Eye1
+  rotate: false
+  xy: 975, 86
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 630, 39
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Gu
+  rotate: true
+  xy: 809, 22
+  size: 122, 124
+  orig: 149, 143
+  offset: 18, 2
+  index: -1
+Head
+  rotate: false
+  xy: 2, 6
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 975, 163
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 975, 111
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 630, 65
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 485, 6
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 485, 6
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 485, 6
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1

@@ -1,0 +1,62 @@
+
+CJ_suipian_jianzhu.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b1
+  rotate: false
+  xy: 130, 206
+  size: 92, 91
+  orig: 94, 93
+  offset: 1, 1
+  index: -1
+b2
+  rotate: false
+  xy: 2, 79
+  size: 100, 94
+  orig: 102, 96
+  offset: 1, 1
+  index: -1
+b3
+  rotate: false
+  xy: 2, 175
+  size: 126, 122
+  orig: 128, 124
+  offset: 1, 1
+  index: -1
+b4
+  rotate: false
+  xy: 648, 754
+  size: 86, 86
+  orig: 88, 88
+  offset: 1, 1
+  index: -1
+building
+  rotate: false
+  xy: 2, 299
+  size: 558, 541
+  orig: 560, 543
+  offset: 1, 1
+  index: -1
+chimney
+  rotate: false
+  xy: 2, 2
+  size: 45, 75
+  orig: 47, 77
+  offset: 1, 1
+  index: -1
+chimney2
+  rotate: true
+  xy: 562, 629
+  size: 90, 67
+  orig: 92, 69
+  offset: 1, 1
+  index: -1
+f1
+  rotate: false
+  xy: 562, 721
+  size: 84, 119
+  orig: 86, 121
+  offset: 1, 1
+  index: -1

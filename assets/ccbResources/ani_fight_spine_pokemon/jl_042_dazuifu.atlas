@@ -1,0 +1,181 @@
+
+jl_042_dazuifu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 471, 344
+  size: 211, 162
+  orig: 211, 162
+  offset: 0, 0
+  index: -1
+ALL1
+  rotate: false
+  xy: 253, 338
+  size: 216, 168
+  orig: 216, 168
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 617, 251
+  size: 61, 91
+  orig: 61, 91
+  offset: 0, 0
+  index: -1
+Ear_L
+  rotate: false
+  xy: 926, 344
+  size: 14, 14
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+Ear_R
+  rotate: true
+  xy: 231, 299
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 97, 32
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: false
+  xy: 525, 207
+  size: 41, 14
+  orig: 41, 14
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 64, 12
+  size: 31, 31
+  orig: 39, 31
+  offset: 8, 0
+  index: -1
+Foot_R
+  rotate: true
+  xy: 910, 360
+  size: 22, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 833, 297
+  size: 61, 91
+  orig: 61, 91
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 617, 235
+  size: 18, 14
+  orig: 22, 20
+  offset: 0, 3
+  index: -1
+Leg_R
+  rotate: false
+  xy: 1007, 486
+  size: 15, 20
+  orig: 17, 26
+  offset: 2, 4
+  index: -1
+Mouth
+  rotate: true
+  xy: 2, 2
+  size: 41, 60
+  orig: 41, 60
+  offset: 0, 0
+  index: -1
+Wing_L
+  rotate: false
+  xy: 525, 223
+  size: 90, 119
+  orig: 92, 119
+  offset: 2, 0
+  index: -1
+Wing_LD
+  rotate: false
+  xy: 448, 196
+  size: 75, 140
+  orig: 76, 140
+  offset: 1, 0
+  index: -1
+Wing_R
+  rotate: false
+  xy: 910, 384
+  size: 95, 122
+  orig: 95, 122
+  offset: 0, 0
+  index: -1
+Wing_RD
+  rotate: true
+  xy: 684, 291
+  size: 67, 147
+  orig: 68, 147
+  offset: 1, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 952, 369
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 952, 369
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 952, 369
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_015_lv1_dazuifu-0004_shouji1_3
+  rotate: false
+  xy: 253, 209
+  size: 193, 127
+  orig: 193, 127
+  offset: 0, 0
+  index: -1
+jl_015_lv1_dazuifu-0005_shouji2_3
+  rotate: false
+  xy: 684, 360
+  size: 224, 146
+  orig: 224, 146
+  offset: 0, 0
+  index: -1
+jl_015_lv1_dazuifu-0006_siwang_10
+  rotate: false
+  xy: 2, 45
+  size: 230, 97
+  orig: 230, 97
+  offset: 0, 0
+  index: -1
+jl_015_lv1_dazuifu-0014_leiji_3
+  rotate: false
+  xy: 2, 320
+  size: 249, 186
+  orig: 249, 186
+  offset: 0, 0
+  index: -1
+jl_015_lv1_dazuifu-0014_leiji_4
+  rotate: false
+  xy: 2, 144
+  size: 227, 174
+  orig: 277, 213
+  offset: 14, 33
+  index: -1

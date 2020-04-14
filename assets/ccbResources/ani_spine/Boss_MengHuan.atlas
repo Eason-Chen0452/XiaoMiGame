@@ -1,0 +1,132 @@
+
+Boss_MengHuan.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 274, 817
+  size: 223, 194
+  orig: 225, 196
+  offset: 1, 1
+  index: -1
+arm_r
+  rotate: true
+  xy: 469, 748
+  size: 67, 27
+  orig: 76, 30
+  offset: 8, 2
+  index: -1
+body
+  rotate: false
+  xy: 2, 208
+  size: 197, 268
+  orig: 199, 270
+  offset: 1, 1
+  index: -1
+ear_l
+  rotate: true
+  xy: 332, 22
+  size: 55, 98
+  orig: 57, 100
+  offset: 1, 1
+  index: -1
+ear_r
+  rotate: false
+  xy: 454, 99
+  size: 51, 77
+  orig: 53, 79
+  offset: 1, 1
+  index: -1
+eye_light
+  rotate: true
+  xy: 201, 197
+  size: 279, 63
+  orig: 279, 63
+  offset: 0, 0
+  index: -1
+finger_l
+  rotate: false
+  xy: 266, 419
+  size: 64, 57
+  orig: 66, 59
+  offset: 1, 1
+  index: -1
+finger_r
+  rotate: true
+  xy: 445, 254
+  size: 47, 65
+  orig: 49, 67
+  offset: 1, 1
+  index: -1
+foot_l
+  rotate: false
+  xy: 274, 658
+  size: 193, 157
+  orig: 195, 159
+  offset: 1, 1
+  index: -1
+foot_r
+  rotate: false
+  xy: 2, 17
+  size: 197, 189
+  orig: 199, 191
+  offset: 1, 1
+  index: -1
+forearm_r
+  rotate: false
+  xy: 266, 218
+  size: 177, 148
+  orig: 189, 150
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 332, 79
+  size: 120, 137
+  orig: 122, 139
+  offset: 1, 1
+  index: -1
+leg_l
+  rotate: false
+  xy: 201, 2
+  size: 129, 193
+  orig: 131, 195
+  offset: 1, 1
+  index: -1
+leg_r
+  rotate: true
+  xy: 332, 368
+  size: 139, 178
+  orig: 141, 180
+  offset: 1, 1
+  index: -1
+tail
+  rotate: true
+  xy: 2, 478
+  size: 533, 270
+  orig: 535, 272
+  offset: 1, 1
+  index: -1
+tail2
+  rotate: false
+  xy: 274, 509
+  size: 190, 147
+  orig: 192, 149
+  offset: 1, 1
+  index: -1
+toes_l
+  rotate: true
+  xy: 454, 178
+  size: 74, 55
+  orig: 78, 57
+  offset: 3, 1
+  index: -1
+toes_r
+  rotate: true
+  xy: 445, 303
+  size: 63, 65
+  orig: 65, 67
+  offset: 1, 1
+  index: -1

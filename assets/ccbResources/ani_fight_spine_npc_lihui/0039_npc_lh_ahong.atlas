@@ -1,0 +1,13 @@
+
+0039_npc_lh_ahong.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0039_npc_lh_ahong
+  rotate: false
+  xy: 2, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1

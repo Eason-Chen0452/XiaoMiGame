@@ -1,0 +1,216 @@
+
+jl_020_lada.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Beard_L_01
+  rotate: false
+  xy: 751, 311
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+Beard_L_02
+  rotate: true
+  xy: 175, 57
+  size: 22, 8
+  orig: 22, 8
+  offset: 0, 0
+  index: -1
+Beard_L_03
+  rotate: false
+  xy: 967, 403
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Beard_R_01
+  rotate: false
+  xy: 967, 447
+  size: 44, 15
+  orig: 44, 15
+  offset: 0, 0
+  index: -1
+Beard_R_02
+  rotate: true
+  xy: 1013, 424
+  size: 38, 9
+  orig: 38, 12
+  offset: 0, 0
+  index: -1
+Beard_R_03
+  rotate: true
+  xy: 720, 274
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+Blur_Die
+  rotate: false
+  xy: 617, 353
+  size: 228, 152
+  orig: 228, 155
+  offset: 0, 3
+  index: -1
+Blur_Hit
+  rotate: true
+  xy: 2, 81
+  size: 225, 182
+  orig: 227, 182
+  offset: 0, 0
+  index: -1
+Blur_Hit2
+  rotate: false
+  xy: 215, 309
+  size: 199, 196
+  orig: 200, 197
+  offset: 0, 1
+  index: -1
+Blur_Hit3
+  rotate: false
+  xy: 416, 310
+  size: 199, 195
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 2, 308
+  size: 211, 197
+  orig: 212, 198
+  offset: 0, 1
+  index: -1
+Body
+  rotate: false
+  xy: 847, 390
+  size: 118, 115
+  orig: 118, 116
+  offset: 0, 0
+  index: -1
+Ear_L
+  rotate: false
+  xy: 720, 311
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+Ear_R
+  rotate: false
+  xy: 129, 36
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 903, 363
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+Eye1
+  rotate: false
+  xy: 967, 425
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 742, 289
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: true
+  xy: 186, 256
+  size: 50, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: false
+  xy: 967, 464
+  size: 54, 41
+  orig: 54, 41
+  offset: 0, 0
+  index: -1
+Gu
+  rotate: true
+  xy: 129, 13
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 751, 332
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 186, 222
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 617, 259
+  size: 92, 101
+  orig: 92, 101
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: true
+  xy: 847, 353
+  size: 35, 54
+  orig: 35, 54
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 2, 2
+  size: 77, 125
+  orig: 77, 125
+  offset: 0, 0
+  index: -1
+Teeth_D
+  rotate: false
+  xy: 186, 192
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+Teeth_U
+  rotate: true
+  xy: 939, 366
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 998, 432
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 998, 432
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 998, 432
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1

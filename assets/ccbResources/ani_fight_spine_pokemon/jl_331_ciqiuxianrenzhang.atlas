@@ -1,0 +1,97 @@
+
+jl_331_ciqiuxianrenzhang.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: false
+  xy: 563, 148
+  size: 100, 90
+  orig: 100, 90
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 462, 146
+  size: 99, 92
+  orig: 99, 92
+  offset: 0, 0
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 2, 27
+  size: 306, 211
+  orig: 306, 211
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 310, 66
+  size: 150, 172
+  orig: 150, 172
+  offset: 0, 0
+  index: -1
+Eye1_L
+  rotate: false
+  xy: 665, 181
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+Eye1_R
+  rotate: false
+  xy: 462, 82
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: false
+  xy: 310, 43
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: false
+  xy: 2, 2
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 509, 94
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 462, 93
+  size: 45, 51
+  orig: 45, 51
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 665, 192
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+buff_mid
+  rotate: false
+  xy: 665, 192
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+buff_up
+  rotate: false
+  xy: 665, 192
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1

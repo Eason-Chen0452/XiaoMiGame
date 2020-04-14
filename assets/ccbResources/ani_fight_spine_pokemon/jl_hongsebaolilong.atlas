@@ -1,0 +1,209 @@
+
+jl_hongsebaolilong.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 506, 124
+  size: 209, 186
+  orig: 209, 186
+  offset: 0, 0
+  index: -1
+ALL1
+  rotate: false
+  xy: 506, 312
+  size: 217, 194
+  orig: 217, 194
+  offset: 0, 0
+  index: -1
+Beard_L
+  rotate: false
+  xy: 903, 263
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+Beard_R
+  rotate: false
+  xy: 253, 142
+  size: 26, 53
+  orig: 26, 53
+  offset: 0, 0
+  index: -1
+Blur_Die
+  rotate: false
+  xy: 286, 132
+  size: 216, 176
+  orig: 216, 176
+  offset: 0, 0
+  index: -1
+Blur_Hit
+  rotate: false
+  xy: 286, 310
+  size: 218, 196
+  orig: 218, 196
+  offset: 0, 0
+  index: -1
+Blur_Hit2
+  rotate: false
+  xy: 725, 309
+  size: 215, 197
+  orig: 215, 197
+  offset: 0, 0
+  index: -1
+Blur_Hit3
+  rotate: false
+  xy: 2, 246
+  size: 282, 260
+  orig: 282, 260
+  offset: 0, 0
+  index: -1
+Body_01
+  rotate: false
+  xy: 717, 233
+  size: 86, 74
+  orig: 86, 74
+  offset: 0, 0
+  index: -1
+Body_02
+  rotate: true
+  xy: 942, 347
+  size: 57, 80
+  orig: 57, 80
+  offset: 0, 0
+  index: -1
+Body_03
+  rotate: false
+  xy: 717, 182
+  size: 83, 49
+  orig: 83, 49
+  offset: 0, 0
+  index: -1
+Ear_L
+  rotate: false
+  xy: 868, 259
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+Ear_R
+  rotate: false
+  xy: 805, 251
+  size: 61, 56
+  orig: 61, 56
+  offset: 0, 0
+  index: -1
+Eye1_R
+  rotate: true
+  xy: 253, 6
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 805, 233
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: true
+  xy: 253, 102
+  size: 38, 17
+  orig: 38, 17
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: true
+  xy: 995, 315
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: false
+  xy: 995, 325
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+Gu
+  rotate: false
+  xy: 2, 2
+  size: 249, 242
+  orig: 297, 260
+  offset: 15, 6
+  index: -1
+Head
+  rotate: false
+  xy: 942, 406
+  size: 80, 100
+  orig: 80, 100
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: true
+  xy: 942, 310
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+Qi
+  rotate: false
+  xy: 253, 197
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+Qi2
+  rotate: false
+  xy: 780, 139
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+Qi3
+  rotate: true
+  xy: 253, 64
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+Qi4
+  rotate: false
+  xy: 253, 33
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 717, 139
+  size: 41, 61
+  orig: 41, 61
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 717, 124
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 717, 124
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 717, 124
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1

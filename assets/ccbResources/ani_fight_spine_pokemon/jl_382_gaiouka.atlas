@@ -1,0 +1,300 @@
+
+jl_382_gaiouka.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eye2
+  rotate: true
+  xy: 395, 780
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+all
+  rotate: true
+  xy: 2, 338
+  size: 440, 176
+  orig: 440, 176
+  offset: 0, 0
+  index: -1
+bowen/bowen_000
+  rotate: false
+  xy: 580, 441
+  size: 246, 41
+  orig: 300, 300
+  offset: 25, 123
+  index: -1
+bowen/bowen_001
+  rotate: true
+  xy: 258, 128
+  size: 248, 41
+  orig: 300, 300
+  offset: 25, 123
+  index: -1
+bowen/bowen_002
+  rotate: true
+  xy: 171, 86
+  size: 250, 41
+  orig: 300, 300
+  offset: 25, 123
+  index: -1
+bowen/bowen_003
+  rotate: true
+  xy: 214, 128
+  size: 248, 42
+  orig: 300, 300
+  offset: 27, 123
+  index: -1
+bowen/bowen_004
+  rotate: false
+  xy: 580, 484
+  size: 245, 42
+  orig: 300, 300
+  offset: 29, 123
+  index: -1
+bowen/bowen_005
+  rotate: false
+  xy: 537, 357
+  size: 242, 40
+  orig: 300, 300
+  offset: 31, 125
+  index: -1
+bowen/bowen_006
+  rotate: false
+  xy: 537, 274
+  size: 245, 39
+  orig: 300, 300
+  offset: 30, 126
+  index: -1
+bowen/bowen_007
+  rotate: false
+  xy: 537, 234
+  size: 248, 38
+  orig: 300, 300
+  offset: 28, 126
+  index: -1
+bowen/bowen_008
+  rotate: false
+  xy: 528, 399
+  size: 247, 40
+  orig: 300, 300
+  offset: 28, 125
+  index: -1
+bowen/bowen_009
+  rotate: false
+  xy: 537, 315
+  size: 244, 40
+  orig: 300, 300
+  offset: 28, 124
+  index: -1
+buff_flo
+  rotate: false
+  xy: 701, 120
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 701, 120
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 701, 120
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+gaiouka_biyani_01
+  rotate: false
+  xy: 180, 350
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+gaiouka_chibang_01
+  rotate: false
+  xy: 301, 208
+  size: 139, 166
+  orig: 139, 166
+  offset: 0, 0
+  index: -1
+gaiouka_chibang_02
+  rotate: false
+  xy: 786, 559
+  size: 139, 167
+  orig: 139, 167
+  offset: 0, 0
+  index: -1
+gaiouka_chibang_03
+  rotate: false
+  xy: 447, 71
+  size: 138, 137
+  orig: 138, 137
+  offset: 0, 0
+  index: -1
+gaiouka_chibang_04
+  rotate: true
+  xy: 301, 87
+  size: 119, 144
+  orig: 119, 144
+  offset: 0, 0
+  index: -1
+gaiouka_chibang_05
+  rotate: false
+  xy: 334, 376
+  size: 192, 97
+  orig: 192, 97
+  offset: 0, 0
+  index: -1
+gaiouka_chibang_06
+  rotate: true
+  xy: 927, 556
+  size: 170, 53
+  orig: 170, 53
+  offset: 0, 0
+  index: -1
+gaiouka_shenzi_01
+  rotate: false
+  xy: 587, 59
+  size: 96, 57
+  orig: 96, 57
+  offset: 0, 0
+  index: -1
+gaiouka_tou_01
+  rotate: true
+  xy: 442, 210
+  size: 164, 93
+  orig: 164, 93
+  offset: 0, 0
+  index: -1
+gaiouka_tou_02
+  rotate: false
+  xy: 920, 500
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+gaiouka_weiba_01
+  rotate: true
+  xy: 982, 573
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+gaiouka_weiba_02
+  rotate: true
+  xy: 171, 14
+  size: 70, 28
+  orig: 70, 28
+  offset: 0, 0
+  index: -1
+gaiouka_yan_01
+  rotate: false
+  xy: 537, 212
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+gaiouka_yuqi_01
+  rotate: true
+  xy: 528, 441
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+gaiouka_yuqi_02
+  rotate: false
+  xy: 777, 406
+  size: 56, 33
+  orig: 56, 33
+  offset: 0, 0
+  index: -1
+gaiouka_yuqi_03
+  rotate: true
+  xy: 982, 671
+  size: 55, 40
+  orig: 55, 40
+  offset: 0, 0
+  index: -1
+gaiouka_zui_01
+  rotate: false
+  xy: 214, 75
+  size: 84, 51
+  orig: 84, 51
+  offset: 0, 0
+  index: -1
+jianbian
+  rotate: true
+  xy: 827, 507
+  size: 50, 91
+  orig: 50, 150
+  offset: 0, 0
+  index: -1
+jl_094_gaiouka-0004_shouji1_3
+  rotate: false
+  xy: 395, 801
+  size: 391, 221
+  orig: 391, 221
+  offset: 0, 0
+  index: -1
+jl_094_gaiouka-0005_shouji2_3
+  rotate: false
+  xy: 2, 780
+  size: 391, 242
+  orig: 391, 242
+  offset: 0, 0
+  index: -1
+jl_094_gaiouka-0014_leiji_3
+  rotate: true
+  xy: 334, 475
+  size: 303, 244
+  orig: 303, 244
+  offset: 0, 0
+  index: -1
+jl_094_gaiouka-0014_leiji_4
+  rotate: true
+  xy: 580, 528
+  size: 271, 204
+  orig: 271, 204
+  offset: 0, 0
+  index: -1
+jl_094_gaiouka-0023_shifa1_9
+  rotate: false
+  xy: 2, 16
+  size: 167, 320
+  orig: 167, 320
+  offset: 0, 0
+  index: -1
+jl_094_gaiouka-0024_shifa2_1
+  rotate: true
+  xy: 180, 378
+  size: 400, 152
+  orig: 400, 152
+  offset: 0, 0
+  index: -1
+jl_094_gaiouka-1_0
+  rotate: true
+  xy: 788, 728
+  size: 294, 208
+  orig: 298, 212
+  offset: 0, 2
+  index: -1
+light01
+  rotate: false
+  xy: 587, 118
+  size: 112, 114
+  orig: 128, 128
+  offset: 8, 7
+  index: -1
+pp2
+  rotate: false
+  xy: 701, 138
+  size: 94, 94
+  orig: 130, 130
+  offset: 18, 18
+  index: -1

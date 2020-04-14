@@ -1,0 +1,69 @@
+
+jl_120_haixingxing.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blur_Show
+  rotate: true
+  xy: 362, 51
+  size: 169, 174
+  orig: 169, 174
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 538, 59
+  size: 154, 161
+  orig: 154, 161
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 839, 207
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 839, 207
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 839, 207
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+eye
+  rotate: false
+  xy: 2, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+jl_044_lv0_haixingxing_shouji1
+  rotate: false
+  xy: 2, 39
+  size: 172, 181
+  orig: 172, 181
+  offset: 0, 0
+  index: -1
+jl_haixingxing_leiji
+  rotate: true
+  xy: 176, 53
+  size: 167, 184
+  orig: 167, 184
+  offset: 0, 0
+  index: -1
+jl_haixingxing_shouji2
+  rotate: false
+  xy: 694, 71
+  size: 143, 149
+  orig: 143, 149
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+jl_131_lapulasi.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 499, 315
+  size: 192, 186
+  orig: 192, 186
+  offset: 0, 0
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 2, 152
+  size: 204, 201
+  orig: 204, 201
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 895, 372
+  size: 129, 110
+  orig: 129, 110
+  offset: 0, 0
+  index: -1
+Ear_L
+  rotate: false
+  xy: 643, 284
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Ear_R
+  rotate: false
+  xy: 556, 244
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 267, 335
+  size: 19, 18
+  orig: 20, 19
+  offset: 1, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 2, 2
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: true
+  xy: 267, 315
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: false
+  xy: 208, 325
+  size: 57, 28
+  orig: 57, 28
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 895, 340
+  size: 54, 30
+  orig: 54, 30
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 556, 276
+  size: 85, 37
+  orig: 86, 37
+  offset: 1, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 21
+  size: 62, 54
+  orig: 62, 54
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 163, 125
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: true
+  xy: 2, 77
+  size: 73, 159
+  orig: 74, 159
+  offset: 1, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 1007, 488
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 1007, 488
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 1007, 488
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_lapulasi_leiji
+  rotate: true
+  xy: 693, 328
+  size: 173, 200
+  orig: 173, 200
+  offset: 0, 0
+  index: -1
+jl_lapulasi_shouji1
+  rotate: true
+  xy: 208, 128
+  size: 185, 186
+  orig: 185, 186
+  offset: 0, 0
+  index: -1
+jl_lapulasi_shouji2
+  rotate: true
+  xy: 288, 315
+  size: 186, 209
+  orig: 186, 209
+  offset: 0, 0
+  index: -1
+jl_lapulasi_siwang
+  rotate: false
+  xy: 2, 355
+  size: 284, 146
+  orig: 284, 146
+  offset: 0, 0
+  index: -1
+leiji
+  rotate: false
+  xy: 396, 133
+  size: 158, 180
+  orig: 203, 218
+  offset: 12, 22
+  index: -1

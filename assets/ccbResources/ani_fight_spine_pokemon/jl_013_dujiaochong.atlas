@@ -1,0 +1,188 @@
+
+jl_013_dujiaochong.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blur_Die
+  rotate: false
+  xy: 204, 170
+  size: 186, 84
+  orig: 196, 103
+  offset: 0, 7
+  index: -1
+Blur_Hit
+  rotate: false
+  xy: 215, 32
+  size: 119, 136
+  orig: 121, 138
+  offset: 1, 1
+  index: -1
+Blur_Hit2
+  rotate: true
+  xy: 392, 172
+  size: 82, 140
+  orig: 83, 141
+  offset: 0, 0
+  index: -1
+Blur_Hit3
+  rotate: false
+  xy: 122, 2
+  size: 91, 166
+  orig: 92, 176
+  offset: 1, 7
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 2, 9
+  size: 118, 160
+  orig: 119, 161
+  offset: 0, 0
+  index: -1
+Blur_Skill
+  rotate: false
+  xy: 2, 171
+  size: 200, 83
+  orig: 203, 90
+  offset: 0, 0
+  index: -1
+Body_01
+  rotate: false
+  xy: 336, 124
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+Body_02
+  rotate: false
+  xy: 336, 88
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+Body_03
+  rotate: false
+  xy: 804, 222
+  size: 39, 32
+  orig: 44, 32
+  offset: 5, 0
+  index: -1
+Body_04
+  rotate: false
+  xy: 336, 52
+  size: 31, 34
+  orig: 34, 35
+  offset: 0, 1
+  index: -1
+Body_05
+  rotate: false
+  xy: 872, 227
+  size: 25, 27
+  orig: 27, 29
+  offset: 1, 1
+  index: -1
+Body_06
+  rotate: false
+  xy: 845, 224
+  size: 25, 30
+  orig: 26, 31
+  offset: 1, 1
+  index: -1
+Eye1_L
+  rotate: false
+  xy: 369, 78
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Eye1_R
+  rotate: true
+  xy: 379, 111
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+Eye2_L
+  rotate: false
+  xy: 534, 174
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Eye2_R
+  rotate: false
+  xy: 767, 186
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: false
+  xy: 255, 19
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: false
+  xy: 336, 38
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+Gu
+  rotate: true
+  xy: 534, 190
+  size: 64, 142
+  orig: 89, 176
+  offset: 7, 23
+  index: -1
+Head
+  rotate: true
+  xy: 678, 184
+  size: 70, 87
+  orig: 72, 88
+  offset: 0, 0
+  index: -1
+Jiao
+  rotate: false
+  xy: 767, 206
+  size: 35, 48
+  orig: 36, 48
+  offset: 1, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 899, 233
+  size: 30, 21
+  orig: 32, 22
+  offset: 1, 1
+  index: -1
+Tail
+  rotate: true
+  xy: 215, 11
+  size: 19, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 804, 207
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 804, 207
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 804, 207
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1

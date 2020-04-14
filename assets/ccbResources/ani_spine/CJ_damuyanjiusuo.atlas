@@ -1,0 +1,41 @@
+
+CJ_damuyanjiusuo.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boli
+  rotate: false
+  xy: 2, 25
+  size: 472, 455
+  orig: 480, 496
+  offset: 2, 5
+  index: -1
+boli1
+  rotate: false
+  xy: 481, 794
+  size: 286, 179
+  orig: 286, 179
+  offset: 0, 0
+  index: -1
+damuboshiyanjiusuo_001
+  rotate: false
+  xy: 2, 482
+  size: 477, 491
+  orig: 480, 496
+  offset: 2, 0
+  index: -1
+fengche
+  rotate: false
+  xy: 481, 660
+  size: 131, 132
+  orig: 133, 134
+  offset: 1, 1
+  index: -1
+fengche1
+  rotate: false
+  xy: 2, 2
+  size: 16, 21
+  orig: 18, 23
+  offset: 1, 1
+  index: -1

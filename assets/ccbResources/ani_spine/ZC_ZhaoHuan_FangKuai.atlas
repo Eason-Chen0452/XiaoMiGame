@@ -1,0 +1,62 @@
+
+ZC_ZhaoHuan_FangKuai.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02-fangkuai01
+  rotate: false
+  xy: 138, 49
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+02-fangkuai02
+  rotate: false
+  xy: 2, 2
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+02-fangkuai03
+  rotate: false
+  xy: 216, 85
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+02-fangkuai04
+  rotate: false
+  xy: 47, 18
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+02-fangkuai05
+  rotate: false
+  xy: 138, 74
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+02-fangkuai06
+  rotate: false
+  xy: 182, 84
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+02-fangkuai07
+  rotate: false
+  xy: 2, 47
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+02-fangkuai08
+  rotate: false
+  xy: 73, 53
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1

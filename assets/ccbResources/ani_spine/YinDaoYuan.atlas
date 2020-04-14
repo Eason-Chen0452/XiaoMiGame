@@ -1,0 +1,160 @@
+
+YinDaoYuan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bracelet
+  rotate: false
+  xy: 317, 198
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+Breast
+  rotate: false
+  xy: 509, 14
+  size: 116, 64
+  orig: 116, 64
+  offset: 0, 0
+  index: -1
+Collar_L
+  rotate: false
+  xy: 627, 2
+  size: 79, 76
+  orig: 79, 76
+  offset: 0, 0
+  index: -1
+Collar_r
+  rotate: false
+  xy: 979, 416
+  size: 42, 66
+  orig: 42, 66
+  offset: 0, 0
+  index: -1
+arm_l
+  rotate: false
+  xy: 372, 72
+  size: 52, 147
+  orig: 52, 147
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: true
+  xy: 529, 128
+  size: 76, 118
+  orig: 76, 118
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 236, 16
+  size: 134, 170
+  orig: 141, 170
+  offset: 7, 0
+  index: -1
+forearm_r
+  rotate: true
+  xy: 529, 80
+  size: 46, 125
+  orig: 46, 125
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 686, 300
+  size: 66, 273
+  orig: 66, 273
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 465, 206
+  size: 87, 222
+  orig: 87, 222
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 317, 221
+  size: 146, 261
+  orig: 146, 261
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 2, 184
+  size: 191, 298
+  orig: 191, 298
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 195, 188
+  size: 120, 294
+  orig: 120, 294
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: true
+  xy: 2, 10
+  size: 172, 232
+  orig: 172, 232
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: true
+  xy: 785, 114
+  size: 62, 65
+  orig: 62, 65
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: true
+  xy: 708, 121
+  size: 55, 75
+  orig: 55, 75
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 689, 178
+  size: 171, 120
+  orig: 171, 120
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 862, 160
+  size: 108, 138
+  orig: 108, 138
+  offset: 0, 0
+  index: -1
+package
+  rotate: true
+  xy: 686, 368
+  size: 114, 291
+  orig: 114, 291
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: false
+  xy: 465, 295
+  size: 219, 187
+  orig: 219, 187
+  offset: 0, 0
+  index: -1
+thigh_1
+  rotate: true
+  xy: 426, 36
+  size: 65, 81
+  orig: 65, 81
+  offset: 0, 0
+  index: -1
+thigh_2
+  rotate: false
+  xy: 426, 103
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1

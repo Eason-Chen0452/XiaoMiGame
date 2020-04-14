@@ -1,0 +1,188 @@
+
+jl_463_dashetian.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 213, 298
+  size: 200, 212
+  orig: 200, 212
+  offset: 0, 0
+  index: -1
+ALL1
+  rotate: false
+  xy: 2, 71
+  size: 206, 218
+  orig: 206, 218
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: true
+  xy: 449, 83
+  size: 68, 32
+  orig: 68, 32
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 287, 29
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 361, 153
+  size: 143, 128
+  orig: 143, 128
+  offset: 0, 0
+  index: -1
+Eye1_L
+  rotate: false
+  xy: 541, 297
+  size: 12, 14
+  orig: 15, 17
+  offset: 3, 3
+  index: -1
+Eye1_R
+  rotate: false
+  xy: 334, 55
+  size: 18, 14
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 681, 317
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: false
+  xy: 618, 312
+  size: 61, 17
+  orig: 61, 17
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: false
+  xy: 491, 221
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: false
+  xy: 2, 2
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 491, 277
+  size: 48, 34
+  orig: 48, 35
+  offset: 0, 1
+  index: -1
+Head
+  rotate: false
+  xy: 361, 81
+  size: 86, 70
+  orig: 86, 75
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 491, 237
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 188, 20
+  size: 45, 49
+  orig: 47, 52
+  offset: 0, 0
+  index: -1
+Leg_R_run
+  rotate: true
+  xy: 235, 25
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 100, 19
+  size: 86, 50
+  orig: 86, 50
+  offset: 0, 0
+  index: -1
+Tongue
+  rotate: false
+  xy: 2, 17
+  size: 96, 52
+  orig: 96, 52
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 415, 298
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 415, 298
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 415, 298
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_038_lv1_dashetian-0004_shouji1_3
+  rotate: false
+  xy: 415, 313
+  size: 201, 197
+  orig: 201, 197
+  offset: 0, 0
+  index: -1
+jl_038_lv1_dashetian-0005_shouji2_3
+  rotate: true
+  xy: 618, 331
+  size: 179, 209
+  orig: 179, 209
+  offset: 0, 0
+  index: -1
+jl_038_lv1_dashetian-0006_siwang_10
+  rotate: true
+  xy: 210, 71
+  size: 218, 149
+  orig: 218, 149
+  offset: 0, 0
+  index: -1
+jl_038_lv1_dashetian-0014_leiji_3
+  rotate: false
+  xy: 2, 291
+  size: 209, 219
+  orig: 209, 219
+  offset: 0, 0
+  index: -1
+jl_038_lv1_dashetian-0014_leiji_4
+  rotate: true
+  xy: 829, 315
+  size: 195, 192
+  orig: 221, 230
+  offset: 4, 5
+  index: -1

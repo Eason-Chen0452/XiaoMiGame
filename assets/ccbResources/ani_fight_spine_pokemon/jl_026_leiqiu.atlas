@@ -1,0 +1,335 @@
+
+jl_026_leiqiu.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+25eye
+  rotate: true
+  xy: 179, 145
+  size: 84, 26
+  orig: 84, 26
+  offset: 0, 0
+  index: -1
+25mouth
+  rotate: false
+  xy: 986, 935
+  size: 36, 13
+  orig: 36, 13
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: false
+  xy: 179, 105
+  size: 17, 38
+  orig: 17, 38
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 722, 793
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+Blur_Die
+  rotate: false
+  xy: 430, 835
+  size: 221, 187
+  orig: 221, 187
+  offset: 0, 0
+  index: -1
+Blur_Hit
+  rotate: false
+  xy: 2, 231
+  size: 206, 239
+  orig: 206, 239
+  offset: 0, 0
+  index: -1
+Blur_Hit2
+  rotate: true
+  xy: 2, 472
+  size: 266, 206
+  orig: 266, 206
+  offset: 0, 0
+  index: -1
+Blur_Hit3
+  rotate: false
+  xy: 2, 740
+  size: 212, 282
+  orig: 212, 282
+  offset: 0, 0
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 216, 784
+  size: 212, 238
+  orig: 212, 239
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 855, 922
+  size: 80, 100
+  orig: 80, 100
+  offset: 0, 0
+  index: -1
+Ear_L
+  rotate: false
+  xy: 210, 280
+  size: 38, 72
+  orig: 38, 72
+  offset: 0, 0
+  index: -1
+Ear_R
+  rotate: false
+  xy: 210, 354
+  size: 58, 64
+  orig: 59, 65
+  offset: 1, 0
+  index: -1
+Eye1_L
+  rotate: true
+  xy: 848, 873
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+Eye1_R
+  rotate: true
+  xy: 159, 2
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 250, 337
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: true
+  xy: 986, 923
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: false
+  xy: 143, 2
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 100, 2
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+Foot_L1
+  rotate: true
+  xy: 254, 609
+  size: 56, 43
+  orig: 56, 43
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: true
+  xy: 937, 923
+  size: 25, 47
+  orig: 25, 47
+  offset: 0, 0
+  index: -1
+Foot_R1
+  rotate: false
+  xy: 210, 488
+  size: 47, 80
+  orig: 47, 81
+  offset: 0, 1
+  index: -1
+Gu
+  rotate: false
+  xy: 2, 41
+  size: 175, 188
+  orig: 175, 188
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 937, 950
+  size: 78, 72
+  orig: 78, 72
+  offset: 0, 0
+  index: -1
+Head2
+  rotate: false
+  xy: 210, 667
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 210, 231
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+Leg_L1
+  rotate: false
+  xy: 855, 871
+  size: 58, 49
+  orig: 59, 49
+  offset: 1, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 207, 173
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+Leg_R1
+  rotate: false
+  xy: 210, 420
+  size: 47, 66
+  orig: 47, 66
+  offset: 0, 0
+  index: -1
+Light
+  rotate: true
+  xy: 430, 780
+  size: 53, 96
+  orig: 53, 96
+  offset: 0, 0
+  index: -1
+M_01
+  rotate: true
+  xy: 915, 894
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+M_02
+  rotate: false
+  xy: 254, 599
+  size: 30, 8
+  orig: 30, 8
+  offset: 0, 0
+  index: -1
+M_03
+  rotate: true
+  xy: 412, 747
+  size: 35, 11
+  orig: 35, 11
+  offset: 0, 0
+  index: -1
+M_04
+  rotate: false
+  xy: 143, 18
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+M_05
+  rotate: false
+  xy: 289, 712
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 1017, 1017
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 653, 885
+  size: 200, 137
+  orig: 200, 138
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 207, 158
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 207, 158
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 207, 158
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+shandian02/shandian02_01
+  rotate: true
+  xy: 750, 838
+  size: 45, 96
+  orig: 48, 96
+  offset: 3, 0
+  index: -1
+shandian02/shandian02_02
+  rotate: true
+  xy: 625, 788
+  size: 45, 95
+  orig: 48, 96
+  offset: 0, 0
+  index: -1
+shandian02/shandian02_03
+  rotate: true
+  xy: 216, 739
+  size: 43, 96
+  orig: 48, 96
+  offset: 4, 0
+  index: -1
+shandian02/shandian02_04
+  rotate: true
+  xy: 314, 741
+  size: 41, 96
+  orig: 48, 96
+  offset: 6, 0
+  index: -1
+shandian02/shandian02_05
+  rotate: true
+  xy: 528, 786
+  size: 47, 95
+  orig: 48, 96
+  offset: 1, 0
+  index: -1
+shandian02/shandian02_06
+  rotate: false
+  xy: 210, 570
+  size: 42, 95
+  orig: 48, 96
+  offset: 6, 0
+  index: -1
+shandian02/shandian02_07
+  rotate: true
+  xy: 2, 2
+  size: 37, 96
+  orig: 48, 96
+  offset: 11, 0
+  index: -1
+shandian02/shandian02_08
+  rotate: true
+  xy: 653, 835
+  size: 48, 95
+  orig: 48, 96
+  offset: 0, 0
+  index: -1

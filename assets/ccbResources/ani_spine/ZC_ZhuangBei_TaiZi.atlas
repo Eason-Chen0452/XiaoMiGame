@@ -1,0 +1,55 @@
+
+ZC_ZhuangBei_TaiZi.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ll
+  rotate: false
+  xy: 2, 2
+  size: 45, 27
+  orig: 80, 40
+  offset: 17, 7
+  index: -1
+slb
+  rotate: false
+  xy: 793, 153
+  size: 206, 84
+  orig: 208, 86
+  offset: 1, 1
+  index: -1
+slbc
+  rotate: false
+  xy: 2, 131
+  size: 292, 106
+  orig: 294, 108
+  offset: 1, 1
+  index: -1
+slc
+  rotate: false
+  xy: 296, 164
+  size: 268, 73
+  orig: 270, 75
+  offset: 1, 1
+  index: -1
+stage1
+  rotate: false
+  xy: 566, 137
+  size: 225, 100
+  orig: 227, 102
+  offset: 1, 1
+  index: -1
+stage2
+  rotate: false
+  xy: 2, 31
+  size: 264, 98
+  orig: 266, 100
+  offset: 1, 1
+  index: -1
+stage2b
+  rotate: false
+  xy: 296, 91
+  size: 216, 71
+  orig: 218, 73
+  offset: 1, 1
+  index: -1

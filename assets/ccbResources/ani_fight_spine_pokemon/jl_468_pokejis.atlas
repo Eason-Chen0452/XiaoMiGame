@@ -1,0 +1,160 @@
+
+jl_468_pokejis.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+070pokejisi-0014_leiji_3
+  rotate: false
+  xy: 2, 112
+  size: 194, 198
+  orig: 194, 198
+  offset: 0, 0
+  index: -1
+070pokejisi-0014_leiji_4
+  rotate: true
+  xy: 342, 709
+  size: 313, 358
+  orig: 313, 358
+  offset: 0, 0
+  index: -1
+Bip001 Eye
+  rotate: true
+  xy: 2, 2
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+Bip001 Eye1
+  rotate: false
+  xy: 15, 2
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+Bip001 L Foot
+  rotate: false
+  xy: 2, 11
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+Bip001 L Wind
+  rotate: false
+  xy: 702, 814
+  size: 75, 62
+  orig: 75, 62
+  offset: 0, 0
+  index: -1
+Bip001 Mouth
+  rotate: true
+  xy: 333, 648
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+Bip001 Ponytail1
+  rotate: false
+  xy: 944, 984
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+Bip001 Ponytail2
+  rotate: false
+  xy: 342, 675
+  size: 61, 32
+  orig: 61, 32
+  offset: 0, 0
+  index: -1
+Bip001 R Foot
+  rotate: false
+  xy: 198, 167
+  size: 16, 32
+  orig: 16, 33
+  offset: 0, 0
+  index: -1
+Bip001 R Wind
+  rotate: false
+  xy: 2, 45
+  size: 133, 65
+  orig: 133, 65
+  offset: 0, 0
+  index: -1
+Bip001 Spine
+  rotate: false
+  xy: 198, 201
+  size: 113, 109
+  orig: 113, 109
+  offset: 0, 0
+  index: -1
+Bip001 Tail
+  rotate: true
+  xy: 313, 277
+  size: 33, 14
+  orig: 33, 14
+  offset: 0, 0
+  index: -1
+Bip001 Tail1
+  rotate: false
+  xy: 137, 99
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+Bip001 Tail2
+  rotate: false
+  xy: 779, 863
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 702, 797
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+all
+  rotate: false
+  xy: 702, 878
+  size: 240, 144
+  orig: 240, 144
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 405, 694
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 405, 694
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 405, 694
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+ji_070_pokejisi-0004_shouji1_3
+  rotate: true
+  xy: 2, 312
+  size: 352, 329
+  orig: 352, 329
+  offset: 0, 0
+  index: -1
+ji_070_pokejisi-0005_shouji2_3
+  rotate: false
+  xy: 2, 666
+  size: 338, 356
+  orig: 338, 356
+  offset: 0, 0
+  index: -1

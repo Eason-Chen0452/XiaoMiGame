@@ -1,0 +1,174 @@
+
+jl_163_gugu.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blur_Die
+  rotate: false
+  xy: 464, 83
+  size: 140, 165
+  orig: 140, 165
+  offset: 0, 0
+  index: -1
+Blur_Hit
+  rotate: false
+  xy: 178, 75
+  size: 142, 173
+  orig: 142, 173
+  offset: 0, 0
+  index: -1
+Blur_Hit2
+  rotate: false
+  xy: 322, 75
+  size: 140, 173
+  orig: 140, 173
+  offset: 0, 0
+  index: -1
+Blur_Hit3
+  rotate: true
+  xy: 606, 120
+  size: 128, 171
+  orig: 128, 171
+  offset: 0, 0
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 2, 66
+  size: 174, 182
+  orig: 176, 184
+  offset: 1, 1
+  index: -1
+Body
+  rotate: false
+  xy: 779, 135
+  size: 104, 113
+  orig: 104, 113
+  offset: 0, 0
+  index: -1
+Eye1_L
+  rotate: false
+  xy: 779, 124
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+Eye1_R
+  rotate: false
+  xy: 2, 2
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 153, 50
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: false
+  xy: 756, 107
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: false
+  xy: 965, 151
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+Foot
+  rotate: false
+  xy: 606, 69
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: -1
+Gu
+  rotate: true
+  xy: 982, 172
+  size: 76, 40
+  orig: 76, 40
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 885, 136
+  size: 48, 26
+  orig: 48, 26
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 704, 86
+  size: 50, 32
+  orig: 51, 32
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 15
+  size: 88, 49
+  orig: 88, 49
+  offset: 0, 0
+  index: -1
+Head1
+  rotate: false
+  xy: 885, 164
+  size: 95, 84
+  orig: 95, 84
+  offset: 0, 0
+  index: -1
+Mei_L
+  rotate: false
+  xy: 664, 71
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+Mei_R
+  rotate: false
+  xy: 92, 6
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: true
+  xy: 935, 138
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 982, 129
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 704, 71
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 704, 71
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 704, 71
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1

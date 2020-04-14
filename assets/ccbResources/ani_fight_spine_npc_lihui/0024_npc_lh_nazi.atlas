@@ -1,0 +1,118 @@
+
+0024_npc_lh_nazi.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11
+  rotate: true
+  xy: 78, 9
+  size: 13, 30
+  orig: 15, 32
+  offset: 1, 1
+  index: -1
+12
+  rotate: false
+  xy: 2, 5
+  size: 74, 17
+  orig: 76, 19
+  offset: 1, 1
+  index: -1
+13
+  rotate: false
+  xy: 297, 367
+  size: 153, 139
+  orig: 155, 141
+  offset: 1, 1
+  index: -1
+14
+  rotate: false
+  xy: 404, 88
+  size: 73, 73
+  orig: 75, 75
+  offset: 1, 1
+  index: -1
+15
+  rotate: false
+  xy: 310, 53
+  size: 85, 72
+  orig: 87, 74
+  offset: 1, 1
+  index: -1
+16
+  rotate: true
+  xy: 448, 284
+  size: 81, 62
+  orig: 83, 64
+  offset: 1, 1
+  index: -1
+17
+  rotate: false
+  xy: 223, 74
+  size: 85, 117
+  orig: 87, 119
+  offset: 1, 1
+  index: -1
+18
+  rotate: true
+  xy: 404, 163
+  size: 76, 51
+  orig: 78, 53
+  offset: 1, 1
+  index: -1
+19
+  rotate: false
+  xy: 310, 127
+  size: 92, 112
+  orig: 94, 114
+  offset: 1, 1
+  index: -1
+21
+  rotate: false
+  xy: 297, 241
+  size: 149, 124
+  orig: 151, 126
+  offset: 1, 1
+  index: -1
+22
+  rotate: true
+  xy: 2, 24
+  size: 167, 219
+  orig: 169, 221
+  offset: 1, 1
+  index: -1
+23
+  rotate: false
+  xy: 307, 3
+  size: 86, 48
+  orig: 88, 50
+  offset: 1, 1
+  index: -1
+24
+  rotate: false
+  xy: 452, 380
+  size: 57, 126
+  orig: 59, 128
+  offset: 1, 1
+  index: -1
+25
+  rotate: false
+  xy: 223, 2
+  size: 82, 70
+  orig: 84, 72
+  offset: 1, 1
+  index: -1
+26
+  rotate: false
+  xy: 448, 243
+  size: 15, 39
+  orig: 17, 41
+  offset: 1, 1
+  index: -1
+27
+  rotate: false
+  xy: 2, 193
+  size: 293, 313
+  orig: 295, 315
+  offset: 1, 1
+  index: -1

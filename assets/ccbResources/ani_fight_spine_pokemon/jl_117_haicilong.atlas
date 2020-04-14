@@ -1,0 +1,132 @@
+
+jl_117_haicilong.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 2, 100
+  size: 212, 198
+  orig: 212, 199
+  offset: 0, 1
+  index: -1
+ALL1
+  rotate: false
+  xy: 2, 300
+  size: 216, 204
+  orig: 216, 204
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 2, 2
+  size: 96, 122
+  orig: 96, 122
+  offset: 0, 0
+  index: -1
+Ear_R
+  rotate: false
+  xy: 687, 263
+  size: 46, 47
+  orig: 46, 48
+  offset: 0, 1
+  index: -1
+Eye2
+  rotate: true
+  xy: 998, 356
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: false
+  xy: 735, 277
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+Eye_C1
+  rotate: true
+  xy: 775, 274
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 126, 6
+  size: 112, 92
+  orig: 116, 92
+  offset: 4, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 917, 317
+  size: 79, 66
+  orig: 80, 68
+  offset: 1, 1
+  index: -1
+Wing_L
+  rotate: true
+  xy: 608, 244
+  size: 66, 77
+  orig: 66, 77
+  offset: 0, 0
+  index: -1
+Wing_R
+  rotate: true
+  xy: 917, 385
+  size: 119, 104
+  orig: 119, 104
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 687, 248
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 687, 248
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 687, 248
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_042_lv1_haicilong-0004_shouji1_3
+  rotate: false
+  xy: 608, 312
+  size: 194, 192
+  orig: 194, 192
+  offset: 0, 0
+  index: -1
+jl_042_lv1_haicilong-0005_shouji2_3
+  rotate: false
+  xy: 220, 301
+  size: 194, 203
+  orig: 194, 203
+  offset: 0, 0
+  index: -1
+jl_042_lv1_haicilong-0014_leiji_3
+  rotate: false
+  xy: 416, 302
+  size: 190, 202
+  orig: 190, 202
+  offset: 0, 0
+  index: -1
+jl_042_lv1_haicilong-0014_leiji_4
+  rotate: false
+  xy: 804, 319
+  size: 111, 185
+  orig: 247, 217
+  offset: 75, 27
+  index: -1

@@ -1,0 +1,27 @@
+
+CJ_yunshi.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10001
+  rotate: false
+  xy: 482, 38
+  size: 96, 96
+  orig: 177, 177
+  offset: 43, 42
+  index: -1
+yuejianshanyunshi_001
+  rotate: false
+  xy: 2, 2
+  size: 478, 435
+  orig: 480, 480
+  offset: 0, 2
+  index: -1
+yuejianshanyunshi_001-01
+  rotate: false
+  xy: 482, 136
+  size: 344, 301
+  orig: 344, 301
+  offset: 0, 0
+  index: -1

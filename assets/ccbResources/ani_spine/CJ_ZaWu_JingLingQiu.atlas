@@ -1,0 +1,41 @@
+
+CJ_ZaWu_JingLingQiu.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball
+  rotate: false
+  xy: 2, 20
+  size: 88, 89
+  orig: 90, 91
+  offset: 1, 1
+  index: -1
+balls
+  rotate: false
+  xy: 92, 70
+  size: 81, 39
+  orig: 83, 41
+  offset: 1, 1
+  index: -1
+buff_flo
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1

@@ -1,0 +1,40 @@
+
+loading_adventure.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+P3B
+  rotate: false
+  xy: 414, 247
+  size: 538, 775
+  orig: 538, 775
+  offset: 0, 0
+  index: -1
+p3
+  rotate: false
+  xy: 2, 2
+  size: 410, 1020
+  orig: 410, 1020
+  offset: 0, 0
+  index: -1
+
+loading_adventure2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+p1
+  rotate: false
+  xy: 2, 2
+  size: 469, 758
+  orig: 469, 758
+  offset: 0, 0
+  index: -1
+p2
+  rotate: false
+  xy: 473, 313
+  size: 296, 447
+  orig: 296, 447
+  offset: 0, 0
+  index: -1

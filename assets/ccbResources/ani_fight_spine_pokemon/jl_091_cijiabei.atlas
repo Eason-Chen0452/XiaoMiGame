@@ -1,0 +1,146 @@
+
+jl_091_cijiabei.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 517, 305
+  size: 241, 202
+  orig: 241, 202
+  offset: 0, 0
+  index: -1
+ALL1
+  rotate: false
+  xy: 270, 300
+  size: 245, 207
+  orig: 245, 207
+  offset: 0, 0
+  index: -1
+Body_L
+  rotate: false
+  xy: 337, 38
+  size: 87, 116
+  orig: 87, 116
+  offset: 0, 0
+  index: -1
+Body_R
+  rotate: false
+  xy: 252, 31
+  size: 83, 123
+  orig: 83, 123
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 973, 351
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: true
+  xy: 973, 431
+  size: 76, 43
+  orig: 86, 74
+  offset: 10, 29
+  index: -1
+Eye_L
+  rotate: true
+  xy: 705, 194
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: false
+  xy: 426, 123
+  size: 36, 31
+  orig: 36, 32
+  offset: 0, 1
+  index: -1
+Head
+  rotate: false
+  xy: 642, 220
+  size: 86, 83
+  orig: 86, 83
+  offset: 0, 0
+  index: -1
+Jiao
+  rotate: true
+  xy: 730, 233
+  size: 70, 55
+  orig: 70, 56
+  offset: 0, 1
+  index: -1
+Ke_L
+  rotate: false
+  xy: 469, 126
+  size: 171, 172
+  orig: 172, 172
+  offset: 1, 0
+  index: -1
+Ke_R
+  rotate: true
+  xy: 270, 156
+  size: 142, 197
+  orig: 142, 197
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 642, 121
+  size: 61, 97
+  orig: 62, 98
+  offset: 1, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 2, 2
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 2, 2
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 2, 2
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_031_lv1_cijiabei-0004_shouji1_3
+  rotate: false
+  xy: 2, 271
+  size: 266, 236
+  orig: 266, 236
+  offset: 0, 0
+  index: -1
+jl_031_lv1_cijiabei-0005_shouji2_3
+  rotate: false
+  xy: 760, 317
+  size: 211, 190
+  orig: 211, 190
+  offset: 0, 0
+  index: -1
+jl_031_lv1_cijiabei-0014_leiji_3
+  rotate: false
+  xy: 2, 17
+  size: 248, 252
+  orig: 248, 252
+  offset: 0, 0
+  index: -1
+jl_031_lv1_cijiabei-0014_leiji_4
+  rotate: true
+  xy: 973, 377
+  size: 52, 47
+  orig: 317, 285
+  offset: 124, 119
+  index: -1

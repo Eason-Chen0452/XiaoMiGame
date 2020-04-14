@@ -1,0 +1,160 @@
+
+jl_092_guisi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 501, 753
+  size: 97, 95
+  orig: 97, 95
+  offset: 0, 0
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 386, 733
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 386, 636
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 2, 29
+  size: 87, 61
+  orig: 87, 61
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 91, 62
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: true
+  xy: 600, 759
+  size: 89, 49
+  orig: 89, 50
+  offset: 0, 0
+  index: -1
+Fire
+  rotate: true
+  xy: 2, 92
+  size: 188, 170
+  orig: 188, 170
+  offset: 0, 0
+  index: -1
+Fire_01
+  rotate: false
+  xy: 455, 850
+  size: 194, 170
+  orig: 194, 170
+  offset: 0, 0
+  index: -1
+Fire_02
+  rotate: false
+  xy: 235, 848
+  size: 218, 172
+  orig: 218, 173
+  offset: 0, 0
+  index: -1
+Fire_03
+  rotate: false
+  xy: 2, 843
+  size: 231, 177
+  orig: 232, 179
+  offset: 1, 1
+  index: -1
+Fire_04
+  rotate: true
+  xy: 220, 672
+  size: 169, 164
+  orig: 169, 165
+  offset: 0, 1
+  index: -1
+Fire_05
+  rotate: false
+  xy: 199, 474
+  size: 166, 173
+  orig: 167, 173
+  offset: 1, 0
+  index: -1
+Fire_06
+  rotate: false
+  xy: 651, 846
+  size: 179, 174
+  orig: 181, 176
+  offset: 1, 1
+  index: -1
+Fire_07
+  rotate: true
+  xy: 832, 849
+  size: 171, 178
+  orig: 171, 179
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 2, 2
+  size: 61, 25
+  orig: 62, 26
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 501, 738
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 501, 738
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 501, 738
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_032_lv0_guisi_shouji1
+  rotate: false
+  xy: 2, 470
+  size: 195, 177
+  orig: 195, 177
+  offset: 0, 0
+  index: -1
+jl_guisi_leiji
+  rotate: false
+  xy: 2, 282
+  size: 184, 186
+  orig: 184, 186
+  offset: 0, 0
+  index: -1
+jl_guisi_shouji2
+  rotate: false
+  xy: 2, 649
+  size: 216, 192
+  orig: 216, 192
+  offset: 0, 0
+  index: -1
+leiji
+  rotate: false
+  xy: 651, 782
+  size: 80, 62
+  orig: 226, 218
+  offset: 81, 78
+  index: -1

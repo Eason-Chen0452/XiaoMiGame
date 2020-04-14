@@ -1,0 +1,153 @@
+
+jl_069_labahua.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: true
+  xy: 422, 340
+  size: 170, 201
+  orig: 170, 201
+  offset: 0, 0
+  index: -1
+Blur_Show
+  rotate: true
+  xy: 207, 331
+  size: 179, 213
+  orig: 179, 213
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 810, 375
+  size: 99, 135
+  orig: 99, 135
+  offset: 0, 0
+  index: -1
+Eye2_L
+  rotate: false
+  xy: 360, 311
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+Eye2_R
+  rotate: false
+  xy: 970, 354
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: true
+  xy: 1000, 466
+  size: 44, 22
+  orig: 44, 22
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: false
+  xy: 360, 294
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: false
+  xy: 1000, 441
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 207, 280
+  size: 76, 49
+  orig: 76, 49
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 285, 273
+  size: 73, 56
+  orig: 73, 56
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2, 2
+  size: 93, 92
+  orig: 93, 92
+  offset: 0, 0
+  index: -1
+L
+  rotate: false
+  xy: 911, 375
+  size: 87, 135
+  orig: 87, 135
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 810, 311
+  size: 79, 62
+  orig: 80, 62
+  offset: 1, 0
+  index: -1
+R
+  rotate: true
+  xy: 96, 6
+  size: 89, 127
+  orig: 89, 127
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 970, 339
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 970, 339
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 970, 339
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_labahua_leiji
+  rotate: false
+  xy: 2, 311
+  size: 203, 199
+  orig: 203, 199
+  offset: 0, 0
+  index: -1
+jl_labahua_shouji1
+  rotate: false
+  xy: 2, 97
+  size: 190, 212
+  orig: 190, 212
+  offset: 0, 0
+  index: -1
+jl_labahua_shouji2
+  rotate: false
+  xy: 625, 336
+  size: 183, 174
+  orig: 183, 174
+  offset: 0, 0
+  index: -1
+leiji
+  rotate: false
+  xy: 891, 319
+  size: 77, 54
+  orig: 248, 240
+  offset: 95, 100
+  index: -1

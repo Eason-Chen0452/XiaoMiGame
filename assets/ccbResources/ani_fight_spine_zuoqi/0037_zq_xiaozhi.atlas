@@ -1,0 +1,181 @@
+
+0037_zq_xiaozhi.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0037_npc_xiaozhi-0003_siwang_0
+  rotate: false
+  xy: 2, 259
+  size: 90, 145
+  orig: 90, 145
+  offset: 0, 0
+  index: -1
+arm_l
+  rotate: true
+  xy: 307, 407
+  size: 30, 56
+  orig: 30, 56
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: true
+  xy: 425, 460
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 94, 302
+  size: 67, 102
+  orig: 67, 102
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 163, 304
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 163, 304
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 163, 304
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+crus_r
+  rotate: true
+  xy: 425, 415
+  size: 43, 60
+  orig: 43, 60
+  offset: 0, 0
+  index: -1
+eyes_1
+  rotate: true
+  xy: 2, 2
+  size: 67, 35
+  orig: 67, 35
+  offset: 0, 0
+  index: -1
+eyes_c
+  rotate: false
+  xy: 2, 123
+  size: 77, 39
+  orig: 77, 39
+  offset: 0, 0
+  index: -1
+foot_l
+  rotate: true
+  xy: 66, 71
+  size: 50, 31
+  orig: 50, 31
+  offset: 0, 0
+  index: -1
+forearm_l
+  rotate: false
+  xy: 77, 44
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+forearm_r
+  rotate: false
+  xy: 163, 322
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 39, 7
+  size: 36, 62
+  orig: 36, 62
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 365, 406
+  size: 58, 45
+  orig: 58, 45
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: false
+  xy: 365, 453
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: true
+  xy: 2, 164
+  size: 93, 82
+  orig: 93, 82
+  offset: 0, 0
+  index: -1
+hair5
+  rotate: false
+  xy: 307, 439
+  size: 56, 71
+  orig: 56, 71
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: false
+  xy: 163, 359
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 2, 406
+  size: 183, 104
+  orig: 183, 104
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 187, 411
+  size: 118, 99
+  orig: 118, 99
+  offset: 0, 0
+  index: -1
+hip
+  rotate: false
+  xy: 2, 71
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 487, 497
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 425, 406
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+thigh_r
+  rotate: true
+  xy: 94, 262
+  size: 38, 71
+  orig: 38, 71
+  offset: 0, 0
+  index: -1

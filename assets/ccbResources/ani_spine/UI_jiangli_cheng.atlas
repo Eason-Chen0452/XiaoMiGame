@@ -1,0 +1,82 @@
+
+UI_jiangli_cheng.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff/light_000
+  rotate: true
+  xy: 304, 24
+  size: 286, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+eff/light_001
+  rotate: false
+  xy: 604, 605
+  size: 291, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+eff/light_002
+  rotate: true
+  xy: 606, 15
+  size: 286, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+eff/light_003
+  rotate: false
+  xy: 2, 2
+  size: 295, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+eff/light_004
+  rotate: true
+  xy: 304, 312
+  size: 291, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+eff/light_005
+  rotate: false
+  xy: 2, 605
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+eff/light_007
+  rotate: false
+  xy: 606, 303
+  size: 288, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+eff/light_008
+  rotate: false
+  xy: 304, 605
+  size: 298, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+eff/light_009
+  rotate: false
+  xy: 2, 304
+  size: 300, 299
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+
+UI_jiangli_cheng2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff/light_006
+  rotate: false
+  xy: 2, 2
+  size: 265, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1

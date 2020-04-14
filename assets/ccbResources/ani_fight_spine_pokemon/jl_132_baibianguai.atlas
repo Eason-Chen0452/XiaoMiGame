@@ -1,0 +1,118 @@
+
+jl_132_baibianguai.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blur_Die
+  rotate: false
+  xy: 670, 274
+  size: 205, 172
+  orig: 205, 172
+  offset: 0, 0
+  index: -1
+Blur_Hit
+  rotate: false
+  xy: 2, 68
+  size: 218, 186
+  orig: 218, 186
+  offset: 0, 0
+  index: -1
+Blur_Hit2
+  rotate: false
+  xy: 230, 266
+  size: 222, 180
+  orig: 222, 180
+  offset: 0, 0
+  index: -1
+Blur_Hit3
+  rotate: false
+  xy: 2, 256
+  size: 226, 190
+  orig: 226, 190
+  offset: 0, 0
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 454, 270
+  size: 214, 176
+  orig: 214, 176
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 230, 97
+  size: 205, 167
+  orig: 205, 167
+  offset: 0, 0
+  index: -1
+Eye1_L
+  rotate: false
+  xy: 36, 58
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+Eye1_R
+  rotate: false
+  xy: 937, 439
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: true
+  xy: 437, 248
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: false
+  xy: 877, 421
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: false
+  xy: 437, 238
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Gu
+  rotate: false
+  xy: 2, 17
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 877, 432
+  size: 58, 14
+  orig: 58, 14
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 2, 2
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 2, 2
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 2, 2
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1

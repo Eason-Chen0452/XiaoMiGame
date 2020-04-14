@@ -1,0 +1,181 @@
+
+jl_114_tengmanguai.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 581, 341
+  size: 186, 168
+  orig: 187, 168
+  offset: 1, 0
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 2, 326
+  size: 197, 183
+  orig: 197, 183
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 36
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+Eye2_L
+  rotate: true
+  xy: 988, 412
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+Eye2_R
+  rotate: true
+  xy: 105, 42
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+EyeBall_L
+  rotate: true
+  xy: 769, 341
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+EyeBall_R
+  rotate: false
+  xy: 957, 364
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+Eye_CL
+  rotate: false
+  xy: 957, 377
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+Eye_CR
+  rotate: false
+  xy: 957, 408
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: false
+  xy: 129, 77
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: false
+  xy: 55, 3
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 105, 108
+  size: 51, 29
+  orig: 52, 30
+  offset: 1, 1
+  index: -1
+Foot_R
+  rotate: false
+  xy: 2, 2
+  size: 51, 32
+  orig: 52, 32
+  offset: 1, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 388, 197
+  size: 187, 143
+  orig: 187, 143
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 158, 114
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 105, 71
+  size: 22, 35
+  orig: 23, 35
+  offset: 1, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 86, 21
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 86, 21
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 86, 21
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_114_tengmanguai
+  rotate: false
+  xy: 769, 351
+  size: 186, 158
+  orig: 186, 158
+  offset: 0, 0
+  index: -1
+jl_tengmanguai_leiji
+  rotate: false
+  xy: 2, 139
+  size: 194, 185
+  orig: 194, 185
+  offset: 0, 0
+  index: -1
+jl_tengmanguai_shouji1
+  rotate: false
+  xy: 388, 342
+  size: 191, 167
+  orig: 191, 167
+  offset: 0, 0
+  index: -1
+jl_tengmanguai_shouji2
+  rotate: false
+  xy: 201, 329
+  size: 185, 180
+  orig: 185, 180
+  offset: 0, 0
+  index: -1
+jl_tengmanguai_siwang
+  rotate: false
+  xy: 577, 190
+  size: 192, 149
+  orig: 192, 149
+  offset: 0, 0
+  index: -1
+leiji
+  rotate: true
+  xy: 957, 441
+  size: 68, 54
+  orig: 212, 212
+  offset: 89, 89
+  index: -1

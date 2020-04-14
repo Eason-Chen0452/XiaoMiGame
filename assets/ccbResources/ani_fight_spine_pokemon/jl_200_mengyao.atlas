@@ -1,0 +1,111 @@
+
+jl_200_mengyao.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eye2
+  rotate: true
+  xy: 81, 2
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+all
+  rotate: true
+  xy: 347, 99
+  size: 155, 178
+  orig: 155, 178
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 162, 86
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 162, 86
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 162, 86
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+eye
+  rotate: false
+  xy: 769, 115
+  size: 67, 28
+  orig: 73, 34
+  offset: 3, 3
+  index: -1
+eye-c
+  rotate: false
+  xy: 694, 109
+  size: 73, 34
+  orig: 74, 34
+  offset: 0, 0
+  index: -1
+ji_085_meiyao-0004_shouji1_3
+  rotate: false
+  xy: 527, 95
+  size: 165, 159
+  orig: 165, 159
+  offset: 0, 0
+  index: -1
+ji_085_meiyao-0005_shouji2_3
+  rotate: true
+  xy: 162, 101
+  size: 153, 183
+  orig: 153, 183
+  offset: 0, 0
+  index: -1
+ji_085_meiyao-0014_leiji_3
+  rotate: false
+  xy: 2, 75
+  size: 158, 179
+  orig: 158, 179
+  offset: 0, 0
+  index: -1
+jl_004_lv2_badahu-0014_leiji_4
+  rotate: false
+  xy: 954, 194
+  size: 50, 60
+  orig: 221, 199
+  offset: 89, 67
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 16
+  size: 77, 57
+  orig: 78, 57
+  offset: 1, 0
+  index: -1
+tou
+  rotate: false
+  xy: 842, 152
+  size: 110, 102
+  orig: 113, 103
+  offset: 3, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 694, 145
+  size: 146, 109
+  orig: 146, 109
+  offset: 0, 0
+  index: -1
+xianglian
+  rotate: false
+  xy: 81, 36
+  size: 60, 37
+  orig: 60, 37
+  offset: 0, 0
+  index: -1

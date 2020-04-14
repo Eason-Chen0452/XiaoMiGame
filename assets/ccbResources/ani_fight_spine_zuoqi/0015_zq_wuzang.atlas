@@ -1,0 +1,132 @@
+
+0015_zq_wuzang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0015_npc_wuzang-0003_siwang_0
+  rotate: false
+  xy: 2, 92
+  size: 121, 144
+  orig: 121, 144
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: false
+  xy: 413, 480
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 228, 290
+  size: 49, 33
+  orig: 52, 39
+  offset: 2, 6
+  index: -1
+Foot_R
+  rotate: false
+  xy: 333, 436
+  size: 36, 33
+  orig: 37, 34
+  offset: 0, 1
+  index: -1
+Hand_L
+  rotate: false
+  xy: 125, 112
+  size: 19, 20
+  orig: 19, 22
+  offset: 0, 1
+  index: -1
+Leg_R
+  rotate: false
+  xy: 125, 134
+  size: 33, 59
+  orig: 34, 59
+  offset: 0, 0
+  index: -1
+Thigh_R
+  rotate: false
+  xy: 228, 341
+  size: 40, 77
+  orig: 43, 77
+  offset: 0, 0
+  index: -1
+UpArm_L
+  rotate: false
+  xy: 270, 374
+  size: 33, 44
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+UpArm_R
+  rotate: false
+  xy: 62, 2
+  size: 41, 43
+  orig: 44, 44
+  offset: 2, 1
+  index: -1
+body
+  rotate: false
+  xy: 2, 3
+  size: 58, 87
+  orig: 60, 88
+  offset: 2, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 208, 220
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 208, 220
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 208, 220
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+eye
+  rotate: false
+  xy: 125, 195
+  size: 81, 41
+  orig: 82, 41
+  offset: 0, 0
+  index: -1
+eyes_c
+  rotate: false
+  xy: 333, 471
+  size: 78, 39
+  orig: 85, 41
+  offset: 4, 1
+  index: -1
+hair
+  rotate: false
+  xy: 2, 238
+  size: 224, 272
+  orig: 229, 278
+  offset: 3, 3
+  index: -1
+head
+  rotate: false
+  xy: 228, 420
+  size: 103, 90
+  orig: 105, 92
+  offset: 0, 1
+  index: -1
+kua
+  rotate: false
+  xy: 62, 47
+  size: 60, 43
+  orig: 63, 44
+  offset: 2, 0
+  index: -1

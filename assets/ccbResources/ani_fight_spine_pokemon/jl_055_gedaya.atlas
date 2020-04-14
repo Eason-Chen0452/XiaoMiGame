@@ -1,0 +1,237 @@
+
+jl_055_gedaya.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 491, 285
+  size: 224, 225
+  orig: 224, 225
+  offset: 0, 0
+  index: -1
+ALL1
+  rotate: false
+  xy: 252, 34
+  size: 230, 231
+  orig: 230, 231
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: false
+  xy: 814, 166
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 903, 259
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 484, 68
+  size: 80, 118
+  orig: 80, 119
+  offset: 0, 1
+  index: -1
+Eye2
+  rotate: false
+  xy: 995, 439
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: true
+  xy: 946, 315
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: false
+  xy: 290, 2
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: true
+  xy: 713, 51
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 946, 465
+  size: 66, 45
+  orig: 66, 45
+  offset: 0, 0
+  index: -1
+Foot_Pb_L
+  rotate: false
+  xy: 533, 22
+  size: 69, 44
+  orig: 69, 44
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: true
+  xy: 946, 363
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 853, 251
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 484, 2
+  size: 64, 47
+  orig: 64, 47
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 753, 203
+  size: 98, 95
+  orig: 98, 95
+  offset: 0, 0
+  index: -1
+Head1
+  rotate: false
+  xy: 732, 285
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 307, 6
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+Leg_Pb_L
+  rotate: false
+  xy: 252, 2
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: true
+  xy: 671, 29
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 604, 65
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+Thigh_L
+  rotate: false
+  xy: 946, 415
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+Thigh_Pb_L
+  rotate: true
+  xy: 753, 163
+  size: 38, 59
+  orig: 38, 59
+  offset: 0, 0
+  index: -1
+Thigh_R
+  rotate: false
+  xy: 853, 207
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+UpArm_L
+  rotate: true
+  xy: 713, 85
+  size: 63, 37
+  orig: 63, 37
+  offset: 0, 0
+  index: -1
+UpArm_R
+  rotate: false
+  xy: 604, 34
+  size: 65, 29
+  orig: 65, 29
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 717, 285
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 717, 285
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 717, 285
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_021_lv1_gedaya-0004_shouji1_3
+  rotate: false
+  xy: 2, 20
+  size: 248, 235
+  orig: 248, 235
+  offset: 0, 0
+  index: -1
+jl_021_lv1_gedaya-0005_shouji2_3
+  rotate: true
+  xy: 717, 300
+  size: 210, 227
+  orig: 210, 227
+  offset: 0, 0
+  index: -1
+jl_021_lv1_gedaya-0006_siwang_10
+  rotate: false
+  xy: 491, 150
+  size: 260, 133
+  orig: 260, 133
+  offset: 0, 0
+  index: -1
+jl_021_lv1_gedaya-0014_leiji_3
+  rotate: false
+  xy: 2, 257
+  size: 248, 253
+  orig: 248, 253
+  offset: 0, 0
+  index: -1
+jl_021_lv1_gedaya-0014_leiji_4
+  rotate: false
+  xy: 252, 267
+  size: 237, 243
+  orig: 279, 271
+  offset: 4, 24
+  index: -1

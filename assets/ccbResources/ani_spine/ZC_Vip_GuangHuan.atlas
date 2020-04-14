@@ -1,0 +1,145 @@
+
+ZC_Vip_GuangHuan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ac2
+  rotate: false
+  xy: 621, 245
+  size: 250, 250
+  orig: 252, 252
+  offset: 1, 1
+  index: -1
+ac3
+  rotate: false
+  xy: 2, 674
+  size: 324, 324
+  orig: 326, 326
+  offset: 1, 1
+  index: -1
+al
+  rotate: false
+  xy: 328, 213
+  size: 238, 187
+  orig: 240, 189
+  offset: 1, 1
+  index: -1
+bc1
+  rotate: false
+  xy: 2, 348
+  size: 324, 324
+  orig: 326, 326
+  offset: 1, 1
+  index: -1
+bc2
+  rotate: false
+  xy: 654, 497
+  size: 259, 250
+  orig: 261, 261
+  offset: 1, 5
+  index: -1
+bh1
+  rotate: true
+  xy: 873, 361
+  size: 134, 123
+  orig: 142, 131
+  offset: 4, 4
+  index: -1
+bh2
+  rotate: false
+  xy: 2, 2
+  size: 52, 40
+  orig: 54, 42
+  offset: 1, 1
+  index: -1
+bl
+  rotate: false
+  xy: 307, 24
+  size: 238, 187
+  orig: 240, 189
+  offset: 1, 1
+  index: -1
+cc1
+  rotate: false
+  xy: 2, 44
+  size: 303, 302
+  orig: 305, 304
+  offset: 1, 1
+  index: -1
+cc2
+  rotate: false
+  xy: 328, 674
+  size: 324, 324
+  orig: 326, 326
+  offset: 1, 1
+  index: -1
+cc3
+  rotate: false
+  xy: 568, 7
+  size: 238, 236
+  orig: 243, 244
+  offset: 2, 5
+  index: -1
+cc4
+  rotate: false
+  xy: 654, 749
+  size: 270, 249
+  orig: 284, 251
+  offset: 13, 1
+  index: -1
+cc5
+  rotate: false
+  xy: 328, 402
+  size: 291, 270
+  orig: 293, 272
+  offset: 1, 1
+  index: -1
+cl
+  rotate: true
+  xy: 808, 5
+  size: 238, 187
+  orig: 240, 189
+  offset: 1, 1
+  index: -1
+core
+  rotate: false
+  xy: 307, 342
+  size: 4, 4
+  orig: 6, 6
+  offset: 1, 1
+  index: -1
+core2
+  rotate: false
+  xy: 307, 342
+  size: 4, 4
+  orig: 6, 6
+  offset: 1, 1
+  index: -1
+core3
+  rotate: false
+  xy: 307, 342
+  size: 4, 4
+  orig: 6, 6
+  offset: 1, 1
+  index: -1
+line
+  rotate: false
+  xy: 621, 548
+  size: 5, 124
+  orig: 7, 126
+  offset: 1, 1
+  index: -1
+
+ZC_Vip_GuangHuan2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ac1
+  rotate: false
+  xy: 2, 2
+  size: 201, 201
+  orig: 203, 203
+  offset: 1, 1
+  index: -1

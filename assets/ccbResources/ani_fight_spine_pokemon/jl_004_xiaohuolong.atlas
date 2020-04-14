@@ -1,0 +1,251 @@
+
+jl_004_xiaohuolong.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: false
+  xy: 932, 324
+  size: 55, 41
+  orig: 55, 41
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 720, 309
+  size: 49, 40
+  orig: 50, 41
+  offset: 1, 0
+  index: -1
+Blur_Die
+  rotate: false
+  xy: 2, 329
+  size: 255, 181
+  orig: 256, 181
+  offset: 0, 0
+  index: -1
+Blur_Fair_01
+  rotate: false
+  xy: 403, 229
+  size: 78, 116
+  orig: 78, 118
+  offset: 0, 1
+  index: -1
+Blur_Fair_02
+  rotate: false
+  xy: 208, 198
+  size: 86, 129
+  orig: 86, 131
+  offset: 0, 1
+  index: -1
+Blur_Fair_03
+  rotate: false
+  xy: 483, 230
+  size: 88, 111
+  orig: 89, 113
+  offset: 0, 1
+  index: -1
+Blur_Fair_04
+  rotate: false
+  xy: 104, 8
+  size: 92, 117
+  orig: 92, 118
+  offset: 0, 0
+  index: -1
+Blur_Fair_05
+  rotate: false
+  xy: 2, 2
+  size: 100, 123
+  orig: 102, 124
+  offset: 1, 0
+  index: -1
+Blur_Fair_06
+  rotate: false
+  xy: 296, 217
+  size: 105, 128
+  orig: 107, 129
+  offset: 1, 0
+  index: -1
+Blur_Hit
+  rotate: true
+  xy: 485, 343
+  size: 167, 181
+  orig: 170, 185
+  offset: 2, 1
+  index: -1
+Blur_Hit2
+  rotate: true
+  xy: 668, 351
+  size: 159, 180
+  orig: 167, 187
+  offset: 3, 2
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 2, 127
+  size: 204, 200
+  orig: 204, 201
+  offset: 0, 1
+  index: -1
+Blur_Skill
+  rotate: false
+  xy: 259, 347
+  size: 224, 163
+  orig: 224, 163
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 208, 124
+  size: 72, 99
+  orig: 72, 100
+  offset: 0, 1
+  index: -1
+Eye
+  rotate: true
+  xy: 819, 324
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+Eye1
+  rotate: false
+  xy: 661, 269
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 661, 243
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+Fair_01
+  rotate: false
+  xy: 348, 41
+  size: 59, 98
+  orig: 59, 100
+  offset: 0, 1
+  index: -1
+Fair_02
+  rotate: false
+  xy: 281, 10
+  size: 65, 112
+  orig: 65, 112
+  offset: 0, 0
+  index: -1
+Fair_03
+  rotate: false
+  xy: 411, 136
+  size: 68, 91
+  orig: 68, 91
+  offset: 0, 0
+  index: -1
+Fair_04
+  rotate: true
+  xy: 309, 141
+  size: 74, 100
+  orig: 74, 100
+  offset: 0, 0
+  index: -1
+Fair_05
+  rotate: false
+  xy: 198, 18
+  size: 81, 104
+  orig: 81, 104
+  offset: 0, 0
+  index: -1
+Fair_06
+  rotate: false
+  xy: 573, 231
+  size: 86, 110
+  orig: 86, 110
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 348, 11
+  size: 54, 28
+  orig: 55, 29
+  offset: 0, 1
+  index: -1
+Foot_R
+  rotate: false
+  xy: 771, 315
+  size: 46, 34
+  orig: 46, 35
+  offset: 0, 0
+  index: -1
+Gu
+  rotate: true
+  xy: 850, 367
+  size: 143, 166
+  orig: 167, 178
+  offset: 13, 3
+  index: -1
+Head
+  rotate: true
+  xy: 409, 56
+  size: 78, 67
+  orig: 80, 67
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 668, 305
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: true
+  xy: 932, 282
+  size: 40, 53
+  orig: 40, 53
+  offset: 0, 0
+  index: -1
+M_Close
+  rotate: true
+  xy: 989, 315
+  size: 50, 19
+  orig: 50, 20
+  offset: 0, 1
+  index: -1
+M_Open
+  rotate: false
+  xy: 409, 20
+  size: 53, 34
+  orig: 53, 34
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 850, 305
+  size: 80, 60
+  orig: 80, 62
+  offset: 0, 1
+  index: -1
+buff_flo
+  rotate: false
+  xy: 259, 332
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 259, 332
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 259, 332
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1

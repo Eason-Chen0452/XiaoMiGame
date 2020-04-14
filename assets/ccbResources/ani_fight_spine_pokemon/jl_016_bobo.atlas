@@ -1,0 +1,160 @@
+
+jl_016_bobo.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 222, 101
+  size: 68, 86
+  orig: 68, 86
+  offset: 0, 0
+  index: -1
+Crown
+  rotate: false
+  xy: 730, 314
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 788, 323
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: false
+  xy: 310, 122
+  size: 52, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 369, 200
+  size: 68, 72
+  orig: 68, 77
+  offset: 0, 5
+  index: -1
+Tail
+  rotate: false
+  xy: 135, 39
+  size: 57, 47
+  orig: 57, 47
+  offset: 0, 0
+  index: -1
+Wing_L
+  rotate: false
+  xy: 135, 88
+  size: 85, 148
+  orig: 86, 149
+  offset: 1, 0
+  index: -1
+Wing_LD
+  rotate: false
+  xy: 222, 171
+  size: 145, 101
+  orig: 146, 101
+  offset: 1, 0
+  index: -1
+Wing_R
+  rotate: true
+  xy: 853, 388
+  size: 115, 141
+  orig: 116, 141
+  offset: 1, 0
+  index: -1
+Wing_RD
+  rotate: false
+  xy: 730, 366
+  size: 121, 137
+  orig: 122, 138
+  offset: 0, 1
+  index: -1
+buff_flo
+  rotate: false
+  xy: 439, 259
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 439, 259
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 439, 259
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+canying_shouji
+  rotate: false
+  xy: 463, 298
+  size: 265, 205
+  orig: 312, 333
+  offset: 24, 63
+  index: -1
+canying_siwang
+  rotate: false
+  xy: 216, 274
+  size: 245, 229
+  orig: 312, 333
+  offset: 15, 58
+  index: -1
+daiji_cangying
+  rotate: false
+  xy: 2, 238
+  size: 212, 265
+  orig: 312, 333
+  offset: 22, 44
+  index: -1
+gutou
+  rotate: true
+  xy: 2, 19
+  size: 217, 131
+  orig: 313, 334
+  offset: 39, 96
+  index: -1
+mao1
+  rotate: true
+  xy: 369, 165
+  size: 33, 45
+  orig: 68, 77
+  offset: 12, 0
+  index: -1
+yanjing1
+  rotate: false
+  xy: 853, 373
+  size: 16, 13
+  orig: 26, 24
+  offset: 5, 6
+  index: -1
+yanjing2
+  rotate: false
+  xy: 2, 2
+  size: 20, 15
+  orig: 26, 24
+  offset: 2, 5
+  index: -1
+yanjing3
+  rotate: true
+  xy: 996, 476
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 463, 281
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1

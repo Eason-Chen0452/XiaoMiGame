@@ -1,0 +1,174 @@
+
+jl_002_miaowacao.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: false
+  xy: 438, 58
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 395, 5
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+Blur_Die
+  rotate: false
+  xy: 235, 191
+  size: 195, 140
+  orig: 196, 142
+  offset: 1, 2
+  index: -1
+Blur_Hit
+  rotate: false
+  xy: 2, 132
+  size: 218, 169
+  orig: 218, 169
+  offset: 0, 0
+  index: -1
+Blur_Hit2
+  rotate: false
+  xy: 235, 333
+  size: 199, 176
+  orig: 200, 176
+  offset: 1, 0
+  index: -1
+Blur_Hit3
+  rotate: false
+  xy: 222, 28
+  size: 171, 161
+  orig: 171, 162
+  offset: 0, 1
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 2, 303
+  size: 231, 206
+  orig: 231, 206
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 128, 23
+  size: 107, 73
+  orig: 107, 73
+  offset: 0, 0
+  index: -1
+Eye1_L
+  rotate: false
+  xy: 203, 107
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+Eye1_R
+  rotate: false
+  xy: 264, 3
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 235, 2
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: true
+  xy: 203, 3
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: true
+  xy: 473, 21
+  size: 35, 28
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+Flower
+  rotate: false
+  xy: 432, 180
+  size: 75, 94
+  orig: 75, 94
+  offset: 0, 0
+  index: -1
+Gu
+  rotate: false
+  xy: 2, 3
+  size: 124, 127
+  orig: 186, 157
+  offset: 44, 1
+  index: -1
+Head
+  rotate: false
+  xy: 395, 95
+  size: 95, 83
+  orig: 95, 83
+  offset: 0, 0
+  index: -1
+Leaf_01
+  rotate: true
+  xy: 436, 332
+  size: 95, 53
+  orig: 95, 53
+  offset: 0, 0
+  index: -1
+Leaf_02
+  rotate: true
+  xy: 436, 429
+  size: 80, 74
+  orig: 80, 74
+  offset: 0, 0
+  index: -1
+Leaf_03
+  rotate: false
+  xy: 432, 276
+  size: 78, 54
+  orig: 80, 58
+  offset: 2, 4
+  index: -1
+Leg_L
+  rotate: false
+  xy: 438, 18
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 395, 46
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 491, 414
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 491, 414
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 491, 414
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1

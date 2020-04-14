@@ -1,0 +1,202 @@
+
+jl_464_chaojiakuangxi_sg.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 447, 444
+  size: 316, 268
+  orig: 316, 268
+  offset: 0, 0
+  index: -1
+ALL1
+  rotate: false
+  xy: 2, 50
+  size: 325, 276
+  orig: 325, 276
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: false
+  xy: 329, 2
+  size: 175, 167
+  orig: 175, 167
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 506, 4
+  size: 144, 165
+  orig: 144, 165
+  offset: 0, 0
+  index: -1
+Belt
+  rotate: false
+  xy: 785, 655
+  size: 184, 91
+  orig: 184, 91
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 706, 241
+  size: 201, 193
+  orig: 201, 193
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 400, 613
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: true
+  xy: 378, 214
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: false
+  xy: 652, 139
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 849, 509
+  size: 82, 60
+  orig: 82, 60
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: false
+  xy: 849, 447
+  size: 74, 60
+  orig: 74, 60
+  offset: 0, 0
+  index: -1
+Foot_R_p
+  rotate: true
+  xy: 329, 239
+  size: 87, 61
+  orig: 87, 61
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 652, 26
+  size: 189, 105
+  orig: 189, 105
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 843, 41
+  size: 90, 74
+  orig: 90, 74
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 866, 571
+  size: 89, 82
+  orig: 89, 82
+  offset: 0, 0
+  index: -1
+Leg_R_p
+  rotate: false
+  xy: 765, 482
+  size: 82, 90
+  orig: 82, 90
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 706, 133
+  size: 195, 106
+  orig: 195, 106
+  offset: 0, 0
+  index: -1
+UpArm_R
+  rotate: false
+  xy: 971, 716
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 329, 191
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+buff_mid
+  rotate: false
+  xy: 329, 191
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+buff_up
+  rotate: false
+  xy: 329, 191
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+jianjia_L
+  rotate: true
+  xy: 2, 2
+  size: 46, 54
+  orig: 46, 54
+  offset: 0, 0
+  index: -1
+jianjia_R
+  rotate: false
+  xy: 765, 574
+  size: 99, 79
+  orig: 99, 79
+  offset: 0, 0
+  index: -1
+jl_040_lv2_chaojiakuangxi-0005_shouji2_3
+  rotate: false
+  xy: 400, 171
+  size: 304, 271
+  orig: 304, 271
+  offset: 0, 0
+  index: -1
+jl_040_lv2_chaojiakuangxi-0006_siwang_10
+  rotate: true
+  xy: 785, 748
+  size: 271, 231
+  orig: 271, 231
+  offset: 0, 0
+  index: -1
+jl_040_lv2_chaojiakuangxi-0008_shouji1_3
+  rotate: false
+  xy: 447, 714
+  size: 336, 305
+  orig: 336, 305
+  offset: 0, 0
+  index: -1
+jl_040_lv2_chaojiakuangxi-0014_leiji_3
+  rotate: false
+  xy: 2, 328
+  size: 396, 331
+  orig: 396, 331
+  offset: 0, 0
+  index: -1
+jl_040_lv2_chaojiakuangxi-0014_leiji_4
+  rotate: false
+  xy: 2, 661
+  size: 443, 358
+  orig: 443, 358
+  offset: 0, 0
+  index: -1

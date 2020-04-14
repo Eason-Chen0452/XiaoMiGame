@@ -1,0 +1,132 @@
+
+YS_BOSS_banjilasi3_eff.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bowen01/bw_00
+  rotate: false
+  xy: 915, 99
+  size: 30, 95
+  orig: 192, 192
+  offset: 95, 48
+  index: -1
+bowen01/bw_01
+  rotate: true
+  xy: 330, 147
+  size: 57, 173
+  orig: 192, 192
+  offset: 71, 9
+  index: -1
+bowen01/bw_02
+  rotate: true
+  xy: 2, 20
+  size: 59, 175
+  orig: 192, 192
+  offset: 68, 8
+  index: -1
+bowen01/bw_03
+  rotate: true
+  xy: 817, 196
+  size: 58, 169
+  orig: 192, 192
+  offset: 67, 11
+  index: -1
+bowen01/bw_04
+  rotate: true
+  xy: 505, 147
+  size: 57, 171
+  orig: 192, 192
+  offset: 66, 10
+  index: -1
+caiguang01
+  rotate: false
+  xy: 2, 156
+  size: 326, 98
+  orig: 384, 225
+  offset: 42, 64
+  index: -1
+fangsheguang02
+  rotate: false
+  xy: 817, 2
+  size: 94, 94
+  orig: 96, 96
+  offset: 1, 1
+  index: -1
+jiguang_eff
+  rotate: false
+  xy: 678, 85
+  size: 137, 119
+  orig: 199, 119
+  offset: 29, 0
+  index: -1
+xuxian/xuxian_003
+  rotate: false
+  xy: 571, 206
+  size: 191, 23
+  orig: 263, 23
+  offset: 0, 0
+  index: -1
+xuxian/xuxian_004
+  rotate: false
+  xy: 2, 81
+  size: 222, 23
+  orig: 263, 23
+  offset: 0, 0
+  index: -1
+xuxian/xuxian_005
+  rotate: false
+  xy: 577, 231
+  size: 238, 23
+  orig: 263, 23
+  offset: 5, 0
+  index: -1
+xuxian/xuxian_006
+  rotate: false
+  xy: 330, 231
+  size: 245, 23
+  orig: 263, 23
+  offset: 12, 0
+  index: -1
+xuxian/xuxian_007
+  rotate: false
+  xy: 2, 131
+  size: 246, 23
+  orig: 263, 23
+  offset: 17, 0
+  index: -1
+xuxian/xuxian_008
+  rotate: false
+  xy: 2, 106
+  size: 242, 23
+  orig: 263, 23
+  offset: 21, 0
+  index: -1
+xuxian/xuxian_009
+  rotate: false
+  xy: 330, 206
+  size: 239, 23
+  orig: 263, 23
+  offset: 24, 0
+  index: -1
+xuxian/xuxian_010
+  rotate: true
+  xy: 947, 53
+  size: 141, 23
+  orig: 263, 23
+  offset: 26, 0
+  index: -1
+xuxian/xuxian_011
+  rotate: true
+  xy: 972, 55
+  size: 139, 23
+  orig: 263, 23
+  offset: 29, 0
+  index: -1
+xx03
+  rotate: false
+  xy: 817, 98
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1

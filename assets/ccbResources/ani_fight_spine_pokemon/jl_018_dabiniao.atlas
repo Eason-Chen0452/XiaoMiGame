@@ -1,0 +1,181 @@
+
+jl_018_dabiniao.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: true
+  xy: 323, 774
+  size: 236, 263
+  orig: 236, 263
+  offset: 0, 0
+  index: -1
+Blur_Die
+  rotate: false
+  xy: 588, 904
+  size: 347, 106
+  orig: 347, 106
+  offset: 0, 0
+  index: -1
+Blur_Hit
+  rotate: false
+  xy: 2, 787
+  size: 319, 223
+  orig: 319, 224
+  offset: 0, 0
+  index: -1
+Blur_Hit2
+  rotate: true
+  xy: 588, 743
+  size: 159, 210
+  orig: 159, 210
+  offset: 0, 0
+  index: -1
+Blur_Hit3
+  rotate: false
+  xy: 2, 511
+  size: 256, 274
+  orig: 256, 274
+  offset: 0, 0
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 2, 240
+  size: 242, 269
+  orig: 242, 269
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 246, 241
+  size: 110, 123
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+Crown_01
+  rotate: true
+  xy: 260, 588
+  size: 197, 47
+  orig: 197, 47
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 937, 904
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 260, 526
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: false
+  xy: 993, 993
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 476, 624
+  size: 39, 39
+  orig: 40, 40
+  offset: 0, 1
+  index: -1
+Foot_L_1
+  rotate: false
+  xy: 260, 543
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: false
+  xy: 548, 682
+  size: 36, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+Foot_R_1
+  rotate: false
+  xy: 511, 674
+  size: 35, 46
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+Gu
+  rotate: false
+  xy: 2, 2
+  size: 233, 236
+  orig: 295, 292
+  offset: 15, 49
+  index: -1
+Head
+  rotate: false
+  xy: 511, 722
+  size: 66, 50
+  orig: 66, 50
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 937, 921
+  size: 89, 54
+  orig: 89, 54
+  offset: 0, 0
+  index: -1
+Wing_L
+  rotate: true
+  xy: 309, 595
+  size: 68, 165
+  orig: 68, 165
+  offset: 0, 0
+  index: -1
+Wing_LD
+  rotate: false
+  xy: 246, 353
+  size: 139, 156
+  orig: 139, 156
+  offset: 0, 0
+  index: -1
+Wing_R
+  rotate: true
+  xy: 800, 727
+  size: 175, 142
+  orig: 175, 142
+  offset: 0, 0
+  index: -1
+Wing_RD
+  rotate: true
+  xy: 309, 665
+  size: 107, 200
+  orig: 107, 200
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 260, 511
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 260, 511
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 260, 511
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1

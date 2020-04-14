@@ -1,0 +1,167 @@
+
+jl_108_dashetou.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 829, 332
+  size: 185, 169
+  orig: 185, 169
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: false
+  xy: 556, 294
+  size: 56, 29
+  orig: 56, 29
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 499, 289
+  size: 55, 34
+  orig: 55, 34
+  offset: 0, 0
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 2, 127
+  size: 199, 185
+  orig: 199, 185
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 2
+  size: 104, 123
+  orig: 104, 123
+  offset: 0, 0
+  index: -1
+Eye2_L
+  rotate: false
+  xy: 499, 276
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+Eye2_R
+  rotate: false
+  xy: 451, 254
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: false
+  xy: 279, 201
+  size: 54, 17
+  orig: 54, 17
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: false
+  xy: 190, 108
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: false
+  xy: 367, 226
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 367, 249
+  size: 82, 74
+  orig: 82, 74
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 451, 270
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: true
+  xy: 203, 141
+  size: 53, 68
+  orig: 53, 68
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 108, 5
+  size: 80, 120
+  orig: 80, 120
+  offset: 0, 0
+  index: -1
+Tail_02
+  rotate: false
+  xy: 203, 196
+  size: 74, 116
+  orig: 74, 116
+  offset: 0, 0
+  index: -1
+Tongue
+  rotate: false
+  xy: 279, 220
+  size: 86, 103
+  orig: 86, 103
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 203, 126
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 203, 126
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 203, 126
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_dashetou_leiji_3
+  rotate: false
+  xy: 2, 314
+  size: 244, 187
+  orig: 244, 187
+  offset: 0, 0
+  index: -1
+jl_dashetou_shouji1
+  rotate: false
+  xy: 248, 325
+  size: 198, 176
+  orig: 198, 176
+  offset: 0, 0
+  index: -1
+jl_dashetou_shouji2
+  rotate: false
+  xy: 642, 328
+  size: 185, 173
+  orig: 185, 173
+  offset: 0, 0
+  index: -1
+leiji
+  rotate: false
+  xy: 448, 325
+  size: 192, 176
+  orig: 243, 191
+  offset: 15, 2
+  index: -1

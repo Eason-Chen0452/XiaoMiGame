@@ -1,0 +1,13 @@
+
+CJ_GanTanHao.png
+size: 64,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gantanhao
+  rotate: false
+  xy: 2, 2
+  size: 42, 94
+  orig: 42, 94
+  offset: 0, 0
+  index: -1

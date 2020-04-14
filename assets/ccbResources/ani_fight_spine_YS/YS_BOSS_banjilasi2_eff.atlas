@@ -1,0 +1,118 @@
+
+YS_BOSS_banjilasi2_eff.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai_dilie_eff_04
+  rotate: false
+  xy: 2, 34
+  size: 220, 37
+  orig: 225, 60
+  offset: 4, 11
+  index: -1
+baozha_eff/dusty02
+  rotate: true
+  xy: 375, 55
+  size: 61, 80
+  orig: 76, 110
+  offset: 8, 3
+  index: -1
+baozha_eff/dusty03
+  rotate: false
+  xy: 184, 143
+  size: 73, 110
+  orig: 76, 110
+  offset: 1, 0
+  index: -1
+baozha_eff/dusty04
+  rotate: false
+  xy: 259, 163
+  size: 73, 90
+  orig: 76, 110
+  offset: 1, 2
+  index: -1
+baozha_eff/dusty05
+  rotate: false
+  xy: 334, 178
+  size: 49, 75
+  orig: 76, 110
+  offset: 12, 3
+  index: -1
+baozha_eff/dusty06
+  rotate: false
+  xy: 457, 46
+  size: 53, 70
+  orig: 76, 110
+  offset: 11, 4
+  index: -1
+huan02
+  rotate: false
+  xy: 2, 73
+  size: 180, 180
+  orig: 192, 192
+  offset: 6, 6
+  index: -1
+luoshi_eff/rock01
+  rotate: false
+  xy: 385, 205
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+luoshi_eff/rock02
+  rotate: true
+  xy: 102, 13
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+yanwu_eff/bai_yanwu_02_eff_01
+  rotate: false
+  xy: 2, 3
+  size: 98, 29
+  orig: 158, 60
+  offset: 24, 8
+  index: -1
+yanwu_eff/bai_yanwu_02_eff_02
+  rotate: true
+  xy: 470, 131
+  size: 122, 36
+  orig: 158, 60
+  offset: 14, 6
+  index: -1
+yanwu_eff/bai_yanwu_02_eff_03
+  rotate: false
+  xy: 363, 5
+  size: 134, 38
+  orig: 158, 60
+  offset: 9, 5
+  index: -1
+yanwu_eff/bai_yanwu_02_eff_04
+  rotate: false
+  xy: 329, 118
+  size: 139, 43
+  orig: 158, 60
+  offset: 10, 4
+  index: -1
+yanwu_eff/bai_yanwu_02_eff_05
+  rotate: false
+  xy: 184, 92
+  size: 143, 49
+  orig: 158, 60
+  offset: 9, 5
+  index: -1
+yanwu_eff/bai_yanwu_02_eff_06
+  rotate: false
+  xy: 224, 45
+  size: 149, 45
+  orig: 158, 60
+  offset: 6, 4
+  index: -1
+yanwu_eff/bai_yanwu_02_eff_07
+  rotate: false
+  xy: 224, 2
+  size: 137, 41
+  orig: 158, 60
+  offset: 12, 4
+  index: -1

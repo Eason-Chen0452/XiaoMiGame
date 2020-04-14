@@ -1,0 +1,139 @@
+
+ZC_Gashapon_Board.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball a
+  rotate: false
+  xy: 921, 90
+  size: 36, 36
+  orig: 38, 38
+  offset: 1, 1
+  index: -1
+ball b
+  rotate: false
+  xy: 876, 83
+  size: 43, 43
+  orig: 45, 45
+  offset: 1, 1
+  index: -1
+light1
+  rotate: false
+  xy: 348, 2
+  size: 27, 25
+  orig: 29, 27
+  offset: 1, 1
+  index: -1
+light2
+  rotate: false
+  xy: 348, 2
+  size: 27, 25
+  orig: 29, 27
+  offset: 1, 1
+  index: -1
+light3
+  rotate: false
+  xy: 811, 2
+  size: 16, 15
+  orig: 18, 17
+  offset: 1, 1
+  index: -1
+light4
+  rotate: false
+  xy: 811, 2
+  size: 16, 15
+  orig: 18, 17
+  offset: 1, 1
+  index: -1
+light5
+  rotate: false
+  xy: 829, 2
+  size: 16, 15
+  orig: 18, 17
+  offset: 1, 1
+  index: -1
+light10
+  rotate: false
+  xy: 829, 2
+  size: 16, 15
+  orig: 18, 17
+  offset: 1, 1
+  index: -1
+light8
+  rotate: false
+  xy: 829, 2
+  size: 16, 15
+  orig: 18, 17
+  offset: 1, 1
+  index: -1
+light9
+  rotate: false
+  xy: 829, 2
+  size: 16, 15
+  orig: 18, 17
+  offset: 1, 1
+  index: -1
+light6
+  rotate: false
+  xy: 377, 2
+  size: 27, 25
+  orig: 29, 27
+  offset: 1, 1
+  index: -1
+light7
+  rotate: false
+  xy: 377, 2
+  size: 27, 25
+  orig: 29, 27
+  offset: 1, 1
+  index: -1
+star
+  rotate: false
+  xy: 811, 60
+  size: 63, 66
+  orig: 65, 68
+  offset: 1, 1
+  index: -1
+star1
+  rotate: false
+  xy: 959, 97
+  size: 29, 29
+  orig: 31, 31
+  offset: 1, 1
+  index: -1
+star2
+  rotate: false
+  xy: 2, 2
+  size: 24, 24
+  orig: 26, 26
+  offset: 1, 1
+  index: -1
+star3
+  rotate: false
+  xy: 811, 19
+  size: 38, 39
+  orig: 40, 41
+  offset: 1, 1
+  index: -1
+starlight
+  rotate: false
+  xy: 695, 18
+  size: 114, 108
+  orig: 116, 110
+  offset: 1, 1
+  index: -1
+title back
+  rotate: false
+  xy: 2, 28
+  size: 344, 98
+  orig: 346, 100
+  offset: 1, 1
+  index: -1
+title light
+  rotate: false
+  xy: 348, 29
+  size: 345, 97
+  orig: 347, 99
+  offset: 1, 1
+  index: -1

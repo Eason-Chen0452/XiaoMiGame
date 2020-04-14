@@ -1,0 +1,237 @@
+
+jl_015_dazhenfeng.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 777, 297
+  size: 224, 213
+  orig: 227, 213
+  offset: 0, 0
+  index: -1
+ALL1
+  rotate: false
+  xy: 545, 291
+  size: 230, 219
+  orig: 230, 219
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: true
+  xy: 551, 54
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 614, 210
+  size: 50, 27
+  orig: 53, 30
+  offset: 0, 3
+  index: -1
+Body
+  rotate: false
+  xy: 546, 212
+  size: 66, 77
+  orig: 69, 78
+  offset: 3, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 821, 263
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 1003, 495
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: true
+  xy: 509, 256
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: true
+  xy: 957, 272
+  size: 23, 43
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: true
+  xy: 409, 235
+  size: 16, 41
+  orig: 17, 44
+  offset: 0, 2
+  index: -1
+Hand_L
+  rotate: true
+  xy: 477, 45
+  size: 84, 72
+  orig: 87, 73
+  offset: 0, 1
+  index: -1
+Hand_R
+  rotate: true
+  xy: 409, 253
+  size: 49, 98
+  orig: 49, 100
+  offset: 0, 1
+  index: -1
+Head
+  rotate: false
+  xy: 614, 239
+  size: 53, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 729, 251
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: true
+  xy: 669, 249
+  size: 40, 58
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+Spine
+  rotate: false
+  xy: 782, 255
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+Sting
+  rotate: false
+  xy: 375, 2
+  size: 27, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+Tentacle_L
+  rotate: false
+  xy: 867, 267
+  size: 45, 28
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+Tentacle_R
+  rotate: false
+  xy: 551, 96
+  size: 36, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+Thigh_L
+  rotate: false
+  xy: 404, 15
+  size: 53, 29
+  orig: 54, 29
+  offset: 1, 0
+  index: -1
+Thigh_R
+  rotate: true
+  xy: 452, 235
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+Wing_L_01
+  rotate: true
+  xy: 288, 235
+  size: 67, 119
+  orig: 67, 119
+  offset: 0, 0
+  index: -1
+Wing_L_02
+  rotate: false
+  xy: 546, 138
+  size: 50, 72
+  orig: 50, 72
+  offset: 0, 0
+  index: -1
+Wing_R_01
+  rotate: false
+  xy: 267, 22
+  size: 106, 107
+  orig: 106, 107
+  offset: 0, 0
+  index: -1
+Wing_R_02
+  rotate: false
+  xy: 375, 46
+  size: 100, 83
+  orig: 100, 83
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 267, 7
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 267, 7
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 267, 7
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_006_lv2_dazhenfeng-0004_shouji1_3
+  rotate: false
+  xy: 288, 304
+  size: 255, 206
+  orig: 255, 206
+  offset: 0, 0
+  index: -1
+jl_006_lv2_dazhenfeng-0005_shouji2_3
+  rotate: false
+  xy: 2, 6
+  size: 263, 235
+  orig: 263, 235
+  offset: 0, 0
+  index: -1
+jl_006_lv2_dazhenfeng-0006_siwang_10
+  rotate: false
+  xy: 267, 131
+  size: 277, 102
+  orig: 277, 102
+  offset: 0, 0
+  index: -1
+jl_006_lv2_dazhenfeng-0014_leiji_3
+  rotate: false
+  xy: 2, 243
+  size: 284, 267
+  orig: 284, 267
+  offset: 0, 0
+  index: -1
+jl_006_lv2_dazhenfeng-0014_leiji_4
+  rotate: true
+  xy: 914, 268
+  size: 27, 41
+  orig: 315, 280
+  offset: 123, 136
+  index: -1

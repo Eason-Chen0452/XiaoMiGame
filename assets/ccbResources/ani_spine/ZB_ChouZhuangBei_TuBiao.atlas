@@ -1,0 +1,284 @@
+
+ZB_ChouZhuangBei_TuBiao.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fangkuai01
+  rotate: false
+  xy: 890, 89
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+icon_backeffect
+  rotate: false
+  xy: 2, 613
+  size: 399, 401
+  orig: 399, 401
+  offset: 0, 0
+  index: -1
+icon_backeffect_g
+  rotate: false
+  xy: 2, 210
+  size: 399, 401
+  orig: 399, 401
+  offset: 0, 0
+  index: -1
+icon_backeffect_gr
+  rotate: false
+  xy: 403, 613
+  size: 399, 401
+  orig: 399, 401
+  offset: 0, 0
+  index: -1
+icon_backeffect_o
+  rotate: false
+  xy: 403, 210
+  size: 399, 401
+  orig: 399, 401
+  offset: 0, 0
+  index: -1
+name_back
+  rotate: true
+  xy: 804, 184
+  size: 164, 202
+  orig: 164, 202
+  offset: 0, 0
+  index: -1
+name_frame
+  rotate: true
+  xy: 2, 28
+  size: 180, 220
+  orig: 180, 220
+  offset: 0, 0
+  index: -1
+name_frame_g
+  rotate: false
+  xy: 804, 794
+  size: 180, 220
+  orig: 180, 220
+  offset: 0, 0
+  index: -1
+name_frame_gr
+  rotate: true
+  xy: 224, 28
+  size: 180, 220
+  orig: 180, 220
+  offset: 0, 0
+  index: -1
+name_frame_o
+  rotate: false
+  xy: 804, 572
+  size: 180, 220
+  orig: 180, 220
+  offset: 0, 0
+  index: -1
+name_frame_p
+  rotate: true
+  xy: 446, 28
+  size: 180, 220
+  orig: 180, 220
+  offset: 0, 0
+  index: -1
+name_frame_r
+  rotate: false
+  xy: 804, 350
+  size: 180, 220
+  orig: 180, 220
+  offset: 0, 0
+  index: -1
+name_frame_w
+  rotate: true
+  xy: 668, 2
+  size: 180, 220
+  orig: 180, 220
+  offset: 0, 0
+  index: -1
+
+ZB_ChouZhuangBei_TuBiao2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huan01
+  rotate: true
+  xy: 661, 2
+  size: 152, 168
+  orig: 152, 168
+  offset: 0, 0
+  index: -1
+huan02
+  rotate: true
+  xy: 831, 2
+  size: 152, 168
+  orig: 152, 168
+  offset: 0, 0
+  index: -1
+icon_backeffect_p
+  rotate: false
+  xy: 2, 618
+  size: 399, 401
+  orig: 399, 401
+  offset: 0, 0
+  index: -1
+icon_backeffect_r
+  rotate: false
+  xy: 2, 215
+  size: 399, 401
+  orig: 399, 401
+  offset: 0, 0
+  index: -1
+icon_backeffect_w
+  rotate: false
+  xy: 403, 618
+  size: 399, 401
+  orig: 399, 401
+  offset: 0, 0
+  index: -1
+light01
+  rotate: false
+  xy: 403, 360
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+light02
+  rotate: false
+  xy: 403, 102
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+light03
+  rotate: false
+  xy: 661, 360
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+name_back_g
+  rotate: false
+  xy: 2, 11
+  size: 164, 202
+  orig: 164, 202
+  offset: 0, 0
+  index: -1
+name_back_gr
+  rotate: false
+  xy: 804, 817
+  size: 164, 202
+  orig: 164, 202
+  offset: 0, 0
+  index: -1
+name_back_o
+  rotate: false
+  xy: 661, 156
+  size: 164, 202
+  orig: 164, 202
+  offset: 0, 0
+  index: -1
+name_back_p
+  rotate: false
+  xy: 168, 11
+  size: 164, 202
+  orig: 164, 202
+  offset: 0, 0
+  index: -1
+name_back_r
+  rotate: true
+  xy: 804, 651
+  size: 164, 202
+  orig: 164, 202
+  offset: 0, 0
+  index: -1
+name_back_w
+  rotate: false
+  xy: 827, 156
+  size: 164, 202
+  orig: 164, 202
+  offset: 0, 0
+  index: -1
+
+ZB_ChouZhuangBei_TuBiao3.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huan03
+  rotate: false
+  xy: 2, 342
+  size: 152, 168
+  orig: 152, 168
+  offset: 0, 0
+  index: -1
+icon_back
+  rotate: false
+  xy: 2, 172
+  size: 152, 168
+  orig: 152, 168
+  offset: 0, 0
+  index: -1
+icon_back_g
+  rotate: false
+  xy: 2, 2
+  size: 152, 168
+  orig: 152, 168
+  offset: 0, 0
+  index: -1
+icon_back_gr
+  rotate: false
+  xy: 156, 342
+  size: 152, 168
+  orig: 152, 168
+  offset: 0, 0
+  index: -1
+icon_back_o
+  rotate: false
+  xy: 156, 172
+  size: 152, 168
+  orig: 152, 168
+  offset: 0, 0
+  index: -1
+icon_back_p
+  rotate: false
+  xy: 156, 2
+  size: 152, 168
+  orig: 152, 168
+  offset: 0, 0
+  index: -1
+icon_back_r
+  rotate: false
+  xy: 310, 342
+  size: 152, 168
+  orig: 152, 168
+  offset: 0, 0
+  index: -1
+icon_back_w
+  rotate: false
+  xy: 310, 172
+  size: 152, 168
+  orig: 152, 168
+  offset: 0, 0
+  index: -1
+item
+  rotate: false
+  xy: 464, 217
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+star02
+  rotate: false
+  xy: 464, 359
+  size: 165, 151
+  orig: 165, 151
+  offset: 0, 0
+  index: -1
+star03
+  rotate: true
+  xy: 310, 5
+  size: 165, 151
+  orig: 165, 151
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+CJ_YanWu.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai_baiyan_00_eff/bai_baiyan_00_eff_02
+  rotate: true
+  xy: 277, 17
+  size: 223, 130
+  orig: 300, 225
+  offset: 45, 37
+  index: -1
+bai_baiyan_00_eff/bai_baiyan_00_eff_03
+  rotate: true
+  xy: 2, 16
+  size: 224, 138
+  orig: 300, 225
+  offset: 45, 36
+  index: -1
+bai_baiyan_00_eff/bai_baiyan_00_eff_04
+  rotate: true
+  xy: 142, 17
+  size: 223, 133
+  orig: 300, 225
+  offset: 44, 36
+  index: -1
+bai_baiyan_00_eff/bai_baiyan_00_eff_06
+  rotate: true
+  xy: 409, 13
+  size: 227, 126
+  orig: 300, 225
+  offset: 41, 43
+  index: -1
+bai_baiyan_00_eff/bai_baiyan_00_eff_09
+  rotate: true
+  xy: 537, 90
+  size: 150, 126
+  orig: 300, 225
+  offset: 78, 48
+  index: -1
+bai_baiyan_00_eff/bai_baiyan_00_eff_10
+  rotate: true
+  xy: 537, 11
+  size: 77, 120
+  orig: 300, 225
+  offset: 115, 57
+  index: -1
+bai_baiyan_03_eff/bai_baiyan_03_eff_01
+  rotate: true
+  xy: 886, 104
+  size: 57, 37
+  orig: 100, 125
+  offset: 25, 13
+  index: -1
+bai_baiyan_03_eff/bai_baiyan_03_eff_02
+  rotate: false
+  xy: 816, 17
+  size: 71, 71
+  orig: 100, 125
+  offset: 17, 12
+  index: -1
+bai_baiyan_03_eff/bai_baiyan_03_eff_03
+  rotate: true
+  xy: 824, 163
+  size: 77, 76
+  orig: 100, 125
+  offset: 14, 12
+  index: -1
+bai_baiyan_03_eff/bai_baiyan_03_eff_04
+  rotate: true
+  xy: 745, 160
+  size: 80, 77
+  orig: 100, 125
+  offset: 13, 12
+  index: -1
+bai_baiyan_03_eff/bai_baiyan_03_eff_05
+  rotate: true
+  xy: 665, 156
+  size: 84, 78
+  orig: 100, 125
+  offset: 11, 13
+  index: -1
+bai_baiyan_03_eff/bai_baiyan_03_eff_06
+  rotate: true
+  xy: 659, 2
+  size: 86, 78
+  orig: 100, 125
+  offset: 10, 14
+  index: -1
+bai_baiyan_03_eff/bai_baiyan_03_eff_07
+  rotate: true
+  xy: 739, 2
+  size: 86, 75
+  orig: 100, 125
+  offset: 10, 19
+  index: -1
+bai_baiyan_03_eff/bai_baiyan_03_eff_08
+  rotate: false
+  xy: 799, 90
+  size: 85, 68
+  orig: 100, 125
+  offset: 10, 27
+  index: -1
+bai_baiyan_03_eff/bai_baiyan_03_eff_09
+  rotate: false
+  xy: 665, 90
+  size: 75, 64
+  orig: 100, 125
+  offset: 10, 32
+  index: -1
+bai_baiyan_03_eff/bai_baiyan_03_eff_10
+  rotate: false
+  xy: 742, 94
+  size: 55, 60
+  orig: 100, 125
+  offset: 11, 36
+  index: -1

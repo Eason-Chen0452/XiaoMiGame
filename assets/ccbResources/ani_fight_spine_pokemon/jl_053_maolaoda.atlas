@@ -1,0 +1,279 @@
+
+jl_053_maolaoda.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 441, 320
+  size: 199, 182
+  orig: 200, 184
+  offset: 1, 2
+  index: -1
+ALL1
+  rotate: false
+  xy: 234, 314
+  size: 205, 188
+  orig: 205, 188
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: true
+  xy: 937, 426
+  size: 14, 41
+  orig: 14, 41
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 918, 378
+  size: 18, 44
+  orig: 19, 44
+  offset: 1, 0
+  index: -1
+Beard_L
+  rotate: false
+  xy: 938, 379
+  size: 26, 15
+  orig: 28, 16
+  offset: 2, 0
+  index: -1
+Beard_L2
+  rotate: false
+  xy: 600, 304
+  size: 27, 14
+  orig: 28, 14
+  offset: 1, 0
+  index: -1
+Beard_L3
+  rotate: true
+  xy: 459, 204
+  size: 23, 20
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+Beard_R
+  rotate: true
+  xy: 459, 229
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+Beard_R2
+  rotate: true
+  xy: 215, 109
+  size: 33, 9
+  orig: 33, 9
+  offset: 0, 0
+  index: -1
+Beard_R3
+  rotate: true
+  xy: 459, 260
+  size: 30, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 832, 424
+  size: 103, 78
+  orig: 106, 80
+  offset: 0, 2
+  index: -1
+Ear_L
+  rotate: false
+  xy: 412, 171
+  size: 34, 31
+  orig: 35, 32
+  offset: 1, 0
+  index: -1
+Ear_L2
+  rotate: false
+  xy: 850, 322
+  size: 14, 13
+  orig: 14, 14
+  offset: 0, 1
+  index: -1
+Ear_R
+  rotate: false
+  xy: 982, 469
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 448, 185
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: false
+  xy: 832, 337
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: true
+  xy: 832, 321
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: false
+  xy: 938, 396
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 518, 297
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: false
+  xy: 545, 296
+  size: 25, 22
+  orig: 25, 25
+  offset: 0, 3
+  index: -1
+Gem
+  rotate: true
+  xy: 448, 171
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 572, 300
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 459, 292
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 832, 366
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 487, 298
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: true
+  xy: 982, 443
+  size: 24, 37
+  orig: 25, 37
+  offset: 1, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 228, 156
+  size: 71, 46
+  orig: 72, 46
+  offset: 1, 0
+  index: -1
+Thigh_L
+  rotate: true
+  xy: 367, 173
+  size: 29, 43
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+Thigh_R
+  rotate: false
+  xy: 937, 442
+  size: 43, 60
+  orig: 43, 62
+  offset: 0, 1
+  index: -1
+UpArm_L
+  rotate: true
+  xy: 301, 166
+  size: 36, 64
+  orig: 37, 64
+  offset: 1, 0
+  index: -1
+UpArm_R
+  rotate: false
+  xy: 887, 374
+  size: 29, 48
+  orig: 30, 50
+  offset: 1, 1
+  index: -1
+buff_flo
+  rotate: false
+  xy: 866, 322
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 866, 322
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 866, 322
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_020_lv1_maolaoda-0004_shouji1_3
+  rotate: false
+  xy: 2, 319
+  size: 230, 183
+  orig: 230, 183
+  offset: 0, 0
+  index: -1
+jl_020_lv1_maolaoda-0005_shouji2_3
+  rotate: true
+  xy: 642, 323
+  size: 179, 188
+  orig: 179, 188
+  offset: 0, 0
+  index: -1
+jl_020_lv1_maolaoda-0006_siwang_10
+  rotate: false
+  xy: 228, 204
+  size: 229, 108
+  orig: 229, 108
+  offset: 0, 0
+  index: -1
+jl_020_lv1_maolaoda-0014_leiji_3
+  rotate: false
+  xy: 2, 144
+  size: 224, 173
+  orig: 224, 173
+  offset: 0, 0
+  index: -1
+jl_020_lv1_maolaoda-0014_leiji_4
+  rotate: false
+  xy: 2, 2
+  size: 211, 140
+  orig: 218, 188
+  offset: 5, 6
+  index: -1

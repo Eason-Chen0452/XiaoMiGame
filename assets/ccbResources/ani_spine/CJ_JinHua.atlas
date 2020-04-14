@@ -1,0 +1,90 @@
+
+CJ_JinHua.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02-fazhen-01
+  rotate: false
+  xy: 254, 251
+  size: 299, 43
+  orig: 299, 43
+  offset: 0, 0
+  index: -1
+02-fazhen-02
+  rotate: false
+  xy: 254, 296
+  size: 317, 49
+  orig: 317, 49
+  offset: 0, 0
+  index: -1
+02-fazhen-03
+  rotate: false
+  xy: 2, 2
+  size: 351, 53
+  orig: 351, 53
+  offset: 0, 0
+  index: -1
+02-fazhen-04
+  rotate: true
+  xy: 953, 582
+  size: 421, 65
+  orig: 421, 65
+  offset: 0, 0
+  index: -1
+100110300
+  rotate: false
+  xy: 2, 541
+  size: 470, 462
+  orig: 640, 480
+  offset: 87, 17
+  index: -1
+c0
+  rotate: false
+  xy: 254, 347
+  size: 191, 192
+  orig: 200, 200
+  offset: 5, 4
+  index: -1
+c1
+  rotate: false
+  xy: 474, 596
+  size: 163, 163
+  orig: 163, 163
+  offset: 0, 0
+  index: -1
+c2
+  rotate: false
+  xy: 474, 761
+  size: 253, 242
+  orig: 253, 242
+  offset: 0, 0
+  index: -1
+c3
+  rotate: false
+  xy: 2, 289
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+c4
+  rotate: false
+  xy: 2, 57
+  size: 228, 230
+  orig: 231, 231
+  offset: 0, 0
+  index: -1
+c4l
+  rotate: false
+  xy: 729, 772
+  size: 222, 231
+  orig: 227, 231
+  offset: 1, 0
+  index: -1
+effects11
+  rotate: false
+  xy: 639, 712
+  size: 50, 47
+  orig: 246, 150
+  offset: 98, 52
+  index: -1

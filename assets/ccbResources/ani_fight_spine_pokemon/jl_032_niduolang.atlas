@@ -1,0 +1,174 @@
+
+jl_032_niduolang.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blur_Die
+  rotate: false
+  xy: 660, 141
+  size: 181, 113
+  orig: 182, 117
+  offset: 1, 1
+  index: -1
+Blur_EarL
+  rotate: true
+  xy: 251, 29
+  size: 65, 99
+  orig: 65, 111
+  offset: 0, 10
+  index: -1
+Blur_EarR
+  rotate: false
+  xy: 172, 4
+  size: 77, 90
+  orig: 77, 101
+  offset: 0, 10
+  index: -1
+Blur_Head
+  rotate: true
+  xy: 981, 165
+  size: 39, 27
+  orig: 39, 28
+  offset: 0, 1
+  index: -1
+Blur_Hit
+  rotate: false
+  xy: 341, 101
+  size: 148, 153
+  orig: 148, 158
+  offset: 0, 1
+  index: -1
+Blur_Hit2
+  rotate: false
+  xy: 491, 121
+  size: 167, 133
+  orig: 169, 135
+  offset: 1, 1
+  index: -1
+Blur_Hit3
+  rotate: false
+  xy: 167, 96
+  size: 172, 158
+  orig: 172, 159
+  offset: 0, 1
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 2, 77
+  size: 163, 177
+  orig: 165, 181
+  offset: 1, 2
+  index: -1
+Blur_Skill
+  rotate: false
+  xy: 2, 77
+  size: 163, 177
+  orig: 165, 181
+  offset: 1, 2
+  index: -1
+Body
+  rotate: false
+  xy: 352, 6
+  size: 102, 93
+  orig: 102, 93
+  offset: 0, 0
+  index: -1
+Ear_L
+  rotate: true
+  xy: 491, 58
+  size: 61, 104
+  orig: 61, 104
+  offset: 0, 0
+  index: -1
+Ear_R
+  rotate: true
+  xy: 2, 2
+  size: 73, 95
+  orig: 73, 95
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 507, 22
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+Eye1
+  rotate: false
+  xy: 540, 30
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 251, 7
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+Gu
+  rotate: false
+  xy: 843, 147
+  size: 136, 107
+  orig: 175, 190
+  offset: 26, 19
+  index: -1
+Hand_L
+  rotate: true
+  xy: 981, 206
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 456, 52
+  size: 47, 33
+  orig: 47, 33
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 99, 4
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 456, 2
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 597, 70
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 660, 126
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 660, 126
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 660, 126
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1

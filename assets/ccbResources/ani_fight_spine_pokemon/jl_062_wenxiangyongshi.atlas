@@ -1,0 +1,160 @@
+
+jl_062_wenxiangyongshi.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 514, 329
+  size: 239, 174
+  orig: 239, 174
+  offset: 0, 0
+  index: -1
+ALL1
+  rotate: false
+  xy: 2, 121
+  size: 245, 180
+  orig: 245, 180
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: true
+  xy: 84, 57
+  size: 33, 66
+  orig: 33, 66
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 337, 118
+  size: 43, 52
+  orig: 48, 59
+  offset: 5, 7
+  index: -1
+Body
+  rotate: true
+  xy: 249, 172
+  size: 129, 128
+  orig: 129, 128
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 991, 420
+  size: 83, 27
+  orig: 83, 27
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 991, 403
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: false
+  xy: 84, 92
+  size: 83, 27
+  orig: 83, 27
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 426, 284
+  size: 51, 29
+  orig: 51, 29
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: true
+  xy: 379, 209
+  size: 52, 32
+  orig: 52, 32
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 2, 2
+  size: 70, 53
+  orig: 70, 53
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 74, 2
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+Hand_R_run
+  rotate: true
+  xy: 249, 121
+  size: 49, 86
+  orig: 49, 86
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 379, 172
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 379, 263
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 152, 77
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 152, 77
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 152, 77
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_023_lv2_wenxiangyongshi-0004_shouji1_3
+  rotate: false
+  xy: 279, 315
+  size: 233, 188
+  orig: 233, 188
+  offset: 0, 0
+  index: -1
+jl_023_lv2_wenxiangyongshi-0005_shouji2_3
+  rotate: false
+  xy: 755, 330
+  size: 234, 173
+  orig: 234, 173
+  offset: 0, 0
+  index: -1
+jl_023_lv2_wenxiangyongshi-0014_leiji_3
+  rotate: false
+  xy: 2, 303
+  size: 275, 200
+  orig: 275, 200
+  offset: 0, 0
+  index: -1
+leiji
+  rotate: false
+  xy: 2, 57
+  size: 80, 62
+  orig: 226, 218
+  offset: 81, 78
+  index: -1

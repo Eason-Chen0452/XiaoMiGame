@@ -1,0 +1,223 @@
+
+jl_097_yinmengmoren.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: true
+  xy: 702, 336
+  size: 172, 218
+  orig: 172, 218
+  offset: 0, 0
+  index: -1
+ALL1
+  rotate: true
+  xy: 476, 330
+  size: 178, 224
+  orig: 178, 224
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: true
+  xy: 262, 253
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 683, 266
+  size: 38, 62
+  orig: 38, 62
+  offset: 0, 0
+  index: -1
+Biao
+  rotate: false
+  xy: 228, 165
+  size: 35, 86
+  orig: 35, 86
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 228, 80
+  size: 68, 83
+  orig: 68, 83
+  offset: 0, 0
+  index: -1
+Ear_L
+  rotate: true
+  xy: 306, 260
+  size: 25, 45
+  orig: 36, 45
+  offset: 5, 0
+  index: -1
+Ear_R
+  rotate: false
+  xy: 879, 285
+  size: 36, 49
+  orig: 41, 59
+  offset: 0, 1
+  index: -1
+EyE2
+  rotate: false
+  xy: 57, 3
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: false
+  xy: 2, 2
+  size: 53, 20
+  orig: 53, 20
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: true
+  xy: 723, 270
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: false
+  xy: 988, 339
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 828, 286
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: false
+  xy: 683, 155
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: true
+  xy: 265, 207
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 723, 285
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 922, 365
+  size: 80, 74
+  orig: 84, 77
+  offset: 4, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 228, 28
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+Leg_P_R
+  rotate: true
+  xy: 776, 286
+  size: 48, 50
+  orig: 59, 77
+  offset: 9, 7
+  index: -1
+Leg_R
+  rotate: false
+  xy: 683, 205
+  size: 40, 59
+  orig: 40, 59
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 922, 441
+  size: 98, 67
+  orig: 98, 67
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 917, 291
+  size: 36, 32
+  orig: 37, 33
+  offset: 1, 0
+  index: -1
+UpArm_L
+  rotate: false
+  xy: 265, 172
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+UpArm_R
+  rotate: false
+  xy: 922, 325
+  size: 64, 38
+  orig: 64, 38
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 683, 140
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 683, 140
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 683, 140
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_034_lv1_yinmengmoren-0004_shouji1_3
+  rotate: false
+  xy: 262, 287
+  size: 212, 221
+  orig: 212, 221
+  offset: 0, 0
+  index: -1
+jl_034_lv1_yinmengmoren-0005_shouji2_3
+  rotate: false
+  xy: 2, 24
+  size: 224, 227
+  orig: 224, 227
+  offset: 0, 0
+  index: -1
+jl_034_lv1_yinmengmoren-0014_leiji_3
+  rotate: false
+  xy: 2, 253
+  size: 258, 255
+  orig: 258, 255
+  offset: 0, 0
+  index: -1
+leiji
+  rotate: true
+  xy: 476, 140
+  size: 188, 205
+  orig: 214, 226
+  offset: 10, 5
+  index: -1

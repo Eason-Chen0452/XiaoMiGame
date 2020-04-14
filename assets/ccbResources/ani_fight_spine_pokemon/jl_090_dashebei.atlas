@@ -1,0 +1,174 @@
+
+jl_090_dashebei.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 610, 331
+  size: 190, 159
+  orig: 191, 159
+  offset: 1, 0
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 2, 130
+  size: 197, 170
+  orig: 197, 170
+  offset: 0, 0
+  index: -1
+Eye1_L
+  rotate: false
+  xy: 719, 297
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+Eye1_R
+  rotate: false
+  xy: 622, 285
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+Eye2_L
+  rotate: false
+  xy: 170, 95
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+Eye2_R
+  rotate: false
+  xy: 677, 293
+  size: 40, 36
+  orig: 40, 40
+  offset: 0, 2
+  index: -1
+Eye_BL
+  rotate: false
+  xy: 1002, 485
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+Eye_BR
+  rotate: false
+  xy: 802, 339
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: false
+  xy: 403, 248
+  size: 98, 66
+  orig: 102, 94
+  offset: 4, 7
+  index: -1
+Eye_L
+  rotate: true
+  xy: 403, 223
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: false
+  xy: 622, 243
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 299, 221
+  size: 102, 94
+  orig: 102, 94
+  offset: 0, 0
+  index: -1
+Ke_D
+  rotate: false
+  xy: 2, 2
+  size: 166, 126
+  orig: 167, 126
+  offset: 0, 0
+  index: -1
+Ke_U
+  rotate: true
+  xy: 201, 125
+  size: 175, 96
+  orig: 176, 98
+  offset: 0, 1
+  index: -1
+Tail
+  rotate: false
+  xy: 299, 136
+  size: 99, 83
+  orig: 100, 83
+  offset: 1, 0
+  index: -1
+Tongue
+  rotate: true
+  xy: 568, 243
+  size: 71, 52
+  orig: 71, 52
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 225, 302
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 225, 302
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 225, 302
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_031_lv0_dashebei_shouji1
+  rotate: false
+  xy: 225, 317
+  size: 193, 173
+  orig: 193, 173
+  offset: 0, 0
+  index: -1
+jl_dashebei_leiji
+  rotate: false
+  xy: 2, 302
+  size: 221, 188
+  orig: 221, 188
+  offset: 0, 0
+  index: -1
+jl_dashebei_shouji2
+  rotate: false
+  xy: 420, 316
+  size: 188, 174
+  orig: 188, 181
+  offset: 0, 0
+  index: -1
+jl_dashebei_siwang
+  rotate: false
+  xy: 802, 347
+  size: 198, 143
+  orig: 198, 143
+  offset: 0, 0
+  index: -1
+leiji
+  rotate: false
+  xy: 503, 248
+  size: 63, 66
+  orig: 244, 230
+  offset: 121, 61
+  index: -1

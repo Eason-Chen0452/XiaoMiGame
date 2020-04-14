@@ -1,0 +1,293 @@
+
+jl_064_yongjila.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 247, 305
+  size: 239, 198
+  orig: 243, 199
+  offset: 2, 0
+  index: -1
+ALL1
+  rotate: false
+  xy: 2, 300
+  size: 243, 203
+  orig: 243, 203
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: false
+  xy: 727, 291
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 341, 68
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Beard_L
+  rotate: false
+  xy: 187, 3
+  size: 49, 76
+  orig: 49, 76
+  offset: 0, 0
+  index: -1
+Beard_R
+  rotate: false
+  xy: 951, 329
+  size: 53, 77
+  orig: 53, 77
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 520, 262
+  size: 65, 54
+  orig: 65, 55
+  offset: 0, 1
+  index: -1
+Body_D
+  rotate: false
+  xy: 520, 202
+  size: 41, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 706, 290
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: false
+  xy: 706, 290
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+Eye2 (2)
+  rotate: false
+  xy: 392, 75
+  size: 18, 17
+  orig: 31, 32
+  offset: 6, 6
+  index: -1
+Eye3_L
+  rotate: false
+  xy: 1006, 403
+  size: 16, 19
+  orig: 18, 21
+  offset: 2, 1
+  index: -1
+Eye3_R
+  rotate: false
+  xy: 366, 74
+  size: 24, 18
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: true
+  xy: 563, 207
+  size: 53, 22
+  orig: 53, 22
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: false
+  xy: 238, 7
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: true
+  xy: 522, 144
+  size: 56, 35
+  orig: 56, 35
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: false
+  xy: 587, 237
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+Hand_L_01
+  rotate: false
+  xy: 951, 302
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+Hand_L_02
+  rotate: false
+  xy: 667, 244
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 522, 97
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2, 2
+  size: 77, 92
+  orig: 77, 92
+  offset: 0, 0
+  index: -1
+Head1
+  rotate: true
+  xy: 412, 191
+  size: 112, 106
+  orig: 112, 106
+  offset: 0, 0
+  index: -1
+Jian_L
+  rotate: false
+  xy: 587, 276
+  size: 59, 40
+  orig: 59, 41
+  offset: 0, 0
+  index: -1
+Jian_R
+  rotate: false
+  xy: 648, 276
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 238, 32
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: true
+  xy: 587, 207
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 96, 4
+  size: 89, 75
+  orig: 89, 75
+  offset: 0, 0
+  index: -1
+Tail2
+  rotate: false
+  xy: 412, 91
+  size: 108, 98
+  orig: 108, 98
+  offset: 0, 0
+  index: -1
+Thigh_L
+  rotate: false
+  xy: 275, 67
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Thigh_R
+  rotate: false
+  xy: 310, 66
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+UpArm_L
+  rotate: false
+  xy: 627, 239
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+UpArm_R
+  rotate: false
+  xy: 238, 66
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+WQ1_L
+  rotate: false
+  xy: 951, 408
+  size: 41, 95
+  orig: 41, 95
+  offset: 0, 0
+  index: -1
+WQ_L
+  rotate: false
+  xy: 994, 424
+  size: 23, 79
+  orig: 23, 79
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 988, 314
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 988, 314
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 988, 314
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_024_lv1_yongjila-0004_shouji1_3
+  rotate: false
+  xy: 488, 318
+  size: 239, 185
+  orig: 239, 185
+  offset: 0, 0
+  index: -1
+jl_024_lv1_yongjila-0005_shouji2_3
+  rotate: false
+  xy: 729, 313
+  size: 220, 190
+  orig: 220, 190
+  offset: 0, 0
+  index: -1
+jl_024_lv1_yongjila-0014_leiji_3
+  rotate: false
+  xy: 2, 81
+  size: 224, 217
+  orig: 224, 217
+  offset: 0, 0
+  index: -1
+leiji
+  rotate: true
+  xy: 228, 94
+  size: 204, 182
+  orig: 332, 257
+  offset: 40, 6
+  index: -1

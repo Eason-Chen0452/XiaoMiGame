@@ -1,0 +1,132 @@
+
+jl_001_miaowazhongzi.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: false
+  xy: 939, 204
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 939, 168
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 638, 181
+  size: 108, 73
+  orig: 108, 73
+  offset: 0, 0
+  index: -1
+Bud
+  rotate: false
+  xy: 847, 173
+  size: 90, 81
+  orig: 90, 81
+  offset: 0, 0
+  index: -1
+Eye1
+  rotate: true
+  xy: 121, 31
+  size: 77, 32
+  orig: 77, 32
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: true
+  xy: 121, 2
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: false
+  xy: 638, 147
+  size: 77, 32
+  orig: 77, 32
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 748, 174
+  size: 97, 80
+  orig: 97, 80
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 979, 213
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 982, 170
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 339, 114
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 339, 114
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 339, 114
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+canying_daiji
+  rotate: false
+  xy: 180, 105
+  size: 157, 149
+  orig: 320, 287
+  offset: 81, 39
+  index: -1
+canying_shouji
+  rotate: false
+  xy: 492, 124
+  size: 144, 130
+  orig: 320, 287
+  offset: 86, 47
+  index: -1
+canying_siwang
+  rotate: false
+  xy: 2, 110
+  size: 176, 144
+  orig: 320, 287
+  offset: 76, 36
+  index: -1
+canying_zhongji
+  rotate: false
+  xy: 339, 129
+  size: 151, 125
+  orig: 237, 228
+  offset: 36, 52
+  index: -1
+gutou
+  rotate: false
+  xy: 2, 16
+  size: 117, 92
+  orig: 320, 288
+  offset: 110, 58
+  index: -1

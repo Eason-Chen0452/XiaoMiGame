@@ -1,0 +1,132 @@
+
+jl_010_lvmaochong.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blur_Die
+  rotate: true
+  xy: 2, 105
+  size: 184, 94
+  orig: 185, 95
+  offset: 0, 1
+  index: -1
+Blur_Hit
+  rotate: true
+  xy: 2, 8
+  size: 95, 136
+  orig: 95, 137
+  offset: 0, 1
+  index: -1
+Blur_Hit2
+  rotate: false
+  xy: 2, 291
+  size: 182, 101
+  orig: 189, 106
+  offset: 5, 5
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 98, 149
+  size: 126, 140
+  orig: 127, 140
+  offset: 0, 0
+  index: -1
+Blur_Skill
+  rotate: false
+  xy: 2, 394
+  size: 202, 113
+  orig: 212, 131
+  offset: 8, 8
+  index: -1
+Body
+  rotate: true
+  xy: 206, 442
+  size: 65, 38
+  orig: 65, 38
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 218, 13
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 206, 416
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+Gu
+  rotate: false
+  xy: 140, 2
+  size: 76, 101
+  orig: 94, 133
+  offset: 3, 9
+  index: -1
+Head
+  rotate: true
+  xy: 186, 322
+  size: 70, 58
+  orig: 70, 59
+  offset: 0, 1
+  index: -1
+Neck
+  rotate: false
+  xy: 98, 105
+  size: 69, 42
+  orig: 69, 42
+  offset: 0, 0
+  index: -1
+Noth
+  rotate: false
+  xy: 186, 293
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+Spine
+  rotate: true
+  xy: 218, 59
+  size: 50, 33
+  orig: 50, 33
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 218, 38
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+Tentacle
+  rotate: false
+  xy: 169, 111
+  size: 60, 36
+  orig: 60, 36
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 223, 307
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 223, 307
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 223, 307
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1

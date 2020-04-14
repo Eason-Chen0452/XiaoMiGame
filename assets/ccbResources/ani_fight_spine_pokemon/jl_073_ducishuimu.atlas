@@ -1,0 +1,188 @@
+
+jl_073_ducishuimu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 465, 321
+  size: 210, 186
+  orig: 210, 186
+  offset: 0, 0
+  index: -1
+ALL1
+  rotate: false
+  xy: 247, 315
+  size: 216, 192
+  orig: 216, 192
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 153, 16
+  size: 87, 52
+  orig: 87, 52
+  offset: 0, 0
+  index: -1
+Claw_L_01
+  rotate: false
+  xy: 225, 115
+  size: 37, 87
+  orig: 37, 87
+  offset: 0, 0
+  index: -1
+Claw_L_02
+  rotate: false
+  xy: 889, 433
+  size: 107, 74
+  orig: 107, 74
+  offset: 0, 0
+  index: -1
+Claw_L_03
+  rotate: false
+  xy: 272, 237
+  size: 58, 76
+  orig: 58, 76
+  offset: 0, 0
+  index: -1
+Claw_L_04
+  rotate: false
+  xy: 934, 278
+  size: 41, 65
+  orig: 41, 66
+  offset: 0, 1
+  index: -1
+Claw_L_05
+  rotate: true
+  xy: 272, 213
+  size: 22, 48
+  orig: 23, 48
+  offset: 0, 0
+  index: -1
+Claw_R_01
+  rotate: false
+  xy: 225, 204
+  size: 45, 98
+  orig: 45, 98
+  offset: 0, 0
+  index: -1
+Claw_R_02
+  rotate: false
+  xy: 898, 261
+  size: 34, 82
+  orig: 35, 82
+  offset: 0, 0
+  index: -1
+Claw_R_03
+  rotate: true
+  xy: 332, 267
+  size: 46, 77
+  orig: 46, 78
+  offset: 0, 1
+  index: -1
+Claw_R_04
+  rotate: true
+  xy: 889, 345
+  size: 25, 81
+  orig: 25, 81
+  offset: 0, 0
+  index: -1
+Claw_R_05
+  rotate: true
+  xy: 472, 275
+  size: 44, 62
+  orig: 44, 62
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 998, 447
+  size: 60, 23
+  orig: 60, 23
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: true
+  xy: 998, 418
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: true
+  xy: 898, 199
+  size: 60, 23
+  orig: 60, 23
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 17
+  size: 149, 86
+  orig: 149, 86
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 2, 2
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 2, 2
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 2, 2
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+eye1
+  rotate: false
+  xy: 889, 372
+  size: 101, 59
+  orig: 101, 59
+  offset: 0, 0
+  index: -1
+jl_027_lv1_ducishuimu-0004_shouji1_3
+  rotate: true
+  xy: 677, 342
+  size: 165, 210
+  orig: 165, 210
+  offset: 0, 0
+  index: -1
+jl_027_lv1_ducishuimu-0005_shouji2_3
+  rotate: false
+  xy: 2, 105
+  size: 221, 197
+  orig: 221, 197
+  offset: 0, 0
+  index: -1
+jl_027_lv1_ducishuimu-0006_siwang_10
+  rotate: false
+  xy: 677, 185
+  size: 219, 155
+  orig: 219, 155
+  offset: 0, 0
+  index: -1
+jl_027_lv1_ducishuimu-0014_leiji_3
+  rotate: false
+  xy: 2, 304
+  size: 243, 203
+  orig: 243, 203
+  offset: 0, 0
+  index: -1
+jl_027_lv1_ducishuimu-0014_leiji_4
+  rotate: false
+  xy: 411, 261
+  size: 59, 52
+  orig: 259, 224
+  offset: 73, 101
+  index: -1

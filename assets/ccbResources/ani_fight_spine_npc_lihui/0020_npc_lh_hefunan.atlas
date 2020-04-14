@@ -1,0 +1,13 @@
+
+0020_npc_lh_hefunan.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0020_npc_lh_hefunan
+  rotate: false
+  xy: 2, 2
+  size: 364, 372
+  orig: 400, 400
+  offset: 20, 0
+  index: -1

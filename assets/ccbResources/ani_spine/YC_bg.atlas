@@ -1,0 +1,83 @@
+
+YC_bg.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c1
+  rotate: false
+  xy: 2, 370
+  size: 343, 344
+  orig: 380, 383
+  offset: 18, 21
+  index: -1
+c2
+  rotate: false
+  xy: 2, 116
+  size: 252, 252
+  orig: 284, 284
+  offset: 16, 16
+  index: -1
+c3
+  rotate: false
+  xy: 550, 603
+  size: 180, 180
+  orig: 222, 222
+  offset: 21, 21
+  index: -1
+dl
+  rotate: false
+  xy: 2, 2
+  size: 221, 112
+  orig: 223, 114
+  offset: 1, 1
+  index: -1
+dl1
+  rotate: false
+  xy: 347, 452
+  size: 201, 262
+  orig: 203, 264
+  offset: 1, 1
+  index: -1
+dl2
+  rotate: false
+  xy: 457, 801
+  size: 440, 174
+  orig: 500, 177
+  offset: 32, 1
+  index: -1
+dl2mask
+  rotate: false
+  xy: 2, 716
+  size: 453, 259
+  orig: 455, 261
+  offset: 1, 1
+  index: -1
+l1
+  rotate: false
+  xy: 899, 943
+  size: 32, 32
+  orig: 34, 34
+  offset: 1, 1
+  index: -1
+l2
+  rotate: false
+  xy: 899, 943
+  size: 32, 32
+  orig: 34, 34
+  offset: 1, 1
+  index: -1
+l3
+  rotate: false
+  xy: 899, 943
+  size: 32, 32
+  orig: 34, 34
+  offset: 1, 1
+  index: -1
+lc
+  rotate: true
+  xy: 457, 785
+  size: 14, 417
+  orig: 16, 419
+  offset: 1, 1
+  index: -1

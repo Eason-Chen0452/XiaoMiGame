@@ -1,0 +1,13 @@
+
+0044_npc_lh_fushilaoren.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0044_npc_lh_fushilaoren
+  rotate: false
+  xy: 2, 26
+  size: 391, 367
+  orig: 400, 400
+  offset: 9, 0
+  index: -1

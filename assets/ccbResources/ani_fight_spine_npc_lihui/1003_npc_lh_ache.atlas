@@ -1,0 +1,13 @@
+
+1003_npc_lh_ache.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ache
+  rotate: true
+  xy: 2, 2
+  size: 230, 392
+  orig: 231, 396
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,182 @@
+
+ZC_FengMian_bg.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b1
+  rotate: false
+  xy: 900, 454
+  size: 98, 62
+  orig: 98, 62
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 900, 323
+  size: 88, 65
+  orig: 88, 65
+  offset: 0, 0
+  index: -1
+b3
+  rotate: false
+  xy: 900, 390
+  size: 94, 62
+  orig: 94, 62
+  offset: 0, 0
+  index: -1
+me
+  rotate: false
+  xy: 22, 12
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+meteor
+  rotate: true
+  xy: 2, 8
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+meteorlight
+  rotate: false
+  xy: 2, 2
+  size: 453, 4
+  orig: 453, 4
+  offset: 0, 0
+  index: -1
+plantA2
+  rotate: false
+  xy: 2, 30
+  size: 606, 992
+  orig: 606, 992
+  offset: 0, 0
+  index: -1
+sunshine
+  rotate: true
+  xy: 610, 27
+  size: 636, 288
+  orig: 638, 288
+  offset: 2, 0
+  index: -1
+windmill1
+  rotate: true
+  xy: 900, 518
+  size: 145, 122
+  orig: 145, 122
+  offset: 0, 0
+  index: -1
+windmill2
+  rotate: true
+  xy: 610, 665
+  size: 357, 400
+  orig: 357, 400
+  offset: 0, 0
+  index: -1
+windmillcore
+  rotate: false
+  xy: 990, 359
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+
+ZC_FengMian_bg2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+citylight
+  rotate: false
+  xy: 2, 2
+  size: 208, 527
+  orig: 208, 527
+  offset: 0, 0
+  index: -1
+plantA1
+  rotate: true
+  xy: 212, 50
+  size: 479, 808
+  orig: 479, 808
+  offset: 0, 0
+  index: -1
+plantD1
+  rotate: false
+  xy: 2, 531
+  size: 956, 472
+  orig: 956, 472
+  offset: 0, 0
+  index: -1
+
+ZC_FengMian_bg3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+plantC2
+  rotate: false
+  xy: 2, 2
+  size: 783, 862
+  orig: 789, 862
+  offset: 0, 0
+  index: -1
+
+ZC_FengMian_bg4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+city
+  rotate: true
+  xy: 2, 498
+  size: 488, 587
+  orig: 488, 587
+  offset: 0, 0
+  index: -1
+plantC1
+  rotate: true
+  xy: 2, 2
+  size: 494, 764
+  orig: 494, 827
+  offset: 0, 63
+  index: -1
+
+ZC_FengMian_bg5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+plantD2
+  rotate: false
+  xy: 2, 2
+  size: 899, 710
+  orig: 899, 710
+  offset: 0, 0
+  index: -1
+
+ZC_FengMian_bg6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+plantB2
+  rotate: false
+  xy: 2, 2
+  size: 866, 599
+  orig: 867, 599
+  offset: 1, 0
+  index: -1
+
+ZC_FengMian_bg7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+plantB1
+  rotate: false
+  xy: 2, 2
+  size: 881, 568
+  orig: 881, 568
+  offset: 0, 0
+  index: -1

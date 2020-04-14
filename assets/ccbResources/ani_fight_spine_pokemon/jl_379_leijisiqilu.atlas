@@ -1,0 +1,272 @@
+
+jl_379_leijisiqilu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 732, 323
+  size: 207, 187
+  orig: 208, 187
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: false
+  xy: 821, 244
+  size: 53, 77
+  orig: 53, 77
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 876, 242
+  size: 50, 79
+  orig: 50, 79
+  offset: 0, 0
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 2, 134
+  size: 227, 208
+  orig: 228, 208
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 436, 131
+  size: 181, 166
+  orig: 182, 167
+  offset: 0, 1
+  index: -1
+Eye
+  rotate: false
+  xy: 523, 87
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+Eye1
+  rotate: false
+  xy: 219, 2
+  size: 35, 31
+  orig: 38, 42
+  offset: 3, 6
+  index: -1
+Eye_C
+  rotate: false
+  xy: 563, 87
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 707, 230
+  size: 56, 84
+  orig: 57, 84
+  offset: 1, 0
+  index: -1
+Hand_L_1
+  rotate: true
+  xy: 707, 212
+  size: 16, 30
+  orig: 17, 32
+  offset: 0, 1
+  index: -1
+Hand_L_2
+  rotate: true
+  xy: 256, 13
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+Hand_L_3
+  rotate: false
+  xy: 1005, 380
+  size: 17, 34
+  orig: 18, 35
+  offset: 0, 1
+  index: -1
+Hand_R
+  rotate: false
+  xy: 765, 242
+  size: 54, 79
+  orig: 56, 79
+  offset: 1, 0
+  index: -1
+Hand_R_1
+  rotate: true
+  xy: 231, 321
+  size: 21, 33
+  orig: 23, 34
+  offset: 1, 0
+  index: -1
+Hand_R_2
+  rotate: false
+  xy: 1005, 349
+  size: 16, 29
+  orig: 17, 30
+  offset: 1, 0
+  index: -1
+Hand_R_3
+  rotate: false
+  xy: 2, 2
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 928, 209
+  size: 44, 56
+  orig: 44, 58
+  offset: 0, 2
+  index: -1
+Leg_L_1
+  rotate: false
+  xy: 424, 31
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 475, 83
+  size: 46, 46
+  orig: 46, 47
+  offset: 0, 1
+  index: -1
+Leg_R_1
+  rotate: true
+  xy: 986, 212
+  size: 41, 36
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 24, 13
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 24, 13
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 24, 13
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_062_lv0_leijisiqilu-0005_shouji2_3
+  rotate: false
+  xy: 522, 316
+  size: 208, 194
+  orig: 208, 194
+  offset: 0, 0
+  index: -1
+jl_062_lv0_leijisiqilu_leiji
+  rotate: false
+  xy: 282, 314
+  size: 238, 196
+  orig: 238, 196
+  offset: 0, 0
+  index: -1
+jl_062_lv0_leijisiqilu_shouji1
+  rotate: false
+  xy: 231, 124
+  size: 203, 188
+  orig: 203, 188
+  offset: 0, 0
+  index: -1
+jl_062_lv0_leijisiqilu_siwang
+  rotate: false
+  xy: 2, 344
+  size: 278, 166
+  orig: 278, 166
+  offset: 0, 0
+  index: -1
+light01
+  rotate: true
+  xy: 326, 27
+  size: 95, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+shandian12/sd12_00
+  rotate: false
+  xy: 941, 331
+  size: 62, 83
+  orig: 113, 113
+  offset: 6, 29
+  index: -1
+shandian12/sd12_01
+  rotate: false
+  xy: 686, 142
+  size: 54, 66
+  orig: 113, 113
+  offset: 7, 41
+  index: -1
+shandian12/sd12_02
+  rotate: false
+  xy: 424, 66
+  size: 49, 56
+  orig: 113, 113
+  offset: 11, 50
+  index: -1
+shandian12/sd12_03
+  rotate: true
+  xy: 108, 34
+  size: 98, 109
+  orig: 113, 113
+  offset: 10, 4
+  index: -1
+shandian12/sd12_04
+  rotate: false
+  xy: 604, 210
+  size: 101, 104
+  orig: 113, 113
+  offset: 8, 2
+  index: -1
+shandian12/sd12_05
+  rotate: true
+  xy: 941, 416
+  size: 94, 72
+  orig: 113, 113
+  offset: 8, 6
+  index: -1
+shandian12/sd12_06
+  rotate: true
+  xy: 928, 255
+  size: 66, 60
+  orig: 113, 113
+  offset: 15, 11
+  index: -1
+shandian12/sd12_10
+  rotate: false
+  xy: 2, 28
+  size: 104, 104
+  orig: 113, 113
+  offset: 9, 4
+  index: -1
+shandian12/sd12_11
+  rotate: false
+  xy: 219, 35
+  size: 105, 87
+  orig: 113, 113
+  offset: 8, 20
+  index: -1
+shandian12/sd12_12
+  rotate: true
+  xy: 604, 139
+  size: 69, 80
+  orig: 113, 113
+  offset: 42, 25
+  index: -1

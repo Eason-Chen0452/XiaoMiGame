@@ -1,0 +1,188 @@
+
+jl_241_danaiguan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eye2
+  rotate: false
+  xy: 325, 236
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+all
+  rotate: false
+  xy: 240, 302
+  size: 234, 208
+  orig: 234, 208
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 264, 180
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 264, 180
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 264, 180
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+erduo_l
+  rotate: false
+  xy: 422, 276
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+erduo_r
+  rotate: false
+  xy: 325, 266
+  size: 52, 34
+  orig: 54, 39
+  offset: 1, 5
+  index: -1
+eye
+  rotate: false
+  xy: 2, 2
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+eye-c
+  rotate: false
+  xy: 57, 2
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+ji_083_danaiguan-0004_shouji1_3
+  rotate: true
+  xy: 2, 31
+  size: 244, 201
+  orig: 244, 201
+  offset: 0, 0
+  index: -1
+ji_083_danaiguan-0005_shouji2_3
+  rotate: false
+  xy: 476, 301
+  size: 233, 209
+  orig: 233, 209
+  offset: 0, 0
+  index: -1
+ji_083_danaiguan-0014_leiji_3
+  rotate: false
+  xy: 2, 277
+  size: 236, 233
+  orig: 236, 233
+  offset: 0, 0
+  index: -1
+ji_083_danaiguan-0014_leiji_4
+  rotate: false
+  xy: 711, 307
+  size: 185, 203
+  orig: 185, 203
+  offset: 0, 0
+  index: -1
+jio_l
+  rotate: false
+  xy: 112, 5
+  size: 51, 24
+  orig: 51, 25
+  offset: 0, 0
+  index: -1
+jio_r
+  rotate: false
+  xy: 379, 270
+  size: 41, 30
+  orig: 41, 32
+  offset: 0, 1
+  index: -1
+naitou1
+  rotate: false
+  xy: 240, 282
+  size: 22, 18
+  orig: 23, 20
+  offset: 0, 1
+  index: -1
+naitou2
+  rotate: true
+  xy: 986, 361
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+naitou3
+  rotate: true
+  xy: 1006, 490
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+naitou4
+  rotate: false
+  xy: 205, 31
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 898, 382
+  size: 106, 128
+  orig: 107, 128
+  offset: 0, 0
+  index: -1
+shoubi_l
+  rotate: false
+  xy: 264, 195
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+shoubi_r
+  rotate: false
+  xy: 205, 46
+  size: 59, 60
+  orig: 60, 63
+  offset: 0, 1
+  index: -1
+tou
+  rotate: false
+  xy: 898, 302
+  size: 86, 78
+  orig: 88, 79
+  offset: 2, 1
+  index: -1
+tui_l
+  rotate: false
+  xy: 264, 245
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+tui_r
+  rotate: true
+  xy: 205, 108
+  size: 68, 61
+  orig: 68, 61
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 205, 178
+  size: 97, 57
+  orig: 98, 57
+  offset: 0, 0
+  index: -1

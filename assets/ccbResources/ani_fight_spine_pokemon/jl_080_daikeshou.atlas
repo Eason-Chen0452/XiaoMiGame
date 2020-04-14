@@ -1,0 +1,209 @@
+
+jl_080_daikeshou.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 225, 61
+  size: 188, 212
+  orig: 188, 212
+  offset: 0, 0
+  index: -1
+ALL1
+  rotate: false
+  xy: 462, 292
+  size: 194, 218
+  orig: 194, 218
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: true
+  xy: 66, 10
+  size: 29, 57
+  orig: 29, 57
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 2, 7
+  size: 53, 62
+  orig: 53, 62
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 861, 286
+  size: 102, 147
+  orig: 106, 147
+  offset: 4, 0
+  index: -1
+Ear_L
+  rotate: false
+  xy: 260, 34
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Ear_R
+  rotate: false
+  xy: 190, 31
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 288, 36
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+EyeBall_L
+  rotate: false
+  xy: 66, 2
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+EyeBall_R
+  rotate: true
+  xy: 74, 2
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: true
+  xy: 612, 230
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+Eye_Tc
+  rotate: false
+  xy: 66, 41
+  size: 80, 19
+  orig: 80, 19
+  offset: 0, 0
+  index: -1
+Eye_Tc_L
+  rotate: false
+  xy: 222, 37
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+Eye_Tc_R
+  rotate: false
+  xy: 148, 37
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 415, 51
+  size: 54, 33
+  orig: 54, 33
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: false
+  xy: 499, 178
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+Foot_R_run
+  rotate: false
+  xy: 415, 86
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 415, 197
+  size: 91, 82
+  orig: 91, 82
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 560, 225
+  size: 50, 65
+  orig: 62, 66
+  offset: 12, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 499, 221
+  size: 59, 69
+  orig: 59, 69
+  offset: 0, 0
+  index: -1
+Leg_R_run
+  rotate: false
+  xy: 415, 123
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 861, 390
+  size: 120, 161
+  orig: 120, 161
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 265, 275
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 265, 275
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 265, 275
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_028_lv1_daikeshou-0004_shouji1_3
+  rotate: false
+  xy: 2, 62
+  size: 221, 211
+  orig: 221, 211
+  offset: 0, 0
+  index: -1
+jl_028_lv1_daikeshou-0005_shouji2_3
+  rotate: false
+  xy: 265, 290
+  size: 195, 220
+  orig: 195, 220
+  offset: 0, 0
+  index: -1
+jl_028_lv1_daikeshou-0014_leiji_3
+  rotate: false
+  xy: 2, 275
+  size: 261, 235
+  orig: 261, 235
+  offset: 0, 0
+  index: -1
+jl_028_lv1_daikeshou-0014_leiji_4
+  rotate: false
+  xy: 658, 300
+  size: 201, 210
+  orig: 279, 257
+  offset: 68, 24
+  index: -1

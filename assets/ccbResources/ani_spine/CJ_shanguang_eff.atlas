@@ -1,0 +1,27 @@
+
+CJ_shanguang_eff.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fangshe_eff
+  rotate: false
+  xy: 2, 95
+  size: 284, 30
+  orig: 284, 30
+  offset: 0, 0
+  index: -1
+light02
+  rotate: false
+  xy: 2, 127
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+star02
+  rotate: false
+  xy: 2, 2
+  size: 99, 91
+  orig: 99, 91
+  offset: 0, 0
+  index: -1

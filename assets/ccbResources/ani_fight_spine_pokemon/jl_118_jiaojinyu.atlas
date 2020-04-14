@@ -1,0 +1,160 @@
+
+jl_118_jiaojinyu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 234, 379
+  size: 218, 131
+  orig: 218, 133
+  offset: 0, 2
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 2, 364
+  size: 230, 146
+  orig: 230, 146
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 293, 280
+  size: 88, 97
+  orig: 88, 97
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 27, 4
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: false
+  xy: 428, 299
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+Eye_LC
+  rotate: false
+  xy: 913, 373
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: false
+  xy: 293, 247
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+Eye_RC
+  rotate: false
+  xy: 257, 207
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 870, 363
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 192, 189
+  size: 63, 49
+  orig: 63, 51
+  offset: 0, 2
+  index: -1
+Mouth
+  rotate: true
+  xy: 2, 2
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+Qi_L
+  rotate: true
+  xy: 383, 280
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+Qi_R
+  rotate: false
+  xy: 383, 321
+  size: 65, 56
+  orig: 65, 56
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 192, 240
+  size: 122, 99
+  orig: 122, 99
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 234, 364
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 234, 364
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 234, 364
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_043_lv0_jiaojinyu_shouji1
+  rotate: false
+  xy: 2, 30
+  size: 184, 160
+  orig: 184, 160
+  offset: 0, 0
+  index: -1
+jl_jiaojinyu_leiji
+  rotate: false
+  xy: 2, 192
+  size: 188, 170
+  orig: 188, 170
+  offset: 0, 0
+  index: -1
+jl_jiaojinyu_shouji2
+  rotate: false
+  xy: 668, 356
+  size: 200, 154
+  orig: 200, 154
+  offset: 0, 0
+  index: -1
+jl_jiaojinyu_siwang
+  rotate: false
+  xy: 454, 388
+  size: 212, 122
+  orig: 212, 122
+  offset: 0, 0
+  index: -1
+leiji
+  rotate: false
+  xy: 870, 395
+  size: 147, 115
+  orig: 233, 185
+  offset: 33, 65
+  index: -1

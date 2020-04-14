@@ -1,0 +1,138 @@
+
+ZC_diaoyu_jiangli.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Can1_O
+  rotate: false
+  xy: 786, 796
+  size: 236, 226
+  orig: 238, 228
+  offset: 1, 1
+  index: -1
+Can2_O
+  rotate: false
+  xy: 786, 569
+  size: 236, 225
+  orig: 238, 227
+  offset: 1, 1
+  index: -1
+jinglingqiu_002
+  rotate: false
+  xy: 2, 13
+  size: 371, 301
+  orig: 390, 375
+  offset: 0, 40
+  index: -1
+jinglingqiu_004
+  rotate: false
+  xy: 394, 323
+  size: 384, 348
+  orig: 390, 375
+  offset: 6, 13
+  index: -1
+jinglingqiu_005
+  rotate: false
+  xy: 2, 670
+  size: 390, 352
+  orig: 390, 375
+  offset: 0, 10
+  index: -1
+jinglingqiu_006
+  rotate: false
+  xy: 2, 316
+  size: 390, 352
+  orig: 390, 375
+  offset: 0, 10
+  index: -1
+jinglingqiu_007
+  rotate: false
+  xy: 394, 673
+  size: 390, 349
+  orig: 390, 375
+  offset: 0, 10
+  index: -1
+jinglingqiu_009
+  rotate: false
+  xy: 394, 92
+  size: 359, 229
+  orig: 390, 375
+  offset: 0, 100
+  index: -1
+jinglingqiu_010
+  rotate: true
+  xy: 780, 243
+  size: 324, 235
+  orig: 390, 375
+  offset: 0, 104
+  index: -1
+jinglingqiu_012
+  rotate: true
+  xy: 755, 40
+  size: 201, 245
+  orig: 390, 375
+  offset: 110, 115
+  index: -1
+
+ZC_diaoyu_jiangli2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Can1_C
+  rotate: true
+  xy: 319, 448
+  size: 235, 183
+  orig: 237, 185
+  offset: 1, 1
+  index: -1
+Can2_C
+  rotate: true
+  xy: 248, 55
+  size: 236, 183
+  orig: 238, 185
+  offset: 1, 1
+  index: -1
+Poke-Balls
+  rotate: false
+  xy: 319, 352
+  size: 203, 94
+  orig: 203, 94
+  offset: 0, 0
+  index: -1
+jinglingqiu_000
+  rotate: true
+  xy: 728, 636
+  size: 386, 206
+  orig: 390, 375
+  offset: 2, 73
+  index: -1
+jinglingqiu_001
+  rotate: false
+  xy: 378, 738
+  size: 348, 284
+  orig: 390, 375
+  offset: 21, 42
+  index: -1
+jinglingqiu_003
+  rotate: false
+  xy: 2, 685
+  size: 374, 337
+  orig: 390, 375
+  offset: 16, 22
+  index: -1
+jinglingqiu_008
+  rotate: true
+  xy: 2, 293
+  size: 390, 315
+  orig: 390, 375
+  offset: 0, 32
+  index: -1
+jinglingqiu_011
+  rotate: true
+  xy: 2, 2
+  size: 289, 244
+  orig: 390, 375
+  offset: 25, 105
+  index: -1

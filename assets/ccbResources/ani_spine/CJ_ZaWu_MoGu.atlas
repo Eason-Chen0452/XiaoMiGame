@@ -1,0 +1,55 @@
+
+CJ_ZaWu_MoGu.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff_flo
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+m1
+  rotate: false
+  xy: 2, 20
+  size: 85, 106
+  orig: 87, 108
+  offset: 1, 1
+  index: -1
+m2
+  rotate: false
+  xy: 89, 11
+  size: 66, 63
+  orig: 68, 65
+  offset: 1, 1
+  index: -1
+m3
+  rotate: false
+  xy: 157, 22
+  size: 58, 52
+  orig: 60, 54
+  offset: 1, 1
+  index: -1
+ms
+  rotate: false
+  xy: 89, 76
+  size: 141, 50
+  orig: 143, 52
+  offset: 1, 1
+  index: -1

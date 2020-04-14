@@ -1,0 +1,181 @@
+
+jl_202_guoranweng.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: true
+  xy: 416, 5
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 219, 5
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+Blur_Die
+  rotate: false
+  xy: 745, 64
+  size: 166, 190
+  orig: 166, 190
+  offset: 0, 0
+  index: -1
+Blur_Hit
+  rotate: true
+  xy: 555, 60
+  size: 194, 188
+  orig: 194, 188
+  offset: 0, 0
+  index: -1
+Blur_Hit2
+  rotate: false
+  xy: 2, 36
+  size: 192, 218
+  orig: 192, 218
+  offset: 0, 0
+  index: -1
+Blur_Hit3
+  rotate: false
+  xy: 196, 48
+  size: 175, 206
+  orig: 175, 206
+  offset: 0, 0
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 373, 57
+  size: 180, 197
+  orig: 180, 197
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 913, 74
+  size: 105, 180
+  orig: 105, 180
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: true
+  xy: 531, 39
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: true
+  xy: 523, 2
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: false
+  xy: 503, 2
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+Foot_01
+  rotate: true
+  xy: 154, 7
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+Foot_02
+  rotate: true
+  xy: 99, 3
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+Foot_03
+  rotate: false
+  xy: 182, 8
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+Foot_04
+  rotate: true
+  xy: 503, 22
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+Gu_R
+  rotate: false
+  xy: 129, 3
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 379, 3
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: true
+  xy: 266, 5
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 464, 9
+  size: 46, 37
+  orig: 46, 37
+  offset: 0, 0
+  index: -1
+M_2
+  rotate: false
+  xy: 531, 23
+  size: 70, 14
+  orig: 70, 14
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 307, 8
+  size: 70, 38
+  orig: 70, 38
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 2, 2
+  size: 95, 32
+  orig: 95, 32
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 547, 42
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 547, 42
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 547, 42
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1

@@ -1,0 +1,389 @@
+
+ZC_Gashapon.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball1
+  rotate: false
+  xy: 956, 835
+  size: 53, 53
+  orig: 55, 55
+  offset: 1, 1
+  index: -1
+ball2
+  rotate: true
+  xy: 681, 353
+  size: 65, 66
+  orig: 67, 68
+  offset: 1, 1
+  index: -1
+ball3
+  rotate: false
+  xy: 956, 957
+  size: 65, 65
+  orig: 67, 67
+  offset: 1, 1
+  index: -1
+ball4
+  rotate: false
+  xy: 545, 352
+  size: 66, 66
+  orig: 68, 68
+  offset: 1, 1
+  index: -1
+ball5
+  rotate: false
+  xy: 956, 890
+  size: 65, 65
+  orig: 67, 67
+  offset: 1, 1
+  index: -1
+ball8
+  rotate: false
+  xy: 613, 352
+  size: 66, 66
+  orig: 68, 68
+  offset: 1, 1
+  index: -1
+bshadow
+  rotate: true
+  xy: 956, 463
+  size: 370, 36
+  orig: 372, 38
+  offset: 1, 1
+  index: -1
+c1
+  rotate: false
+  xy: 901, 17
+  size: 40, 28
+  orig: 42, 30
+  offset: 1, 1
+  index: -1
+c2
+  rotate: false
+  xy: 1001, 224
+  size: 16, 29
+  orig: 18, 31
+  offset: 1, 1
+  index: -1
+c3
+  rotate: false
+  xy: 943, 17
+  size: 40, 28
+  orig: 42, 30
+  offset: 1, 1
+  index: -1
+c4
+  rotate: false
+  xy: 850, 12
+  size: 49, 16
+  orig: 51, 18
+  offset: 1, 1
+  index: -1
+gb
+  rotate: true
+  xy: 545, 449
+  size: 573, 409
+  orig: 669, 524
+  offset: 95, 1
+  index: -1
+gf
+  rotate: false
+  xy: 2, 352
+  size: 541, 670
+  orig: 619, 711
+  offset: 77, 1
+  index: -1
+ggatel1
+  rotate: true
+  xy: 985, 17
+  size: 28, 27
+  orig: 30, 29
+  offset: 1, 1
+  index: -1
+ggatel2
+  rotate: false
+  xy: 879, 47
+  size: 137, 41
+  orig: 139, 43
+  offset: 1, 1
+  index: -1
+ggatel4
+  rotate: true
+  xy: 879, 255
+  size: 163, 134
+  orig: 165, 136
+  offset: 1, 1
+  index: -1
+ggatels2
+  rotate: true
+  xy: 879, 90
+  size: 163, 120
+  orig: 165, 122
+  offset: 1, 1
+  index: -1
+glight
+  rotate: true
+  xy: 764, 8
+  size: 410, 84
+  orig: 412, 86
+  offset: 1, 1
+  index: -1
+jinglingqiu_003
+  rotate: false
+  xy: 388, 13
+  size: 374, 337
+  orig: 390, 375
+  offset: 16, 22
+  index: -1
+jinglingqiu_004
+  rotate: false
+  xy: 2, 2
+  size: 384, 348
+  orig: 390, 375
+  offset: 6, 13
+  index: -1
+lr2
+  rotate: true
+  xy: 850, 30
+  size: 388, 27
+  orig: 390, 29
+  offset: 1, 1
+  index: -1
+lr3
+  rotate: true
+  xy: 994, 470
+  size: 363, 27
+  orig: 365, 29
+  offset: 1, 1
+  index: -1
+ls1
+  rotate: false
+  xy: 545, 420
+  size: 471, 27
+  orig: 473, 29
+  offset: 1, 1
+  index: -1
+
+ZC_Gashapon2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Poke-Ball-O
+  rotate: true
+  xy: 744, 79
+  size: 194, 276
+  orig: 194, 276
+  offset: 0, 0
+  index: -1
+ball11
+  rotate: true
+  xy: 744, 2
+  size: 75, 73
+  orig: 77, 75
+  offset: 1, 1
+  index: -1
+ball12
+  rotate: false
+  xy: 819, 4
+  size: 69, 73
+  orig: 71, 75
+  offset: 1, 1
+  index: -1
+ball6
+  rotate: false
+  xy: 890, 7
+  size: 70, 70
+  orig: 72, 72
+  offset: 1, 1
+  index: -1
+jinglingqiu_000
+  rotate: true
+  xy: 786, 636
+  size: 386, 206
+  orig: 390, 375
+  offset: 2, 73
+  index: -1
+jinglingqiu_001
+  rotate: false
+  xy: 394, 41
+  size: 348, 284
+  orig: 390, 375
+  offset: 21, 42
+  index: -1
+jinglingqiu_002
+  rotate: false
+  xy: 2, 13
+  size: 371, 301
+  orig: 390, 375
+  offset: 0, 40
+  index: -1
+jinglingqiu_005
+  rotate: false
+  xy: 2, 670
+  size: 390, 352
+  orig: 390, 375
+  offset: 0, 10
+  index: -1
+jinglingqiu_006
+  rotate: false
+  xy: 2, 316
+  size: 390, 352
+  orig: 390, 375
+  offset: 0, 10
+  index: -1
+jinglingqiu_007
+  rotate: false
+  xy: 394, 673
+  size: 390, 349
+  orig: 390, 375
+  offset: 0, 10
+  index: -1
+jinglingqiu_008
+  rotate: false
+  xy: 394, 356
+  size: 390, 315
+  orig: 390, 375
+  offset: 0, 32
+  index: -1
+jinglingqiu_009
+  rotate: true
+  xy: 786, 275
+  size: 359, 229
+  orig: 390, 375
+  offset: 0, 100
+  index: -1
+lr1
+  rotate: true
+  xy: 994, 661
+  size: 361, 27
+  orig: 363, 29
+  offset: 1, 1
+  index: -1
+ls2
+  rotate: false
+  xy: 394, 327
+  size: 362, 27
+  orig: 364, 29
+  offset: 1, 1
+  index: -1
+
+ZC_Gashapon3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Poke-Ball
+  rotate: false
+  xy: 2, 49
+  size: 190, 191
+  orig: 190, 191
+  offset: 0, 0
+  index: -1
+Poke-BallX
+  rotate: false
+  xy: 198, 327
+  size: 190, 191
+  orig: 190, 191
+  offset: 0, 0
+  index: -1
+Poke-BallX-O
+  rotate: false
+  xy: 2, 242
+  size: 194, 276
+  orig: 194, 276
+  offset: 0, 0
+  index: -1
+Poke-Balls
+  rotate: true
+  xy: 328, 552
+  size: 203, 94
+  orig: 203, 94
+  offset: 0, 0
+  index: -1
+ball13
+  rotate: false
+  xy: 884, 734
+  size: 70, 70
+  orig: 72, 72
+  offset: 1, 1
+  index: -1
+ball7
+  rotate: false
+  xy: 365, 257
+  size: 68, 68
+  orig: 70, 70
+  offset: 1, 1
+  index: -1
+ball9
+  rotate: false
+  xy: 365, 187
+  size: 68, 68
+  orig: 70, 70
+  offset: 1, 1
+  index: -1
+ball10
+  rotate: false
+  xy: 365, 187
+  size: 68, 68
+  orig: 70, 70
+  offset: 1, 1
+  index: -1
+ggate
+  rotate: false
+  xy: 198, 211
+  size: 165, 114
+  orig: 167, 116
+  offset: 1, 1
+  index: -1
+ggatel
+  rotate: false
+  xy: 194, 91
+  size: 147, 118
+  orig: 149, 120
+  offset: 1, 1
+  index: -1
+ggatel3
+  rotate: false
+  xy: 719, 717
+  size: 163, 87
+  orig: 165, 89
+  offset: 1, 1
+  index: -1
+ggatels1
+  rotate: false
+  xy: 194, 2
+  size: 163, 87
+  orig: 165, 89
+  offset: 1, 1
+  index: -1
+gglass
+  rotate: false
+  xy: 2, 757
+  size: 424, 250
+  orig: 426, 252
+  offset: 1, 1
+  index: -1
+jinglingqiu_010
+  rotate: false
+  xy: 2, 520
+  size: 324, 235
+  orig: 390, 375
+  offset: 0, 104
+  index: -1
+jinglingqiu_011
+  rotate: false
+  xy: 428, 763
+  size: 289, 244
+  orig: 390, 375
+  offset: 25, 105
+  index: -1
+jinglingqiu_012
+  rotate: true
+  xy: 719, 806
+  size: 201, 245
+  orig: 390, 375
+  offset: 110, 115
+  index: -1

@@ -1,0 +1,160 @@
+
+jl_111_dujiaoxiniu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 475, 338
+  size: 197, 165
+  orig: 197, 165
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 582, 274
+  size: 65, 62
+  orig: 65, 62
+  offset: 0, 0
+  index: -1
+Arm_R_1
+  rotate: false
+  xy: 698, 286
+  size: 64, 55
+  orig: 83, 65
+  offset: 0, 0
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 2, 168
+  size: 207, 179
+  orig: 207, 179
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 869, 347
+  size: 156, 125
+  orig: 156, 126
+  offset: 0, 1
+  index: -1
+Eye
+  rotate: false
+  xy: 211, 326
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 996, 455
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: true
+  xy: 996, 469
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 649, 214
+  size: 50, 50
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 830, 287
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 467, 240
+  size: 113, 96
+  orig: 113, 96
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 764, 292
+  size: 49, 64
+  orig: 50, 66
+  offset: 1, 1
+  index: -1
+Leg_R
+  rotate: true
+  xy: 582, 223
+  size: 49, 65
+  orig: 50, 67
+  offset: 0, 1
+  index: -1
+Mouth
+  rotate: true
+  xy: 649, 266
+  size: 70, 47
+  orig: 70, 47
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 698, 271
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 698, 271
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 698, 271
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_dujiaoxiniu_leiji
+  rotate: false
+  xy: 2, 349
+  size: 239, 154
+  orig: 239, 154
+  offset: 0, 0
+  index: -1
+jl_dujiaoxiniu_shouji1
+  rotate: false
+  xy: 674, 343
+  size: 193, 160
+  orig: 193, 160
+  offset: 0, 0
+  index: -1
+jl_dujiaoxiniu_shouji2
+  rotate: false
+  xy: 2, 2
+  size: 212, 164
+  orig: 212, 164
+  offset: 0, 0
+  index: -1
+jl_dujiaoxiniu_siwang
+  rotate: false
+  xy: 243, 355
+  size: 230, 148
+  orig: 230, 148
+  offset: 0, 0
+  index: -1
+leiji
+  rotate: false
+  xy: 243, 237
+  size: 222, 116
+  orig: 263, 168
+  offset: 21, 17
+  index: -1

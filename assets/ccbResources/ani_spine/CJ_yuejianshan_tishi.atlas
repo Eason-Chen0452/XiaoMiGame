@@ -1,0 +1,27 @@
+
+CJ_yuejianshan_tishi.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BoardBubbleSingleNor
+  rotate: false
+  xy: 63, 2
+  size: 52, 59
+  orig: 128, 78
+  offset: 38, 9
+  index: -1
+caiji
+  rotate: false
+  xy: 117, 7
+  size: 57, 54
+  orig: 100, 100
+  offset: 21, 24
+  index: -1
+xiangqing
+  rotate: false
+  xy: 2, 2
+  size: 59, 59
+  orig: 100, 100
+  offset: 24, 22
+  index: -1

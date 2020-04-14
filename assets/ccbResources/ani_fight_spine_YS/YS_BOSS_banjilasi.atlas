@@ -1,0 +1,271 @@
+
+YS_BOSS_banjilasi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bip001 Eye
+  rotate: false
+  xy: 333, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Bip001 Eye-c
+  rotate: true
+  xy: 982, 29
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+Bip001 Head
+  rotate: false
+  xy: 729, 177
+  size: 280, 390
+  orig: 280, 390
+  offset: 0, 0
+  index: -1
+Bip001 L Forearm
+  rotate: true
+  xy: 547, 393
+  size: 174, 164
+  orig: 174, 164
+  offset: 0, 0
+  index: -1
+Bip001 L Thigh
+  rotate: true
+  xy: 333, 54
+  size: 326, 394
+  orig: 326, 394
+  offset: 0, 0
+  index: -1
+Bip001 Neck
+  rotate: true
+  xy: 547, 569
+  size: 451, 456
+  orig: 451, 456
+  offset: 0, 0
+  index: -1
+Bip001 Neck1
+  rotate: true
+  xy: 729, 11
+  size: 164, 103
+  orig: 164, 103
+  offset: 0, 0
+  index: -1
+Bip001 R Thigh
+  rotate: true
+  xy: 2, 5
+  size: 375, 329
+  orig: 375, 329
+  offset: 0, 0
+  index: -1
+Bip001 Spine11
+  rotate: false
+  xy: 834, 57
+  size: 187, 118
+  orig: 188, 119
+  offset: 0, 0
+  index: -1
+Bip001 Spine2
+  rotate: false
+  xy: 2, 382
+  size: 543, 638
+  orig: 543, 638
+  offset: 0, 0
+  index: -1
+Lliuguang_4
+  rotate: true
+  xy: 385, 11
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1
+Lliuguang_5
+  rotate: true
+  xy: 412, 11
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1
+Lliuguang_6
+  rotate: true
+  xy: 439, 11
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1
+Lliuguang_7
+  rotate: true
+  xy: 466, 11
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 1005, 1007
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 1005, 1007
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 1005, 1007
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+liuguang_4
+  rotate: true
+  xy: 834, 2
+  size: 53, 72
+  orig: 53, 72
+  offset: 0, 0
+  index: -1
+liuguang_5
+  rotate: true
+  xy: 908, 2
+  size: 53, 72
+  orig: 53, 72
+  offset: 0, 0
+  index: -1
+
+YS_BOSS_banjilasi2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bip001 L Hand
+  rotate: false
+  xy: 521, 495
+  size: 143, 204
+  orig: 143, 204
+  offset: 0, 0
+  index: -1
+Bip001 L UpperArm
+  rotate: false
+  xy: 302, 200
+  size: 203, 215
+  orig: 203, 215
+  offset: 0, 0
+  index: -1
+Bip001 L UpperArm1
+  rotate: false
+  xy: 684, 786
+  size: 163, 194
+  orig: 163, 194
+  offset: 0, 0
+  index: -1
+Bip001 Mouth
+  rotate: false
+  xy: 849, 820
+  size: 144, 160
+  orig: 145, 175
+  offset: 1, 0
+  index: -1
+Bip001 Mouth2
+  rotate: true
+  xy: 521, 412
+  size: 81, 146
+  orig: 81, 146
+  offset: 0, 0
+  index: -1
+Bip001 Neck11
+  rotate: false
+  xy: 507, 189
+  size: 103, 86
+  orig: 103, 88
+  offset: 0, 2
+  index: -1
+Bip001 Neck12
+  rotate: false
+  xy: 653, 296
+  size: 103, 89
+  orig: 103, 89
+  offset: 0, 0
+  index: -1
+Bip001 R Forearm
+  rotate: true
+  xy: 669, 387
+  size: 119, 135
+  orig: 119, 135
+  offset: 0, 0
+  index: -1
+Bip001 R Hand
+  rotate: false
+  xy: 507, 277
+  size: 144, 133
+  orig: 144, 133
+  offset: 0, 0
+  index: -1
+Bip001 R UpperArm
+  rotate: false
+  xy: 666, 508
+  size: 140, 152
+  orig: 140, 152
+  offset: 0, 0
+  index: -1
+Bip001 Spine
+  rotate: false
+  xy: 2, 417
+  size: 517, 563
+  orig: 517, 563
+  offset: 0, 0
+  index: -1
+Bip001 Spine12
+  rotate: false
+  xy: 2, 144
+  size: 298, 271
+  orig: 299, 271
+  offset: 0, 0
+  index: -1
+Bip001 Spine21
+  rotate: false
+  xy: 521, 701
+  size: 161, 279
+  orig: 161, 281
+  offset: 0, 2
+  index: -1
+Bip001 Spine211
+  rotate: true
+  xy: 2, 2
+  size: 140, 247
+  orig: 140, 247
+  offset: 0, 0
+  index: -1
+Bip001 Spine212
+  rotate: true
+  xy: 684, 662
+  size: 122, 156
+  orig: 122, 156
+  offset: 0, 0
+  index: -1
+eyelight01
+  rotate: false
+  xy: 302, 117
+  size: 192, 81
+  orig: 192, 96
+  offset: 0, 8
+  index: -1
+liuguang_6
+  rotate: false
+  xy: 758, 313
+  size: 53, 72
+  orig: 53, 72
+  offset: 0, 0
+  index: -1
+liuguang_7
+  rotate: true
+  xy: 496, 134
+  size: 53, 72
+  orig: 53, 72
+  offset: 0, 0
+  index: -1

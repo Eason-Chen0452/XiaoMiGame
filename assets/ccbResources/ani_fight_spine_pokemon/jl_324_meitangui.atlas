@@ -1,0 +1,265 @@
+
+jl_324_meitangui.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bip001 Head
+  rotate: false
+  xy: 255, 848
+  size: 119, 174
+  orig: 119, 174
+  offset: 0, 0
+  index: -1
+Bip001 L Foot
+  rotate: true
+  xy: 154, 2
+  size: 51, 67
+  orig: 51, 67
+  offset: 0, 0
+  index: -1
+Bip001 L Hand
+  rotate: false
+  xy: 154, 55
+  size: 67, 82
+  orig: 67, 82
+  offset: 0, 0
+  index: -1
+Bip001 R Foot
+  rotate: true
+  xy: 132, 139
+  size: 54, 85
+  orig: 54, 85
+  offset: 0, 0
+  index: -1
+Bip001 R Hand
+  rotate: false
+  xy: 832, 805
+  size: 56, 87
+  orig: 56, 87
+  offset: 0, 0
+  index: -1
+Bip001 Spine
+  rotate: false
+  xy: 2, 651
+  size: 191, 140
+  orig: 191, 140
+  offset: 0, 0
+  index: -1
+Bip001 Xiaba
+  rotate: false
+  xy: 754, 759
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+Bip001 XiabaB
+  rotate: false
+  xy: 998, 1005
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 255, 800
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+buff_mid
+  rotate: false
+  xy: 255, 800
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+buff_up
+  rotate: false
+  xy: 255, 800
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+jl_109_meitangui-0000_chuchang_0
+  rotate: false
+  xy: 2, 793
+  size: 251, 229
+  orig: 251, 229
+  offset: 0, 0
+  index: -1
+smoke/qi_000
+  rotate: false
+  xy: 2, 29
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: -1
+smoke/qi_001
+  rotate: true
+  xy: 896, 872
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: -1
+smoke/qi_002
+  rotate: true
+  xy: 132, 499
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: -1
+smoke/qi_003
+  rotate: true
+  xy: 132, 347
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: -1
+smoke/qi_004
+  rotate: true
+  xy: 132, 195
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: -1
+smoke2/smoke2_000
+  rotate: false
+  xy: 2, 521
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smoke2/smoke2_001
+  rotate: false
+  xy: 376, 894
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smoke2/smoke2_002
+  rotate: false
+  xy: 2, 391
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smoke2/smoke2_004
+  rotate: false
+  xy: 506, 894
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smoke2/smoke2_005
+  rotate: false
+  xy: 2, 261
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smoke2/smoke2_006
+  rotate: false
+  xy: 636, 894
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smoke2/smoke2_007
+  rotate: false
+  xy: 2, 131
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smoke2/smoke2_008
+  rotate: false
+  xy: 766, 894
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smoke2/smoke2_009
+  rotate: false
+  xy: 195, 663
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smoke2/smoke2_010
+  rotate: false
+  xy: 234, 229
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smoke2/smoke2_011
+  rotate: false
+  xy: 234, 99
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smoke2/smoke2_012
+  rotate: false
+  xy: 890, 742
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smoke2/smoke2_013
+  rotate: false
+  xy: 364, 662
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smoke2/smoke2_014
+  rotate: false
+  xy: 494, 662
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smoke2/smoke2_015
+  rotate: false
+  xy: 624, 662
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smoke3/smoke3_000
+  rotate: false
+  xy: 376, 792
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: -1
+smoke3/smoke3_001
+  rotate: false
+  xy: 528, 792
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: -1
+smoke3/smoke3_002
+  rotate: false
+  xy: 680, 792
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: -1
+smoke3/smoke3_003
+  rotate: true
+  xy: 234, 511
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: -1
+smoke3/smoke3_004
+  rotate: true
+  xy: 234, 359
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: -1

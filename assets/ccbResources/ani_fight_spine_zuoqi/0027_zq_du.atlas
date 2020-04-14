@@ -1,0 +1,160 @@
+
+0027_zq_du.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0027_npc_du-0006_siwang_0
+  rotate: false
+  xy: 249, 361
+  size: 117, 149
+  orig: 117, 149
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: false
+  xy: 2, 17
+  size: 42, 62
+  orig: 42, 62
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 81
+  size: 83, 94
+  orig: 83, 94
+  offset: 0, 0
+  index: -1
+Eyes
+  rotate: false
+  xy: 87, 140
+  size: 65, 35
+  orig: 65, 35
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 170, 176
+  size: 44, 33
+  orig: 45, 33
+  offset: 1, 0
+  index: -1
+Hand_R (3)
+  rotate: false
+  xy: 482, 478
+  size: 27, 32
+  orig: 29, 34
+  offset: 1, 1
+  index: -1
+Head
+  rotate: false
+  xy: 2, 177
+  size: 166, 162
+  orig: 166, 162
+  offset: 0, 0
+  index: -1
+Peishi
+  rotate: false
+  xy: 426, 441
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: -1
+Pifeng
+  rotate: false
+  xy: 2, 341
+  size: 245, 169
+  orig: 245, 169
+  offset: 0, 0
+  index: -1
+Pifeng_L
+  rotate: false
+  xy: 368, 443
+  size: 56, 67
+  orig: 56, 67
+  offset: 0, 0
+  index: -1
+Qun_L
+  rotate: false
+  xy: 88, 51
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+Qun_Q
+  rotate: true
+  xy: 46, 33
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+Qun_R
+  rotate: false
+  xy: 133, 106
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+Thigh_L
+  rotate: false
+  xy: 170, 268
+  size: 59, 71
+  orig: 59, 71
+  offset: 0, 0
+  index: -1
+UpArm_L
+  rotate: false
+  xy: 46, 2
+  size: 46, 29
+  orig: 46, 29
+  offset: 0, 0
+  index: -1
+UpArm_R
+  rotate: false
+  xy: 426, 470
+  size: 54, 40
+  orig: 54, 40
+  offset: 0, 0
+  index: -1
+UpArm_R1
+  rotate: false
+  xy: 87, 92
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 88, 33
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 88, 33
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 88, 33
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+eye
+  rotate: true
+  xy: 368, 377
+  size: 64, 33
+  orig: 64, 33
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 170, 211
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1

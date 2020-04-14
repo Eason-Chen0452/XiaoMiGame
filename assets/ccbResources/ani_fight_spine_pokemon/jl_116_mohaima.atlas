@@ -1,0 +1,167 @@
+
+jl_116_mohaima.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 701, 72
+  size: 146, 182
+  orig: 147, 182
+  offset: 0, 0
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 2, 58
+  size: 159, 196
+  orig: 159, 196
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 364, 16
+  size: 81, 105
+  orig: 82, 105
+  offset: 0, 0
+  index: -1
+Ear_L
+  rotate: true
+  xy: 2, 9
+  size: 47, 74
+  orig: 47, 74
+  offset: 0, 0
+  index: -1
+Ear_R
+  rotate: true
+  xy: 192, 12
+  size: 56, 78
+  orig: 56, 79
+  offset: 0, 1
+  index: -1
+Eye1_L
+  rotate: true
+  xy: 323, 74
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+Eye1_R
+  rotate: true
+  xy: 302, 36
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+Eye_CL
+  rotate: false
+  xy: 309, 2
+  size: 18, 32
+  orig: 19, 32
+  offset: 1, 0
+  index: -1
+Eye_CR
+  rotate: false
+  xy: 272, 33
+  size: 28, 35
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: false
+  xy: 329, 2
+  size: 18, 32
+  orig: 19, 32
+  offset: 1, 0
+  index: -1
+Eye_R
+  rotate: true
+  xy: 272, 3
+  size: 28, 35
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+Eyeb_L
+  rotate: false
+  xy: 346, 77
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+Eyeb_R
+  rotate: false
+  xy: 332, 49
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 471, 14
+  size: 83, 81
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 78, 3
+  size: 53, 53
+  orig: 54, 53
+  offset: 1, 0
+  index: -1
+Wing
+  rotate: false
+  xy: 133, 10
+  size: 57, 46
+  orig: 57, 46
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 349, 34
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 349, 34
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 349, 34
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_042_lv0_mohaima_shouji1
+  rotate: false
+  xy: 163, 70
+  size: 158, 184
+  orig: 158, 184
+  offset: 0, 0
+  index: -1
+jl_mohaima_leiji
+  rotate: true
+  xy: 512, 103
+  size: 151, 187
+  orig: 151, 187
+  offset: 0, 0
+  index: -1
+jl_mohaima_shouji2
+  rotate: true
+  xy: 323, 99
+  size: 155, 187
+  orig: 155, 187
+  offset: 0, 0
+  index: -1
+leiji
+  rotate: false
+  xy: 849, 77
+  size: 140, 177
+  orig: 187, 216
+  offset: 6, 33
+  index: -1

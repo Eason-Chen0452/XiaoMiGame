@@ -1,0 +1,160 @@
+
+jl_360_xiaoguoran.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blur_Die
+  rotate: false
+  xy: 419, 327
+  size: 186, 182
+  orig: 186, 182
+  offset: 0, 0
+  index: -1
+Blur_Hit
+  rotate: false
+  xy: 607, 332
+  size: 182, 177
+  orig: 182, 177
+  offset: 0, 0
+  index: -1
+Blur_Hit2
+  rotate: false
+  xy: 2, 286
+  size: 218, 223
+  orig: 218, 223
+  offset: 0, 0
+  index: -1
+Blur_Hit3
+  rotate: true
+  xy: 2, 48
+  size: 236, 185
+  orig: 236, 185
+  offset: 0, 0
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 222, 308
+  size: 195, 201
+  orig: 195, 201
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 899, 455
+  size: 76, 54
+  orig: 76, 54
+  offset: 0, 0
+  index: -1
+Ear_L
+  rotate: true
+  xy: 791, 363
+  size: 37, 95
+  orig: 37, 95
+  offset: 0, 0
+  index: -1
+Ear_R
+  rotate: true
+  xy: 2, 8
+  size: 38, 105
+  orig: 38, 105
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 839, 347
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: false
+  xy: 222, 291
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: false
+  xy: 503, 310
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+Gu_R
+  rotate: true
+  xy: 791, 332
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 899, 397
+  size: 74, 56
+  orig: 74, 56
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 791, 402
+  size: 106, 107
+  orig: 106, 107
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 189, 150
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 977, 471
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+M_2
+  rotate: false
+  xy: 419, 308
+  size: 82, 17
+  orig: 83, 17
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 109, 2
+  size: 80, 44
+  orig: 81, 44
+  offset: 1, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 189, 188
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 977, 456
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 977, 456
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 977, 456
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1

@@ -1,0 +1,160 @@
+
+0101_npc_lh_bixia.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: false
+  xy: 874, 304
+  size: 113, 105
+  orig: 115, 107
+  offset: 1, 1
+  index: -1
+Arm_R
+  rotate: false
+  xy: 874, 195
+  size: 108, 107
+  orig: 110, 109
+  offset: 1, 1
+  index: -1
+Hand_R
+  rotate: true
+  xy: 190, 2
+  size: 65, 71
+  orig: 67, 73
+  offset: 1, 1
+  index: -1
+Thigh_L
+  rotate: true
+  xy: 897, 411
+  size: 97, 120
+  orig: 99, 122
+  offset: 1, 1
+  index: -1
+Thigh_R
+  rotate: false
+  xy: 631, 238
+  size: 90, 158
+  orig: 92, 160
+  offset: 1, 1
+  index: -1
+UpArm_L
+  rotate: false
+  xy: 500, 251
+  size: 129, 145
+  orig: 131, 147
+  offset: 1, 1
+  index: -1
+UpArm_R
+  rotate: false
+  xy: 114, 69
+  size: 126, 160
+  orig: 128, 162
+  offset: 1, 1
+  index: -1
+beard
+  rotate: false
+  xy: 802, 197
+  size: 68, 63
+  orig: 70, 65
+  offset: 1, 1
+  index: -1
+belt
+  rotate: true
+  xy: 837, 262
+  size: 158, 35
+  orig: 160, 37
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 253, 239
+  size: 245, 269
+  orig: 247, 271
+  offset: 1, 1
+  index: -1
+bracelet1
+  rotate: true
+  xy: 566, 194
+  size: 55, 60
+  orig: 57, 62
+  offset: 1, 1
+  index: -1
+bracelet2
+  rotate: true
+  xy: 500, 201
+  size: 48, 64
+  orig: 50, 66
+  offset: 1, 1
+  index: -1
+cloak
+  rotate: false
+  xy: 2, 231
+  size: 249, 277
+  orig: 251, 279
+  offset: 1, 1
+  index: -1
+hair
+  rotate: true
+  xy: 114, 9
+  size: 58, 74
+  orig: 60, 76
+  offset: 1, 1
+  index: -1
+hand -L
+  rotate: true
+  xy: 723, 208
+  size: 69, 77
+  orig: 71, 79
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 723, 279
+  size: 112, 141
+  orig: 114, 143
+  offset: 1, 1
+  index: -1
+kua
+  rotate: false
+  xy: 500, 398
+  size: 186, 110
+  orig: 188, 112
+  offset: 1, 1
+  index: -1
+mouth1
+  rotate: true
+  xy: 989, 349
+  size: 60, 27
+  orig: 62, 29
+  offset: 1, 1
+  index: -1
+mouth2
+  rotate: false
+  xy: 628, 210
+  size: 47, 26
+  orig: 49, 28
+  offset: 1, 1
+  index: -1
+mouth3
+  rotate: false
+  xy: 677, 219
+  size: 44, 17
+  orig: 46, 19
+  offset: 1, 1
+  index: -1
+vest1
+  rotate: true
+  xy: 688, 422
+  size: 86, 207
+  orig: 88, 209
+  offset: 1, 1
+  index: -1
+vest2
+  rotate: false
+  xy: 2, 26
+  size: 110, 203
+  orig: 112, 205
+  offset: 1, 1
+  index: -1

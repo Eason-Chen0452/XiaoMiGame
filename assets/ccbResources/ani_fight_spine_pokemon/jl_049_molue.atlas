@@ -1,0 +1,188 @@
+
+jl_049_molue.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: true
+  xy: 291, 324
+  size: 185, 195
+  orig: 185, 195
+  offset: 0, 0
+  index: -1
+ALL1
+  rotate: false
+  xy: 2, 143
+  size: 191, 201
+  orig: 191, 201
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 980, 410
+  size: 41, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+Eye1_L
+  rotate: false
+  xy: 980, 387
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Eye1_R
+  rotate: false
+  xy: 256, 171
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 57, 17
+  size: 23, 21
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: false
+  xy: 256, 148
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: false
+  xy: 608, 326
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 425, 219
+  size: 58, 103
+  orig: 58, 103
+  offset: 0, 0
+  index: -1
+Hip
+  rotate: true
+  xy: 195, 147
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+Wing_L2_01
+  rotate: true
+  xy: 286, 139
+  size: 90, 135
+  orig: 91, 137
+  offset: 1, 2
+  index: -1
+Wing_L2_02
+  rotate: false
+  xy: 566, 296
+  size: 40, 53
+  orig: 41, 56
+  offset: 1, 0
+  index: -1
+Wing_L_01
+  rotate: true
+  xy: 286, 231
+  size: 91, 137
+  orig: 91, 137
+  offset: 0, 0
+  index: -1
+Wing_L_02
+  rotate: false
+  xy: 980, 453
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+Wing_R2_01
+  rotate: false
+  xy: 889, 361
+  size: 89, 148
+  orig: 89, 148
+  offset: 0, 0
+  index: -1
+Wing_R2_02
+  rotate: false
+  xy: 488, 289
+  size: 76, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+Wing_R_01
+  rotate: false
+  xy: 195, 196
+  size: 89, 148
+  orig: 89, 148
+  offset: 0, 0
+  index: -1
+Wing_R_02
+  rotate: true
+  xy: 423, 137
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 608, 311
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 608, 311
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 608, 311
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_018_lv1_molue-0004_shouji1_3
+  rotate: false
+  xy: 2, 346
+  size: 287, 163
+  orig: 287, 163
+  offset: 0, 0
+  index: -1
+jl_018_lv1_molue-0005_shouji2_3
+  rotate: true
+  xy: 488, 351
+  size: 158, 198
+  orig: 158, 198
+  offset: 0, 0
+  index: -1
+jl_018_lv1_molue-0006_siwang_10
+  rotate: false
+  xy: 2, 40
+  size: 242, 101
+  orig: 242, 101
+  offset: 0, 0
+  index: -1
+jl_018_lv1_molue-0014_leiji_3
+  rotate: true
+  xy: 688, 356
+  size: 153, 199
+  orig: 153, 199
+  offset: 0, 0
+  index: -1
+jl_018_lv1_molue-0014_leiji_4
+  rotate: false
+  xy: 2, 2
+  size: 53, 36
+  orig: 203, 232
+  offset: 84, 61
+  index: -1

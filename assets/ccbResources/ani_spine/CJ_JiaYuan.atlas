@@ -1,0 +1,293 @@
+
+CJ_JiaYuan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+p101
+  rotate: true
+  xy: 2, 2
+  size: 108, 174
+  orig: 110, 176
+  offset: 1, 1
+  index: -1
+p102
+  rotate: true
+  xy: 564, 560
+  size: 75, 103
+  orig: 77, 105
+  offset: 1, 1
+  index: -1
+p103
+  rotate: false
+  xy: 564, 637
+  size: 99, 137
+  orig: 101, 139
+  offset: 1, 1
+  index: -1
+p104
+  rotate: false
+  xy: 159, 343
+  size: 194, 82
+  orig: 196, 84
+  offset: 1, 1
+  index: -1
+p201
+  rotate: true
+  xy: 908, 757
+  size: 49, 70
+  orig: 51, 72
+  offset: 1, 1
+  index: -1
+p202
+  rotate: true
+  xy: 665, 650
+  size: 73, 116
+  orig: 75, 118
+  offset: 1, 1
+  index: -1
+p203
+  rotate: true
+  xy: 556, 388
+  size: 65, 90
+  orig: 67, 92
+  offset: 1, 1
+  index: -1
+p204
+  rotate: true
+  xy: 146, 112
+  size: 128, 54
+  orig: 130, 56
+  offset: 1, 1
+  index: -1
+p3
+  rotate: true
+  xy: 355, 242
+  size: 176, 182
+  orig: 178, 184
+  offset: 1, 1
+  index: -1
+p401
+  rotate: false
+  xy: 556, 455
+  size: 95, 103
+  orig: 97, 105
+  offset: 1, 1
+  index: -1
+p402
+  rotate: true
+  xy: 841, 808
+  size: 197, 168
+  orig: 199, 170
+  offset: 1, 1
+  index: -1
+p403
+  rotate: true
+  xy: 605, 814
+  size: 191, 234
+  orig: 193, 236
+  offset: 1, 1
+  index: -1
+p501
+  rotate: false
+  xy: 839, 749
+  size: 67, 57
+  orig: 69, 59
+  offset: 1, 1
+  index: -1
+p502
+  rotate: false
+  xy: 605, 776
+  size: 36, 36
+  orig: 38, 38
+  offset: 1, 1
+  index: -1
+p503
+  rotate: false
+  xy: 1011, 989
+  size: 11, 16
+  orig: 13, 18
+  offset: 1, 1
+  index: -1
+p504
+  rotate: false
+  xy: 783, 657
+  size: 26, 26
+  orig: 28, 28
+  offset: 1, 1
+  index: -1
+p505
+  rotate: true
+  xy: 669, 556
+  size: 92, 93
+  orig: 94, 95
+  offset: 1, 1
+  index: -1
+p506
+  rotate: false
+  xy: 653, 449
+  size: 56, 30
+  orig: 58, 32
+  offset: 1, 1
+  index: -1
+p601
+  rotate: true
+  xy: 791, 748
+  size: 64, 46
+  orig: 66, 48
+  offset: 1, 1
+  index: -1
+p602
+  rotate: false
+  xy: 980, 756
+  size: 39, 50
+  orig: 41, 52
+  offset: 1, 1
+  index: -1
+p603
+  rotate: true
+  xy: 705, 396
+  size: 35, 39
+  orig: 37, 41
+  offset: 1, 1
+  index: -1
+p604
+  rotate: false
+  xy: 783, 685
+  size: 39, 33
+  orig: 41, 35
+  offset: 1, 1
+  index: -1
+p605
+  rotate: false
+  xy: 791, 720
+  size: 44, 26
+  orig: 46, 28
+  offset: 1, 1
+  index: -1
+p606
+  rotate: false
+  xy: 653, 481
+  size: 98, 73
+  orig: 100, 75
+  offset: 1, 1
+  index: -1
+p701
+  rotate: false
+  xy: 711, 433
+  size: 48, 46
+  orig: 50, 48
+  offset: 1, 1
+  index: -1
+p702
+  rotate: true
+  xy: 178, 57
+  size: 53, 41
+  orig: 55, 43
+  offset: 1, 1
+  index: -1
+p703
+  rotate: true
+  xy: 660, 341
+  size: 53, 51
+  orig: 55, 53
+  offset: 1, 1
+  index: -1
+p704
+  rotate: true
+  xy: 178, 2
+  size: 53, 43
+  orig: 55, 45
+  offset: 1, 1
+  index: -1
+p705
+  rotate: true
+  xy: 615, 325
+  size: 61, 43
+  orig: 63, 45
+  offset: 1, 1
+  index: -1
+p706
+  rotate: true
+  xy: 713, 345
+  size: 49, 43
+  orig: 51, 45
+  offset: 1, 1
+  index: -1
+p707
+  rotate: false
+  xy: 648, 396
+  size: 55, 51
+  orig: 57, 53
+  offset: 1, 1
+  index: -1
+p708
+  rotate: false
+  xy: 665, 725
+  size: 124, 87
+  orig: 126, 89
+  offset: 1, 1
+  index: -1
+p801
+  rotate: false
+  xy: 2, 338
+  size: 155, 321
+  orig: 157, 323
+  offset: 1, 1
+  index: -1
+p802
+  rotate: false
+  xy: 539, 244
+  size: 68, 66
+  orig: 70, 68
+  offset: 1, 1
+  index: -1
+p803
+  rotate: false
+  xy: 159, 427
+  size: 194, 232
+  orig: 196, 234
+  offset: 1, 1
+  index: -1
+p804
+  rotate: false
+  xy: 539, 312
+  size: 74, 74
+  orig: 76, 76
+  offset: 1, 1
+  index: -1
+p805
+  rotate: true
+  xy: 360, 582
+  size: 192, 202
+  orig: 194, 204
+  offset: 1, 1
+  index: -1
+p806
+  rotate: false
+  xy: 360, 776
+  size: 243, 229
+  orig: 245, 231
+  offset: 1, 1
+  index: -1
+p807
+  rotate: true
+  xy: 2, 112
+  size: 224, 142
+  orig: 226, 144
+  offset: 1, 1
+  index: -1
+p808
+  rotate: true
+  xy: 355, 420
+  size: 160, 199
+  orig: 162, 201
+  offset: 1, 1
+  index: -1
+p809
+  rotate: false
+  xy: 2, 661
+  size: 356, 344
+  orig: 358, 346
+  offset: 1, 1
+  index: -1

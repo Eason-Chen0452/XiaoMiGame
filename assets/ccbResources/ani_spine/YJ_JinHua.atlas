@@ -1,0 +1,166 @@
+
+YJ_JinHua.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BeiHuXian
+  rotate: false
+  xy: 2, 7
+  size: 667, 13
+  orig: 667, 15
+  offset: 0, 1
+  index: -1
+JinHuaXiaoYuanDian
+  rotate: false
+  xy: 442, 104
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ShuTiaoJinHua
+  rotate: true
+  xy: 671, 2
+  size: 28, 246
+  orig: 30, 250
+  offset: 1, 2
+  index: -1
+boom01
+  rotate: false
+  xy: 2, 632
+  size: 383, 386
+  orig: 400, 400
+  offset: 8, 7
+  index: -1
+c1
+  rotate: false
+  xy: 2, 284
+  size: 345, 346
+  orig: 380, 383
+  offset: 17, 20
+  index: -1
+c2
+  rotate: false
+  xy: 645, 766
+  size: 252, 252
+  orig: 284, 284
+  offset: 16, 16
+  index: -1
+c3
+  rotate: false
+  xy: 349, 306
+  size: 324, 324
+  orig: 326, 326
+  offset: 1, 1
+  index: -1
+c4
+  rotate: true
+  xy: 774, 342
+  size: 188, 186
+  orig: 200, 200
+  offset: 6, 6
+  index: -1
+dl2mask
+  rotate: false
+  xy: 2, 42
+  size: 438, 240
+  orig: 455, 261
+  offset: 9, 4
+  index: -1
+e4
+  rotate: false
+  xy: 671, 32
+  size: 271, 272
+  orig: 300, 300
+  offset: 24, 25
+  index: -1
+hecheng0
+  rotate: true
+  xy: 786, 532
+  size: 232, 234
+  orig: 240, 240
+  offset: 8, 6
+  index: -1
+light01
+  rotate: false
+  xy: 387, 762
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+line
+  rotate: true
+  xy: 2, 22
+  size: 18, 583
+  orig: 18, 583
+  offset: 0, 0
+  index: -1
+roles/roles_00
+  rotate: false
+  xy: 538, 638
+  size: 132, 122
+  orig: 150, 150
+  offset: 18, 9
+  index: -1
+roles/roles_01
+  rotate: false
+  xy: 387, 641
+  size: 149, 119
+  orig: 150, 150
+  offset: 0, 8
+  index: -1
+roles/roles_02
+  rotate: false
+  xy: 899, 917
+  size: 121, 101
+  orig: 150, 150
+  offset: 17, 9
+  index: -1
+roles/roles_03
+  rotate: true
+  xy: 675, 427
+  size: 102, 91
+  orig: 150, 150
+  offset: 28, 46
+  index: -1
+roles/roles_04
+  rotate: true
+  xy: 899, 811
+  size: 104, 114
+  orig: 150, 150
+  offset: 22, 18
+  index: -1
+roles/roles_05
+  rotate: true
+  xy: 675, 339
+  size: 86, 92
+  orig: 150, 150
+  offset: 29, 29
+  index: -1
+roles/roles_06
+  rotate: false
+  xy: 672, 647
+  size: 112, 117
+  orig: 150, 150
+  offset: 9, 12
+  index: -1
+roles/roles_07
+  rotate: false
+  xy: 675, 531
+  size: 97, 114
+  orig: 150, 150
+  offset: 26, 17
+  index: -1
+
+YJ_JinHua2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi03
+  rotate: false
+  xy: 2, 2
+  size: 246, 241
+  orig: 262, 262
+  offset: 16, 18
+  index: -1

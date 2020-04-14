@@ -1,0 +1,160 @@
+
+jl_156_huoyanshu.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eye2
+  rotate: false
+  xy: 575, 33
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+all
+  rotate: true
+  xy: 569, 90
+  size: 164, 236
+  orig: 164, 236
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 119, 12
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 119, 12
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 119, 12
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+erduo_01
+  rotate: false
+  xy: 54, 2
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 99, 5
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+eye-c
+  rotate: false
+  xy: 77, 5
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+gebo_01
+  rotate: true
+  xy: 2, 3
+  size: 22, 50
+  orig: 22, 50
+  offset: 0, 0
+  index: -1
+gebo_02
+  rotate: true
+  xy: 438, 9
+  size: 34, 55
+  orig: 34, 56
+  offset: 0, 0
+  index: -1
+ji_081_huoyanshu-0004_shouji1_3
+  rotate: false
+  xy: 2, 27
+  size: 192, 227
+  orig: 192, 227
+  offset: 0, 0
+  index: -1
+ji_081_huoyanshu-0005_shouji2_3
+  rotate: false
+  xy: 196, 15
+  size: 181, 239
+  orig: 181, 239
+  offset: 0, 0
+  index: -1
+ji_081_huoyanshu-0014_leiji_3
+  rotate: false
+  xy: 379, 45
+  size: 188, 209
+  orig: 188, 209
+  offset: 0, 0
+  index: -1
+ji_081_huoyanshu-0014_leiji_4
+  rotate: true
+  xy: 807, 138
+  size: 116, 177
+  orig: 116, 177
+  offset: 0, 0
+  index: -1
+jiao_01
+  rotate: true
+  xy: 541, 2
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+jiao_02
+  rotate: false
+  xy: 569, 63
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+mao_01
+  rotate: false
+  xy: 758, 23
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+mao_02
+  rotate: false
+  xy: 859, 18
+  size: 102, 118
+  orig: 102, 119
+  offset: 0, 0
+  index: -1
+shenzi_01
+  rotate: true
+  xy: 615, 4
+  size: 84, 141
+  orig: 84, 141
+  offset: 0, 0
+  index: -1
+tou_01
+  rotate: false
+  xy: 807, 92
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+tui_01
+  rotate: true
+  xy: 495, 9
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+tui_02
+  rotate: true
+  xy: 379, 3
+  size: 40, 57
+  orig: 40, 57
+  offset: 0, 0
+  index: -1

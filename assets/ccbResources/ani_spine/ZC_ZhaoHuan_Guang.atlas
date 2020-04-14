@@ -1,0 +1,173 @@
+
+ZC_ZhaoHuan_Guang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02-fangkuai01
+  rotate: false
+  xy: 2, 2
+  size: 243, 69
+  orig: 243, 69
+  offset: 0, 0
+  index: -1
+10010033
+  rotate: false
+  xy: 823, 473
+  size: 142, 272
+  orig: 640, 480
+  offset: 275, 184
+  index: -1
+10010041
+  rotate: false
+  xy: 823, 747
+  size: 142, 273
+  orig: 640, 480
+  offset: 274, 183
+  index: -1
+100110300
+  rotate: false
+  xy: 2, 73
+  size: 470, 462
+  orig: 640, 480
+  offset: 87, 17
+  index: -1
+c2
+  rotate: false
+  xy: 2, 537
+  size: 504, 483
+  orig: 506, 483
+  offset: 1, 0
+  index: -1
+fc11
+  rotate: false
+  xy: 247, 6
+  size: 155, 65
+  orig: 155, 65
+  offset: 0, 0
+  index: -1
+fc11-2
+  rotate: true
+  xy: 508, 491
+  size: 529, 313
+  orig: 529, 313
+  offset: 0, 0
+  index: -1
+fc11-3
+  rotate: true
+  xy: 474, 48
+  size: 441, 330
+  orig: 441, 330
+  offset: 0, 0
+  index: -1
+fc11-5
+  rotate: false
+  xy: 806, 166
+  size: 201, 305
+  orig: 201, 305
+  offset: 0, 0
+  index: -1
+fc12
+  rotate: true
+  xy: 967, 922
+  size: 98, 30
+  orig: 98, 30
+  offset: 0, 0
+  index: -1
+fc13
+  rotate: false
+  xy: 474, 492
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+fc14
+  rotate: false
+  xy: 404, 28
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+fc15
+  rotate: true
+  xy: 967, 822
+  size: 98, 30
+  orig: 98, 30
+  offset: 0, 0
+  index: -1
+fc16-1
+  rotate: false
+  xy: 806, 17
+  size: 211, 147
+  orig: 211, 147
+  offset: 0, 0
+  index: -1
+
+ZC_ZhaoHuan_Guang2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02-chuxiantexiao-01
+  rotate: false
+  xy: 560, 422
+  size: 292, 284
+  orig: 292, 284
+  offset: 0, 0
+  index: -1
+10010049
+  rotate: true
+  xy: 2, 2
+  size: 139, 273
+  orig: 640, 480
+  offset: 273, 183
+  index: -1
+fc11-1
+  rotate: true
+  xy: 854, 516
+  size: 190, 135
+  orig: 190, 135
+  offset: 0, 0
+  index: -1
+fc11-4
+  rotate: false
+  xy: 2, 143
+  size: 291, 352
+  orig: 291, 352
+  offset: 0, 0
+  index: -1
+fc16-2
+  rotate: false
+  xy: 2, 735
+  size: 595, 227
+  orig: 595, 227
+  offset: 0, 0
+  index: -1
+fc16-3
+  rotate: false
+  xy: 2, 497
+  size: 473, 236
+  orig: 473, 236
+  offset: 0, 0
+  index: -1
+fc16-4
+  rotate: true
+  xy: 599, 708
+  size: 254, 345
+  orig: 254, 345
+  offset: 0, 0
+  index: -1
+fc16-5
+  rotate: true
+  xy: 560, 209
+  size: 211, 276
+  orig: 211, 276
+  offset: 0, 0
+  index: -1
+xiaojingling01
+  rotate: true
+  xy: 295, 190
+  size: 305, 263
+  orig: 306, 263
+  offset: 0, 0
+  index: -1

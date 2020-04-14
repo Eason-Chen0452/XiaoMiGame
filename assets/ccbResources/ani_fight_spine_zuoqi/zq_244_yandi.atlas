@@ -1,0 +1,174 @@
+
+zq_244_yandi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 2, 272
+  size: 292, 276
+  orig: 294, 278
+  offset: 1, 1
+  index: -1
+Arm_L
+  rotate: false
+  xy: 423, 471
+  size: 56, 77
+  orig: 58, 79
+  offset: 1, 1
+  index: -1
+Arm_R
+  rotate: false
+  xy: 178, 188
+  size: 60, 82
+  orig: 62, 84
+  offset: 1, 1
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 2, 550
+  size: 310, 297
+  orig: 310, 297
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 114
+  size: 174, 156
+  orig: 176, 158
+  offset: 1, 1
+  index: -1
+Eye
+  rotate: false
+  xy: 622, 755
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: false
+  xy: 423, 454
+  size: 24, 15
+  orig: 26, 17
+  offset: 1, 1
+  index: -1
+Foot_L
+  rotate: false
+  xy: 694, 815
+  size: 51, 32
+  orig: 53, 34
+  offset: 1, 1
+  index: -1
+Foot_R
+  rotate: false
+  xy: 296, 314
+  size: 56, 41
+  orig: 58, 43
+  offset: 1, 1
+  index: -1
+Hand_L
+  rotate: false
+  xy: 543, 692
+  size: 69, 61
+  orig: 71, 63
+  offset: 1, 1
+  index: -1
+Hand_L_1
+  rotate: false
+  xy: 111, 74
+  size: 65, 38
+  orig: 67, 40
+  offset: 1, 1
+  index: -1
+Hand_R
+  rotate: false
+  xy: 622, 781
+  size: 70, 66
+  orig: 72, 83
+  offset: 1, 16
+  index: -1
+Hand_R_1
+  rotate: true
+  xy: 178, 123
+  size: 63, 40
+  orig: 72, 49
+  offset: 8, 1
+  index: -1
+Head
+  rotate: false
+  xy: 296, 425
+  size: 125, 123
+  orig: 127, 125
+  offset: 1, 1
+  index: -1
+Leg_L
+  rotate: false
+  xy: 240, 224
+  size: 53, 46
+  orig: 55, 48
+  offset: 1, 1
+  index: -1
+Leg_R
+  rotate: false
+  xy: 2, 2
+  size: 63, 67
+  orig: 65, 69
+  offset: 1, 1
+  index: -1
+Mouth_C
+  rotate: false
+  xy: 374, 378
+  size: 41, 45
+  orig: 43, 47
+  offset: 1, 1
+  index: -1
+Mouth_O
+  rotate: false
+  xy: 484, 562
+  size: 38, 45
+  orig: 43, 47
+  offset: 1, 1
+  index: -1
+Neck
+  rotate: true
+  xy: 314, 550
+  size: 137, 168
+  orig: 139, 170
+  offset: 1, 1
+  index: -1
+Tail
+  rotate: false
+  xy: 314, 689
+  size: 227, 158
+  orig: 229, 160
+  offset: 1, 1
+  index: -1
+Thigh_L
+  rotate: false
+  xy: 484, 609
+  size: 56, 78
+  orig: 58, 80
+  offset: 1, 1
+  index: -1
+Thigh_R
+  rotate: false
+  xy: 543, 755
+  size: 77, 92
+  orig: 79, 94
+  offset: 1, 1
+  index: -1
+Wing_L
+  rotate: false
+  xy: 296, 357
+  size: 76, 66
+  orig: 78, 68
+  offset: 1, 1
+  index: -1
+Wing_R
+  rotate: false
+  xy: 2, 71
+  size: 107, 41
+  orig: 109, 43
+  offset: 1, 1
+  index: -1

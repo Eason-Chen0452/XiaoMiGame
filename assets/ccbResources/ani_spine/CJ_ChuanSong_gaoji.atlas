@@ -1,0 +1,83 @@
+
+CJ_ChuanSong_gaoji.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoguang7
+  rotate: true
+  xy: 289, 2
+  size: 118, 127
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+glow_00005
+  rotate: false
+  xy: 510, 265
+  size: 252, 243
+  orig: 256, 256
+  offset: 3, 8
+  index: -1
+glow_00063
+  rotate: false
+  xy: 289, 122
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+glow_00071
+  rotate: false
+  xy: 252, 252
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+glow_00166
+  rotate: true
+  xy: 679, 137
+  size: 126, 125
+  orig: 128, 128
+  offset: 1, 1
+  index: -1
+glow_00180
+  rotate: false
+  xy: 419, 122
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+heidi1
+  rotate: true
+  xy: 2, 9
+  size: 157, 285
+  orig: 500, 500
+  offset: 178, 137
+  index: -1
+liefeng1
+  rotate: false
+  xy: 2, 168
+  size: 248, 340
+  orig: 500, 500
+  offset: 138, 131
+  index: -1
+lizi02
+  rotate: false
+  xy: 549, 135
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+lizi03
+  rotate: false
+  xy: 764, 302
+  size: 200, 206
+  orig: 256, 256
+  offset: 38, 31
+  index: -1
+lizi04
+  rotate: false
+  xy: 966, 471
+  size: 37, 37
+  orig: 38, 38
+  offset: 1, 0
+  index: -1

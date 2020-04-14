@@ -1,0 +1,55 @@
+
+VIP_Npc_eff.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1010054
+  rotate: false
+  xy: 2, 2
+  size: 242, 240
+  orig: 640, 480
+  offset: 182, 119
+  index: -1
+images/1010055
+  rotate: false
+  xy: 246, 59
+  size: 183, 183
+  orig: 640, 480
+  offset: 211, 148
+  index: -1
+images/SXX
+  rotate: false
+  xy: 311, 28
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+images/XX1
+  rotate: false
+  xy: 431, 199
+  size: 46, 43
+  orig: 46, 43
+  offset: 0, 0
+  index: -1
+images/XX2
+  rotate: true
+  xy: 246, 3
+  size: 54, 63
+  orig: 54, 63
+  offset: 0, 0
+  index: -1
+images/XX3
+  rotate: false
+  xy: 431, 173
+  size: 13, 24
+  orig: 13, 24
+  offset: 0, 0
+  index: -1
+images/yuan
+  rotate: false
+  xy: 479, 226
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1

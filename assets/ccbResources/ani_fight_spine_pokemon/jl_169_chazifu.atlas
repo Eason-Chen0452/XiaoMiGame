@@ -1,0 +1,181 @@
+
+jl_169_chazifu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: true
+  xy: 836, 196
+  size: 313, 182
+  orig: 313, 182
+  offset: 0, 0
+  index: -1
+ALL1
+  rotate: false
+  xy: 2, 25
+  size: 318, 188
+  orig: 318, 188
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 580, 7
+  size: 78, 85
+  orig: 78, 86
+  offset: 0, 0
+  index: -1
+Ear_L
+  rotate: true
+  xy: 660, 32
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+Ear_R
+  rotate: false
+  xy: 660, 60
+  size: 42, 32
+  orig: 44, 32
+  offset: 1, 0
+  index: -1
+Eye2
+  rotate: true
+  xy: 147, 6
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+Eye_C_L
+  rotate: false
+  xy: 179, 10
+  size: 12, 13
+  orig: 13, 17
+  offset: 1, 1
+  index: -1
+Eye_C_R
+  rotate: true
+  xy: 109, 3
+  size: 20, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: false
+  xy: 193, 10
+  size: 12, 13
+  orig: 15, 17
+  offset: 3, 1
+  index: -1
+Eye_R
+  rotate: true
+  xy: 128, 3
+  size: 20, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: true
+  xy: 77, 3
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: true
+  xy: 42, 2
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 2, 2
+  size: 38, 21
+  orig: 46, 31
+  offset: 5, 4
+  index: -1
+Wing_L
+  rotate: false
+  xy: 473, 245
+  size: 112, 104
+  orig: 112, 104
+  offset: 0, 0
+  index: -1
+Wing_LD
+  rotate: true
+  xy: 634, 269
+  size: 80, 50
+  orig: 81, 50
+  offset: 1, 0
+  index: -1
+Wing_R
+  rotate: true
+  xy: 580, 94
+  size: 149, 126
+  orig: 149, 126
+  offset: 0, 0
+  index: -1
+Wing_RD
+  rotate: true
+  xy: 587, 257
+  size: 92, 45
+  orig: 92, 45
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 164, 10
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 164, 10
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 164, 10
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_015_lv2_chazifu-0004_shouji1_3
+  rotate: false
+  xy: 473, 351
+  size: 361, 158
+  orig: 361, 158
+  offset: 0, 0
+  index: -1
+jl_015_lv2_chazifu-0005_shouji2_3
+  rotate: true
+  xy: 322, 7
+  size: 229, 256
+  orig: 229, 256
+  offset: 0, 0
+  index: -1
+jl_015_lv2_chazifu-0006_siwang_10
+  rotate: true
+  xy: 708, 2
+  size: 347, 119
+  orig: 347, 119
+  offset: 0, 0
+  index: -1
+jl_015_lv2_chazifu-0014_leiji_3
+  rotate: true
+  xy: 2, 215
+  size: 294, 241
+  orig: 294, 241
+  offset: 0, 0
+  index: -1
+jl_015_lv2_chazifu-0014_leiji_4
+  rotate: true
+  xy: 245, 238
+  size: 271, 226
+  orig: 370, 258
+  offset: 12, 23
+  index: -1

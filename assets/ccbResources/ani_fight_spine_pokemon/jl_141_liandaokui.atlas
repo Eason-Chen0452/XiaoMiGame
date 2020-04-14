@@ -1,0 +1,195 @@
+
+jl_141_liandaokui.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: true
+  xy: 473, 97
+  size: 207, 221
+  orig: 207, 223
+  offset: 0, 1
+  index: -1
+ALL1
+  rotate: true
+  xy: 737, 297
+  size: 212, 226
+  orig: 212, 226
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: false
+  xy: 372, 245
+  size: 41, 29
+  orig: 41, 30
+  offset: 0, 1
+  index: -1
+Arm_R
+  rotate: false
+  xy: 237, 246
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1
+Arm_RR
+  rotate: true
+  xy: 329, 244
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 696, 73
+  size: 97, 76
+  orig: 97, 76
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 917, 147
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 965, 306
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: false
+  xy: 882, 116
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 830, 117
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: true
+  xy: 917, 183
+  size: 55, 34
+  orig: 55, 35
+  offset: 0, 1
+  index: -1
+Hand_L
+  rotate: true
+  xy: 696, 151
+  size: 53, 127
+  orig: 53, 127
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 965, 378
+  size: 57, 131
+  orig: 57, 131
+  offset: 0, 0
+  index: -1
+Hand_RR
+  rotate: true
+  xy: 823, 240
+  size: 55, 130
+  orig: 55, 130
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 696, 206
+  size: 125, 89
+  orig: 125, 89
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 830, 90
+  size: 25, 48
+  orig: 26, 48
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: true
+  xy: 284, 241
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+Thigh_L
+  rotate: false
+  xy: 965, 325
+  size: 43, 51
+  orig: 44, 52
+  offset: 0, 1
+  index: -1
+Thigh_R
+  rotate: false
+  xy: 795, 89
+  size: 33, 60
+  orig: 34, 60
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 795, 74
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 795, 74
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 795, 74
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_049_lv1_liandaokui-0004_shouji1_3
+  rotate: true
+  xy: 473, 306
+  size: 203, 262
+  orig: 203, 262
+  offset: 0, 0
+  index: -1
+jl_049_lv1_liandaokui-0005_shouji2_3
+  rotate: false
+  xy: 237, 276
+  size: 234, 233
+  orig: 234, 233
+  offset: 0, 0
+  index: -1
+jl_049_lv1_liandaokui-0014_leiji_3
+  rotate: false
+  xy: 2, 250
+  size: 233, 259
+  orig: 233, 259
+  offset: 0, 0
+  index: -1
+jl_049_lv1_liandaokui-0014_leiji_4
+  rotate: false
+  xy: 2, 2
+  size: 222, 246
+  orig: 299, 297
+  offset: 16, 33
+  index: -1
+tail
+  rotate: false
+  xy: 825, 151
+  size: 90, 87
+  orig: 90, 87
+  offset: 0, 0
+  index: -1

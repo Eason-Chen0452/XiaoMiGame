@@ -1,0 +1,69 @@
+
+CJ_JiangTai.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 321, 73
+  size: 170, 53
+  orig: 172, 55
+  offset: 1, 1
+  index: -1
+02
+  rotate: false
+  xy: 621, 99
+  size: 122, 27
+  orig: 122, 27
+  offset: 0, 0
+  index: -1
+gj01
+  rotate: false
+  xy: 621, 41
+  size: 91, 56
+  orig: 93, 58
+  offset: 1, 1
+  index: -1
+gj02
+  rotate: false
+  xy: 493, 47
+  size: 126, 79
+  orig: 128, 81
+  offset: 1, 1
+  index: -1
+jj01
+  rotate: false
+  xy: 745, 77
+  size: 82, 49
+  orig: 84, 51
+  offset: 1, 1
+  index: -1
+jj02
+  rotate: false
+  xy: 417, 25
+  size: 68, 46
+  orig: 71, 49
+  offset: 2, 1
+  index: -1
+taizi
+  rotate: false
+  xy: 2, 2
+  size: 317, 124
+  orig: 319, 126
+  offset: 1, 1
+  index: -1
+yj01
+  rotate: false
+  xy: 829, 80
+  size: 68, 46
+  orig: 70, 52
+  offset: 1, 1
+  index: -1
+yj02
+  rotate: false
+  xy: 321, 4
+  size: 94, 67
+  orig: 96, 69
+  offset: 1, 1
+  index: -1

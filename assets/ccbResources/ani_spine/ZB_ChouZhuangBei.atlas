@@ -1,0 +1,256 @@
+
+ZB_ChouZhuangBei.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c5
+  rotate: false
+  xy: 497, 15
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+c6
+  rotate: false
+  xy: 606, 387
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+light04
+  rotate: true
+  xy: 818, 606
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+package_c3
+  rotate: false
+  xy: 251, 8
+  size: 244, 107
+  orig: 244, 107
+  offset: 0, 0
+  index: -1
+package_d1
+  rotate: true
+  xy: 762, 324
+  size: 280, 260
+  orig: 280, 260
+  offset: 0, 0
+  index: -1
+package_d3
+  rotate: false
+  xy: 2, 2
+  size: 247, 113
+  orig: 247, 113
+  offset: 0, 0
+  index: -1
+package_e3
+  rotate: false
+  xy: 516, 517
+  size: 244, 112
+  orig: 244, 112
+  offset: 0, 0
+  index: -1
+xx01/xx1_001
+  rotate: false
+  xy: 2, 117
+  size: 300, 375
+  orig: 300, 375
+  offset: 0, 0
+  index: -1
+xx01/xx1_002
+  rotate: false
+  xy: 516, 631
+  size: 300, 375
+  orig: 300, 375
+  offset: 0, 0
+  index: -1
+xx01/xx1_003
+  rotate: false
+  xy: 304, 117
+  size: 300, 375
+  orig: 300, 375
+  offset: 0, 0
+  index: -1
+xx01/xx1_004
+  rotate: true
+  xy: 606, 22
+  size: 300, 375
+  orig: 300, 375
+  offset: 0, 0
+  index: -1
+yun
+  rotate: false
+  xy: 2, 494
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+ZB_ChouZhuangBei2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+package_a1
+  rotate: false
+  xy: 289, 2
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+package_a2
+  rotate: false
+  xy: 2, 19
+  size: 285, 243
+  orig: 285, 243
+  offset: 0, 0
+  index: -1
+package_b1
+  rotate: false
+  xy: 551, 2
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+package_b3
+  rotate: true
+  xy: 908, 786
+  size: 230, 106
+  orig: 230, 106
+  offset: 0, 0
+  index: -1
+package_e2
+  rotate: true
+  xy: 813, 14
+  size: 248, 193
+  orig: 248, 193
+  offset: 0, 0
+  index: -1
+xx01/xx1_005
+  rotate: false
+  xy: 2, 641
+  size: 300, 375
+  orig: 300, 375
+  offset: 0, 0
+  index: -1
+xx01/xx1_006
+  rotate: false
+  xy: 2, 264
+  size: 300, 375
+  orig: 300, 375
+  offset: 0, 0
+  index: -1
+xx01/xx1_007
+  rotate: false
+  xy: 304, 641
+  size: 300, 375
+  orig: 300, 375
+  offset: 0, 0
+  index: -1
+xx01/xx1_008
+  rotate: false
+  xy: 304, 264
+  size: 300, 375
+  orig: 300, 375
+  offset: 0, 0
+  index: -1
+xx01/xx1_009
+  rotate: false
+  xy: 606, 641
+  size: 300, 375
+  orig: 300, 375
+  offset: 0, 0
+  index: -1
+xx01/xx1_010
+  rotate: false
+  xy: 606, 264
+  size: 300, 375
+  orig: 300, 375
+  offset: 0, 0
+  index: -1
+
+ZB_ChouZhuangBei3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light02
+  rotate: false
+  xy: 738, 750
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+package_b2
+  rotate: true
+  xy: 820, 519
+  size: 229, 157
+  orig: 229, 157
+  offset: 0, 0
+  index: -1
+package_c1
+  rotate: false
+  xy: 370, 437
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+package_c2
+  rotate: true
+  xy: 632, 457
+  size: 240, 186
+  orig: 240, 186
+  offset: 0, 0
+  index: -1
+package_d2
+  rotate: false
+  xy: 370, 2
+  size: 247, 190
+  orig: 247, 190
+  offset: 0, 0
+  index: -1
+package_e1
+  rotate: false
+  xy: 370, 194
+  size: 248, 241
+  orig: 248, 241
+  offset: 0, 0
+  index: -1
+package_f1
+  rotate: false
+  xy: 2, 699
+  size: 366, 307
+  orig: 366, 307
+  offset: 0, 0
+  index: -1
+package_f2
+  rotate: false
+  xy: 2, 390
+  size: 366, 307
+  orig: 366, 307
+  offset: 0, 0
+  index: -1
+package_g1
+  rotate: false
+  xy: 370, 699
+  size: 366, 307
+  orig: 366, 307
+  offset: 0, 0
+  index: -1
+package_g2
+  rotate: false
+  xy: 2, 81
+  size: 366, 307
+  orig: 366, 307
+  offset: 0, 0
+  index: -1
+star04
+  rotate: false
+  xy: 820, 317
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

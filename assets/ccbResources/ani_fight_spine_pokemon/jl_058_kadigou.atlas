@@ -1,0 +1,174 @@
+
+jl_058_kadigou.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_R
+  rotate: true
+  xy: 358, 42
+  size: 54, 86
+  orig: 54, 86
+  offset: 0, 0
+  index: -1
+Arm_l
+  rotate: false
+  xy: 482, 87
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+Beard
+  rotate: false
+  xy: 268, 24
+  size: 88, 72
+  orig: 88, 72
+  offset: 0, 0
+  index: -1
+Blur_Die
+  rotate: false
+  xy: 540, 336
+  size: 286, 170
+  orig: 286, 170
+  offset: 0, 0
+  index: -1
+Blur_Hit
+  rotate: true
+  xy: 828, 250
+  size: 256, 194
+  orig: 256, 194
+  offset: 0, 0
+  index: -1
+Blur_Hit2
+  rotate: false
+  xy: 264, 300
+  size: 274, 206
+  orig: 274, 206
+  offset: 0, 0
+  index: -1
+Blur_Hit3
+  rotate: false
+  xy: 2, 261
+  size: 260, 245
+  orig: 260, 245
+  offset: 0, 0
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 2, 44
+  size: 264, 215
+  orig: 266, 217
+  offset: 1, 1
+  index: -1
+Blur_Skill
+  rotate: false
+  xy: 482, 144
+  size: 122, 154
+  orig: 122, 154
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 732, 209
+  size: 125, 89
+  orig: 125, 89
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 446, 61
+  size: 35, 32
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+Eye1
+  rotate: true
+  xy: 540, 300
+  size: 34, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 358, 26
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 68, 4
+  size: 52, 38
+  orig: 52, 39
+  offset: 0, 1
+  index: -1
+Foot_R
+  rotate: false
+  xy: 881, 207
+  size: 47, 41
+  orig: 48, 41
+  offset: 1, 0
+  index: -1
+Gu
+  rotate: false
+  xy: 268, 98
+  size: 212, 200
+  orig: 212, 200
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 606, 206
+  size: 124, 128
+  orig: 125, 128
+  offset: 1, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 549, 86
+  size: 54, 56
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: true
+  xy: 823, 194
+  size: 54, 56
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 2, 2
+  size: 64, 40
+  orig: 64, 41
+  offset: 0, 1
+  index: -1
+Tail
+  rotate: false
+  xy: 606, 123
+  size: 101, 81
+  orig: 101, 81
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 574, 321
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 574, 321
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 574, 321
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1

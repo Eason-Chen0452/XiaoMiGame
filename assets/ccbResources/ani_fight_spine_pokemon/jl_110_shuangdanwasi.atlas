@@ -1,0 +1,237 @@
+
+jl_110_shuangdanwasi.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 697, 307
+  size: 200, 203
+  orig: 200, 203
+  offset: 0, 0
+  index: -1
+ALL1
+  rotate: false
+  xy: 489, 301
+  size: 206, 209
+  orig: 206, 209
+  offset: 0, 0
+  index: -1
+Ball
+  rotate: false
+  xy: 95, 36
+  size: 65, 60
+  orig: 65, 60
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 249, 56
+  size: 143, 140
+  orig: 144, 140
+  offset: 0, 0
+  index: -1
+Body2
+  rotate: false
+  xy: 899, 412
+  size: 98, 98
+  orig: 98, 99
+  offset: 0, 0
+  index: -1
+Eye1_Body2_L
+  rotate: false
+  xy: 699, 266
+  size: 42, 39
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+Eye1_Body2_R
+  rotate: true
+  xy: 999, 482
+  size: 28, 23
+  orig: 28, 26
+  offset: 0, 3
+  index: -1
+Eye1_Body_L
+  rotate: false
+  xy: 951, 309
+  size: 37, 31
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+Eye1_Body_R
+  rotate: false
+  xy: 490, 258
+  size: 63, 41
+  orig: 63, 50
+  offset: 0, 9
+  index: -1
+Eye2_Body
+  rotate: false
+  xy: 743, 267
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+Eye2_Body2
+  rotate: false
+  xy: 2, 2
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+Eye_Body2_L
+  rotate: false
+  xy: 787, 268
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+Eye_Body2_R
+  rotate: true
+  xy: 224, 70
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+Eye_Body_L
+  rotate: false
+  xy: 608, 252
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+Eye_Body_R
+  rotate: false
+  xy: 162, 44
+  size: 60, 52
+  orig: 64, 52
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: true
+  xy: 899, 309
+  size: 101, 50
+  orig: 101, 50
+  offset: 0, 0
+  index: -1
+Eye_C2
+  rotate: false
+  xy: 162, 2
+  size: 70, 40
+  orig: 70, 40
+  offset: 0, 0
+  index: -1
+Gas_01
+  rotate: false
+  xy: 555, 257
+  size: 51, 42
+  orig: 51, 42
+  offset: 0, 0
+  index: -1
+Gas_02
+  rotate: false
+  xy: 2, 28
+  size: 91, 68
+  orig: 92, 68
+  offset: 1, 0
+  index: -1
+Gas_03
+  rotate: true
+  xy: 660, 255
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+Gas_04
+  rotate: false
+  xy: 951, 342
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+Gas_05
+  rotate: false
+  xy: 490, 209
+  size: 51, 47
+  orig: 51, 47
+  offset: 0, 0
+  index: -1
+Gas_06
+  rotate: false
+  xy: 394, 122
+  size: 81, 74
+  orig: 81, 74
+  offset: 0, 0
+  index: -1
+Link2
+  rotate: false
+  xy: 827, 269
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+Link_L
+  rotate: true
+  xy: 394, 65
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+MOuth
+  rotate: false
+  xy: 394, 84
+  size: 80, 36
+  orig: 80, 36
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 999, 467
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 999, 467
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 999, 467
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_039_lv1_shuangdanwasi-0004_shouji1_3
+  rotate: false
+  xy: 2, 98
+  size: 245, 199
+  orig: 410, 320
+  offset: 107, 18
+  index: -1
+jl_039_lv1_shuangdanwasi-0005_shouji2_3
+  rotate: true
+  xy: 266, 297
+  size: 213, 221
+  orig: 213, 221
+  offset: 0, 0
+  index: -1
+jl_039_lv1_shuangdanwasi-0014_leiji_3
+  rotate: false
+  xy: 2, 299
+  size: 262, 211
+  orig: 381, 334
+  offset: 59, 68
+  index: -1
+jl_039_lv1_shuangdanwasi-0014_leiji_4
+  rotate: false
+  xy: 249, 198
+  size: 239, 97
+  orig: 457, 356
+  offset: 81, 119
+  index: -1

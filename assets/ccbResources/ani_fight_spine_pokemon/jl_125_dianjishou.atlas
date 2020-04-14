@@ -1,0 +1,398 @@
+
+jl_125_dianjishou.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 493, 809
+  size: 203, 212
+  orig: 203, 212
+  offset: 0, 0
+  index: -1
+ALL1
+  rotate: false
+  xy: 2, 312
+  size: 209, 218
+  orig: 209, 218
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: false
+  xy: 226, 515
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 213, 327
+  size: 54, 40
+  orig: 54, 40
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 288, 694
+  size: 92, 98
+  orig: 92, 101
+  offset: 0, 0
+  index: -1
+Effects_Textures_10-1
+  rotate: false
+  xy: 288, 644
+  size: 96, 48
+  orig: 96, 48
+  offset: 0, 0
+  index: -1
+Effects_Textures_11-1
+  rotate: false
+  xy: 281, 541
+  size: 96, 48
+  orig: 96, 48
+  offset: 0, 0
+  index: -1
+Effects_Textures_5-1
+  rotate: false
+  xy: 918, 762
+  size: 96, 48
+  orig: 96, 48
+  offset: 0, 0
+  index: -1
+Effects_Textures_6-1
+  rotate: false
+  xy: 493, 759
+  size: 96, 48
+  orig: 96, 48
+  offset: 0, 0
+  index: -1
+Effects_Textures_7-1
+  rotate: false
+  xy: 591, 759
+  size: 96, 48
+  orig: 96, 48
+  offset: 0, 0
+  index: -1
+Effects_Textures_8-1
+  rotate: false
+  xy: 487, 709
+  size: 96, 48
+  orig: 96, 48
+  offset: 0, 0
+  index: -1
+Effects_Textures_9-1
+  rotate: false
+  xy: 585, 709
+  size: 96, 48
+  orig: 96, 48
+  offset: 0, 0
+  index: -1
+Eye1_L
+  rotate: true
+  xy: 859, 750
+  size: 10, 17
+  orig: 13, 21
+  offset: 3, 4
+  index: -1
+Eye1_R
+  rotate: false
+  xy: 686, 690
+  size: 22, 17
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 213, 312
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: false
+  xy: 332, 518
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: true
+  xy: 253, 785
+  size: 7, 17
+  orig: 7, 17
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: false
+  xy: 892, 776
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: true
+  xy: 213, 446
+  size: 67, 38
+  orig: 67, 38
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: true
+  xy: 213, 383
+  size: 61, 35
+  orig: 61, 35
+  offset: 0, 0
+  index: -1
+Hair_L
+  rotate: false
+  xy: 670, 666
+  size: 14, 41
+  orig: 14, 41
+  offset: 0, 0
+  index: -1
+Hair_R
+  rotate: true
+  xy: 281, 515
+  size: 24, 49
+  orig: 24, 49
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: true
+  xy: 478, 661
+  size: 46, 96
+  orig: 46, 96
+  offset: 0, 0
+  index: -1
+Hand_L1
+  rotate: false
+  xy: 940, 912
+  size: 82, 109
+  orig: 82, 109
+  offset: 0, 0
+  index: -1
+Hand_L_P
+  rotate: false
+  xy: 195, 104
+  size: 47, 98
+  orig: 47, 98
+  offset: 0, 0
+  index: -1
+Hand_L_P1
+  rotate: true
+  xy: 123, 7
+  size: 85, 110
+  orig: 85, 110
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 576, 660
+  size: 47, 92
+  orig: 47, 92
+  offset: 0, 0
+  index: -1
+Hand_R1
+  rotate: true
+  xy: 382, 712
+  size: 80, 103
+  orig: 80, 103
+  offset: 0, 0
+  index: -1
+Hand_R_P
+  rotate: true
+  xy: 281, 591
+  size: 51, 98
+  orig: 51, 98
+  offset: 0, 0
+  index: -1
+Hand_R_P1
+  rotate: true
+  xy: 918, 812
+  size: 88, 104
+  orig: 88, 104
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 689, 736
+  size: 87, 54
+  orig: 87, 56
+  offset: 0, 2
+  index: -1
+Leg_L
+  rotate: false
+  xy: 683, 709
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 741, 706
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: true
+  xy: 778, 742
+  size: 48, 33
+  orig: 48, 33
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 2, 2
+  size: 119, 90
+  orig: 119, 90
+  offset: 0, 0
+  index: -1
+Tentacle_L
+  rotate: true
+  xy: 253, 448
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+Tentacle_L1
+  rotate: false
+  xy: 253, 476
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+Tentacle_R
+  rotate: false
+  xy: 859, 762
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+Tentacle_R1
+  rotate: false
+  xy: 813, 750
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+Thigh_L
+  rotate: false
+  xy: 710, 708
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+Thigh_R
+  rotate: false
+  xy: 290, 484
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 229, 312
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 229, 312
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 229, 312
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_046_lv1_dianjishou-0004_shouji1_3
+  rotate: true
+  xy: 2, 532
+  size: 251, 222
+  orig: 251, 222
+  offset: 0, 0
+  index: -1
+jl_046_lv1_dianjishou-0005_shouji2_3
+  rotate: true
+  xy: 2, 94
+  size: 216, 191
+  orig: 216, 191
+  offset: 0, 0
+  index: -1
+jl_046_lv1_dianjishou-0014_leiji_3
+  rotate: false
+  xy: 2, 785
+  size: 249, 236
+  orig: 249, 236
+  offset: 0, 0
+  index: -1
+jl_046_lv1_dianjishou-0014_leiji_4
+  rotate: false
+  xy: 253, 794
+  size: 238, 227
+  orig: 272, 250
+  offset: 15, 12
+  index: -1
+spark01a
+  rotate: false
+  xy: 226, 555
+  size: 53, 112
+  orig: 53, 112
+  offset: 0, 0
+  index: -1
+spark01b
+  rotate: false
+  xy: 195, 204
+  size: 41, 106
+  orig: 41, 106
+  offset: 0, 0
+  index: -1
+spark02a
+  rotate: false
+  xy: 698, 902
+  size: 132, 119
+  orig: 132, 119
+  offset: 0, 0
+  index: -1
+spark02b
+  rotate: false
+  xy: 698, 792
+  size: 113, 108
+  orig: 113, 108
+  offset: 0, 0
+  index: -1
+spark03a
+  rotate: false
+  xy: 832, 902
+  size: 106, 119
+  orig: 106, 119
+  offset: 0, 0
+  index: -1
+spark03b
+  rotate: false
+  xy: 813, 796
+  size: 103, 104
+  orig: 104, 116
+  offset: 1, 0
+  index: -1
+spark04a
+  rotate: false
+  xy: 226, 669
+  size: 60, 114
+  orig: 60, 114
+  offset: 0, 0
+  index: -1
+spark04b
+  rotate: true
+  xy: 386, 654
+  size: 56, 90
+  orig: 56, 107
+  offset: 0, 17
+  index: -1

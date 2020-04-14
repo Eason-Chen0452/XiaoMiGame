@@ -1,0 +1,202 @@
+
+jl_057_huobaohou.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 434, 325
+  size: 197, 185
+  orig: 197, 185
+  offset: 0, 0
+  index: -1
+ALL1
+  rotate: false
+  xy: 229, 319
+  size: 203, 191
+  orig: 203, 191
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: true
+  xy: 434, 297
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 2, 2
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 215, 27
+  size: 132, 141
+  orig: 133, 141
+  offset: 0, 0
+  index: -1
+Ear_L
+  rotate: false
+  xy: 358, 31
+  size: 38, 40
+  orig: 39, 40
+  offset: 1, 0
+  index: -1
+Ear_R
+  rotate: true
+  xy: 65, 64
+  size: 31, 52
+  orig: 31, 52
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 2, 27
+  size: 56, 33
+  orig: 57, 34
+  offset: 1, 0
+  index: -1
+Eye2
+  rotate: true
+  xy: 358, 2
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: false
+  xy: 2, 62
+  size: 61, 33
+  orig: 61, 34
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 119, 61
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: true
+  xy: 162, 60
+  size: 35, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 358, 119
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 358, 73
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 436, 86
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 413, 123
+  size: 33, 36
+  orig: 34, 37
+  offset: 1, 1
+  index: -1
+Nose
+  rotate: true
+  xy: 398, 2
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+Thigh_L
+  rotate: true
+  xy: 404, 81
+  size: 36, 30
+  orig: 37, 30
+  offset: 1, 0
+  index: -1
+Thigh_R
+  rotate: false
+  xy: 398, 36
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+UpArm_L
+  rotate: true
+  xy: 1002, 475
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 1002, 460
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 1002, 460
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 1002, 460
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_022_lv1_huobaohou-0004_shouji1_3
+  rotate: true
+  xy: 633, 323
+  size: 187, 191
+  orig: 187, 191
+  offset: 0, 0
+  index: -1
+jl_022_lv1_huobaohou-0005_shouji2_3
+  rotate: false
+  xy: 826, 309
+  size: 174, 201
+  orig: 174, 201
+  offset: 0, 0
+  index: -1
+jl_022_lv1_huobaohou-0006_siwang_10
+  rotate: false
+  xy: 229, 161
+  size: 202, 156
+  orig: 202, 156
+  offset: 0, 0
+  index: -1
+jl_022_lv1_huobaohou-0014_leiji_3
+  rotate: false
+  xy: 2, 298
+  size: 225, 212
+  orig: 225, 212
+  offset: 0, 0
+  index: -1
+jl_022_lv1_huobaohou-0014_leiji_4
+  rotate: false
+  xy: 2, 97
+  size: 211, 199
+  orig: 252, 236
+  offset: 9, 21
+  index: -1

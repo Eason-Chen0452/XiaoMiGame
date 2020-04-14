@@ -1,0 +1,167 @@
+
+jl_157_huobaoshou.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eye2
+  rotate: false
+  xy: 233, 225
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+all
+  rotate: false
+  xy: 2, 2
+  size: 203, 248
+  orig: 203, 248
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 1005, 487
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 1005, 487
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 1005, 487
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+erduo_01
+  rotate: false
+  xy: 207, 158
+  size: 21, 20
+  orig: 21, 21
+  offset: 0, 1
+  index: -1
+erduo_02
+  rotate: false
+  xy: 981, 332
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 207, 180
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+gebo_01
+  rotate: true
+  xy: 908, 332
+  size: 35, 71
+  orig: 35, 71
+  offset: 0, 0
+  index: -1
+ji_081_huobaoshou-0004_shouji1_3
+  rotate: true
+  xy: 433, 306
+  size: 194, 247
+  orig: 194, 247
+  offset: 0, 0
+  index: -1
+ji_081_huobaoshou-0005_shouji2_3
+  rotate: false
+  xy: 2, 252
+  size: 221, 248
+  orig: 221, 248
+  offset: 0, 0
+  index: -1
+ji_081_huobaoshou-0014_leiji_3
+  rotate: false
+  xy: 225, 255
+  size: 206, 245
+  orig: 206, 245
+  offset: 0, 0
+  index: -1
+ji_081_huobaoshou-0014_leiji_4
+  rotate: true
+  xy: 682, 331
+  size: 169, 224
+  orig: 169, 224
+  offset: 0, 0
+  index: -1
+jiao_01
+  rotate: false
+  xy: 851, 297
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+jiao_02
+  rotate: true
+  xy: 207, 205
+  size: 45, 24
+  orig: 45, 24
+  offset: 0, 0
+  index: -1
+mao_01
+  rotate: true
+  xy: 908, 369
+  size: 131, 95
+  orig: 131, 95
+  offset: 0, 0
+  index: -1
+shenzi_01
+  rotate: true
+  xy: 433, 156
+  size: 148, 167
+  orig: 148, 167
+  offset: 0, 0
+  index: -1
+shou_02
+  rotate: true
+  xy: 682, 284
+  size: 45, 56
+  orig: 45, 56
+  offset: 0, 0
+  index: -1
+tou_01
+  rotate: false
+  xy: 602, 238
+  size: 59, 66
+  orig: 59, 66
+  offset: 0, 0
+  index: -1
+tui_01
+  rotate: false
+  xy: 602, 171
+  size: 52, 65
+  orig: 52, 65
+  offset: 0, 0
+  index: -1
+tui_02
+  rotate: false
+  xy: 740, 277
+  size: 56, 52
+  orig: 56, 52
+  offset: 0, 0
+  index: -1
+yanjing_01
+  rotate: false
+  xy: 267, 230
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+zuiba_01
+  rotate: false
+  xy: 798, 284
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: -1

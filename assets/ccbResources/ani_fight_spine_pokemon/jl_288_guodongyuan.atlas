@@ -1,0 +1,153 @@
+
+jl_288_guodongyuan.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff_flo
+  rotate: false
+  xy: 439, 345
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+buff_mid
+  rotate: false
+  xy: 439, 345
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+buff_up
+  rotate: false
+  xy: 439, 345
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+guodongyuan_dabi_01
+  rotate: false
+  xy: 345, 328
+  size: 92, 67
+  orig: 92, 67
+  offset: 0, 0
+  index: -1
+guodongyuan_dabi_02
+  rotate: false
+  xy: 120, 151
+  size: 113, 75
+  orig: 113, 75
+  offset: 0, 0
+  index: -1
+guodongyuan_datui_01
+  rotate: false
+  xy: 345, 281
+  size: 62, 45
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+guodongyuan_datui_02
+  rotate: false
+  xy: 281, 184
+  size: 60, 42
+  orig: 60, 42
+  offset: 0, 0
+  index: -1
+guodongyuan_jiao_01
+  rotate: true
+  xy: 208, 93
+  size: 56, 31
+  orig: 56, 31
+  offset: 0, 0
+  index: -1
+guodongyuan_jiao_02
+  rotate: true
+  xy: 241, 102
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+guodongyuan_shenzi_01
+  rotate: false
+  xy: 2, 74
+  size: 116, 152
+  orig: 116, 152
+  offset: 0, 0
+  index: -1
+guodongyuan_tou_01
+  rotate: false
+  xy: 345, 397
+  size: 98, 110
+  orig: 98, 110
+  offset: 0, 0
+  index: -1
+guodongyuan_toufa_01
+  rotate: false
+  xy: 235, 159
+  size: 44, 67
+  orig: 44, 67
+  offset: 0, 0
+  index: -1
+guodongyuan_weiba_01
+  rotate: true
+  xy: 445, 438
+  size: 69, 50
+  orig: 69, 50
+  offset: 0, 0
+  index: -1
+guodongyuan_xiaobi_01
+  rotate: true
+  xy: 2, 2
+  size: 70, 95
+  orig: 70, 95
+  offset: 0, 0
+  index: -1
+guodongyuan_xiaobi_02
+  rotate: true
+  xy: 120, 83
+  size: 66, 86
+  orig: 66, 86
+  offset: 0, 0
+  index: -1
+guodongyuan_xiaotui_01
+  rotate: true
+  xy: 409, 282
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+guodongyuan_xiaotui_02
+  rotate: false
+  xy: 281, 148
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+guodongyuan_yanjing_01
+  rotate: false
+  xy: 345, 245
+  size: 66, 34
+  orig: 66, 34
+  offset: 0, 0
+  index: -1
+guodongyuan_zhuazi_01
+  rotate: false
+  xy: 445, 393
+  size: 51, 43
+  orig: 51, 43
+  offset: 0, 0
+  index: -1
+guodongyuan_zhuazi_02
+  rotate: false
+  xy: 276, 107
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+jl_110_guodongyuan-0000_chuchang_0
+  rotate: false
+  xy: 2, 228
+  size: 341, 279
+  orig: 341, 279
+  offset: 0, 0
+  index: -1

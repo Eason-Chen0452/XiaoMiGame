@@ -1,0 +1,83 @@
+
+ZC_FengMian_pikaqiu.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: true
+  xy: 547, 90
+  size: 63, 104
+  orig: 65, 106
+  offset: 1, 1
+  index: -1
+arm_r
+  rotate: true
+  xy: 769, 187
+  size: 67, 114
+  orig: 69, 116
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 2, 80
+  size: 314, 174
+  orig: 316, 176
+  offset: 1, 1
+  index: -1
+ear_l
+  rotate: false
+  xy: 409, 3
+  size: 93, 85
+  orig: 95, 87
+  offset: 1, 1
+  index: -1
+ear_r
+  rotate: false
+  xy: 296, 2
+  size: 111, 76
+  orig: 113, 78
+  offset: 1, 1
+  index: -1
+foot_l
+  rotate: false
+  xy: 504, 62
+  size: 61, 26
+  orig: 63, 28
+  offset: 1, 1
+  index: -1
+foot_r
+  rotate: false
+  xy: 885, 226
+  size: 66, 28
+  orig: 68, 30
+  offset: 1, 1
+  index: -1
+leg_l
+  rotate: false
+  xy: 665, 164
+  size: 102, 90
+  orig: 104, 92
+  offset: 1, 1
+  index: -1
+leg_r
+  rotate: false
+  xy: 547, 155
+  size: 116, 99
+  orig: 118, 101
+  offset: 1, 1
+  index: -1
+shadow2
+  rotate: false
+  xy: 2, 18
+  size: 292, 60
+  orig: 292, 60
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 318, 90
+  size: 227, 164
+  orig: 229, 166
+  offset: 1, 1
+  index: -1

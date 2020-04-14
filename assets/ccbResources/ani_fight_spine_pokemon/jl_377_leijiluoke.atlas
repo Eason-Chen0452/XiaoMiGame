@@ -1,0 +1,188 @@
+
+jl_377_leijiluoke.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 445, 291
+  size: 215, 219
+  orig: 215, 219
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: false
+  xy: 96, 7
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+Arm_L2
+  rotate: false
+  xy: 135, 9
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+Arm_L3
+  rotate: false
+  xy: 996, 426
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 216, 76
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+Arm_R2
+  rotate: false
+  xy: 216, 47
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+Arm_R3
+  rotate: false
+  xy: 52, 3
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 2, 275
+  size: 227, 235
+  orig: 227, 235
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 883, 178
+  size: 112, 156
+  orig: 112, 156
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 996, 481
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: true
+  xy: 996, 450
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 216, 111
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: false
+  xy: 2, 2
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 216, 205
+  size: 64, 68
+  orig: 65, 68
+  offset: 1, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 921, 342
+  size: 68, 77
+  orig: 68, 77
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 968, 121
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 216, 151
+  size: 48, 52
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+UpArm_L
+  rotate: true
+  xy: 883, 120
+  size: 56, 83
+  orig: 56, 83
+  offset: 0, 0
+  index: -1
+UpArm_R
+  rotate: false
+  xy: 921, 412
+  size: 73, 98
+  orig: 73, 98
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 266, 190
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 266, 190
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 266, 190
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_063_lv0_leijiluoke_leiji
+  rotate: true
+  xy: 662, 139
+  size: 195, 219
+  orig: 195, 219
+  offset: 0, 0
+  index: -1
+jl_063_lv0_leijiluoke_shouji1
+  rotate: false
+  xy: 231, 284
+  size: 212, 226
+  orig: 212, 226
+  offset: 0, 0
+  index: -1
+jl_063_lv0_leijiluoke_shouji2
+  rotate: false
+  xy: 2, 40
+  size: 212, 233
+  orig: 212, 233
+  offset: 0, 0
+  index: -1
+jl_063_lv0_leijiluoke_siwang
+  rotate: false
+  xy: 662, 336
+  size: 257, 174
+  orig: 257, 174
+  offset: 0, 0
+  index: -1

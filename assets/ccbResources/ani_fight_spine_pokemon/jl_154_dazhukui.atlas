@@ -1,0 +1,265 @@
+
+jl_154_dazhukui.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: false
+  xy: 319, 213
+  size: 38, 73
+  orig: 38, 73
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 319, 156
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+Blur_Die
+  rotate: false
+  xy: 319, 328
+  size: 184, 182
+  orig: 184, 182
+  offset: 0, 0
+  index: -1
+Blur_Hit
+  rotate: false
+  xy: 2, 55
+  size: 158, 224
+  orig: 158, 224
+  offset: 0, 0
+  index: -1
+Blur_Hit2
+  rotate: false
+  xy: 162, 66
+  size: 155, 218
+  orig: 155, 218
+  offset: 0, 0
+  index: -1
+Blur_Hit3
+  rotate: false
+  xy: 2, 281
+  size: 148, 229
+  orig: 148, 229
+  offset: 0, 0
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 152, 286
+  size: 157, 224
+  orig: 158, 224
+  offset: 1, 0
+  index: -1
+Body
+  rotate: false
+  xy: 393, 259
+  size: 110, 67
+  orig: 110, 67
+  offset: 0, 0
+  index: -1
+CJ_L
+  rotate: true
+  xy: 281, 3
+  size: 61, 35
+  orig: 62, 35
+  offset: 1, 0
+  index: -1
+CJ_L_B
+  rotate: false
+  xy: 359, 216
+  size: 30, 30
+  orig: 62, 35
+  offset: 1, 0
+  index: -1
+CJ_R
+  rotate: false
+  xy: 311, 288
+  size: 80, 38
+  orig: 80, 38
+  offset: 0, 0
+  index: -1
+CJ_R_B
+  rotate: true
+  xy: 359, 149
+  size: 28, 29
+  orig: 80, 38
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 365, 120
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+Eye1
+  rotate: false
+  xy: 162, 58
+  size: 20, 6
+  orig: 20, 6
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: true
+  xy: 374, 60
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+Gu
+  rotate: true
+  xy: 319, 131
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 220, 3
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+Leaf_D
+  rotate: true
+  xy: 447, 59
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+Leaf_D_B
+  rotate: true
+  xy: 365, 11
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+Leaf_L
+  rotate: false
+  xy: 452, 156
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+Leaf_L2
+  rotate: false
+  xy: 450, 107
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+Leaf_L2_B
+  rotate: false
+  xy: 389, 78
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+Leaf_L_B
+  rotate: false
+  xy: 390, 127
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+Leaf_R
+  rotate: true
+  xy: 460, 204
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+Leaf_R2
+  rotate: true
+  xy: 318, 5
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1
+Leaf_R2_B
+  rotate: false
+  xy: 391, 175
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1
+Leaf_R_B
+  rotate: false
+  xy: 319, 70
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+Leaf_T
+  rotate: true
+  xy: 2, 2
+  size: 51, 60
+  orig: 51, 60
+  offset: 0, 0
+  index: -1
+Leaf_T_B
+  rotate: true
+  xy: 64, 2
+  size: 51, 60
+  orig: 51, 60
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 423, 22
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: true
+  xy: 393, 222
+  size: 35, 65
+  orig: 35, 65
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: true
+  xy: 365, 248
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: true
+  xy: 126, 5
+  size: 48, 92
+  orig: 48, 92
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 359, 179
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 374, 105
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 374, 105
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 374, 105
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1

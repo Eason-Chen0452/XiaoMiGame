@@ -1,0 +1,90 @@
+
+jl_280_lalulasi.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: false
+  xy: 374, 146
+  size: 47, 33
+  orig: 47, 33
+  offset: 0, 0
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 2, 2
+  size: 163, 250
+  orig: 163, 250
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 167, 18
+  size: 45, 96
+  orig: 45, 96
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 273, 68
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 383, 229
+  size: 23, 70
+  orig: 23, 70
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 167, 116
+  size: 142, 136
+  orig: 142, 136
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 214, 37
+  size: 57, 77
+  orig: 57, 77
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 311, 183
+  size: 70, 69
+  orig: 70, 69
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 311, 136
+  size: 61, 45
+  orig: 61, 45
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 383, 181
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+buff_mid
+  rotate: false
+  xy: 383, 181
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+buff_up
+  rotate: false
+  xy: 383, 181
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1

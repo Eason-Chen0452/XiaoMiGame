@@ -1,0 +1,237 @@
+
+jl_094_genggui.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 2, 432
+  size: 196, 189
+  orig: 196, 190
+  offset: 0, 0
+  index: -1
+ALL1
+  rotate: false
+  xy: 206, 827
+  size: 201, 195
+  orig: 201, 195
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: false
+  xy: 897, 877
+  size: 48, 52
+  orig: 49, 52
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 84, 49
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 408, 586
+  size: 134, 155
+  orig: 134, 155
+  offset: 0, 0
+  index: -1
+Ear_L
+  rotate: false
+  xy: 503, 419
+  size: 52, 48
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+Ear_R
+  rotate: false
+  xy: 503, 525
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 299, 362
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: true
+  xy: 879, 853
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: false
+  xy: 897, 931
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 299, 307
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 503, 469
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+Leg_R_P
+  rotate: true
+  xy: 299, 263
+  size: 42, 53
+  orig: 46, 53
+  offset: 2, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 897, 971
+  size: 89, 51
+  orig: 89, 53
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 2, 2
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 206, 631
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 206, 631
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 206, 631
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+daiji/daiji_00
+  rotate: true
+  xy: 409, 722
+  size: 149, 156
+  orig: 197, 238
+  offset: 0, 61
+  index: -1
+daiji/daiji_01
+  rotate: false
+  xy: 352, 433
+  size: 149, 151
+  orig: 197, 238
+  offset: 0, 60
+  index: -1
+daiji/daiji_02
+  rotate: false
+  xy: 200, 432
+  size: 150, 152
+  orig: 197, 238
+  offset: 0, 59
+  index: -1
+daiji/daiji_03
+  rotate: true
+  xy: 724, 720
+  size: 150, 153
+  orig: 197, 238
+  offset: 0, 59
+  index: -1
+daiji/daiji_04
+  rotate: true
+  xy: 736, 872
+  size: 150, 159
+  orig: 197, 238
+  offset: 0, 60
+  index: -1
+daiji/daiji_05
+  rotate: false
+  xy: 2, 268
+  size: 149, 162
+  orig: 197, 238
+  offset: 1, 61
+  index: -1
+daiji/daiji_06
+  rotate: true
+  xy: 574, 873
+  size: 149, 160
+  orig: 197, 238
+  offset: 0, 63
+  index: -1
+daiji/daiji_07
+  rotate: true
+  xy: 567, 723
+  size: 148, 155
+  orig: 197, 238
+  offset: 0, 61
+  index: -1
+daiji/daiji_08
+  rotate: false
+  xy: 153, 271
+  size: 144, 159
+  orig: 197, 238
+  offset: 0, 61
+  index: -1
+daiji/daiji_09
+  rotate: false
+  xy: 2, 105
+  size: 148, 161
+  orig: 197, 238
+  offset: 0, 61
+  index: -1
+jl_032_lv2_genggui-0004_shouji1_3
+  rotate: false
+  xy: 2, 623
+  size: 202, 197
+  orig: 202, 197
+  offset: 0, 0
+  index: -1
+jl_032_lv2_genggui-0005_shouji2_3
+  rotate: false
+  xy: 2, 822
+  size: 202, 200
+  orig: 202, 200
+  offset: 0, 0
+  index: -1
+jl_032_lv2_genggui-0006_siwang_10
+  rotate: false
+  xy: 409, 873
+  size: 163, 149
+  orig: 163, 149
+  offset: 0, 0
+  index: -1
+jl_032_lv2_genggui-0014_leiji_3
+  rotate: false
+  xy: 206, 646
+  size: 200, 179
+  orig: 200, 179
+  offset: 0, 0
+  index: -1
+leiji
+  rotate: false
+  xy: 2, 41
+  size: 80, 62
+  orig: 226, 218
+  offset: 81, 78
+  index: -1

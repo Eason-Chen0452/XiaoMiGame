@@ -1,0 +1,48 @@
+
+jl_338_taiyangyan.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blur_Show
+  rotate: false
+  xy: 2, 50
+  size: 196, 204
+  orig: 196, 204
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 200, 62
+  size: 185, 192
+  orig: 185, 192
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 387, 238
+  size: 62, 16
+  orig: 62, 16
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 2, 2
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+buff_mid
+  rotate: false
+  xy: 2, 2
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+buff_up
+  rotate: false
+  xy: 2, 2
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,188 @@
+
+CJ_BiaoQing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biaoqing/01_kaixin
+  rotate: true
+  xy: 311, 270
+  size: 64, 54
+  orig: 300, 300
+  offset: 117, 137
+  index: -1
+biaoqing/02_xinsui1
+  rotate: false
+  xy: 117, 45
+  size: 47, 51
+  orig: 300, 300
+  offset: 109, 138
+  index: -1
+biaoqing/02_xinsui2
+  rotate: false
+  xy: 166, 70
+  size: 38, 47
+  orig: 300, 300
+  offset: 148, 137
+  index: -1
+biaoqing/03_shangxin1
+  rotate: false
+  xy: 388, 395
+  size: 83, 54
+  orig: 300, 300
+  offset: 109, 148
+  index: -1
+biaoqing/03_shangxin2
+  rotate: false
+  xy: 273, 442
+  size: 106, 68
+  orig: 300, 300
+  offset: 97, 110
+  index: -1
+biaoqing/04_guaiqiao1
+  rotate: true
+  xy: 473, 350
+  size: 99, 37
+  orig: 300, 300
+  offset: 99, 154
+  index: -1
+biaoqing/04_guaiqiao2
+  rotate: false
+  xy: 174, 333
+  size: 94, 29
+  orig: 300, 300
+  offset: 99, 114
+  index: -1
+biaoqing/05_jingxia1
+  rotate: true
+  xy: 106, 98
+  size: 95, 48
+  orig: 300, 300
+  offset: 104, 153
+  index: -1
+biaoqing/05_jingxia2
+  rotate: false
+  xy: 206, 68
+  size: 36, 49
+  orig: 300, 300
+  offset: 138, 107
+  index: -1
+biaoqing/06_shengqi1
+  rotate: false
+  xy: 2, 94
+  size: 102, 99
+  orig: 300, 300
+  offset: 101, 104
+  index: -1
+biaoqing/06_shengqi2
+  rotate: true
+  xy: 166, 37
+  size: 31, 34
+  orig: 300, 300
+  offset: 82, 190
+  index: -1
+biaoqing/07_jinglingqiu
+  rotate: false
+  xy: 156, 119
+  size: 69, 68
+  orig: 300, 300
+  offset: 117, 134
+  index: -1
+biaoqing/08_gongji1
+  rotate: true
+  xy: 166, 189
+  size: 65, 71
+  orig: 300, 300
+  offset: 126, 129
+  index: -1
+biaoqing/08_gongji2
+  rotate: false
+  xy: 166, 256
+  size: 73, 75
+  orig: 300, 300
+  offset: 110, 130
+  index: -1
+biaoqing/09_duihua
+  rotate: false
+  xy: 349, 345
+  size: 18, 17
+  orig: 300, 300
+  offset: 111, 148
+  index: -1
+biaoqing/10_gantan
+  rotate: true
+  xy: 270, 336
+  size: 26, 77
+  orig: 300, 300
+  offset: 141, 127
+  index: -1
+biaoqing/11_zhiliao
+  rotate: false
+  xy: 241, 263
+  size: 68, 68
+  orig: 300, 300
+  offset: 115, 134
+  index: -1
+biaoqing/12_kulou
+  rotate: false
+  xy: 2, 19
+  size: 77, 73
+  orig: 77, 73
+  offset: 0, 0
+  index: -1
+biaoqing/13_emo1
+  rotate: true
+  xy: 81, 27
+  size: 65, 34
+  orig: 67, 36
+  offset: 1, 1
+  index: -1
+biaoqing/13_emo2
+  rotate: false
+  xy: 381, 451
+  size: 113, 59
+  orig: 115, 61
+  offset: 1, 1
+  index: -1
+biaoqing/13_emo3
+  rotate: false
+  xy: 2, 349
+  size: 170, 161
+  orig: 172, 163
+  offset: 1, 1
+  index: -1
+biaoqing/13_emo4
+  rotate: true
+  xy: 273, 394
+  size: 46, 113
+  orig: 48, 115
+  offset: 1, 1
+  index: -1
+biaoqing/14_fadai1
+  rotate: false
+  xy: 273, 364
+  size: 101, 28
+  orig: 103, 30
+  offset: 1, 1
+  index: -1
+biaoqing/14_fadai2
+  rotate: true
+  xy: 156, 98
+  size: 19, 8
+  orig: 21, 10
+  offset: 1, 1
+  index: -1
+biaoqing/caiji
+  rotate: false
+  xy: 174, 364
+  size: 97, 146
+  orig: 300, 300
+  offset: 101, 77
+  index: -1
+biaoqing/qipao1
+  rotate: false
+  xy: 2, 195
+  size: 162, 152
+  orig: 300, 300
+  offset: 70, 77
+  index: -1

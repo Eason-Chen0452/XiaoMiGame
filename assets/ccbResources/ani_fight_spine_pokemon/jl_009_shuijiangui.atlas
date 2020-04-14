@@ -1,0 +1,237 @@
+
+jl_009_shuijiangui.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 467, 305
+  size: 199, 205
+  orig: 199, 205
+  offset: 0, 0
+  index: -1
+ALL1
+  rotate: false
+  xy: 260, 299
+  size: 205, 211
+  orig: 205, 211
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: false
+  xy: 245, 2
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 834, 111
+  size: 74, 71
+  orig: 74, 71
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 869, 361
+  size: 140, 149
+  orig: 140, 149
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 403, 2
+  size: 53, 26
+  orig: 53, 26
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: true
+  xy: 260, 280
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: true
+  xy: 986, 300
+  size: 59, 34
+  orig: 59, 34
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: true
+  xy: 935, 184
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: true
+  xy: 403, 30
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+Foot_R_run
+  rotate: false
+  xy: 910, 119
+  size: 72, 63
+  orig: 72, 63
+  offset: 0, 0
+  index: -1
+Gun_L
+  rotate: false
+  xy: 467, 40
+  size: 61, 51
+  orig: 61, 51
+  offset: 0, 0
+  index: -1
+Gun_R
+  rotate: true
+  xy: 43, 11
+  size: 41, 86
+  orig: 41, 86
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 853, 184
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 2, 2
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: true
+  xy: 307, 2
+  size: 56, 51
+  orig: 56, 51
+  offset: 0, 0
+  index: -1
+Leg_R_run
+  rotate: true
+  xy: 360, 15
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 131, 18
+  size: 64, 34
+  orig: 65, 34
+  offset: 0, 0
+  index: -1
+Oral
+  rotate: false
+  xy: 834, 77
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+Shell
+  rotate: false
+  xy: 600, 211
+  size: 134, 92
+  orig: 134, 92
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 530, 52
+  size: 58, 39
+  orig: 58, 39
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 717, 196
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 717, 196
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 717, 196
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_005_lv2_shuijiangui-0005_shouji2_3
+  rotate: false
+  xy: 2, 54
+  size: 241, 224
+  orig: 241, 224
+  offset: 0, 0
+  index: -1
+jl_005_lv2_shuijiangui-0006_siwang_10
+  rotate: true
+  xy: 245, 60
+  size: 218, 156
+  orig: 218, 156
+  offset: 0, 0
+  index: -1
+jl_005_lv2_shuijiangui-0008_shouji1_3
+  rotate: false
+  xy: 403, 93
+  size: 195, 204
+  orig: 195, 204
+  offset: 0, 0
+  index: -1
+jl_005_lv2_shuijiangui-0014_leiji_3
+  rotate: false
+  xy: 2, 280
+  size: 256, 230
+  orig: 256, 230
+  offset: 0, 0
+  index: -1
+jl_005_lv2_shuijiangui-0014_leiji_4
+  rotate: false
+  xy: 668, 305
+  size: 199, 205
+  orig: 267, 231
+  offset: 54, 2
+  index: -1
+zhuandong/zhuandong1
+  rotate: false
+  xy: 600, 102
+  size: 115, 107
+  orig: 171, 198
+  offset: 30, 16
+  index: -1
+zhuandong/zhuandong2
+  rotate: false
+  xy: 736, 196
+  size: 115, 107
+  orig: 171, 198
+  offset: 30, 16
+  index: -1
+zhuandong/zhuandong3
+  rotate: false
+  xy: 717, 87
+  size: 115, 107
+  orig: 171, 198
+  offset: 30, 16
+  index: -1
+zhuandong/zhuandong4
+  rotate: false
+  xy: 869, 252
+  size: 115, 107
+  orig: 171, 198
+  offset: 30, 16
+  index: -1

@@ -1,0 +1,181 @@
+
+jl_045_bawanghua.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 578, 337
+  size: 186, 170
+  orig: 186, 171
+  offset: 0, 0
+  index: -1
+ALL1
+  rotate: false
+  xy: 384, 331
+  size: 192, 176
+  orig: 192, 176
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 2
+  size: 108, 114
+  orig: 110, 116
+  offset: 1, 1
+  index: -1
+Bud
+  rotate: false
+  xy: 192, 278
+  size: 62, 48
+  orig: 62, 49
+  offset: 0, 1
+  index: -1
+Eye
+  rotate: true
+  xy: 188, 182
+  size: 35, 12
+  orig: 35, 12
+  offset: 0, 0
+  index: -1
+Eye-C
+  rotate: false
+  xy: 112, 8
+  size: 37, 14
+  orig: 45, 28
+  offset: 5, 5
+  index: -1
+Eye2
+  rotate: false
+  xy: 226, 261
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 296, 291
+  size: 41, 35
+  orig: 42, 35
+  offset: 1, 0
+  index: -1
+Foot_L_p
+  rotate: true
+  xy: 339, 295
+  size: 31, 36
+  orig: 41, 36
+  offset: 9, 0
+  index: -1
+Foot_R
+  rotate: false
+  xy: 256, 286
+  size: 38, 40
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 188, 219
+  size: 34, 25
+  orig: 35, 26
+  offset: 1, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 188, 246
+  size: 36, 30
+  orig: 38, 31
+  offset: 1, 1
+  index: -1
+Petal_01
+  rotate: true
+  xy: 112, 24
+  size: 92, 62
+  orig: 93, 62
+  offset: 0, 0
+  index: -1
+Petal_02
+  rotate: true
+  xy: 938, 417
+  size: 90, 71
+  orig: 90, 72
+  offset: 0, 1
+  index: -1
+Petal_03
+  rotate: false
+  xy: 766, 297
+  size: 90, 58
+  orig: 90, 59
+  offset: 0, 0
+  index: -1
+Petal_04
+  rotate: false
+  xy: 937, 300
+  size: 75, 53
+  orig: 75, 53
+  offset: 0, 0
+  index: -1
+Petal_05
+  rotate: false
+  xy: 938, 355
+  size: 74, 60
+  orig: 74, 60
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 151, 9
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 151, 9
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 151, 9
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_016_lv2_bawanghua-0004_shouji1_3
+  rotate: false
+  xy: 192, 328
+  size: 190, 179
+  orig: 190, 179
+  offset: 0, 0
+  index: -1
+jl_016_lv2_bawanghua-0005_shouji2_3
+  rotate: true
+  xy: 2, 118
+  size: 190, 184
+  orig: 190, 184
+  offset: 0, 0
+  index: -1
+jl_016_lv2_bawanghua-0006_siwang_10
+  rotate: false
+  xy: 766, 357
+  size: 170, 150
+  orig: 170, 150
+  offset: 0, 0
+  index: -1
+jl_016_lv2_bawanghua-0014_leiji_3
+  rotate: false
+  xy: 2, 310
+  size: 188, 197
+  orig: 188, 197
+  offset: 0, 0
+  index: -1
+leiji
+  rotate: false
+  xy: 858, 301
+  size: 77, 54
+  orig: 248, 240
+  offset: 95, 100
+  index: -1

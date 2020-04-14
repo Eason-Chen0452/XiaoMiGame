@@ -1,0 +1,83 @@
+
+jl_100_pilidianqiu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blur_Show
+  rotate: false
+  xy: 2, 73
+  size: 185, 181
+  orig: 186, 181
+  offset: 1, 0
+  index: -1
+Eye1_L
+  rotate: false
+  xy: 2, 2
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+Eye1_R
+  rotate: false
+  xy: 350, 212
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 81, 60
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: false
+  xy: 399, 243
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: false
+  xy: 350, 197
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+Gu
+  rotate: false
+  xy: 2, 30
+  size: 77, 41
+  orig: 77, 41
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 189, 100
+  size: 159, 154
+  orig: 159, 154
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 189, 85
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 189, 85
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 189, 85
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1

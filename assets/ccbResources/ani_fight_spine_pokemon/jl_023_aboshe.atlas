@@ -1,0 +1,139 @@
+
+jl_023_aboshe.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blur_Die
+  rotate: true
+  xy: 2, 47
+  size: 308, 134
+  orig: 313, 158
+  offset: 1, 9
+  index: -1
+Blur_Hit
+  rotate: false
+  xy: 304, 345
+  size: 206, 165
+  orig: 210, 172
+  offset: 2, 4
+  index: -1
+Blur_Hit2
+  rotate: false
+  xy: 138, 204
+  size: 145, 151
+  orig: 150, 158
+  offset: 2, 5
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 285, 163
+  size: 193, 180
+  orig: 202, 191
+  offset: 5, 7
+  index: -1
+Blur_Skill
+  rotate: false
+  xy: 2, 357
+  size: 300, 153
+  orig: 303, 158
+  offset: 1, 2
+  index: -1
+Blur_Skill2
+  rotate: false
+  xy: 394, 70
+  size: 94, 91
+  orig: 97, 95
+  offset: 1, 1
+  index: -1
+Body
+  rotate: true
+  xy: 252, 92
+  size: 69, 140
+  orig: 69, 140
+  offset: 0, 0
+  index: -1
+Body2
+  rotate: false
+  xy: 253, 24
+  size: 91, 66
+  orig: 91, 66
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 55, 24
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+Eye1
+  rotate: false
+  xy: 252, 179
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: true
+  xy: 55, 2
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+Gu
+  rotate: false
+  xy: 138, 88
+  size: 112, 114
+  orig: 116, 118
+  offset: 2, 2
+  index: -1
+Head
+  rotate: true
+  xy: 346, 18
+  size: 72, 44
+  orig: 72, 45
+  offset: 0, 1
+  index: -1
+Mouth
+  rotate: false
+  xy: 2, 2
+  size: 51, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 138, 29
+  size: 57, 113
+  orig: 57, 113
+  offset: 0, 0
+  index: -1
+Tail2
+  rotate: false
+  xy: 480, 291
+  size: 24, 52
+  orig: 24, 52
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 480, 276
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 480, 276
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 480, 276
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1

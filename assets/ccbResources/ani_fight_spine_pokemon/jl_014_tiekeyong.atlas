@@ -1,0 +1,146 @@
+
+jl_014_tiekeyong.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blur_Die
+  rotate: true
+  xy: 719, 147
+  size: 107, 186
+  orig: 107, 187
+  offset: 0, 1
+  index: -1
+Blur_Hit
+  rotate: true
+  xy: 525, 143
+  size: 111, 192
+  orig: 111, 192
+  offset: 0, 0
+  index: -1
+Blur_Hit2
+  rotate: true
+  xy: 329, 142
+  size: 112, 194
+  orig: 112, 195
+  offset: 0, 1
+  index: -1
+Blur_Hit3
+  rotate: false
+  xy: 2, 58
+  size: 123, 196
+  orig: 124, 197
+  offset: 1, 0
+  index: -1
+Blur_Show
+  rotate: true
+  xy: 127, 136
+  size: 118, 200
+  orig: 118, 200
+  offset: 0, 0
+  index: -1
+Blur_Skill
+  rotate: true
+  xy: 127, 8
+  size: 126, 167
+  orig: 126, 170
+  offset: 0, 1
+  index: -1
+Eye1_L
+  rotate: true
+  xy: 71, 5
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+Eye1_R
+  rotate: true
+  xy: 1000, 225
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 430, 110
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: true
+  xy: 466, 124
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: false
+  xy: 71, 18
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+Gu
+  rotate: false
+  xy: 371, 78
+  size: 57, 62
+  orig: 57, 62
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 296, 39
+  size: 95, 73
+  orig: 96, 74
+  offset: 0, 0
+  index: -1
+Jia
+  rotate: true
+  xy: 296, 2
+  size: 35, 74
+  orig: 39, 83
+  offset: 0, 0
+  index: -1
+Spine
+  rotate: true
+  xy: 2, 4
+  size: 52, 67
+  orig: 53, 68
+  offset: 1, 0
+  index: -1
+Zui
+  rotate: false
+  xy: 371, 51
+  size: 28, 25
+  orig: 30, 27
+  offset: 1, 2
+  index: -1
+body
+  rotate: false
+  xy: 907, 130
+  size: 91, 124
+  orig: 91, 125
+  offset: 0, 1
+  index: -1
+buff_flo
+  rotate: false
+  xy: 430, 95
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 430, 95
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 430, 95
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1

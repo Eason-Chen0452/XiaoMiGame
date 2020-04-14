@@ -1,0 +1,13 @@
+
+0012_npc_lh_like.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0012_npc_lh_like
+  rotate: false
+  xy: 2, 23
+  size: 337, 316
+  orig: 400, 400
+  offset: 30, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+CJ_TianQi.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud
+  rotate: false
+  xy: 504, 110
+  size: 150, 92
+  orig: 150, 92
+  offset: 0, 0
+  index: -1
+cloudshadow
+  rotate: false
+  xy: 504, 31
+  size: 150, 77
+  orig: 150, 92
+  offset: 0, 7
+  index: -1
+sunshine
+  rotate: true
+  xy: 2, 2
+  size: 200, 500
+  orig: 201, 500
+  offset: 1, 0
+  index: -1

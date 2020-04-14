@@ -1,0 +1,125 @@
+
+jl_089_chouchouni.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 758, 326
+  size: 229, 173
+  orig: 229, 173
+  offset: 0, 0
+  index: -1
+ALL1
+  rotate: false
+  xy: 273, 314
+  size: 241, 185
+  orig: 241, 185
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 279, 123
+  size: 73, 105
+  orig: 74, 106
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 159, 102
+  size: 181, 118
+  orig: 181, 119
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 516, 316
+  size: 41, 14
+  orig: 43, 17
+  offset: 1, 1
+  index: -1
+Eye1
+  rotate: true
+  xy: 253, 59
+  size: 41, 14
+  orig: 43, 17
+  offset: 1, 1
+  index: -1
+Eye2
+  rotate: false
+  xy: 409, 231
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 159, 8
+  size: 92, 92
+  orig: 92, 93
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 409, 257
+  size: 93, 55
+  orig: 94, 55
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 279, 198
+  size: 128, 114
+  orig: 128, 115
+  offset: 0, 1
+  index: -1
+buff_flo
+  rotate: false
+  xy: 279, 108
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 279, 108
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 279, 108
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_030_lv1_chouchouniba-0004_shouji1_3
+  rotate: true
+  xy: 2, 2
+  size: 281, 155
+  orig: 281, 155
+  offset: 0, 0
+  index: -1
+jl_030_lv1_chouchouniba-0005_shouji2_3
+  rotate: false
+  xy: 516, 332
+  size: 240, 167
+  orig: 240, 167
+  offset: 0, 0
+  index: -1
+jl_030_lv1_chouchouniba-0014_leiji_3
+  rotate: false
+  xy: 2, 285
+  size: 269, 214
+  orig: 269, 214
+  offset: 0, 0
+  index: -1
+jl_030_lv1_chouchouniba-0014_leiji_4
+  rotate: false
+  xy: 989, 453
+  size: 27, 46
+  orig: 320, 213
+  offset: 110, 109
+  index: -1

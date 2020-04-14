@@ -1,0 +1,181 @@
+
+jl_022_dazuique.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blur_Die
+  rotate: true
+  xy: 826, 306
+  size: 202, 194
+  orig: 205, 194
+  offset: 0, 0
+  index: -1
+Blur_Hit
+  rotate: false
+  xy: 2, 110
+  size: 295, 199
+  orig: 296, 199
+  offset: 1, 0
+  index: -1
+Blur_Hit2
+  rotate: false
+  xy: 2, 311
+  size: 302, 197
+  orig: 302, 198
+  offset: 0, 0
+  index: -1
+Blur_Hit3
+  rotate: false
+  xy: 568, 283
+  size: 256, 225
+  orig: 256, 225
+  offset: 0, 0
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 306, 276
+  size: 260, 232
+  orig: 261, 233
+  offset: 0, 1
+  index: -1
+Body
+  rotate: false
+  xy: 452, 56
+  size: 75, 73
+  orig: 75, 73
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 301, 12
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+Eye1
+  rotate: false
+  xy: 664, 186
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 699, 222
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 664, 202
+  size: 33, 33
+  orig: 35, 35
+  offset: 2, 0
+  index: -1
+Foot_R
+  rotate: true
+  xy: 610, 148
+  size: 30, 40
+  orig: 36, 43
+  offset: 6, 0
+  index: -1
+Gu
+  rotate: false
+  xy: 299, 131
+  size: 232, 143
+  orig: 251, 227
+  offset: 12, 36
+  index: -1
+Guan
+  rotate: false
+  xy: 610, 180
+  size: 52, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 610, 237
+  size: 118, 44
+  orig: 118, 44
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 793, 247
+  size: 34, 32
+  orig: 37, 35
+  offset: 0, 3
+  index: -1
+Leg_R
+  rotate: false
+  xy: 452, 27
+  size: 23, 27
+  orig: 26, 29
+  offset: 0, 2
+  index: -1
+Mouth
+  rotate: false
+  xy: 2, 2
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 730, 243
+  size: 61, 38
+  orig: 61, 38
+  offset: 0, 0
+  index: -1
+Wing_L
+  rotate: false
+  xy: 533, 139
+  size: 75, 135
+  orig: 75, 135
+  offset: 0, 0
+  index: -1
+Wing_LD
+  rotate: true
+  xy: 177, 3
+  size: 105, 122
+  orig: 105, 122
+  offset: 0, 0
+  index: -1
+Wing_R
+  rotate: true
+  xy: 301, 26
+  size: 103, 149
+  orig: 103, 149
+  offset: 0, 0
+  index: -1
+Wing_RD
+  rotate: true
+  xy: 2, 20
+  size: 88, 173
+  orig: 88, 173
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 826, 291
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 826, 291
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 826, 291
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1

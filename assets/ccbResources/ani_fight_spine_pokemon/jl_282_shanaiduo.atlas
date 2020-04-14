@@ -1,0 +1,104 @@
+
+jl_282_shanaiduo.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: false
+  xy: 464, 124
+  size: 87, 51
+  orig: 87, 51
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 556, 194
+  size: 93, 55
+  orig: 93, 55
+  offset: 0, 0
+  index: -1
+Blur_Show
+  rotate: true
+  xy: 2, 2
+  size: 247, 271
+  orig: 247, 271
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 709, 209
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 430, 55
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+Fu_L
+  rotate: true
+  xy: 275, 26
+  size: 67, 153
+  orig: 67, 153
+  offset: 0, 0
+  index: -1
+Fu_R
+  rotate: false
+  xy: 275, 95
+  size: 187, 154
+  orig: 187, 154
+  offset: 0, 0
+  index: -1
+Hair_L
+  rotate: false
+  xy: 651, 200
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: -1
+Hair_R
+  rotate: false
+  xy: 464, 96
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+Hair_r2
+  rotate: true
+  xy: 766, 214
+  size: 35, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 464, 177
+  size: 90, 72
+  orig: 90, 72
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 821, 203
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+buff_mid
+  rotate: false
+  xy: 821, 203
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+buff_up
+  rotate: false
+  xy: 821, 203
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1

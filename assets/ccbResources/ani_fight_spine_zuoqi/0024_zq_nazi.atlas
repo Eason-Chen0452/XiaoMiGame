@@ -1,0 +1,153 @@
+
+0024_zq_nazi.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0024_npc_nazi-0003_siwang_0
+  rotate: false
+  xy: 2, 162
+  size: 99, 143
+  orig: 99, 143
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: true
+  xy: 268, 326
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 214, 321
+  size: 52, 22
+  orig: 52, 22
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 79
+  size: 51, 81
+  orig: 51, 81
+  offset: 0, 0
+  index: -1
+Eyes
+  rotate: false
+  xy: 293, 476
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 298, 400
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+Hair_B
+  rotate: false
+  xy: 2, 307
+  size: 107, 201
+  orig: 107, 201
+  offset: 0, 0
+  index: -1
+Hair_H
+  rotate: false
+  xy: 111, 321
+  size: 101, 52
+  orig: 101, 52
+  offset: 0, 0
+  index: -1
+Hair_L
+  rotate: true
+  xy: 427, 481
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: -1
+Hair_R
+  rotate: true
+  xy: 293, 428
+  size: 46, 63
+  orig: 46, 63
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 478, 481
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 111, 375
+  size: 129, 133
+  orig: 129, 133
+  offset: 0, 0
+  index: -1
+Kua
+  rotate: false
+  xy: 242, 374
+  size: 54, 45
+  orig: 54, 45
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 2, 14
+  size: 47, 63
+  orig: 47, 63
+  offset: 0, 0
+  index: -1
+Thigh_R
+  rotate: false
+  xy: 242, 421
+  size: 49, 87
+  orig: 49, 87
+  offset: 0, 0
+  index: -1
+UpArm_L
+  rotate: false
+  xy: 238, 324
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+UpArm_R
+  rotate: true
+  xy: 375, 481
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 298, 382
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 298, 382
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 298, 382
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+eye
+  rotate: true
+  xy: 55, 80
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1

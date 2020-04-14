@@ -1,0 +1,216 @@
+
+jl_153_yueguiye.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: false
+  xy: 756, 92
+  size: 31, 59
+  orig: 31, 59
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 789, 116
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Blur_Die
+  rotate: false
+  xy: 603, 78
+  size: 151, 176
+  orig: 151, 176
+  offset: 0, 0
+  index: -1
+Blur_Hit
+  rotate: false
+  xy: 302, 63
+  size: 148, 191
+  orig: 148, 191
+  offset: 0, 0
+  index: -1
+Blur_Hit2
+  rotate: false
+  xy: 452, 70
+  size: 149, 184
+  orig: 149, 184
+  offset: 0, 0
+  index: -1
+Blur_Hit3
+  rotate: false
+  xy: 2, 57
+  size: 150, 197
+  orig: 150, 197
+  offset: 0, 0
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 154, 60
+  size: 146, 194
+  orig: 146, 194
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 756, 153
+  size: 83, 101
+  orig: 83, 101
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 997, 196
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+Eye1
+  rotate: false
+  xy: 756, 79
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 878, 161
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+Gu
+  rotate: false
+  xy: 180, 26
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 2, 2
+  size: 117, 53
+  orig: 117, 53
+  offset: 0, 0
+  index: -1
+Hair_B
+  rotate: false
+  xy: 841, 210
+  size: 100, 44
+  orig: 117, 53
+  offset: 0, 9
+  index: -1
+Head
+  rotate: false
+  xy: 121, 2
+  size: 57, 53
+  orig: 57, 53
+  offset: 0, 0
+  index: -1
+Leaf_L1
+  rotate: false
+  xy: 943, 189
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+Leaf_L2
+  rotate: false
+  xy: 841, 155
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+Leaf_L3
+  rotate: true
+  xy: 971, 190
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+Leaf_L4
+  rotate: false
+  xy: 180, 2
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+Leaf_R1
+  rotate: true
+  xy: 789, 95
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1
+Leaf_R2
+  rotate: false
+  xy: 241, 35
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+Leaf_R3
+  rotate: false
+  xy: 203, 41
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+Leaf_R4
+  rotate: false
+  xy: 272, 34
+  size: 24, 24
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 902, 178
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: true
+  xy: 841, 177
+  size: 31, 59
+  orig: 31, 59
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: true
+  xy: 1000, 216
+  size: 38, 22
+  orig: 38, 24
+  offset: 0, 2
+  index: -1
+Tail
+  rotate: false
+  xy: 943, 221
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 826, 138
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 826, 138
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 826, 138
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1

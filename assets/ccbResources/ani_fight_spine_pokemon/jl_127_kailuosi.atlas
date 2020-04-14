@@ -1,0 +1,188 @@
+
+jl_127_kailuosi.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eye2
+  rotate: true
+  xy: 1007, 438
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 110, 16
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 110, 16
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 110, 16
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+dabi_l
+  rotate: false
+  xy: 849, 137
+  size: 68, 41
+  orig: 68, 41
+  offset: 0, 0
+  index: -1
+dabi_r
+  rotate: false
+  xy: 919, 137
+  size: 67, 41
+  orig: 67, 41
+  offset: 0, 0
+  index: -1
+datui_l
+  rotate: true
+  xy: 985, 457
+  size: 53, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+datui_r
+  rotate: true
+  xy: 258, 92
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: false
+  xy: 849, 180
+  size: 68, 107
+  orig: 68, 107
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 919, 180
+  size: 65, 107
+  orig: 65, 107
+  offset: 0, 0
+  index: -1
+jl_068_kailuosi
+  rotate: true
+  xy: 742, 289
+  size: 221, 241
+  orig: 221, 241
+  offset: 0, 0
+  index: -1
+jl_kailuosi-0004_shouji1_3
+  rotate: false
+  xy: 270, 272
+  size: 226, 238
+  orig: 226, 238
+  offset: 0, 0
+  index: -1
+jl_kailuosi-0005_shouji2_3
+  rotate: true
+  xy: 498, 289
+  size: 221, 242
+  orig: 221, 242
+  offset: 0, 0
+  index: -1
+jl_kailuosi-0006_siwang_15
+  rotate: false
+  xy: 498, 147
+  size: 241, 140
+  orig: 241, 140
+  offset: 0, 0
+  index: -1
+jl_kailuosi-0014_leiji_3
+  rotate: false
+  xy: 2, 264
+  size: 266, 246
+  orig: 266, 246
+  offset: 0, 0
+  index: -1
+jl_kailuosi-0014_leiji_5
+  rotate: false
+  xy: 2, 31
+  size: 254, 231
+  orig: 254, 231
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 741, 153
+  size: 106, 134
+  orig: 106, 134
+  offset: 0, 0
+  index: -1
+xiaobi_l
+  rotate: true
+  xy: 51, 9
+  size: 20, 57
+  orig: 20, 57
+  offset: 0, 0
+  index: -1
+xiaobi_r
+  rotate: false
+  xy: 985, 388
+  size: 20, 67
+  orig: 20, 67
+  offset: 0, 0
+  index: -1
+xiaotui_l
+  rotate: true
+  xy: 258, 200
+  size: 62, 45
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+xiaotui_r
+  rotate: true
+  xy: 258, 144
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 2, 2
+  size: 47, 27
+  orig: 47, 27
+  offset: 0, 0
+  index: -1
+yanjing-c
+  rotate: true
+  xy: 985, 327
+  size: 59, 14
+  orig: 59, 20
+  offset: 0, 0
+  index: -1
+zhuazi_l
+  rotate: false
+  xy: 305, 235
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+zuazi_r
+  rotate: false
+  xy: 305, 200
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 258, 47
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1

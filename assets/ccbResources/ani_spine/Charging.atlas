@@ -1,0 +1,97 @@
+
+Charging.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_R
+  rotate: false
+  xy: 107, 360
+  size: 92, 33
+  orig: 92, 33
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 2, 215
+  size: 137, 83
+  orig: 137, 83
+  offset: 0, 0
+  index: -1
+Bubble
+  rotate: true
+  xy: 2, 110
+  size: 103, 71
+  orig: 103, 71
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 354
+  size: 103, 131
+  orig: 103, 131
+  offset: 0, 0
+  index: -1
+Heart
+  rotate: false
+  xy: 302, 432
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 2, 45
+  size: 63, 63
+  orig: 65, 65
+  offset: 1, 1
+  index: -1
+Leg_R
+  rotate: false
+  xy: 218, 413
+  size: 82, 72
+  orig: 82, 72
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 2, 2
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+Light2
+  rotate: false
+  xy: 302, 445
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+Light3
+  rotate: false
+  xy: 87, 312
+  size: 13, 40
+  orig: 13, 40
+  offset: 0, 0
+  index: -1
+One
+  rotate: true
+  xy: 218, 398
+  size: 13, 27
+  orig: 13, 27
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 107, 395
+  size: 109, 90
+  orig: 110, 90
+  offset: 1, 0
+  index: -1
+Two
+  rotate: false
+  xy: 201, 366
+  size: 13, 27
+  orig: 13, 27
+  offset: 0, 0
+  index: -1

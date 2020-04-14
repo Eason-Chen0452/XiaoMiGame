@@ -1,0 +1,146 @@
+
+zq_130_baolilong.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 2, 15
+  size: 279, 248
+  orig: 281, 250
+  offset: 1, 1
+  index: -1
+ALL1
+  rotate: false
+  xy: 2, 265
+  size: 297, 245
+  orig: 297, 245
+  offset: 0, 0
+  index: -1
+Beard_L
+  rotate: false
+  xy: 325, 55
+  size: 42, 56
+  orig: 44, 58
+  offset: 1, 1
+  index: -1
+Beard_R
+  rotate: false
+  xy: 327, 113
+  size: 32, 68
+  orig: 34, 70
+  offset: 1, 1
+  index: -1
+Body_01
+  rotate: true
+  xy: 410, 396
+  size: 114, 96
+  orig: 115, 98
+  offset: 1, 1
+  index: -1
+Body_02
+  rotate: false
+  xy: 301, 270
+  size: 73, 105
+  orig: 75, 107
+  offset: 1, 1
+  index: -1
+Body_03
+  rotate: true
+  xy: 376, 266
+  size: 109, 63
+  orig: 111, 65
+  offset: 1, 1
+  index: -1
+Ear_L
+  rotate: false
+  xy: 283, 118
+  size: 42, 63
+  orig: 44, 65
+  offset: 1, 1
+  index: -1
+Ear_R
+  rotate: true
+  xy: 283, 183
+  size: 80, 73
+  orig: 82, 75
+  offset: 1, 1
+  index: -1
+Eye1_R
+  rotate: true
+  xy: 488, 233
+  size: 32, 21
+  orig: 35, 23
+  offset: 1, 1
+  index: -1
+Eye_C
+  rotate: true
+  xy: 283, 2
+  size: 50, 21
+  orig: 52, 23
+  offset: 1, 1
+  index: -1
+Eye_L
+  rotate: true
+  xy: 488, 219
+  size: 12, 22
+  orig: 12, 22
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: false
+  xy: 446, 225
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 301, 377
+  size: 107, 133
+  orig: 107, 133
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: true
+  xy: 441, 267
+  size: 46, 68
+  orig: 46, 68
+  offset: 0, 0
+  index: -1
+Qi
+  rotate: false
+  xy: 283, 54
+  size: 40, 62
+  orig: 42, 64
+  offset: 1, 1
+  index: -1
+Qi2
+  rotate: false
+  xy: 358, 211
+  size: 40, 53
+  orig: 42, 55
+  offset: 1, 1
+  index: -1
+Qi3
+  rotate: true
+  xy: 400, 217
+  size: 47, 44
+  orig: 49, 46
+  offset: 1, 1
+  index: -1
+Qi4
+  rotate: true
+  xy: 358, 183
+  size: 26, 36
+  orig: 28, 38
+  offset: 1, 1
+  index: -1
+Tail
+  rotate: false
+  xy: 441, 315
+  size: 54, 79
+  orig: 56, 81
+  offset: 1, 1
+  index: -1

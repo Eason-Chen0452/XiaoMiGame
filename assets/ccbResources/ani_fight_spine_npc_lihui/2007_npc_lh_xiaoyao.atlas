@@ -1,0 +1,13 @@
+
+2007_npc_lh_xiaoyao.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0017_npc_lh_junsha
+  rotate: false
+  xy: 2, 2
+  size: 254, 463
+  orig: 254, 463
+  offset: 0, 0
+  index: -1

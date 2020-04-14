@@ -1,0 +1,55 @@
+
+CJ_ZaWu_KanBan.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AD
+  rotate: false
+  xy: 2, 52
+  size: 149, 150
+  orig: 151, 152
+  offset: 1, 1
+  index: -1
+ADb
+  rotate: false
+  xy: 183, 178
+  size: 24, 24
+  orig: 26, 26
+  offset: 1, 1
+  index: -1
+ADl
+  rotate: false
+  xy: 2, 20
+  size: 104, 30
+  orig: 106, 32
+  offset: 1, 1
+  index: -1
+ADs
+  rotate: true
+  xy: 153, 35
+  size: 167, 28
+  orig: 169, 30
+  offset: 1, 1
+  index: -1
+buff_flo
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1

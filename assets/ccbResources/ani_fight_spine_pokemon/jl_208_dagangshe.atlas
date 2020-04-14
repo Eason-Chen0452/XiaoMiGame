@@ -1,0 +1,167 @@
+
+jl_208_dagangshe.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 478, 108
+  size: 218, 197
+  orig: 218, 197
+  offset: 0, 0
+  index: -1
+ALL1
+  rotate: false
+  xy: 478, 307
+  size: 224, 203
+  orig: 224, 203
+  offset: 0, 0
+  index: -1
+Body_01
+  rotate: false
+  xy: 405, 433
+  size: 63, 77
+  orig: 63, 77
+  offset: 0, 0
+  index: -1
+Body_02
+  rotate: true
+  xy: 704, 218
+  size: 117, 118
+  orig: 117, 118
+  offset: 0, 0
+  index: -1
+Body_03
+  rotate: false
+  xy: 923, 367
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+Body_04
+  rotate: false
+  xy: 923, 453
+  size: 79, 57
+  orig: 79, 57
+  offset: 0, 0
+  index: -1
+Body_05
+  rotate: false
+  xy: 698, 135
+  size: 47, 38
+  orig: 47, 38
+  offset: 0, 0
+  index: -1
+Body_06
+  rotate: false
+  xy: 698, 175
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+Body_07
+  rotate: false
+  xy: 923, 414
+  size: 65, 37
+  orig: 65, 37
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 990, 418
+  size: 32, 33
+  orig: 33, 35
+  offset: 0, 2
+  index: -1
+Eye2
+  rotate: true
+  xy: 452, 404
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: false
+  xy: 478, 85
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 824, 220
+  size: 115, 101
+  orig: 115, 101
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 231, 2
+  size: 104, 80
+  orig: 104, 80
+  offset: 0, 0
+  index: -1
+Mouth_02
+  rotate: false
+  xy: 337, 6
+  size: 109, 76
+  orig: 109, 76
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 2, 7
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 2, 7
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 2, 7
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_033_lv1_dagangshe-0004_shouji1_3
+  rotate: false
+  xy: 704, 337
+  size: 217, 173
+  orig: 217, 173
+  offset: 0, 0
+  index: -1
+jl_033_lv1_dagangshe-0005_shouji2_3
+  rotate: false
+  xy: 231, 84
+  size: 245, 260
+  orig: 245, 260
+  offset: 0, 0
+  index: -1
+jl_033_lv1_dagangshe-0006_siwang_10
+  rotate: false
+  xy: 2, 346
+  size: 401, 164
+  orig: 401, 164
+  offset: 0, 0
+  index: -1
+jl_033_lv1_dagangshe-0014_leiji_3
+  rotate: false
+  xy: 2, 22
+  size: 227, 322
+  orig: 227, 322
+  offset: 0, 0
+  index: -1
+jl_033_lv1_dagangshe-0014_leiji_4
+  rotate: false
+  xy: 405, 366
+  size: 45, 65
+  orig: 290, 346
+  offset: 72, 234
+  index: -1

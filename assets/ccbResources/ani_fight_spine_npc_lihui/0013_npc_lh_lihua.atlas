@@ -1,0 +1,139 @@
+
+0013_npc_lh_lihua.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ball
+  rotate: false
+  xy: 170, 440
+  size: 53, 53
+  orig: 55, 55
+  offset: 1, 1
+  index: -1
+Bip001 Eye-c
+  rotate: false
+  xy: 438, 759
+  size: 70, 58
+  orig: 72, 60
+  offset: 1, 1
+  index: -1
+Bip001 Hair01
+  rotate: false
+  xy: 2, 213
+  size: 121, 235
+  orig: 123, 237
+  offset: 1, 1
+  index: -1
+Bip001 Hair02
+  rotate: false
+  xy: 293, 723
+  size: 81, 299
+  orig: 83, 301
+  offset: 1, 1
+  index: -1
+Bip001 Hair03
+  rotate: true
+  xy: 293, 666
+  size: 55, 61
+  orig: 57, 63
+  offset: 1, 1
+  index: -1
+Bip001 Hair04
+  rotate: false
+  xy: 2, 673
+  size: 289, 349
+  orig: 291, 351
+  offset: 1, 1
+  index: -1
+Bip001 Hair05
+  rotate: true
+  xy: 692, 967
+  size: 55, 137
+  orig: 57, 139
+  offset: 1, 1
+  index: -1
+Bip001 Head
+  rotate: false
+  xy: 2, 71
+  size: 107, 140
+  orig: 109, 142
+  offset: 1, 1
+  index: -1
+Bip001 L Clavicle
+  rotate: false
+  xy: 376, 727
+  size: 37, 31
+  orig: 39, 33
+  offset: 1, 1
+  index: -1
+Bip001 L Forearm
+  rotate: false
+  xy: 443, 819
+  size: 98, 90
+  orig: 100, 92
+  offset: 1, 1
+  index: -1
+Bip001 L Thigh
+  rotate: true
+  xy: 918, 954
+  size: 68, 80
+  orig: 70, 82
+  offset: 1, 1
+  index: -1
+Bip001 L UpperArm
+  rotate: true
+  xy: 2, 2
+  size: 67, 162
+  orig: 69, 164
+  offset: 1, 1
+  index: -1
+Bip001 Pelvis
+  rotate: false
+  xy: 443, 911
+  size: 124, 111
+  orig: 126, 113
+  offset: 1, 1
+  index: -1
+Bip001 Pelvis1
+  rotate: true
+  xy: 170, 495
+  size: 176, 108
+  orig: 178, 110
+  offset: 1, 1
+  index: -1
+Bip001 R Clavicle
+  rotate: false
+  xy: 376, 760
+  size: 60, 73
+  orig: 62, 75
+  offset: 1, 1
+  index: -1
+Bip001 R Forearm
+  rotate: false
+  xy: 831, 948
+  size: 85, 74
+  orig: 87, 76
+  offset: 1, 1
+  index: -1
+Bip001 R Thigh
+  rotate: false
+  xy: 569, 943
+  size: 121, 79
+  orig: 123, 81
+  offset: 1, 1
+  index: -1
+Bip001 R UpperArm
+  rotate: false
+  xy: 376, 835
+  size: 65, 187
+  orig: 67, 189
+  offset: 1, 1
+  index: -1
+Bip001 Spine
+  rotate: false
+  xy: 2, 450
+  size: 166, 221
+  orig: 168, 223
+  offset: 1, 1
+  index: -1

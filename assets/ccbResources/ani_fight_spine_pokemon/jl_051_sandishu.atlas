@@ -1,0 +1,279 @@
+
+jl_051_sandishu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+All
+  rotate: false
+  xy: 660, 330
+  size: 217, 178
+  orig: 217, 178
+  offset: 0, 0
+  index: -1
+All1
+  rotate: false
+  xy: 210, 324
+  size: 223, 184
+  orig: 223, 184
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 881, 270
+  size: 69, 91
+  orig: 69, 91
+  offset: 0, 0
+  index: -1
+Body2
+  rotate: false
+  xy: 804, 232
+  size: 75, 96
+  orig: 75, 96
+  offset: 0, 0
+  index: -1
+Body3
+  rotate: false
+  xy: 600, 108
+  size: 71, 150
+  orig: 71, 150
+  offset: 0, 0
+  index: -1
+Eye1_L
+  rotate: false
+  xy: 452, 243
+  size: 8, 6
+  orig: 10, 9
+  offset: 1, 1
+  index: -1
+Eye1_L2
+  rotate: false
+  xy: 452, 236
+  size: 8, 5
+  orig: 9, 8
+  offset: 1, 1
+  index: -1
+Eye1_L3
+  rotate: false
+  xy: 881, 261
+  size: 9, 7
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+Eye1_R
+  rotate: false
+  xy: 709, 126
+  size: 8, 6
+  orig: 14, 9
+  offset: 3, 0
+  index: -1
+Eye1_R3
+  rotate: false
+  xy: 452, 251
+  size: 8, 7
+  orig: 10, 10
+  offset: 1, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 654, 290
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Eye2_R2
+  rotate: false
+  xy: 952, 355
+  size: 9, 6
+  orig: 14, 9
+  offset: 2, 0
+  index: -1
+Eye_L
+  rotate: true
+  xy: 804, 218
+  size: 12, 22
+  orig: 12, 22
+  offset: 0, 0
+  index: -1
+Eye_L2
+  rotate: false
+  xy: 660, 306
+  size: 11, 22
+  orig: 11, 22
+  offset: 0, 0
+  index: -1
+Eye_L3
+  rotate: true
+  xy: 165, 48
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: false
+  xy: 189, 259
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+Eye_R2
+  rotate: false
+  xy: 435, 236
+  size: 15, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+Eye_R3
+  rotate: true
+  xy: 654, 278
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+G
+  rotate: false
+  xy: 435, 260
+  size: 217, 64
+  orig: 217, 64
+  offset: 0, 0
+  index: -1
+G_B
+  rotate: false
+  xy: 2, 2
+  size: 161, 55
+  orig: 161, 55
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: true
+  xy: 317, 17
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+Nose2
+  rotate: true
+  xy: 781, 180
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+Nose3
+  rotate: false
+  xy: 673, 109
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 462, 114
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 462, 114
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 462, 114
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_019_lv1_sandishu-0003_chongci_3
+  rotate: true
+  xy: 2, 59
+  size: 223, 185
+  orig: 223, 185
+  offset: 0, 0
+  index: -1
+jl_019_lv1_sandishu-0005_shouji2_3
+  rotate: false
+  xy: 435, 326
+  size: 223, 182
+  orig: 223, 182
+  offset: 0, 0
+  index: -1
+jl_019_lv1_sandishu-0006_siwang_10
+  rotate: false
+  xy: 210, 236
+  size: 223, 86
+  orig: 223, 86
+  offset: 0, 0
+  index: -1
+jl_019_lv1_sandishu-0014_leiji_3
+  rotate: false
+  xy: 2, 284
+  size: 206, 224
+  orig: 206, 224
+  offset: 0, 0
+  index: -1
+jl_019_lv1_sandishu-0014_leiji_4
+  rotate: true
+  xy: 353, 87
+  size: 147, 107
+  orig: 217, 218
+  offset: 38, 85
+  index: -1
+yanwu_eff/bai_yanwu_05_eff_01
+  rotate: false
+  xy: 673, 134
+  size: 106, 80
+  orig: 225, 225
+  offset: 57, 39
+  index: -1
+yanwu_eff/bai_yanwu_05_eff_02
+  rotate: false
+  xy: 673, 216
+  size: 129, 112
+  orig: 225, 225
+  offset: 46, 39
+  index: -1
+yanwu_eff/bai_yanwu_05_eff_03
+  rotate: false
+  xy: 462, 129
+  size: 136, 129
+  orig: 225, 225
+  offset: 45, 38
+  index: -1
+yanwu_eff/bai_yanwu_05_eff_04
+  rotate: false
+  xy: 879, 363
+  size: 143, 145
+  orig: 225, 225
+  offset: 42, 37
+  index: -1
+yanwu_eff/bai_yanwu_05_eff_05
+  rotate: false
+  xy: 189, 95
+  size: 162, 139
+  orig: 225, 225
+  offset: 30, 36
+  index: -1
+yanwu_eff/bai_yanwu_05_eff_07
+  rotate: false
+  xy: 189, 48
+  size: 156, 45
+  orig: 225, 225
+  offset: 36, 36
+  index: -1
+yanwu_eff/bai_yanwu_05_eff_11
+  rotate: false
+  xy: 165, 7
+  size: 150, 39
+  orig: 225, 225
+  offset: 39, 39
+  index: -1
+yanwu_eff/bai_yanwu_05_eff_13
+  rotate: false
+  xy: 347, 50
+  size: 146, 35
+  orig: 225, 225
+  offset: 41, 39
+  index: -1

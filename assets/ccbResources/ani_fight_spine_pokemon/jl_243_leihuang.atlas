@@ -1,0 +1,307 @@
+
+jl_243_leihuang.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 976, 268
+  size: 46, 58
+  orig: 46, 58
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 594, 32
+  size: 45, 56
+  orig: 45, 56
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 652, 18
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 467, 2
+  size: 39, 58
+  orig: 39, 58
+  offset: 0, 0
+  index: -1
+ALL
+  rotate: false
+  xy: 251, 297
+  size: 241, 213
+  orig: 242, 232
+  offset: 0, 1
+  index: -1
+Arm_L
+  rotate: true
+  xy: 93, 3
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 965, 188
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 2, 293
+  size: 247, 217
+  orig: 247, 217
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 206, 8
+  size: 151, 74
+  orig: 151, 75
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 174, 6
+  size: 26, 23
+  orig: 26, 24
+  offset: 0, 1
+  index: -1
+Eye2
+  rotate: true
+  xy: 359, 68
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: false
+  xy: 633, 2
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 676, 185
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: true
+  xy: 953, 145
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 2, 2
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 527, 2
+  size: 46, 39
+  orig: 46, 40
+  offset: 0, 1
+  index: -1
+Head
+  rotate: false
+  xy: 792, 235
+  size: 88, 91
+  orig: 88, 91
+  offset: 0, 0
+  index: -1
+Head1
+  rotate: false
+  xy: 884, 187
+  size: 79, 53
+  orig: 81, 53
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 136, 6
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: true
+  xy: 39, 4
+  size: 25, 52
+  orig: 25, 53
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 976, 225
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 882, 242
+  size: 84, 92
+  orig: 84, 92
+  offset: 0, 0
+  index: -1
+Thigh_L
+  rotate: true
+  xy: 616, 178
+  size: 38, 58
+  orig: 38, 61
+  offset: 0, 3
+  index: -1
+Thigh_R
+  rotate: false
+  xy: 594, 79
+  size: 47, 67
+  orig: 47, 68
+  offset: 0, 0
+  index: -1
+Tooth
+  rotate: true
+  xy: 575, 2
+  size: 28, 56
+  orig: 28, 57
+  offset: 0, 1
+  index: -1
+UpArm_L
+  rotate: false
+  xy: 643, 79
+  size: 38, 66
+  orig: 49, 94
+  offset: 4, 6
+  index: -1
+UpArm_R
+  rotate: true
+  xy: 884, 147
+  size: 38, 67
+  orig: 38, 67
+  offset: 0, 0
+  index: -1
+Wing_R
+  rotate: false
+  xy: 494, 210
+  size: 120, 114
+  orig: 120, 114
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 1001, 497
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 1001, 497
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 1001, 497
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_060_lv0_leihuang_leiji
+  rotate: false
+  xy: 494, 326
+  size: 263, 184
+  orig: 263, 184
+  offset: 0, 0
+  index: -1
+jl_060_lv0_leihuang_shouji1
+  rotate: true
+  xy: 2, 31
+  size: 260, 202
+  orig: 260, 202
+  offset: 0, 0
+  index: -1
+jl_060_lv0_leihuang_shouji2
+  rotate: false
+  xy: 759, 328
+  size: 240, 182
+  orig: 240, 182
+  offset: 0, 0
+  index: -1
+leiji
+  rotate: true
+  xy: 206, 84
+  size: 207, 165
+  orig: 273, 211
+  offset: 51, 12
+  index: -1
+spark01a
+  rotate: false
+  xy: 737, 212
+  size: 53, 112
+  orig: 53, 112
+  offset: 0, 0
+  index: -1
+spark01b
+  rotate: true
+  xy: 359, 10
+  size: 41, 106
+  orig: 41, 106
+  offset: 0, 0
+  index: -1
+spark02a
+  rotate: true
+  xy: 373, 163
+  size: 132, 119
+  orig: 132, 119
+  offset: 0, 0
+  index: -1
+spark02b
+  rotate: false
+  xy: 373, 53
+  size: 113, 108
+  orig: 113, 108
+  offset: 0, 0
+  index: -1
+spark03a
+  rotate: true
+  xy: 616, 218
+  size: 106, 119
+  orig: 106, 119
+  offset: 0, 0
+  index: -1
+spark03b
+  rotate: true
+  xy: 488, 43
+  size: 103, 104
+  orig: 104, 116
+  offset: 1, 0
+  index: -1
+spark04a
+  rotate: true
+  xy: 494, 148
+  size: 60, 114
+  orig: 60, 114
+  offset: 0, 0
+  index: -1
+spark04b
+  rotate: true
+  xy: 792, 177
+  size: 56, 90
+  orig: 56, 107
+  offset: 0, 17
+  index: -1

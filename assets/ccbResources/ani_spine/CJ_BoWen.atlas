@@ -1,0 +1,69 @@
+
+CJ_BoWen.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a01
+  rotate: false
+  xy: 2, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+a02
+  rotate: false
+  xy: 458, 6
+  size: 51, 51
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+a03
+  rotate: false
+  xy: 59, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+a04
+  rotate: false
+  xy: 116, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+a05
+  rotate: false
+  xy: 173, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+a06
+  rotate: false
+  xy: 230, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+a07
+  rotate: false
+  xy: 287, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+a08
+  rotate: false
+  xy: 344, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+a09
+  rotate: false
+  xy: 401, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,209 @@
+
+jl_012_badahu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: true
+  xy: 186, 157
+  size: 178, 164
+  orig: 178, 164
+  offset: 0, 0
+  index: -1
+ALL1
+  rotate: false
+  xy: 209, 340
+  size: 184, 170
+  orig: 184, 170
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 186, 2
+  size: 43, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 231, 8
+  size: 56, 32
+  orig: 56, 32
+  offset: 0, 0
+  index: -1
+Eye-C
+  rotate: false
+  xy: 289, 8
+  size: 56, 32
+  orig: 56, 32
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 493, 180
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 475, 334
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: false
+  xy: 470, 177
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: true
+  xy: 2, 2
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 493, 197
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 408, 160
+  size: 60, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+Tentacle_L
+  rotate: false
+  xy: 475, 441
+  size: 26, 69
+  orig: 26, 69
+  offset: 0, 0
+  index: -1
+Tentacle_R
+  rotate: false
+  xy: 475, 368
+  size: 20, 71
+  orig: 20, 71
+  offset: 0, 0
+  index: -1
+Wing_LG_01
+  rotate: false
+  xy: 352, 215
+  size: 75, 110
+  orig: 75, 110
+  offset: 0, 0
+  index: -1
+Wing_LG_02
+  rotate: false
+  xy: 372, 41
+  size: 50, 52
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+Wing_L_01
+  rotate: false
+  xy: 429, 215
+  size: 75, 110
+  orig: 75, 110
+  offset: 0, 0
+  index: -1
+Wing_L_02
+  rotate: false
+  xy: 424, 48
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+Wing_RG_01
+  rotate: false
+  xy: 186, 42
+  size: 91, 113
+  orig: 91, 113
+  offset: 0, 0
+  index: -1
+Wing_RG_02
+  rotate: false
+  xy: 424, 103
+  size: 54, 55
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+Wing_R_01
+  rotate: false
+  xy: 279, 42
+  size: 91, 113
+  orig: 91, 113
+  offset: 0, 0
+  index: -1
+Wing_R_02
+  rotate: false
+  xy: 352, 157
+  size: 54, 56
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 497, 426
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 497, 426
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 497, 426
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_004_lv2_badahu-0004_shouji1_3
+  rotate: false
+  xy: 2, 337
+  size: 205, 173
+  orig: 205, 173
+  offset: 0, 0
+  index: -1
+jl_004_lv2_badahu-0005_shouji2_3
+  rotate: true
+  xy: 2, 18
+  size: 130, 182
+  orig: 130, 182
+  offset: 0, 0
+  index: -1
+jl_004_lv2_badahu-0006_siwang_10
+  rotate: true
+  xy: 395, 327
+  size: 183, 78
+  orig: 183, 78
+  offset: 0, 0
+  index: -1
+jl_004_lv2_badahu-0014_leiji_3
+  rotate: false
+  xy: 2, 150
+  size: 182, 185
+  orig: 182, 185
+  offset: 0, 0
+  index: -1
+jl_004_lv2_badahu-0014_leiji_4
+  rotate: false
+  xy: 372, 95
+  size: 50, 60
+  orig: 221, 199
+  offset: 89, 67
+  index: -1

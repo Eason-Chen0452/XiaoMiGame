@@ -1,0 +1,146 @@
+
+SX_xingzuo.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fangsheguang02
+  rotate: false
+  xy: 918, 447
+  size: 63, 63
+  orig: 64, 64
+  offset: 1, 0
+  index: -1
+gezi
+  rotate: false
+  xy: 2, 2
+  size: 47, 10
+  orig: 47, 10
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 2, 14
+  size: 65, 30
+  orig: 65, 30
+  offset: 0, 0
+  index: -1
+light01
+  rotate: false
+  xy: 826, 238
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+lizi03
+  rotate: false
+  xy: 2, 46
+  size: 200, 206
+  orig: 256, 256
+  offset: 38, 31
+  index: -1
+star02
+  rotate: false
+  xy: 336, 67
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+starcore
+  rotate: false
+  xy: 466, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+suipian/sp_002
+  rotate: false
+  xy: 204, 73
+  size: 130, 137
+  orig: 200, 200
+  offset: 39, 34
+  index: -1
+suipian/sp_003
+  rotate: false
+  xy: 424, 197
+  size: 150, 150
+  orig: 200, 200
+  offset: 30, 18
+  index: -1
+suipian/sp_004
+  rotate: false
+  xy: 413, 349
+  size: 159, 161
+  orig: 200, 200
+  offset: 23, 14
+  index: -1
+suipian/sp_005
+  rotate: false
+  xy: 260, 339
+  size: 151, 171
+  orig: 200, 200
+  offset: 29, 8
+  index: -1
+suipian/sp_006
+  rotate: true
+  xy: 746, 368
+  size: 142, 170
+  orig: 200, 200
+  offset: 27, 7
+  index: -1
+suipian/sp_007
+  rotate: true
+  xy: 574, 366
+  size: 144, 170
+  orig: 200, 200
+  offset: 23, 9
+  index: -1
+suipian/sp_008
+  rotate: true
+  xy: 260, 212
+  size: 125, 162
+  orig: 200, 200
+  offset: 35, 15
+  index: -1
+suipian/sp_009
+  rotate: false
+  xy: 576, 207
+  size: 126, 157
+  orig: 200, 200
+  offset: 23, 15
+  index: -1
+suipian/sp_010
+  rotate: false
+  xy: 704, 233
+  size: 120, 131
+  orig: 200, 200
+  offset: 21, 21
+  index: -1
+suipian/sp_011
+  rotate: true
+  xy: 704, 126
+  size: 105, 121
+  orig: 200, 200
+  offset: 25, 28
+  index: -1
+suipian/sp_012
+  rotate: false
+  xy: 466, 74
+  size: 107, 121
+  orig: 200, 200
+  offset: 23, 28
+  index: -1
+suipian/sp_013
+  rotate: false
+  xy: 204, 220
+  size: 32, 32
+  orig: 200, 200
+  offset: 33, 111
+  index: -1
+xx01
+  rotate: false
+  xy: 2, 254
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

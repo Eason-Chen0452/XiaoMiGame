@@ -1,0 +1,286 @@
+
+jl_245_shuijun.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00001
+  rotate: true
+  xy: 512, 694
+  size: 138, 144
+  orig: 188, 188
+  offset: 26, 22
+  index: -1
+00001 (2)
+  rotate: false
+  xy: 746, 687
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+00002
+  rotate: false
+  xy: 332, 23
+  size: 181, 181
+  orig: 188, 188
+  offset: 3, 3
+  index: -1
+00003
+  rotate: false
+  xy: 289, 206
+  size: 184, 184
+  orig: 188, 188
+  offset: 1, 1
+  index: -1
+00004
+  rotate: true
+  xy: 754, 833
+  size: 185, 186
+  orig: 188, 188
+  offset: 1, 0
+  index: -1
+00005
+  rotate: false
+  xy: 289, 392
+  size: 185, 186
+  orig: 188, 188
+  offset: 1, 0
+  index: -1
+00006
+  rotate: true
+  xy: 146, 21
+  size: 183, 184
+  orig: 188, 188
+  offset: 2, 2
+  index: -1
+ALL
+  rotate: false
+  xy: 2, 545
+  size: 246, 229
+  orig: 246, 230
+  offset: 0, 1
+  index: -1
+Arm_L
+  rotate: false
+  xy: 464, 695
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 941, 777
+  size: 31, 56
+  orig: 31, 56
+  offset: 0, 0
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 2, 776
+  size: 257, 242
+  orig: 257, 242
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 942, 867
+  size: 151, 73
+  orig: 154, 75
+  offset: 3, 1
+  index: -1
+Eye
+  rotate: true
+  xy: 945, 727
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 269, 309
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 2, 2
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: true
+  xy: 971, 753
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: true
+  xy: 2, 21
+  size: 246, 142
+  orig: 246, 142
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 945, 699
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 146, 206
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 658, 684
+  size: 65, 43
+  orig: 65, 45
+  offset: 0, 2
+  index: -1
+Jiao
+  rotate: true
+  xy: 173, 247
+  size: 75, 94
+  orig: 75, 94
+  offset: 0, 0
+  index: -1
+Jiao2
+  rotate: false
+  xy: 658, 729
+  size: 86, 103
+  orig: 86, 103
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 444, 587
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 444, 631
+  size: 28, 59
+  orig: 28, 59
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 250, 549
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+Tail_L
+  rotate: false
+  xy: 250, 580
+  size: 192, 110
+  orig: 192, 110
+  offset: 0, 0
+  index: -1
+Tail_R
+  rotate: true
+  xy: 146, 240
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+Tail_R2
+  rotate: false
+  xy: 261, 692
+  size: 201, 112
+  orig: 201, 112
+  offset: 0, 0
+  index: -1
+Thigh_L
+  rotate: false
+  xy: 892, 758
+  size: 47, 73
+  orig: 48, 74
+  offset: 0, 1
+  index: -1
+Thigh_R
+  rotate: true
+  xy: 942, 810
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1
+UpArm_L
+  rotate: false
+  xy: 464, 737
+  size: 44, 67
+  orig: 45, 67
+  offset: 0, 0
+  index: -1
+UpArm_R
+  rotate: false
+  xy: 892, 689
+  size: 51, 67
+  orig: 51, 70
+  offset: 0, 3
+  index: -1
+biyan
+  rotate: false
+  xy: 941, 758
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 725, 714
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 725, 714
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 725, 714
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_058_lv0_shuijun_leiji
+  rotate: false
+  xy: 512, 834
+  size: 240, 184
+  orig: 240, 184
+  offset: 0, 0
+  index: -1
+jl_058_lv0_shuijun_shouji1
+  rotate: false
+  xy: 261, 806
+  size: 249, 212
+  orig: 249, 212
+  offset: 0, 0
+  index: -1
+jl_058_lv0_shuijun_shouji2
+  rotate: true
+  xy: 2, 269
+  size: 274, 169
+  orig: 274, 169
+  offset: 0, 0
+  index: -1
+leiji
+  rotate: true
+  xy: 173, 324
+  size: 219, 114
+  orig: 272, 236
+  offset: 25, 10
+  index: -1

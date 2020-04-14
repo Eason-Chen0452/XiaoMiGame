@@ -1,0 +1,146 @@
+
+jl_164_maotouyeying.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eye2
+  rotate: false
+  xy: 152, 14
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+all
+  rotate: true
+  xy: 585, 117
+  size: 137, 207
+  orig: 137, 207
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 239, 8
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 239, 8
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 239, 8
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+chibang_l
+  rotate: false
+  xy: 956, 95
+  size: 42, 75
+  orig: 42, 75
+  offset: 0, 0
+  index: -1
+chibang_r
+  rotate: true
+  xy: 68, 2
+  size: 38, 82
+  orig: 38, 82
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 239, 23
+  size: 62, 26
+  orig: 62, 27
+  offset: 0, 0
+  index: -1
+eye-c
+  rotate: false
+  xy: 303, 23
+  size: 62, 26
+  orig: 62, 27
+  offset: 0, 0
+  index: -1
+ji_079_yemaotouying-0004_shouji1_3
+  rotate: true
+  xy: 368, 118
+  size: 136, 215
+  orig: 136, 215
+  offset: 0, 0
+  index: -1
+ji_079_yemaotouying-0005_shouji2_3
+  rotate: false
+  xy: 189, 51
+  size: 177, 203
+  orig: 177, 203
+  offset: 0, 0
+  index: -1
+ji_079_yemaotouying-0014_leiji_3
+  rotate: false
+  xy: 2, 44
+  size: 185, 210
+  orig: 185, 210
+  offset: 0, 0
+  index: -1
+ji_079_yemaotouying-0014_leiji_4
+  rotate: false
+  xy: 794, 95
+  size: 160, 159
+  orig: 160, 159
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: true
+  xy: 956, 172
+  size: 82, 63
+  orig: 82, 63
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 368, 42
+  size: 74, 86
+  orig: 74, 86
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 456, 49
+  size: 81, 67
+  orig: 82, 68
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 2, 2
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+zhuazi_l
+  rotate: true
+  xy: 539, 63
+  size: 53, 37
+  orig: 53, 38
+  offset: 0, 1
+  index: -1
+zhuazi_r
+  rotate: false
+  xy: 189, 2
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 1000, 149
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,167 @@
+
+jl_176_pokejigu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bip001 Eye
+  rotate: false
+  xy: 45, 36
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+Bip001 Eye1
+  rotate: false
+  xy: 337, 248
+  size: 43, 11
+  orig: 43, 11
+  offset: 0, 0
+  index: -1
+Bip001 Head
+  rotate: true
+  xy: 231, 240
+  size: 101, 104
+  orig: 101, 104
+  offset: 0, 0
+  index: -1
+Bip001 L Calf
+  rotate: true
+  xy: 194, 240
+  size: 16, 18
+  orig: 16, 19
+  offset: 0, 1
+  index: -1
+Bip001 L Foot
+  rotate: false
+  xy: 431, 310
+  size: 44, 31
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+Bip001 L Hand
+  rotate: false
+  xy: 276, 204
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+Bip001 L Wind
+  rotate: false
+  xy: 962, 439
+  size: 26, 68
+  orig: 26, 68
+  offset: 0, 0
+  index: -1
+Bip001 Mouth
+  rotate: true
+  xy: 962, 404
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+Bip001 Neck
+  rotate: false
+  xy: 2, 2
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+Bip001 R Calf
+  rotate: false
+  xy: 990, 484
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+Bip001 R Foot
+  rotate: false
+  xy: 194, 129
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+Bip001 R Hand
+  rotate: true
+  xy: 194, 258
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+Bip001 R Wind
+  rotate: false
+  xy: 194, 174
+  size: 80, 64
+  orig: 80, 64
+  offset: 0, 0
+  index: -1
+Bip001 Spine
+  rotate: false
+  xy: 337, 261
+  size: 92, 80
+  orig: 92, 80
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 431, 293
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+all
+  rotate: true
+  xy: 231, 343
+  size: 164, 256
+  orig: 164, 256
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 1009, 494
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 1009, 494
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 1009, 494
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_070_pokejigu-0004_shouji1_3
+  rotate: false
+  xy: 2, 296
+  size: 227, 211
+  orig: 227, 211
+  offset: 0, 0
+  index: -1
+jl_070_pokejigu-0005_shouji2_3
+  rotate: true
+  xy: 489, 340
+  size: 167, 247
+  orig: 167, 247
+  offset: 0, 0
+  index: -1
+jl_070_pokejigu-0014_leiji_3
+  rotate: false
+  xy: 2, 61
+  size: 190, 233
+  orig: 190, 233
+  offset: 0, 0
+  index: -1
+jl_070_pokejigu-0014_leiji_4
+  rotate: true
+  xy: 738, 331
+  size: 176, 222
+  orig: 176, 222
+  offset: 0, 0
+  index: -1

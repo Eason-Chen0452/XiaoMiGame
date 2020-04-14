@@ -1,0 +1,104 @@
+
+jl_121_baoshihaixing.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 732, 84
+  size: 162, 170
+  orig: 162, 170
+  offset: 0, 0
+  index: -1
+Body1
+  rotate: false
+  xy: 560, 78
+  size: 170, 176
+  orig: 170, 176
+  offset: 0, 0
+  index: -1
+Horn_01
+  rotate: true
+  xy: 62, 7
+  size: 51, 59
+  orig: 51, 59
+  offset: 0, 0
+  index: -1
+Horn_02
+  rotate: true
+  xy: 2, 2
+  size: 56, 58
+  orig: 56, 58
+  offset: 0, 0
+  index: -1
+Horn_03
+  rotate: false
+  xy: 896, 192
+  size: 67, 62
+  orig: 67, 62
+  offset: 0, 0
+  index: -1
+Horn_04
+  rotate: false
+  xy: 965, 201
+  size: 57, 53
+  orig: 57, 53
+  offset: 0, 0
+  index: -1
+Horn_05
+  rotate: false
+  xy: 123, 17
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 123, 2
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 123, 2
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 123, 2
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+eye
+  rotate: false
+  xy: 896, 144
+  size: 45, 46
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+jl_044_lv1_baoshihaixing-0004_shouji1_3
+  rotate: false
+  xy: 2, 60
+  size: 191, 194
+  orig: 191, 194
+  offset: 0, 0
+  index: -1
+jl_044_lv1_baoshihaixing-0005_shouji2_3
+  rotate: false
+  xy: 385, 68
+  size: 173, 186
+  orig: 173, 186
+  offset: 0, 0
+  index: -1
+jl_044_lv1_baoshihaixing-0014_leiji_3
+  rotate: false
+  xy: 195, 63
+  size: 188, 191
+  orig: 188, 191
+  offset: 0, 0
+  index: -1

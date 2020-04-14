@@ -1,0 +1,97 @@
+
+zq_131_lapulasi.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 84
+  size: 170, 145
+  orig: 172, 147
+  offset: 1, 1
+  index: -1
+Ear_L
+  rotate: false
+  xy: 174, 121
+  size: 36, 36
+  orig: 38, 38
+  offset: 1, 1
+  index: -1
+Ear_R
+  rotate: false
+  xy: 116, 44
+  size: 42, 38
+  orig: 44, 40
+  offset: 1, 1
+  index: -1
+Eye
+  rotate: false
+  xy: 380, 438
+  size: 24, 23
+  orig: 26, 25
+  offset: 1, 1
+  index: -1
+Eye2
+  rotate: true
+  xy: 256, 203
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: false
+  xy: 282, 231
+  size: 22, 21
+  orig: 24, 23
+  offset: 1, 1
+  index: -1
+Foot_R
+  rotate: false
+  xy: 282, 254
+  size: 74, 35
+  orig: 76, 37
+  offset: 1, 1
+  index: -1
+Hand_L
+  rotate: false
+  xy: 380, 463
+  size: 70, 38
+  orig: 72, 40
+  offset: 1, 1
+  index: -1
+Hand_R
+  rotate: false
+  xy: 2, 35
+  size: 112, 47
+  orig: 114, 49
+  offset: 1, 1
+  index: -1
+Head
+  rotate: false
+  xy: 174, 159
+  size: 80, 70
+  orig: 82, 72
+  offset: 1, 1
+  index: -1
+Mouth
+  rotate: false
+  xy: 2, 2
+  size: 50, 31
+  orig: 52, 33
+  offset: 1, 1
+  index: -1
+Neck
+  rotate: false
+  xy: 282, 291
+  size: 96, 210
+  orig: 98, 212
+  offset: 1, 1
+  index: -1
+jl_131_lapulasi-0003_siwang_0
+  rotate: false
+  xy: 2, 231
+  size: 278, 270
+  orig: 278, 270
+  offset: 0, 0
+  index: -1

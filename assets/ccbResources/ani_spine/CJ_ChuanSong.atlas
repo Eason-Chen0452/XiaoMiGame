@@ -1,0 +1,55 @@
+
+CJ_ChuanSong.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02-chuxiantexiao-01
+  rotate: false
+  xy: 2, 226
+  size: 292, 284
+  orig: 292, 284
+  offset: 0, 0
+  index: -1
+02-fazhen-02
+  rotate: true
+  xy: 772, 193
+  size: 317, 49
+  orig: 317, 49
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 2, 2
+  size: 310, 222
+  orig: 366, 272
+  offset: 25, 6
+  index: -1
+bg
+  rotate: false
+  xy: 823, 404
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+c3
+  rotate: false
+  xy: 296, 260
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+c4l
+  rotate: false
+  xy: 548, 279
+  size: 222, 231
+  orig: 227, 231
+  offset: 1, 0
+  index: -1
+jiantou
+  rotate: false
+  xy: 823, 348
+  size: 88, 54
+  orig: 88, 54
+  offset: 0, 0
+  index: -1

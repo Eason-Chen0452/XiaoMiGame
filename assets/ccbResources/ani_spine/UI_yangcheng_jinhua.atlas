@@ -1,0 +1,97 @@
+
+UI_yangcheng_jinhua.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuang_00
+  rotate: false
+  xy: 2, 186
+  size: 57, 57
+  orig: 150, 150
+  offset: 47, 46
+  index: -1
+sg/sg_00
+  rotate: true
+  xy: 84, 181
+  size: 16, 17
+  orig: 150, 150
+  offset: 53, 53
+  index: -1
+sg/sg_01
+  rotate: false
+  xy: 144, 200
+  size: 31, 43
+  orig: 150, 150
+  offset: 53, 53
+  index: -1
+sg/sg_02
+  rotate: false
+  xy: 105, 199
+  size: 37, 44
+  orig: 150, 150
+  offset: 53, 53
+  index: -1
+sg/sg_03
+  rotate: false
+  xy: 61, 199
+  size: 42, 44
+  orig: 150, 150
+  offset: 53, 53
+  index: -1
+sg/sg_04
+  rotate: false
+  xy: 2, 92
+  size: 38, 44
+  orig: 150, 150
+  offset: 59, 53
+  index: -1
+sg/sg_05
+  rotate: false
+  xy: 2, 46
+  size: 32, 44
+  orig: 150, 150
+  offset: 65, 53
+  index: -1
+sg/sg_06
+  rotate: false
+  xy: 2, 2
+  size: 27, 42
+  orig: 150, 150
+  offset: 70, 55
+  index: -1
+sg/sg_07
+  rotate: false
+  xy: 177, 206
+  size: 22, 37
+  orig: 150, 150
+  offset: 75, 60
+  index: -1
+sg/sg_08
+  rotate: false
+  xy: 201, 212
+  size: 20, 31
+  orig: 150, 150
+  offset: 78, 66
+  index: -1
+sg/sg_09
+  rotate: false
+  xy: 223, 217
+  size: 17, 26
+  orig: 150, 150
+  offset: 81, 71
+  index: -1
+sg/sg_10
+  rotate: true
+  xy: 61, 182
+  size: 15, 21
+  orig: 150, 150
+  offset: 83, 76
+  index: -1
+star02
+  rotate: false
+  xy: 2, 138
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1

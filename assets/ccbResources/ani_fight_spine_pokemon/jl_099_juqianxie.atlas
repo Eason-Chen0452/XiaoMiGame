@@ -1,0 +1,293 @@
+
+jl_099_juqianxie.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 503, 214
+  size: 209, 159
+  orig: 210, 163
+  offset: 1, 4
+  index: -1
+ALL1
+  rotate: false
+  xy: 288, 207
+  size: 213, 166
+  orig: 213, 166
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: false
+  xy: 72, 33
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 273, 102
+  size: 34, 35
+  orig: 34, 37
+  offset: 0, 2
+  index: -1
+Claw_LD
+  rotate: false
+  xy: 714, 231
+  size: 38, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+Claw_LM
+  rotate: false
+  xy: 1000, 468
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+Claw_LU
+  rotate: true
+  xy: 2, 7
+  size: 58, 68
+  orig: 58, 69
+  offset: 0, 1
+  index: -1
+Claw_RD
+  rotate: false
+  xy: 849, 377
+  size: 61, 40
+  orig: 62, 40
+  offset: 1, 0
+  index: -1
+Claw_RM
+  rotate: false
+  xy: 960, 451
+  size: 38, 59
+  orig: 38, 59
+  offset: 0, 0
+  index: -1
+Claw_RU
+  rotate: false
+  xy: 714, 269
+  size: 80, 104
+  orig: 80, 104
+  offset: 0, 0
+  index: -1
+Eye1_L
+  rotate: false
+  xy: 422, 182
+  size: 20, 23
+  orig: 27, 32
+  offset: 4, 4
+  index: -1
+Eye1_R
+  rotate: false
+  xy: 912, 394
+  size: 34, 23
+  orig: 42, 32
+  offset: 5, 3
+  index: -1
+Eye2
+  rotate: false
+  xy: 849, 350
+  size: 28, 25
+  orig: 42, 32
+  offset: 5, 3
+  index: -1
+EyeBall_L
+  rotate: true
+  xy: 72, 2
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+EyeBall_R
+  rotate: true
+  xy: 79, 2
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: false
+  xy: 72, 8
+  size: 20, 23
+  orig: 27, 32
+  offset: 4, 4
+  index: -1
+Eye_R
+  rotate: false
+  xy: 960, 426
+  size: 34, 23
+  orig: 42, 32
+  offset: 5, 3
+  index: -1
+Foot_L
+  rotate: false
+  xy: 912, 380
+  size: 23, 12
+  orig: 24, 13
+  offset: 1, 1
+  index: -1
+Foot_L2
+  rotate: false
+  xy: 714, 216
+  size: 23, 13
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: true
+  xy: 273, 207
+  size: 19, 13
+  orig: 23, 17
+  offset: 4, 4
+  index: -1
+Foot_R2
+  rotate: false
+  xy: 796, 276
+  size: 19, 14
+  orig: 23, 17
+  offset: 4, 3
+  index: -1
+Head
+  rotate: false
+  xy: 849, 419
+  size: 109, 91
+  orig: 109, 91
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 796, 292
+  size: 20, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+Leg_L2
+  rotate: false
+  xy: 827, 338
+  size: 20, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 796, 329
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+Leg_R2
+  rotate: false
+  xy: 391, 167
+  size: 29, 38
+  orig: 30, 38
+  offset: 1, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 273, 139
+  size: 116, 66
+  orig: 116, 66
+  offset: 0, 0
+  index: -1
+Thigh_L
+  rotate: false
+  xy: 309, 120
+  size: 30, 17
+  orig: 32, 17
+  offset: 1, 0
+  index: -1
+Thigh_L2
+  rotate: false
+  xy: 391, 141
+  size: 23, 24
+  orig: 26, 26
+  offset: 2, 0
+  index: -1
+Thigh_R
+  rotate: false
+  xy: 273, 80
+  size: 32, 20
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+Thigh_R2
+  rotate: false
+  xy: 754, 244
+  size: 33, 23
+  orig: 35, 24
+  offset: 1, 0
+  index: -1
+UpArm_L
+  rotate: false
+  xy: 100, 49
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+UpArm_R
+  rotate: false
+  xy: 1000, 452
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 879, 362
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 879, 362
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 879, 362
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_035_lv1_juqianxie-0004_shouji1_3
+  rotate: false
+  xy: 611, 375
+  size: 236, 135
+  orig: 236, 135
+  offset: 0, 0
+  index: -1
+jl_035_lv1_juqianxie-0005_shouji2_3
+  rotate: false
+  xy: 2, 67
+  size: 269, 159
+  orig: 269, 159
+  offset: 0, 0
+  index: -1
+jl_035_lv1_juqianxie-0006_siwang_10
+  rotate: false
+  xy: 2, 380
+  size: 336, 130
+  orig: 336, 130
+  offset: 0, 0
+  index: -1
+jl_035_lv1_juqianxie-0014_leiji_3
+  rotate: false
+  xy: 2, 228
+  size: 284, 150
+  orig: 284, 150
+  offset: 0, 0
+  index: -1
+jl_035_lv1_juqianxie-0014_leiji_4
+  rotate: false
+  xy: 340, 375
+  size: 269, 135
+  orig: 302, 195
+  offset: 14, 43
+  index: -1

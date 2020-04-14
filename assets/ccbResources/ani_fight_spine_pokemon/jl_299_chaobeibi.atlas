@@ -1,0 +1,97 @@
+
+jl_299_chaobeibi.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: true
+  xy: 904, 7
+  size: 130, 74
+  orig: 130, 74
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 770, 157
+  size: 136, 80
+  orig: 136, 80
+  offset: 0, 0
+  index: -1
+Arm_R2
+  rotate: true
+  xy: 770, 93
+  size: 62, 132
+  orig: 62, 132
+  offset: 0, 0
+  index: -1
+Blur_Show
+  rotate: true
+  xy: 2, 2
+  size: 235, 285
+  orig: 235, 285
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 289, 16
+  size: 221, 236
+  orig: 221, 236
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 980, 111
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 908, 139
+  size: 98, 109
+  orig: 98, 109
+  offset: 0, 0
+  index: -1
+Leg_L2
+  rotate: false
+  xy: 527, 18
+  size: 108, 102
+  orig: 108, 102
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: true
+  xy: 650, 126
+  size: 111, 118
+  orig: 111, 118
+  offset: 0, 0
+  index: -1
+Leg_R2
+  rotate: false
+  xy: 527, 122
+  size: 121, 115
+  orig: 121, 115
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: true
+  xy: 637, 73
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+buff_mid
+  rotate: true
+  xy: 637, 73
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+buff_up
+  rotate: true
+  xy: 637, 73
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1

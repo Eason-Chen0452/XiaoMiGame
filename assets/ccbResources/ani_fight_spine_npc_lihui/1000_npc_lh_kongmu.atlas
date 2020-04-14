@@ -1,0 +1,13 @@
+
+1000_npc_lh_kongmu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1000_npc_lh_kongmu
+  rotate: false
+  xy: 2, 2
+  size: 353, 411
+  orig: 432, 411
+  offset: 44, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+sg_099_liyuwang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: true
+  xy: 157, 7
+  size: 145, 194
+  orig: 145, 194
+  offset: 0, 0
+  index: -1
+Beard_L
+  rotate: false
+  xy: 157, 229
+  size: 33, 97
+  orig: 33, 97
+  offset: 0, 0
+  index: -1
+Beard_R
+  rotate: false
+  xy: 435, 180
+  size: 34, 97
+  orig: 35, 98
+  offset: 1, 1
+  index: -1
+Blur_Die
+  rotate: false
+  xy: 353, 15
+  size: 148, 159
+  orig: 148, 159
+  offset: 0, 0
+  index: -1
+Blur_Hit
+  rotate: true
+  xy: 192, 346
+  size: 164, 196
+  orig: 164, 196
+  offset: 0, 0
+  index: -1
+Blur_Hit2
+  rotate: true
+  xy: 192, 176
+  size: 168, 188
+  orig: 168, 188
+  offset: 0, 0
+  index: -1
+Blur_Hit3
+  rotate: false
+  xy: 2, 328
+  size: 188, 182
+  orig: 188, 182
+  offset: 0, 0
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 2, 123
+  size: 153, 203
+  orig: 155, 203
+  offset: 1, 0
+  index: -1
+Body
+  rotate: false
+  xy: 390, 279
+  size: 105, 98
+  orig: 106, 99
+  offset: 0, 1
+  index: -1
+Eye
+  rotate: true
+  xy: 157, 180
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 157, 154
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+EyeC
+  rotate: true
+  xy: 157, 204
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+Gu
+  rotate: true
+  xy: 390, 379
+  size: 131, 119
+  orig: 131, 119
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 2, 64
+  size: 57, 57
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 471, 230
+  size: 35, 47
+  orig: 36, 48
+  offset: 1, 0
+  index: -1
+Qi_D
+  rotate: true
+  xy: 55, 12
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1
+Qi_U
+  rotate: false
+  xy: 2, 7
+  size: 51, 55
+  orig: 51, 55
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 382, 182
+  size: 51, 95
+  orig: 51, 95
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 497, 364
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 497, 364
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 497, 364
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1

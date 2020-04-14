@@ -1,0 +1,202 @@
+
+jl_047_pailatesi.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: true
+  xy: 232, 166
+  size: 178, 188
+  orig: 178, 188
+  offset: 0, 0
+  index: -1
+ALL1
+  rotate: true
+  xy: 662, 326
+  size: 184, 194
+  orig: 184, 194
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: true
+  xy: 422, 214
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 1010, 477
+  size: 33, 12
+  orig: 33, 13
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 84
+  size: 109, 40
+  orig: 110, 40
+  offset: 1, 0
+  index: -1
+Eye1_L
+  rotate: true
+  xy: 447, 264
+  size: 19, 7
+  orig: 19, 19
+  offset: 0, 5
+  index: -1
+Eye1_R
+  rotate: false
+  xy: 858, 331
+  size: 19, 8
+  orig: 19, 19
+  offset: 0, 4
+  index: -1
+Eye2
+  rotate: true
+  xy: 213, 262
+  size: 19, 17
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: false
+  xy: 1003, 364
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: false
+  xy: 1003, 343
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: true
+  xy: 162, 108
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: true
+  xy: 113, 101
+  size: 23, 47
+  orig: 23, 47
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 422, 242
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 949, 358
+  size: 25, 52
+  orig: 25, 52
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 422, 285
+  size: 59, 32
+  orig: 59, 32
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 213, 283
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 113, 85
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+MoGu
+  rotate: false
+  xy: 858, 385
+  size: 150, 125
+  orig: 150, 125
+  offset: 0, 0
+  index: -1
+Weapon_L
+  rotate: false
+  xy: 66, 5
+  size: 47, 77
+  orig: 47, 77
+  offset: 0, 0
+  index: -1
+Weapon_R
+  rotate: true
+  xy: 858, 341
+  size: 42, 89
+  orig: 42, 89
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 213, 247
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 213, 247
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 213, 247
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_017_lv1_pailatesi-0004_shouji1_3
+  rotate: false
+  xy: 2, 126
+  size: 209, 182
+  orig: 209, 182
+  offset: 0, 0
+  index: -1
+jl_017_lv1_pailatesi-0005_shouji2_3
+  rotate: false
+  xy: 461, 334
+  size: 199, 176
+  orig: 199, 176
+  offset: 0, 0
+  index: -1
+jl_017_lv1_pailatesi-0006_siwang_10
+  rotate: false
+  xy: 232, 346
+  size: 227, 164
+  orig: 227, 164
+  offset: 0, 0
+  index: -1
+jl_017_lv1_pailatesi-0014_leiji_3
+  rotate: false
+  xy: 2, 310
+  size: 228, 200
+  orig: 228, 200
+  offset: 0, 0
+  index: -1
+leiji
+  rotate: true
+  xy: 2, 2
+  size: 80, 62
+  orig: 226, 218
+  offset: 81, 78
+  index: -1

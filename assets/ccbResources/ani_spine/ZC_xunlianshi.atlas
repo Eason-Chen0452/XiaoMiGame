@@ -1,0 +1,139 @@
+
+ZC_xunlianshi.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liuguang/lg1_01
+  rotate: false
+  xy: 353, 340
+  size: 46, 46
+  orig: 300, 300
+  offset: 80, 97
+  index: -1
+liuguang/lg1_02
+  rotate: false
+  xy: 82, 173
+  size: 52, 50
+  orig: 300, 300
+  offset: 82, 92
+  index: -1
+liuguang/lg1_03
+  rotate: true
+  xy: 82, 225
+  size: 72, 60
+  orig: 300, 300
+  offset: 83, 81
+  index: -1
+liuguang/lg1_04
+  rotate: false
+  xy: 277, 438
+  size: 84, 67
+  orig: 300, 300
+  offset: 83, 74
+  index: -1
+liuguang/lg1_05
+  rotate: true
+  xy: 2, 118
+  size: 86, 68
+  orig: 300, 300
+  offset: 83, 73
+  index: -1
+liuguang/lg1_06
+  rotate: true
+  xy: 2, 32
+  size: 84, 67
+  orig: 300, 300
+  offset: 85, 73
+  index: -1
+liuguang/lg1_07
+  rotate: false
+  xy: 277, 375
+  size: 74, 61
+  orig: 300, 300
+  offset: 95, 73
+  index: -1
+liuguang/lg1_08
+  rotate: false
+  xy: 72, 121
+  size: 52, 50
+  orig: 300, 300
+  offset: 117, 72
+  index: -1
+liuguang/lg1_09
+  rotate: false
+  xy: 197, 366
+  size: 46, 46
+  orig: 300, 300
+  offset: 126, 71
+  index: -1
+saoguang/sg1_00
+  rotate: false
+  xy: 353, 388
+  size: 43, 48
+  orig: 300, 300
+  offset: 101, 97
+  index: -1
+saoguang/sg1_01
+  rotate: true
+  xy: 363, 442
+  size: 63, 77
+  orig: 300, 300
+  offset: 101, 94
+  index: -1
+saoguang/sg1_02
+  rotate: false
+  xy: 2, 206
+  size: 78, 91
+  orig: 300, 300
+  offset: 101, 94
+  index: -1
+saoguang/sg1_03
+  rotate: false
+  xy: 102, 405
+  size: 93, 100
+  orig: 300, 300
+  offset: 101, 94
+  index: -1
+saoguang/sg1_04
+  rotate: false
+  xy: 2, 401
+  size: 98, 104
+  orig: 300, 300
+  offset: 101, 98
+  index: -1
+saoguang/sg1_05
+  rotate: false
+  xy: 2, 299
+  size: 94, 100
+  orig: 300, 300
+  offset: 105, 106
+  index: -1
+saoguang/sg1_06
+  rotate: false
+  xy: 197, 414
+  size: 78, 91
+  orig: 300, 300
+  offset: 121, 115
+  index: -1
+saoguang/sg1_07
+  rotate: false
+  xy: 442, 428
+  size: 63, 77
+  orig: 300, 300
+  offset: 136, 129
+  index: -1
+saoguang/sg1_08
+  rotate: false
+  xy: 126, 123
+  size: 43, 48
+  orig: 300, 300
+  offset: 156, 155
+  index: -1
+shang01
+  rotate: false
+  xy: 136, 178
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1

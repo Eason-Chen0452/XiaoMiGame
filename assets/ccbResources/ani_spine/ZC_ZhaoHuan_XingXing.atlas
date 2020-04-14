@@ -1,0 +1,41 @@
+
+ZC_ZhaoHuan_XingXing.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xing01
+  rotate: false
+  xy: 931, 2
+  size: 66, 62
+  orig: 328, 79
+  offset: 131, 8
+  index: -1
+xing02
+  rotate: false
+  xy: 797, 2
+  size: 132, 62
+  orig: 328, 79
+  offset: 98, 8
+  index: -1
+xing03
+  rotate: false
+  xy: 597, 2
+  size: 198, 62
+  orig: 328, 79
+  offset: 65, 8
+  index: -1
+xing04
+  rotate: false
+  xy: 332, 2
+  size: 263, 62
+  orig: 328, 79
+  offset: 32, 8
+  index: -1
+xing05
+  rotate: false
+  xy: 2, 2
+  size: 328, 62
+  orig: 328, 79
+  offset: 0, 8
+  index: -1

@@ -1,0 +1,153 @@
+
+jl_287_lanrenlai.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff_flo
+  rotate: true
+  xy: 255, 59
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+buff_mid
+  rotate: true
+  xy: 255, 59
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+buff_up
+  rotate: true
+  xy: 255, 59
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+jl_110_lanrenlai-0000_chuchang_0
+  rotate: false
+  xy: 2, 2
+  size: 174, 247
+  orig: 174, 247
+  offset: 0, 0
+  index: -1
+lanrenta_dabi_01
+  rotate: false
+  xy: 178, 40
+  size: 75, 66
+  orig: 75, 66
+  offset: 0, 0
+  index: -1
+lanrenta_dabi_02
+  rotate: false
+  xy: 632, 177
+  size: 64, 72
+  orig: 64, 72
+  offset: 0, 0
+  index: -1
+lanrenta_datui_01
+  rotate: true
+  xy: 798, 175
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+lanrenta_datui_02
+  rotate: false
+  xy: 746, 175
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+lanrenta_jiao_01
+  rotate: true
+  xy: 303, 62
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+lanrenta_jiao_02
+  rotate: false
+  xy: 279, 108
+  size: 46, 21
+  orig: 46, 21
+  offset: 0, 0
+  index: -1
+lanrenta_shenzi_01
+  rotate: true
+  xy: 516, 154
+  size: 95, 114
+  orig: 95, 114
+  offset: 0, 0
+  index: -1
+lanrenta_shenzi_01_pao
+  rotate: false
+  xy: 178, 108
+  size: 99, 141
+  orig: 99, 141
+  offset: 0, 0
+  index: -1
+lanrenta_tou_01
+  rotate: false
+  xy: 279, 131
+  size: 113, 118
+  orig: 113, 118
+  offset: 0, 0
+  index: -1
+lanrenta_tou_01_pao
+  rotate: true
+  xy: 394, 138
+  size: 111, 120
+  orig: 111, 120
+  offset: 0, 0
+  index: -1
+lanrenta_xiaobi_01
+  rotate: false
+  xy: 698, 181
+  size: 46, 68
+  orig: 46, 68
+  offset: 0, 0
+  index: -1
+lanrenta_xiaobi_02
+  rotate: true
+  xy: 178, 3
+  size: 35, 71
+  orig: 35, 71
+  offset: 0, 0
+  index: -1
+lanrenta_xiaotui_01
+  rotate: false
+  xy: 632, 146
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+lanrenta_xiaotui_02
+  rotate: false
+  xy: 698, 153
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+lanrenta_yanjing_01
+  rotate: false
+  xy: 746, 226
+  size: 78, 23
+  orig: 78, 23
+  offset: 0, 0
+  index: -1
+lanrenta_zhuazi_01
+  rotate: false
+  xy: 667, 148
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+lanrenta_zhuazi_02
+  rotate: false
+  xy: 327, 108
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1

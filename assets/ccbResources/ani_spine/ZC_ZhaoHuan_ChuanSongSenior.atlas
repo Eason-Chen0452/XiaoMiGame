@@ -1,0 +1,83 @@
+
+ZC_ZhaoHuan_ChuanSongSenior.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 128, 53
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+cheng_fangshe_03_eff_02
+  rotate: false
+  xy: 2, 125
+  size: 271, 272
+  orig: 300, 300
+  offset: 24, 25
+  index: -1
+cheng_fangshe_03_eff_03
+  rotate: false
+  xy: 460, 222
+  size: 180, 175
+  orig: 300, 300
+  offset: 72, 78
+  index: -1
+cheng_fangshe_03_eff_04
+  rotate: false
+  xy: 275, 213
+  size: 183, 184
+  orig: 300, 300
+  offset: 68, 69
+  index: -1
+fangshe_eff
+  rotate: false
+  xy: 2, 399
+  size: 830, 79
+  orig: 947, 99
+  offset: 67, 13
+  index: -1
+fangshe_eff2
+  rotate: false
+  xy: 2, 399
+  size: 830, 79
+  orig: 947, 99
+  offset: 67, 13
+  index: -1
+fangshe_eff3
+  rotate: false
+  xy: 2, 399
+  size: 830, 79
+  orig: 947, 99
+  offset: 67, 13
+  index: -1
+wind00
+  rotate: false
+  xy: 275, 45
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+wind01
+  rotate: false
+  xy: 834, 312
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+wind02
+  rotate: false
+  xy: 642, 223
+  size: 175, 174
+  orig: 175, 174
+  offset: 0, 0
+  index: -1
+zi_fangshe_02_eff_03
+  rotate: false
+  xy: 2, 2
+  size: 124, 121
+  orig: 167, 168
+  offset: 25, 26
+  index: -1

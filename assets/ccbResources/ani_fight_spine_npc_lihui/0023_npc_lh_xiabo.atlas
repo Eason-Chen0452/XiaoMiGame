@@ -1,0 +1,13 @@
+
+0023_npc_lh_xiabo.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guanzhang_xiabo
+  rotate: false
+  xy: 2, 2
+  size: 395, 396
+  orig: 395, 396
+  offset: 0, 0
+  index: -1

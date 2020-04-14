@@ -1,0 +1,20 @@
+
+CJ_ZuoBiao.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+000
+  rotate: false
+  xy: 2, 2
+  size: 103, 103
+  orig: 150, 150
+  offset: 24, 23
+  index: -1
+001
+  rotate: false
+  xy: 107, 32
+  size: 57, 73
+  orig: 150, 150
+  offset: 47, 38
+  index: -1

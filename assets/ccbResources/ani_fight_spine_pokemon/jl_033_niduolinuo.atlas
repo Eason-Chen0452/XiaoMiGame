@@ -1,0 +1,167 @@
+
+jl_033_niduolinuo.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 753, 337
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+ALL1
+  rotate: false
+  xy: 394, 331
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: false
+  xy: 190, 279
+  size: 59, 50
+  orig: 59, 50
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 126, 2
+  size: 53, 59
+  orig: 53, 59
+  offset: 0, 0
+  index: -1
+Arm_R_run
+  rotate: false
+  xy: 190, 218
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 42
+  size: 122, 111
+  orig: 122, 111
+  offset: 0, 0
+  index: -1
+Ear_L
+  rotate: false
+  xy: 126, 63
+  size: 48, 90
+  orig: 48, 91
+  offset: 0, 1
+  index: -1
+Ear_R
+  rotate: true
+  xy: 928, 442
+  size: 68, 94
+  orig: 69, 94
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 60, 14
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 357, 311
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: true
+  xy: 928, 338
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 928, 363
+  size: 84, 77
+  orig: 84, 77
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 307, 281
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: true
+  xy: 251, 280
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+Leg_R_run
+  rotate: true
+  xy: 2, 3
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 87, 27
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 87, 27
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 87, 27
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_013_lv1_niduolinuo-0004_shouji1_3
+  rotate: false
+  xy: 575, 339
+  size: 176, 171
+  orig: 176, 171
+  offset: 0, 0
+  index: -1
+jl_013_lv1_niduolinuo-0005_shouji2_3
+  rotate: false
+  xy: 211, 331
+  size: 181, 179
+  orig: 181, 179
+  offset: 0, 0
+  index: -1
+jl_013_lv1_niduolinuo-0006_siwang_10
+  rotate: false
+  xy: 2, 337
+  size: 207, 173
+  orig: 207, 173
+  offset: 0, 0
+  index: -1
+jl_013_lv1_niduolinuo-0014_leiji_3
+  rotate: false
+  xy: 2, 155
+  size: 186, 180
+  orig: 186, 180
+  offset: 0, 0
+  index: -1
+leiji
+  rotate: false
+  xy: 190, 160
+  size: 42, 56
+  orig: 226, 218
+  offset: 81, 78
+  index: -1

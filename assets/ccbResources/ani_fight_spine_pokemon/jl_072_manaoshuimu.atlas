@@ -1,0 +1,146 @@
+
+jl_072_manaoshuimu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 353, 324
+  size: 167, 186
+  orig: 167, 186
+  offset: 0, 0
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 2, 65
+  size: 182, 201
+  orig: 182, 201
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 89, 38
+  size: 94, 25
+  orig: 94, 25
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 961, 411
+  size: 49, 20
+  orig: 49, 20
+  offset: 0, 0
+  index: -1
+Eye2_L
+  rotate: false
+  xy: 405, 303
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+Eye2_R
+  rotate: false
+  xy: 89, 15
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: false
+  xy: 353, 302
+  size: 50, 20
+  orig: 50, 20
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: true
+  xy: 2, 2
+  size: 61, 85
+  orig: 61, 85
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 775, 289
+  size: 68, 86
+  orig: 68, 86
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 831, 384
+  size: 128, 126
+  orig: 128, 127
+  offset: 0, 1
+  index: -1
+Head1
+  rotate: false
+  xy: 672, 303
+  size: 101, 72
+  orig: 101, 73
+  offset: 0, 0
+  index: -1
+Part
+  rotate: false
+  xy: 198, 270
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 961, 396
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 961, 396
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 961, 396
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_027_lv0_dmanaoshuimu_shouji1
+  rotate: false
+  xy: 198, 298
+  size: 153, 212
+  orig: 153, 212
+  offset: 0, 0
+  index: -1
+jl_dmanaoshuimu_leiji
+  rotate: false
+  xy: 2, 268
+  size: 194, 242
+  orig: 194, 242
+  offset: 0, 0
+  index: -1
+jl_dmanaoshuimu_shouji2
+  rotate: false
+  xy: 522, 329
+  size: 148, 181
+  orig: 148, 181
+  offset: 0, 0
+  index: -1
+jl_dmanaoshuimu_siwang
+  rotate: false
+  xy: 672, 377
+  size: 157, 133
+  orig: 157, 133
+  offset: 0, 0
+  index: -1
+leiji
+  rotate: true
+  xy: 961, 433
+  size: 77, 54
+  orig: 248, 240
+  offset: 95, 100
+  index: -1

@@ -1,0 +1,335 @@
+
+jl_466_dianjimoshou.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 2, 110
+  size: 203, 212
+  orig: 203, 212
+  offset: 0, 0
+  index: -1
+ALL1
+  rotate: false
+  xy: 530, 803
+  size: 209, 218
+  orig: 209, 218
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: false
+  xy: 325, 565
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 485, 676
+  size: 58, 40
+  orig: 58, 40
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 213, 306
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+Effects_Textures_10-1
+  rotate: true
+  xy: 974, 925
+  size: 96, 48
+  orig: 96, 48
+  offset: 0, 0
+  index: -1
+Effects_Textures_11-1
+  rotate: true
+  xy: 974, 827
+  size: 96, 48
+  orig: 96, 48
+  offset: 0, 0
+  index: -1
+Effects_Textures_5-1
+  rotate: true
+  xy: 267, 685
+  size: 96, 48
+  orig: 96, 48
+  offset: 0, 0
+  index: -1
+Effects_Textures_6-1
+  rotate: true
+  xy: 267, 587
+  size: 96, 48
+  orig: 96, 48
+  offset: 0, 0
+  index: -1
+Effects_Textures_7-1
+  rotate: true
+  xy: 317, 605
+  size: 96, 48
+  orig: 96, 48
+  offset: 0, 0
+  index: -1
+Effects_Textures_8-1
+  rotate: false
+  xy: 387, 684
+  size: 96, 48
+  orig: 96, 48
+  offset: 0, 0
+  index: -1
+Effects_Textures_9-1
+  rotate: false
+  xy: 367, 634
+  size: 96, 48
+  orig: 96, 48
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 530, 783
+  size: 54, 18
+  orig: 54, 18
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: true
+  xy: 367, 684
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: false
+  xy: 875, 730
+  size: 59, 18
+  orig: 59, 18
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 267, 556
+  size: 51, 29
+  orig: 51, 29
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: true
+  xy: 525, 736
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 317, 703
+  size: 68, 87
+  orig: 68, 87
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 875, 750
+  size: 79, 99
+  orig: 79, 99
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 213, 418
+  size: 134, 74
+  orig: 134, 74
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 289, 507
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: true
+  xy: 956, 727
+  size: 98, 65
+  orig: 99, 65
+  offset: 1, 0
+  index: -1
+NeckL
+  rotate: false
+  xy: 479, 736
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+Tentacle_L
+  rotate: false
+  xy: 562, 746
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1
+Tentacle_L1
+  rotate: true
+  xy: 289, 418
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+Tentacle_L2
+  rotate: false
+  xy: 442, 564
+  size: 38, 68
+  orig: 38, 68
+  offset: 0, 0
+  index: -1
+Tentacle_R
+  rotate: false
+  xy: 527, 698
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+Tentacle_R1
+  rotate: false
+  xy: 289, 458
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+Tentacle_R2
+  rotate: true
+  xy: 367, 562
+  size: 70, 73
+  orig: 70, 73
+  offset: 0, 0
+  index: -1
+Thigh_L
+  rotate: false
+  xy: 465, 634
+  size: 54, 40
+  orig: 55, 40
+  offset: 0, 0
+  index: -1
+Thigh_R
+  rotate: false
+  xy: 482, 571
+  size: 49, 61
+  orig: 49, 61
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 207, 119
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 207, 119
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 207, 119
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_046_lv2_dianjimoshou-0004_shouji1_3
+  rotate: false
+  xy: 279, 792
+  size: 249, 229
+  orig: 249, 229
+  offset: 0, 0
+  index: -1
+jl_046_lv2_dianjimoshou-0005_shouji2_3
+  rotate: false
+  xy: 2, 324
+  size: 209, 228
+  orig: 209, 228
+  offset: 0, 0
+  index: -1
+jl_046_lv2_dianjimoshou-0006_siwang_10
+  rotate: false
+  xy: 741, 851
+  size: 231, 170
+  orig: 231, 170
+  offset: 0, 0
+  index: -1
+jl_046_lv2_dianjimoshou-0014_leiji_3
+  rotate: false
+  xy: 2, 783
+  size: 275, 238
+  orig: 275, 238
+  offset: 0, 0
+  index: -1
+jl_046_lv2_dianjimoshou-0014_leiji_4
+  rotate: false
+  xy: 2, 554
+  size: 263, 227
+  orig: 304, 254
+  offset: 5, 21
+  index: -1
+spark01a
+  rotate: false
+  xy: 228, 20
+  size: 53, 112
+  orig: 53, 112
+  offset: 0, 0
+  index: -1
+spark01b
+  rotate: false
+  xy: 283, 26
+  size: 41, 106
+  orig: 41, 106
+  offset: 0, 0
+  index: -1
+spark02a
+  rotate: false
+  xy: 741, 730
+  size: 132, 119
+  orig: 132, 119
+  offset: 0, 0
+  index: -1
+spark02b
+  rotate: false
+  xy: 207, 196
+  size: 113, 108
+  orig: 113, 108
+  offset: 0, 0
+  index: -1
+spark03a
+  rotate: true
+  xy: 2, 2
+  size: 106, 119
+  orig: 106, 119
+  offset: 0, 0
+  index: -1
+spark03b
+  rotate: false
+  xy: 123, 4
+  size: 103, 104
+  orig: 104, 116
+  offset: 1, 0
+  index: -1
+spark04a
+  rotate: true
+  xy: 207, 134
+  size: 60, 114
+  orig: 60, 114
+  offset: 0, 0
+  index: -1
+spark04b
+  rotate: true
+  xy: 387, 734
+  size: 56, 90
+  orig: 56, 107
+  offset: 0, 17
+  index: -1

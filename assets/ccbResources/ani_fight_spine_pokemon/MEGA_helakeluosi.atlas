@@ -1,0 +1,237 @@
+
+MEGA_helakeluosi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 329, 725
+  size: 305, 297
+  orig: 305, 297
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 185, 81
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+MEGA_helakeluosi-0004_shouji1_3
+  rotate: false
+  xy: 2, 111
+  size: 296, 282
+  orig: 296, 282
+  offset: 0, 0
+  index: -1
+MEGA_helakeluosi-0005_shouji2_3
+  rotate: false
+  xy: 2, 395
+  size: 311, 305
+  orig: 311, 305
+  offset: 0, 0
+  index: -1
+MEGA_helakeluosi-0014_leiji_3
+  rotate: false
+  xy: 2, 702
+  size: 325, 320
+  orig: 325, 320
+  offset: 0, 0
+  index: -1
+arm_l
+  rotate: false
+  xy: 733, 849
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 860, 989
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 636, 763
+  size: 95, 259
+  orig: 95, 260
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 300, 380
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 300, 380
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 300, 380
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+eye
+  rotate: false
+  xy: 896, 1000
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+eye_c
+  rotate: false
+  xy: 848, 945
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+feeler_l
+  rotate: true
+  xy: 84, 2
+  size: 32, 65
+  orig: 33, 66
+  offset: 0, 0
+  index: -1
+feeler_r
+  rotate: false
+  xy: 84, 36
+  size: 58, 73
+  orig: 59, 74
+  offset: 1, 0
+  index: -1
+foot_l
+  rotate: false
+  xy: 2, 2
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+foot_r
+  rotate: false
+  xy: 144, 49
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+forearm_l
+  rotate: false
+  xy: 733, 944
+  size: 86, 78
+  orig: 87, 78
+  offset: 1, 0
+  index: -1
+forearm_r
+  rotate: false
+  xy: 2, 24
+  size: 80, 85
+  orig: 80, 85
+  offset: 0, 0
+  index: -1
+jl_004_lv2_badahu-0014_leiji_4
+  rotate: false
+  xy: 791, 900
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 219, 91
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 819, 920
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 733, 887
+  size: 56, 55
+  orig: 56, 55
+  offset: 0, 0
+  index: -1
+paw_l1
+  rotate: true
+  xy: 329, 705
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+paw_l2
+  rotate: false
+  xy: 860, 969
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+paw_l3
+  rotate: false
+  xy: 821, 944
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+paw_r1
+  rotate: true
+  xy: 47, 2
+  size: 20, 28
+  orig: 20, 29
+  offset: 0, 1
+  index: -1
+paw_r2
+  rotate: false
+  xy: 733, 818
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+paw_r3
+  rotate: false
+  xy: 769, 860
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+shoulder_l
+  rotate: true
+  xy: 684, 737
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+shoulder_r
+  rotate: false
+  xy: 821, 969
+  size: 37, 53
+  orig: 37, 53
+  offset: 0, 0
+  index: -1
+thigh_l
+  rotate: false
+  xy: 144, 77
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+thigh_r
+  rotate: true
+  xy: 636, 726
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1

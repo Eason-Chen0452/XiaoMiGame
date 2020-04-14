@@ -1,0 +1,230 @@
+
+jl_212_juqiantanglang.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: true
+  xy: 676, 316
+  size: 194, 236
+  orig: 194, 236
+  offset: 0, 0
+  index: -1
+ALL1
+  rotate: false
+  xy: 260, 268
+  size: 200, 242
+  orig: 200, 242
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: false
+  xy: 455, 123
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 925, 134
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 914, 400
+  size: 56, 110
+  orig: 56, 110
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 490, 120
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 229, 94
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: true
+  xy: 2, 2
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+Hand_LD
+  rotate: false
+  xy: 417, 113
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+Hand_LU
+  rotate: true
+  xy: 925, 162
+  size: 72, 47
+  orig: 72, 47
+  offset: 0, 0
+  index: -1
+Hand_RD
+  rotate: true
+  xy: 376, 115
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+Hand_RU
+  rotate: true
+  xy: 972, 440
+  size: 70, 50
+  orig: 70, 50
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 914, 316
+  size: 67, 82
+  orig: 67, 82
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 254, 113
+  size: 35, 69
+  orig: 35, 69
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 983, 334
+  size: 36, 77
+  orig: 36, 77
+  offset: 0, 0
+  index: -1
+Thigh_L
+  rotate: true
+  xy: 972, 413
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+Thigh_R
+  rotate: false
+  xy: 990, 280
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+UpArm_L
+  rotate: true
+  xy: 229, 223
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+UpArm_R
+  rotate: true
+  xy: 990, 238
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+Wing_L
+  rotate: false
+  xy: 229, 116
+  size: 23, 71
+  orig: 23, 71
+  offset: 0, 0
+  index: -1
+Wing_LD
+  rotate: false
+  xy: 229, 189
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+Wing_R
+  rotate: false
+  xy: 925, 236
+  size: 63, 78
+  orig: 63, 78
+  offset: 0, 0
+  index: -1
+Wing_RD
+  rotate: false
+  xy: 325, 113
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 462, 268
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 462, 268
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 462, 268
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_045_lv1_juqiantanglang-0004_shouji1_3
+  rotate: true
+  xy: 676, 131
+  size: 183, 247
+  orig: 183, 247
+  offset: 0, 0
+  index: -1
+jl_045_lv1_juqiantanglang-0005_shouji2_3
+  rotate: false
+  xy: 462, 283
+  size: 212, 227
+  orig: 212, 227
+  offset: 0, 0
+  index: -1
+jl_045_lv1_juqiantanglang-0006_siwang_10
+  rotate: false
+  xy: 260, 150
+  size: 272, 116
+  orig: 272, 116
+  offset: 0, 0
+  index: -1
+jl_045_lv1_juqiantanglang-0014_leiji_3
+  rotate: false
+  xy: 2, 263
+  size: 256, 247
+  orig: 256, 247
+  offset: 0, 0
+  index: -1
+jl_045_lv1_juqiantanglang-0014_leiji_4
+  rotate: false
+  xy: 2, 26
+  size: 225, 235
+  orig: 260, 279
+  offset: 25, 30
+  index: -1
+neck
+  rotate: false
+  xy: 30, 9
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1

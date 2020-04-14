@@ -1,0 +1,195 @@
+
+jl_446_xiaokabishou.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 473, 301
+  size: 141, 205
+  orig: 141, 205
+  offset: 0, 0
+  index: -1
+Blur_Show
+  rotate: false
+  xy: 181, 288
+  size: 152, 218
+  orig: 152, 218
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 616, 261
+  size: 128, 108
+  orig: 128, 108
+  offset: 0, 0
+  index: -1
+Ear_L
+  rotate: true
+  xy: 933, 312
+  size: 33, 49
+  orig: 40, 52
+  offset: 4, 3
+  index: -1
+Ear_R
+  rotate: false
+  xy: 68, 4
+  size: 36, 50
+  orig: 43, 50
+  offset: 3, 0
+  index: -1
+Eye1_L
+  rotate: false
+  xy: 927, 288
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+Eye1_R
+  rotate: false
+  xy: 157, 252
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+Eye2_L
+  rotate: true
+  xy: 157, 231
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+Eye2_R
+  rotate: false
+  xy: 1002, 328
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+EyeBall_L
+  rotate: false
+  xy: 822, 362
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+EyeBall_R
+  rotate: true
+  xy: 181, 280
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+Eye_C
+  rotate: false
+  xy: 881, 284
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: false
+  xy: 141, 31
+  size: 14, 23
+  orig: 14, 26
+  offset: 0, 3
+  index: -1
+Eye_R
+  rotate: false
+  xy: 984, 319
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 881, 312
+  size: 50, 33
+  orig: 50, 33
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: true
+  xy: 106, 4
+  size: 50, 33
+  orig: 50, 33
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 822, 282
+  size: 57, 63
+  orig: 57, 64
+  offset: 0, 1
+  index: -1
+Hand_R
+  rotate: true
+  xy: 2, 2
+  size: 52, 64
+  orig: 52, 64
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 746, 273
+  size: 96, 74
+  orig: 96, 78
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 141, 16
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 141, 16
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 141, 16
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+jl_051_lv0_xiaokabishou_shouji1
+  rotate: false
+  xy: 335, 294
+  size: 136, 212
+  orig: 136, 212
+  offset: 0, 0
+  index: -1
+jl_xiaokabishou_leiji
+  rotate: false
+  xy: 2, 279
+  size: 177, 227
+  orig: 177, 227
+  offset: 0, 0
+  index: -1
+jl_xiaokabishou_shouji2
+  rotate: false
+  xy: 2, 56
+  size: 153, 221
+  orig: 153, 221
+  offset: 0, 0
+  index: -1
+jl_xiaokabishou_siwang
+  rotate: false
+  xy: 616, 371
+  size: 211, 135
+  orig: 211, 135
+  offset: 0, 0
+  index: -1
+leiji
+  rotate: true
+  xy: 829, 347
+  size: 159, 187
+  orig: 197, 236
+  offset: 14, 9
+  index: -1
