@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.1" orientation="orthogonal" renderorder="right-down" width="87" height="72" tilewidth="40" tileheight="40" infinite="0" nextlayerid="56" nextobjectid="27">
+ <tileset firstgid="1" name="surface" tilewidth="160" tileheight="256" tilecount="15" columns="5">
+  <image source="2/surface2.png" width="800" height="768"/>
+ </tileset>
+ <tileset firstgid="16" name="decorate1" tilewidth="120" tileheight="120" tilecount="12" columns="6">
+  <image source="2/decorate5.png" width="720" height="240"/>
+ </tileset>
+ <tileset firstgid="28" name="decorate3" tilewidth="360" tileheight="360" tilecount="2" columns="2">
+  <image source="2/decorate11.png" width="720" height="360"/>
+ </tileset>
+ <tileset firstgid="30" name="order1" tilewidth="520" tileheight="520" tilecount="2" columns="2">
+  <image source="2/order1.png" width="1040" height="520"/>
+ </tileset>
+ <tileset firstgid="32" name="order3" tilewidth="120" tileheight="240" tilecount="4" columns="1">
+  <image source="2/order2.png" width="120" height="960"/>
+ </tileset>
+ <tileset firstgid="36" name="order2" tilewidth="240" tileheight="240" tilecount="6" columns="3">
+  <image source="2/order8.png" width="720" height="480"/>
+ </tileset>
+ <tileset firstgid="42" name="decorate4" tilewidth="280" tileheight="280" tilecount="6" columns="2">
+  <image source="2/decorate4.png" width="560" height="840"/>
+ </tileset>
+ <tileset firstgid="48" name="order4" tilewidth="360" tileheight="360" tilecount="8" columns="4">
+  <image source="2/order4.png" width="1440" height="720"/>
+ </tileset>
+ <tileset firstgid="56" name="block" tilewidth="120" tileheight="120" tilecount="1" columns="1">
+  <image source="common/block.png" width="120" height="120"/>
+ </tileset>
+ <tileset firstgid="57" name="decorate2" tilewidth="120" tileheight="120" spacing="6" tilecount="48" columns="8">
+  <image source="2/decorate8.png" width="1008" height="756"/>
+ </tileset>
+ <tileset firstgid="105" name="caocong" tilewidth="120" tileheight="120" tilecount="1" columns="1">
+  <image source="common/caocong.png" width="120" height="120"/>
+ </tileset>
+ <layer id="42" name="surface" width="87" height="72">
+  <data encoding="base64" compression="zlib">
+   eJzt3LFuwzAMRdGkaQInQf//dzt04fKES8gO5OKeiRAoo4sUilZ9uUiS9D+8Snwr8b3EWxivcx/gOZLWV9dvXeMbGL+FOOVLWl+qE+rv/j2Mp7npOZLW9wpxWuOpfriCuZLW1+0hkLNDqiskrW8LceoJpP0h5ZP+ZBqfybmGWNJYt4dQx0kP4R5ist5T7ZH6me4J0rxuD6GOkx5CXaffYXymHujuD5LGjt4TZmJSk5DY96ESR+4YdPcKkl/3E/L+IvUuSI57gsSlfiBZ+6nf2N0r9qo3yF0LSWPknULqE6b9YbW47hWSxkg9sNf4XmeQbs/BOkHiZvp4pH6YWdd7Pd86QeJIr4CMd3sOZI3X/EeI0z2KlCNpjKy7mT7k0WcHMnfm+d1Y0p+vD8bvED9BTop/QEzypbNLdQIZT/cMj47J/1CkNfsEOTNzpbMjZ4R0TzjdByDfYCH3jlJPgMytSG1A1jupN6SzI7/7dR8g309I311J+d2cNJ7eOVonSFz3d986YRxLZ0fuGHfPF938I/6GyjpB4tJ3Bsh5oXu+SPlpH5h5ZvXpOuEXVNALbQ==
+  </data>
+ </layer>
+ <layer id="43" name="decorate6" width="87" height="72">
+  <data encoding="base64" compression="zlib">
+   eJzt1KERwDAAA7Hs2v13KH0Y6Gsl5AX85wC3nh9s4N7CZzUBdix8VhNgx8JnNQF2LHxWE4DSBKA0AShNAEoTgNIEoDQBKE0AShOA0gSgNAEAAAAAAAAAAPiSF8niQ64=
+  </data>
+ </layer>
+ <layer id="44" name="decorate2" width="87" height="72">
+  <data encoding="base64" compression="zlib">
+   eJzt2jsOgkAARVHWZWe08Bf8tur+d2H7LAwQwwzKOdUrME51i4GmAfpa1j4AMCmaACRNAJImAGkVe11pbzrOCJSzjb0ruPexFx1nBMo5VPrfNrYmwHRoApCOsU8D9yd9fnuOrQlA0gSoa+x7xbw/7EMToK6x7xDa7kfeaALU9c0dwtC7gj40AUiaAPNxiX378MzY31LC3DwmvJ+x77GvBTf8opLfFdfaQ99HAP9t6PsI4L9pApA0AUiaACRNAJImAKlWE17uliaV
+  </data>
+ </layer>
+ <layer id="45" name="decorate3" width="87" height="72">
+  <data encoding="base64" compression="zlib">
+   eJzt2l0SwiAMRtEupN3/Nh2frExLE9JAAve86Iw/A18iUnTbAAAAAAAAAACrOUYPIClyQ1T0pj8ybveUHdn6I2NkQa/2Q9Z2x819vEOb6cgaRK//1fgs+UafLwAZy2d5F74P68WPJIteec1aF+m8Zp0/5kXPohdLr9Gndd989sdn1V9/vrWiXv/IY34Zasy5y3jlWlvWYfW6jPgOWj1zrat15G7/Ielvbf6WvY4X7x6y9nPmHu+xRvbIJ3MNPJHLtdZcPF5Hjd5DlgCAkTh7aON9/bFSHbzPe46bxzJkHO2cI0NmM8uWf8/xrvJddv7d4GmO0daPTDx+P5i1Jz2RWR35ILOW/vXq+Uj/px5Ju5fS7jMke5dVSLKQPF4+J/Per3YtH0WGMWpkmE+ksWjUzqBGzClrjlaavC17gej5fgAktA4F
+  </data>
+ </layer>
+ <layer id="46" name="decorate4" width="87" height="72">
+  <data encoding="base64" compression="zlib">
+   eJzt1DEBAAAIw7D5wb8/JPBwQfLVQBMAAAAAAAAAAADgihoagB1+CwAAAAAAAAAAAAAAAP80XWsArQ==
+  </data>
+ </layer>
+ <layer id="47" name="decorate7" width="87" height="72">
+  <data encoding="base64" compression="zlib">
+   eJzt2TENAAAIBLFXg3+JrDggkFbB7ZcAAAAAAAAAAAAAAADAPbUdAAAAAAAAvOdHAAAAAAAwNaB2AE0=
+  </data>
+ </layer>
+ <layer id="48" name="decorate1" width="87" height="72">
+  <data encoding="base64" compression="zlib">
+   eJzt20sOwiAQANBeQeunev+DGpcmVkUKA/S9dVMmJDBDh04TAAAAAAB7cY0OgK/m6ACAF0vFsS6Fn4doKTnuVCwKgDJq1gz07R4dAN2xv6Q7RAdAM+y5+awn2A/fYnhSe9Yz4lyrvaA8vUGgVSPWNkAce0qec3QAg3DGfe+XO+jmLo074+3KOYOX+l9jLUfKne2KWuOj9ny2ms/jRu/55FZhDBiFPNaH3P6E/gYAAP9yZgCgBw99vANR
+  </data>
+ </layer>
+ <layer id="49" name="order5" width="87" height="72">
+  <data encoding="base64" compression="zlib">
+   eJzt00EKBDEIBEC/O///wBy8STuE3WOqQEiIXhpTBQAAAAAAAAAAAAAAAABwn2dUhfPsm/PpfLuU21fN3nSnpeyq9uxO9pp2sotbttsc7d//n/addprbln1643fyAwAAAAAAAIA7vEpZJiY=
+  </data>
+ </layer>
+ <layer id="50" name="order3" width="87" height="72">
+  <data encoding="base64" compression="zlib">
+   eJztzgEJACAAAzCj3P4l7aDgBbcEGwMAAAAAAABoSDsAAAAAB9IOAAAAAHwi7cCGtAMAAJfNdgAAHpF2AAAAAADgggW10QDC
+  </data>
+ </layer>
+ <layer id="51" name="order2" width="87" height="72">
+  <data encoding="base64" compression="zlib">
+   eJzt2sENACAIA0CG0f1XdAY/VvFugib0QQJVAABnzXQAvqeDANxupAMAAEBzdm4AdrktAAAAAAAAAAAAAGT553yTuQEAAADQ0QKTFwEC
+  </data>
+ </layer>
+ <layer id="52" name="order4" width="87" height="72">
+  <data encoding="base64" compression="zlib">
+   eJzt2skNgDAAA8GUxE3/ndECQglOYKaCfVsuBQAAAAAAgJHM6QAAAF5xpAM6NaUDYHBrOoDfsmdAf/Z0AAAAADSwpQMAgGqWdADQlVH/Dmc6AAAAbniyrdf4hbbY9O0J9MZXEwDguy7mtgMB
+  </data>
+ </layer>
+ <layer id="53" name="order1" width="87" height="72">
+  <data encoding="base64" compression="zlib">
+   eJztzgENAAAIA6AnsX9MY9xNSEACAAAAAAAAAAAAAADw27QDAAAAAAAAAAAAAADAeQsROgAf
+  </data>
+ </layer>
+ <layer id="54" name="block" width="87" height="72">
+  <data encoding="base64" compression="zlib">
+   eJzt2zEShCAQBECf5f9fdimJFrist0J3ZKQSzAiixwEAAAAA3DkDx8AaZuU60icZx8AzGZ2Qfa2rc+oEiNMJQOsqR6P56snmaH6tHeB92TmKdE6kQ4BnZs0HsucJPXQCxEVyVO3ZrRMgblYnVNhb1AkQt1KOVhoL/MvX39vbj4C5dsvLbuOFURW+Q37zOwSdAPey/3eopvK9QQUVMpK9v1BhjPAVFeb/ldcasBt5AVo6AWjpBKClE/r9ADhGHAE=
+  </data>
+ </layer>
+ <layer id="55" name="downui" width="87" height="72">
+  <data encoding="base64" compression="zlib">
+   eJztwYEAAAAAw6D5U9/gBFUBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwDGHgAAE=
+  </data>
+ </layer>
+ <objectgroup id="38" name="objects"/>
+</map>

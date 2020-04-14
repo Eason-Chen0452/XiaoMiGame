@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.4" orientation="orthogonal" renderorder="right-down" width="99" height="75" tilewidth="40" tileheight="40" infinite="0" nextlayerid="27" nextobjectid="14">
+ <tileset firstgid="1" name="surface" tilewidth="160" tileheight="256" spacing="2" tilecount="18" columns="6">
+  <image source="18/surface.png" width="972" height="774"/>
+ </tileset>
+ <tileset firstgid="19" name="order_shui" tilewidth="120" tileheight="120" tilecount="16" columns="8">
+  <image source="18/order_shui.png" width="960" height="240"/>
+ </tileset>
+ <tileset firstgid="35" name="order1" tilewidth="200" tileheight="200" tilecount="25" columns="5">
+  <image source="18/order1.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="60" name="order2" tilewidth="360" tileheight="360" tilecount="10" columns="5">
+  <image source="18/order2.png" width="1800" height="720"/>
+ </tileset>
+ <tileset firstgid="70" name="decorate3" tilewidth="280" tileheight="280" tilecount="14" columns="7">
+  <image source="18/decorate3.png" width="1960" height="560"/>
+ </tileset>
+ <tileset firstgid="84" name="decorate2" tilewidth="120" tileheight="120" tilecount="16" columns="8">
+  <image source="18/decorate2.png" width="960" height="240"/>
+ </tileset>
+ <tileset firstgid="100" name="decorate1" tilewidth="120" tileheight="120" spacing="6" tilecount="16" columns="8">
+  <image source="18/decorate1.png" width="1008" height="252"/>
+ </tileset>
+ <tileset firstgid="116" name="bianjieshu" tilewidth="360" tileheight="360" tilecount="12" columns="3">
+  <image source="common/bianjieshu.png" width="1080" height="1440"/>
+ </tileset>
+ <tileset firstgid="128" name="block" tilewidth="120" tileheight="120" tilecount="1" columns="1">
+  <image source="common/block.png" width="120" height="120"/>
+ </tileset>
+ <tileset firstgid="129" name="caocong" tilewidth="120" tileheight="120" tilecount="1" columns="1">
+  <image source="common/caocong.png" width="120" height="120"/>
+ </tileset>
+ <tileset firstgid="130" name="common_shu" tilewidth="360" tileheight="360" tilecount="6" columns="3">
+  <image source="common/common_shu.png" width="1080" height="720"/>
+ </tileset>
+ <layer id="15" name="surface" width="99" height="75">
+  <data encoding="base64" compression="zlib">
+   eJzt3DFuhDAQQNHdlOmTIifM/U+QCglZWHjWNhmz71UWBWKLfA0G8ngA2X3v1j8T1l+vXxqARgGpaRSQmUYBmWkUMMrv5PPPaBTwPrZGPXfHPjrWpZmNarme6O8Ccjlr1P74Z+X4fzXqWVm39Kq2BnLZGrXvT8sc0vo3nqlRLb8LyOVojuq57ytd1ajovKRRsIatUdHZ4+p7vSOj9tA0CvKKzFEtx0szn9lF+6lRsJ6jOapnL7o0ulE9/bRnDus5a1T0OX7p1RaNaqZGwdqOnutdsWd+pucdJ+9HwX2c7UdFZ5ionv35nms2R8EaIs/1ZrxfFD3/jJlKoyCvs0bV5o3avWHNqPuynhlPo2A9kW9hRj7XOzvnqLU9c7iHUfdQpau+KZ71TTRwb/43C5CZRgGZaRSQmUYBmb1bo/4APkEVXQ==
+  </data>
+ </layer>
+ <layer id="16" name="decorate1" width="99" height="75">
+  <data encoding="base64" compression="zlib">
+   eJzt2ktqQ0EMBEBfIh8IhOR2vv8JsshGBBQGHrJbULXSavAIuhkb327AX/ew+ZES7vusu8MWCdnUUUAnIZs6CugkZFNHAZ2EbOoooJOWqdfh81+Gz0/bJ2yXlikdBVRpmdJRQJWWKR0FVGmZ0lFAlZapiY76KPP3wPlV2j5hu7RMXemo2kVfZZ7upSptn7BdWqaudNT097gTafuE7dIyddJRCe+lTto+Ybu0TJ10VMJ7qZO2T9guLVO1o5LfS520fcJ2aZmqHZX8Xuqk7RO2S8tU7ai3Mr+X+XP4M1yRtk/YLi1TJ79Hdd11Mk/3W9o+YbsrmZqYH/k/84T76ij4X0I2dRTQScimjgI6CdnUUUAnIZs6CugkZFNH/foB92epMQ==
+  </data>
+ </layer>
+ <layer id="17" name="decorate2" width="99" height="75">
+  <data encoding="base64" compression="zlib">
+   eJzt29tOxCAQgGEectVsPI37/g9hmkiCLFBaDkMn/3ezpK52ysCwoDoHAAAAAAAAAACAlXxrBwCTRDsAVBPtACZ50Q6ggWgHEHhk2ke89wgESXHf+hx9zA5kgpt2ADssfr66awcwyJt2AEaV5sDZ9WNF8XNaejaMxViBhh/tAA4S7QA6sDjXc3uOK1l1f3TFvgRGa50XFvfmsz0c9QkI9ZoPK8+rMLbaOvo1IpBIWI9ycUnQtnqW6b0mrsV5GHWGvvL4XYX8vc6YGyXk6vlsoXdO+KxUb0Y/+fVBOt2X3J5T6jf+TiCtx1jbfkavPbDlsZ+r25Jpt9wH54lrzwM5aCOJtjy9q86Wi1n139pZYM3eF0CdVdYFH4c/s/nUCqTC2T6TE98zo36X1qJVxkesND5SZ4Mx2fn66H4v3X/VPm+V61Orz7s6Cdr3xDXoEu0AMsTZnrPi/u/xJPM+bb6eXjkXNeusZF4xjwTtW+Y6xpPMa9xeTVyjrnIudbS2itPNw5XXgtj2LHv/u5aqRZK4psmPdX7nBwAAAAAAAACAvl80LzFv
+  </data>
+ </layer>
+ <layer id="18" name="decorate3" width="99" height="75">
+  <data encoding="base64" compression="zlib">
+   eJzt09EJACAIQMFGrP2X6d+/QAzxbgCJZ64FAAAAAAAAAABAR+f3AwbTnmnin3cDdbJa76Q5vNE9h469xH3ZXw2dwR0AAAAAAAAAAAAAAAAAAABQ4wIbJQPG
+  </data>
+ </layer>
+ <layer id="19" name="decorate4" width="99" height="75">
+  <data encoding="base64" compression="zlib">
+   eJzt1dENABAMQEH72X8fC/gh1RJ3iX95qNYAAAAAAAAAAOAtvXoDn+qTRQ7d883uu/bnRTd3Znsiuns7a6Jmju75/Bc1NL+D7vnMHAAAAAAAAAAAAAAAAAAAAIB6A/oVEGk=
+  </data>
+ </layer>
+ <layer id="20" name="order1" width="99" height="75">
+  <data encoding="base64" compression="zlib">
+   eJzt1zEOgCAQBEC+7s/tDeihC40zCQWRapczoTUAAAAAAAAAAAAAAAAAAAAAko7JRdZs/rpYp5L3aE9WJX9zscfovlfmhKyn/K9nensy3v6fdJF3NwO62Kuafe87WbPvCV2s8eWdp4s8XQAAAAAAAAAAf3YCRcRRow==
+  </data>
+ </layer>
+ <layer id="21" name="order2" width="99" height="75">
+  <data encoding="base64" compression="zlib">
+   eJzt20EOgjAQBVDuotG40sTEeBHvfxVXLjQEGkw7tPPeChIWn6aUUjrTBMAIbtEBkui1nXvNzZiy9cdzdIDOZOsfS7TFvGd0AGhIfwcARtb6m2fL3Opa4XgvtrR/rfu4F173+PMcanpFB1gx98xfmqdgRHNjrfGXLI7RAQAAgLTsKeqP/R9kYowCAOiL+du3Q3QAiqnXAwCoY4+1DwAfxihgr07RASBIaW0wAJDT734E+xPK+R8OsMw7ZZ06JqAVa4QA5cxjt+tlreQNTa4JUw==
+  </data>
+ </layer>
+ <layer id="22" name="order3" width="99" height="75">
+  <data encoding="base64" compression="zlib">
+   eJzt3WFKxDAQhuFewT2D/72AiKDeyl/Lem8pWixhY6dtkvkyeR9YWGRppzPJxNbWnSYAAOq7GT7zVT0KQJ9lHlyrR4EoLL23R0rHxXwExrWs2Vs9SaFPpDHkYlbqrwvFmFSRq/Z6y7lavJbelItZ+frBOjZLzq+Z97BRG9f4Q23uIy+6qI0uahPPmZq+7Pz8+4l9RcWc6tOzdwAiSozfs+eTjwVi6JEl9/SXmKgroH0tUl3aQ2r3FK6v+snNk9FrwjqKHr1lfj76fB5Jzd6VbjsdV+rjTD0+lFHzeQd+NwBii7RO9Pg8i3c8rXu89/EqqJ1zrgnqYx7AynOsjH4O0MM8LV2j/9YP7hf3FT3nF+8AcMiI68SHdwA73DLvcZ5az1J7Nvip8f5Sl0mjRqXy/lpoO8Da0jcefl+1tj+yo3mtUY+13v/e3RLjGEAJe3tJ63uWLaKtFQo53aO3eGe5+zdnnxX212OOgMh6XydK4p4NH6wLmDEOfpCHeiLk9siazTrfTrRcR5gza1v1UapftNzPIh7TwnpsXucae3PPORHu2RpHkec4fFj+P7hnv1L+boVvZWs+Ow==
+  </data>
+ </layer>
+ <layer id="23" name="order4" width="99" height="75">
+  <data encoding="base64" compression="zlib">
+   eJzt2gkNAAAIxLBTg3+JuOBJWgUTsAQAAAAAAACAj2o7AAAAAAAAAAAAADjBUwgAAAAAAAAAAAAAMKMBBqgATQ==
+  </data>
+ </layer>
+ <layer id="24" name="block" width="99" height="75">
+  <data encoding="base64" compression="zlib">
+   eJztzsGNBCEMBMANvUO/CLgZhA1ot+rVQqbtzwcAAAAAAADukkHeuWs2A98ng/xm/k3Pm1ylux/YIwvvo3yznD4AeJTTB/wjg9zRD9wpG/urcpWOTqBWiv7O5qpdK6p6gD459PcX+oF1uaAnL3KVjk6gTxbmZ/923LBzL7BfDvVU7Z2VQQbulIX5Ue7Y2yGnDwAeZWF+9u/K3g45fQDwKId6qvbO7tq5F1iXC3pSlGf7gfvlsp6OXbPzwJ2ykE/JiwwAAAAA3+QP1w00gQ==
+  </data>
+ </layer>
+ <layer id="26" name="baoweihe" width="99" height="75">
+  <data encoding="base64" compression="zlib">
+   eJztwYEAAAAAw6D5U9/gBFUBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM8AdAQAAQ==
+  </data>
+ </layer>
+ <layer id="25" name="downui" width="99" height="75">
+  <data encoding="base64" compression="zlib">
+   eJztwYEAAAAAw6D5U9/gBFUBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM8AdAQAAQ==
+  </data>
+ </layer>
+ <objectgroup id="4" name="objects">
+  <object id="1" name="传送门入&amp;718201" x="960" y="2040" width="120" height="120"/>
+  <object id="2" name="出生点&amp;918201" x="960" y="1920" width="120" height="120"/>
+  <object id="3" name="传送门出&amp;718202" x="2880" y="2040" width="120" height="120" visible="0"/>
+  <object id="4" name="草丛&amp;818201" x="2040" y="1680" width="600" height="480"/>
+  <object id="5" name="小锯鳄&amp;418201" x="1080" y="960" width="120" height="120"/>
+  <object id="6" name="火箭队男&amp;518201" x="960" y="1560" width="120" height="120"/>
+  <object id="7" name="暴鲤龙&amp;518202" x="1800" y="960" width="120" height="120"/>
+  <object id="8" name="渡&amp;518203" x="2880" y="1320" width="120" height="120"/>
+  <object id="9" name="铜宝箱&amp;318201" x="1320" y="720" width="120" height="120"/>
+  <object id="10" name="蘑菇&amp;218201" x="3000" y="1680" width="120" height="120"/>
+  <object id="11" name="18_4&amp;318251" x="960" y="1320" width="120" height="120" visible="0"/>
+  <object id="12" name="18_5&amp;318252" x="2040" y="960" width="120" height="120" visible="0"/>
+  <object id="13" name="18_6&amp;318253" x="2880" y="1560" width="120" height="120" visible="0"/>
+ </objectgroup>
+</map>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.4" orientation="orthogonal" renderorder="right-down" width="87" height="72" tilewidth="40" tileheight="40" infinite="0" nextlayerid="26" nextobjectid="32">
+ <tileset firstgid="1" name="decorate1" tilewidth="120" tileheight="120" tilecount="16" columns="8">
+  <image source="10/decorate3.png" width="960" height="240"/>
+ </tileset>
+ <tileset firstgid="17" name="decorate2" tilewidth="120" tileheight="120" spacing="6" tilecount="32" columns="8">
+  <image source="10/decorate6.png" width="1008" height="504"/>
+ </tileset>
+ <tileset firstgid="49" name="order5" tilewidth="120" tileheight="240" tilecount="4" columns="1">
+  <image source="10/order5.png" width="120" height="960"/>
+ </tileset>
+ <tileset firstgid="53" name="surface" tilewidth="160" tileheight="256" tilecount="6" columns="6">
+  <image source="10/surface2.png" width="960" height="256"/>
+ </tileset>
+ <tileset firstgid="59" name="block" tilewidth="120" tileheight="120" tilecount="1" columns="1">
+  <image source="common/block.png" width="120" height="120"/>
+ </tileset>
+ <tileset firstgid="60" name="caocong" tilewidth="120" tileheight="120" tilecount="1" columns="1">
+  <image source="common/caocong.png" width="120" height="120"/>
+ </tileset>
+ <tileset firstgid="61" name="bianjieshu" tilewidth="360" tileheight="360" tilecount="12" columns="3">
+  <image source="common/bianjieshu.png" width="1080" height="1440"/>
+ </tileset>
+ <tileset firstgid="73" name="common_shu" tilewidth="360" tileheight="360" tilecount="6" columns="3">
+  <image source="common/common_shu.png" width="1080" height="720"/>
+ </tileset>
+ <tileset firstgid="79" name="surface3" tilewidth="960" tileheight="960" spacing="2" tilecount="1" columns="1">
+  <image source="common/surface3.png" width="960" height="960"/>
+ </tileset>
+ <layer id="24" name="surface" width="87" height="72">
+  <data encoding="base64" compression="zlib">
+   eJzt2kERAAAIw7A5xL8bTMBjd4mAKmgCAAAAAAAAAAAAAAAAAFwafQAAAAAAAADgWfs/4E8AABothWkB2w==
+  </data>
+ </layer>
+ <layer id="15" name="decorate4" width="87" height="72">
+  <data encoding="base64" compression="zlib">
+   eJzt2rENgCAARFGW0v1Hs73EWBCinMl7FQvcL4AxAIBdjuIz8L2G7WsC9GjYviZAj4btawL0aNi+JsDdWXbWBPgXTQCSJgBJE4AVmgCs0AQgaQKQNAFImgB7zd4Bvk0TYK+GJnh3gB4N/5k1AXo0dEATgCeaACRNAJImAEkTgNTShAsOCkXa
+  </data>
+ </layer>
+ <layer id="16" name="decorate3" width="87" height="72">
+  <data encoding="base64" compression="zlib">
+   eJzt2zEKgDAUBcFcxNb7H9H214KyCTNVSpu3opC1YD/3oWfgncJ+NQE6CvvVBOgo7FcToKOwX02ADhsEJu9xAACgzLcGNO3yf6D2PHCqXZoA/EMTgEkTgEkTgEkTgEkTgEkTgKlwh9F9Cugo7FcToKOwX02AjsJ+NQE6CvvVBOgo7PeL8xU4Py0NKVQ=
+  </data>
+ </layer>
+ <layer id="17" name="decorate2" width="87" height="72">
+  <data encoding="base64" compression="zlib">
+   eJzt2ssKglAUBVA/okkURS96ENX/f10FBXsiqaVeaC0Q9kjPaKPXU1VAKfZjDwAURScASScASScAKTthGnk29CBAEbIT5o9r8sqLEWYBxqcToJvjgPncerrudAKUbzfgs3QCdLP5Il8jbxs8SyfA/2jy7+8Que9vDZ0A4+pjH6Bth2Q+RV5GXv1gLuAzO0JAukS+NshNzh+A//Gr94p15LrOee4xvs8T7DFCmdq+V9TlW839nTECSScASScASScAKTvBfgJgXwJIOgFIOgFIJXTCHduqDvw=
+  </data>
+ </layer>
+ <layer id="18" name="decorate1" width="87" height="72">
+  <data encoding="base64" compression="zlib">
+   eJzt2bEOgyAUBVBsba2L//+5HToYiYtAgOI5G4Pk5iEqzxAAAAAAAACIvVoH6JCa1PduHWAgU4E5rMfRJ+PaEusBteTc63dztref1VOM5aymS4E5oGdr6wCds6frSan1Fo2do+F+5mh89dsNAK54tA4AABn0TfL4dz2muL84Mr3u/6C39ePs1b+U96Ln0C6lFuoHAAAAAAAAEMIXj78AjQ==
+  </data>
+ </layer>
+ <layer id="20" name="order5" width="87" height="72">
+  <data encoding="base64" compression="zlib">
+   eJzt2DEOwCAIBVCv1Hj/uzl2kcREkxZ8b9OJRYHfGgAAAJDVc/gMANn0rwv4Gb0dAPbpp8AN7FLcbucNyNkBgCpW5hizDgC8ZGoAMbsD1CArAIDz5AkAMX8kANVFWdrsXl8EAADIaQC5iQR2
+  </data>
+ </layer>
+ <layer id="21" name="order2" width="87" height="72">
+  <data encoding="base64" compression="zlib">
+   eJzt2ksSwiAMANBeT3v/+7jt1BHl05rAeys3MiGEAI7bBgAA8Jv93wFApytreMTY9th9Vs517dz3D5+zapnDc3gU63k0fOeqvB/HPcfVEufM1H5ZTX5KtbVi3fXUVm++VqvrCPUVIYY7rTbfGczUF0p33Zp7zzknq9Z1KZ8zvI2AeFrOpFV7NADxOJPeRXhvRoiB3OxtwFlyD3nu4/daoJX+W+/Yc70XyEz9EpW7Ldm5X+Vgncoy3BOsIZCV/yf/T0/ua88d6zreTGd/tndv5tzbi/F92w81a2i9OdfTyH47und/Gi/bGQGQjT4LANd6AWISFDw=
+  </data>
+ </layer>
+ <layer id="22" name="downui" width="87" height="72">
+  <data encoding="base64" compression="zlib">
+   eJztwYEAAAAAw6D5U9/gBFUBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwDGHgAAE=
+  </data>
+ </layer>
+ <layer id="25" name="baoweihe" width="87" height="72">
+  <data encoding="base64" compression="zlib">
+   eJztwYEAAAAAw6D5U9/gBFUBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwDGHgAAE=
+  </data>
+ </layer>
+ <layer id="23" name="block" width="87" height="72">
+  <data encoding="base64" compression="zlib">
+   eJzt2TEOgzAQBED+lf//K20aLJvEZO+Yqa7ALpB2BfZxQD0v87YZKkrITtcZKkrITtcZKkrITtcZKkrITtcZKkrIzo6s3bmPTqCT5Fx/Ols7s6dOgHnVO2F1rU6AsYq5Xn1eJ8C8rp1wtlYnwFjCud/q2lU6AeZVvHf75lxRJ8BYxU64k3fC0yTcKSTzHniarj3g3wGuSeuE1bOC1T11Aoz9695hN98JcE3ad8Kv6AS4ZscZY5V5hk7gaRKy2XWGihKy03WGihKy03WGihKy03WGihKy03V+A0nqdyg=
+  </data>
+ </layer>
+ <objectgroup id="8" name="objects">
+  <object id="19" name="右传送门&amp;780014" x="2760" y="1440" width="120" height="120" visible="0"/>
+  <object id="20" name="左传送门&amp;780013" x="840" y="1440" width="120" height="120" visible="0"/>
+  <object id="21" name="下传送门&amp;780012" x="1560" y="2040" width="120" height="120" visible="0"/>
+  <object id="22" name="上传送门&amp;780011" x="1920" y="840" width="120" height="120" visible="0"/>
+  <object id="23" name="怪&amp;1920061" x="1440" y="1320" width="120" height="120"/>
+  <object id="24" name="怪&amp;1920062" x="2040" y="1440" width="120" height="120"/>
+  <object id="25" name="怪&amp;1920063" x="1080" y="1680" width="120" height="120"/>
+  <object id="27" name="银宝箱&amp;380061" x="1320" y="960" width="120" height="120"/>
+  <object id="28" name="富士老人&amp;1120061" x="840" y="1200" width="120" height="120"/>
+  <object id="29" name="怪宝箱&amp;380062" x="1560" y="1080" width="120" height="120" visible="0"/>
+  <object id="30" name="怪宝箱&amp;380063" x="2160" y="1200" width="120" height="120" visible="0"/>
+  <object id="31" name="怪宝箱&amp;380064" x="1320" y="1680" width="120" height="120" visible="0"/>
+ </objectgroup>
+</map>

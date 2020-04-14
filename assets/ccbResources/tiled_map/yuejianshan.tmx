@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.4" orientation="orthogonal" renderorder="right-down" width="100" height="82" tilewidth="40" tileheight="40" infinite="0" nextlayerid="132" nextobjectid="61">
+ <tileset firstgid="1" name="caocong" tilewidth="120" tileheight="120" tilecount="1" columns="1">
+  <image source="common/caocong.png" width="120" height="120"/>
+ </tileset>
+ <tileset firstgid="2" name="common_shu" tilewidth="360" tileheight="360" tilecount="6" columns="3">
+  <image source="common/common_shu.png" width="1080" height="720"/>
+ </tileset>
+ <tileset firstgid="8" name="dashu" tilewidth="900" tileheight="900" tilecount="1" columns="1">
+  <image source="yuejianshan/dashu.png" width="900" height="900"/>
+ </tileset>
+ <tileset firstgid="9" name="block" tilewidth="80" tileheight="80" tilecount="1" columns="1">
+  <image source="yuejianshan/block.png" width="80" height="80"/>
+ </tileset>
+ <tileset firstgid="10" name="yuganshuzhuang1" tilewidth="480" tileheight="480" tilecount="1" columns="1">
+  <image source="yuejianshan/yuganshuzhuang1.png" width="480" height="480"/>
+ </tileset>
+ <tileset firstgid="11" name="yuganshuzhuang2" tilewidth="480" tileheight="480" tilecount="1" columns="1">
+  <image source="yuejianshan/yuganshuzhuang2.png" width="480" height="480"/>
+ </tileset>
+ <tileset firstgid="12" name="yuejianshan2" tilewidth="200" tileheight="200" tilecount="10" columns="5">
+  <image source="yuejianshan/yuejianshan2.png" width="1000" height="400"/>
+ </tileset>
+ <tileset firstgid="22" name="shitou012" tilewidth="500" tileheight="500" tilecount="1" columns="1">
+  <image source="yuejianshan/shitou012.png" width="500" height="500"/>
+ </tileset>
+ <tileset firstgid="23" name="yuejianshan3" tilewidth="360" tileheight="360" tilecount="2" columns="2">
+  <image source="yuejianshan/yuejianshan3.png" width="720" height="360"/>
+ </tileset>
+ <tileset firstgid="25" name="yuejianshanditu_01" tilewidth="1000" tileheight="1000" tilecount="1" columns="1">
+  <image source="yuejianshan/yuejianshanditu_01.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="26" name="yuejianshanditu_02" tilewidth="1000" tileheight="1000" tilecount="1" columns="1">
+  <image source="yuejianshan/yuejianshanditu_02.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="27" name="yuejianshanditu_03" tilewidth="1000" tileheight="1000" tilecount="1" columns="1">
+  <image source="yuejianshan/yuejianshanditu_03.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="28" name="yuejianshanditu_12" tilewidth="1000" tileheight="1000" tilecount="1" columns="1">
+  <image source="yuejianshan/yuejianshanditu_12.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="29" name="yuejianshanditu_04" tilewidth="1000" tileheight="1000" tilecount="1" columns="1">
+  <image source="yuejianshan/yuejianshanditu_04.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="30" name="yuejianshanditu_05" tilewidth="1000" tileheight="1000" tilecount="1" columns="1">
+  <image source="yuejianshan/yuejianshanditu_05.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="31" name="yuejianshanditu_06" tilewidth="1000" tileheight="1000" tilecount="1" columns="1">
+  <image source="yuejianshan/yuejianshanditu_06.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="32" name="yuejianshanditu_07" tilewidth="1000" tileheight="1000" tilecount="1" columns="1">
+  <image source="yuejianshan/yuejianshanditu_07.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="33" name="yuejianshanditu_08" tilewidth="1000" tileheight="1000" tilecount="1" columns="1">
+  <image source="yuejianshan/yuejianshanditu_08.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="34" name="yuejianshanditu_09" tilewidth="1000" tileheight="1000" tilecount="1" columns="1">
+  <image source="yuejianshan/yuejianshanditu_09.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="35" name="yuejianshanditu_10" tilewidth="1000" tileheight="1000" tilecount="1" columns="1">
+  <image source="yuejianshan/yuejianshanditu_10.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="36" name="yuejianshanditu_11" tilewidth="1000" tileheight="1000" tilecount="1" columns="1">
+  <image source="yuejianshan/yuejianshanditu_11.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="37" name="yuejianshanditu_16" tilewidth="1000" tileheight="280" tilecount="1" columns="1">
+  <image source="yuejianshan/yuejianshanditu_16.png" width="1000" height="280"/>
+ </tileset>
+ <tileset firstgid="38" name="yuejianshanditu_13" tilewidth="1000" tileheight="280" tilecount="1" columns="1">
+  <image source="yuejianshan/yuejianshanditu_13.png" width="1000" height="280"/>
+ </tileset>
+ <tileset firstgid="39" name="yuejianshanditu_14" tilewidth="1000" tileheight="280" tilecount="1" columns="1">
+  <image source="yuejianshan/yuejianshanditu_14.png" width="1000" height="280"/>
+ </tileset>
+ <tileset firstgid="40" name="yuejianshanditu_15" tilewidth="1000" tileheight="280" tilecount="1" columns="1">
+  <image source="yuejianshan/yuejianshanditu_15.png" width="1000" height="280"/>
+ </tileset>
+ <tileset firstgid="41" name="hualandongxue_01" tilewidth="1000" tileheight="880" tilecount="1" columns="1">
+  <image source="yuejianshan/hualandongxue_01.png" width="1000" height="880"/>
+ </tileset>
+ <tileset firstgid="42" name="hualandongxue_02" tilewidth="680" tileheight="880" tilecount="1" columns="1">
+  <image source="yuejianshan/hualandongxue_02.png" width="680" height="880"/>
+ </tileset>
+ <tileset firstgid="43" name="order1" tilewidth="200" tileheight="200" tilecount="6" columns="3">
+  <image source="yuejianshan/order1.png" width="600" height="400"/>
+ </tileset>
+ <layer id="126" name="surface" width="100" height="82">
+  <data encoding="base64" compression="zlib">
+   eJztzVkRwkAAQLG1AQV6cBT/CvGww7yvxEDGAAAAAAAAAAAAYMYlOK7BsQTHPTgAAAAAAAAAAACY8wiONTi24NiDAwAAAAAAAAAAgDlHcDyD4xUct+AAAOC/PsFxBsc3ON7B8QMDogIJ
+  </data>
+ </layer>
+ <layer id="127" name="order1" width="100" height="82">
+  <data encoding="base64" compression="zlib">
+   eJzt10uugzAMQNF0/5t+IyQU+ccDYjvcI1WUtIP87DhjAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMBav2Ab1vpNT+SIxAdrtNYcG1KsnNvOH7xrnu95HebveJ53dmhrgndI82zlJ/LVu6w9P8/7Tmvh1S1ZY9Tmd7ezQ6pP5u/n9+zcbOUtra0TK+dKdUzmOK0YqNLHJ3hnofSeZee7obS/pHbpP6tJ8XBur7Rn7rDGUmmskT3Svda1aseK9YrVhx3OD69mqjQu6+y27ondSHuqYk1v9XP+vet6RPeXdS9ZKdKfKvvnCVaNO0b+Wmh1xnB+68iL9ew8oOXT49m9tpp561AhJ1v5ysq7XUTGVyUPWLW59L5LjGixkB0jXr46ntn9vEPrrxYL2eth5aa5vaMrtWKVczISJzuqcm4cIvVVdh/vunL/q7AHtfnufGZERO8hK2l3wO4x8R9Vasjd8tMVXk2Z0Zevs+phrOPdeVmPPJXqq6+qVlt9lbUO1jsAAG/6A8gFAW4=
+  </data>
+ </layer>
+ <layer id="128" name="order2" width="100" height="82">
+  <data encoding="base64" compression="zlib">
+   eJzt3ElSwkAUAFBKNp4AvYJuvP/tWFlFaWh6nvLeUgNpfv7QEPRyAQBgJm+jF0A2144Sz/LnWvi8pY/fXYu6fYx5q76wU7+plaOrxGSVdc4uJo6t+uqM/r4mecajGjm/Y93kiK0t8SqT279bx3313rrq+tUTM+iZh6FaXbWOc8XEPSUmveJ3tuu0s68O5/hOPP7z4GepORd7fKvn/RXbW1N68E/iGqjn1vl8u1xre932cmNsns/rffQCFlPSZ1rNdl4Ty7CRvT323OYIkOKoZ1wDv3v1WJidPT21fIxeAHAa9lxjpL7/P7qHBtCTz3XXYbZDvt7fDQHWFtofuf+xB3vgeuQ8/KfHALsz/+sSz3X4/1mQR5/jbPR7iJczI8yVcfQ3dqe/wBjmS13+jhyAZ9zjmJ/5DO2or/WZQ2OonbBQfFJyVn5DHrWTLjVmd56SAhE=
+  </data>
+ </layer>
+ <layer id="129" name="block" width="100" height="82">
+  <properties>
+   <property name="piece_h" type="int" value="2"/>
+   <property name="piece_w" type="int" value="2"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztmDEOgzAQBGnz/w9HdDmJCGNz3j17ptkm4oy9kxCOA5z4kFYJXqj7QMYEL9R9IGOCF+o+kDHBC3UfyJjghboPZEzwQt0HMiZ4oe4DGRO8UPeBjAleqPtAxgQv1H1wz6Pxc/ixJur+Zfcoq5fq+4I5qHs+2gtVz9z2AXJ4+zyr/h60znu6DvyozdvnqOrt23Purosfe5B1jtXPHz/gBD+uwQ84me1HlR5k9b/6vuwG5zoGfqwN5zoGfqwN5/sMnq/2QvV87dqHf+vi/8eevNXz2X2Y3bPe+8GP2lT9npu9zt451fYVIlX9qAL7Whv8yIV9rQ1+5MK+1mYXP56+Z8ieu8q+ro7Kj+z3Xqr3aqPrAC/wo+/6reBHbVz9yL7+rPvFj9qs6kfvXPyAX3bz427+rDn4UQP8aJvbuy78qM0sP9x6wu8HtIAf13NV7wnAi2w/VM9vd/SuK/v+wYvRnmRlNvgBLag9UPdxt+dKeIa692RM8ELdBzLmF+thL2U=
+  </data>
+ </layer>
+ <layer id="130" name="downui" width="100" height="82">
+  <data encoding="base64" compression="zlib">
+   eJztwYEAAAAAw6D5Ux/hAlUBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM8AgCAAAQ==
+  </data>
+ </layer>
+ <layer id="131" name="revive" width="100" height="82" visible="0">
+  <properties>
+   <property name="piece_h" type="int" value="2"/>
+   <property name="piece_w" type="int" value="2"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt0yEBAAAIxEAs/QuT4AUW7swSrAoAAAAAAAAAAAAAAAC4qpeFT/wBmT8g8wdk/gAAAAAAAAAAAAAAAAAAAOCDAd4PAQ8=
+  </data>
+ </layer>
+ <objectgroup id="37" name="objects">
+  <object id="11" name="出生点&amp;999997" x="1920" y="1440" width="80" height="80"/>
+  <object id="18" name="垂钓者&amp;1200027" x="2040" y="2720" width="120" height="120" visible="0"/>
+  <object id="19" name="狩猎地带&amp;1200026" x="800" y="1440" width="240" height="240"/>
+  <object id="21" name="采矿中心&amp;1200025" x="2880" y="1440" width="422.545" height="383.879" visible="0"/>
+  <object id="22" name="华蓝洞穴&amp;1200024" x="1920" y="760" width="120" height="120" visible="0"/>
+  <object id="23" name="钻石补给车&amp;1411003" x="2000" y="1840" width="80" height="80" visible="0"/>
+  <object id="24" name="补给车&amp;1411001" x="1920" y="1840" width="80" height="80"/>
+  <object id="25" name="体力补给车&amp;1411002" x="2400" y="1280" width="80" height="80" visible="0"/>
+  <object id="42" name="钓鱼5&amp;1200020" x="1200" y="3120" width="1440" height="160" visible="0"/>
+  <object id="30" name="钓鱼4&amp;1200019" x="2480" y="2400" width="320" height="720" visible="0"/>
+  <object id="31" name="钓鱼3&amp;1200018" x="2160" y="2320" width="480" height="80" visible="0"/>
+  <object id="33" name="钓鱼2&amp;1200017" x="1200" y="2320" width="640" height="80" visible="0"/>
+  <object id="34" name="钓鱼1&amp;1200016" x="1200" y="2400" width="320" height="720" visible="0"/>
+  <object id="37" name="草丛5&amp;899705" x="560" y="1760" width="640" height="1200"/>
+  <object id="39" name="草丛3&amp;899703" x="2880" y="2040" width="640" height="1080"/>
+  <object id="47" name="排名台子&amp;299822" x="1921" y="1077" width="80" height="80">
+   <properties>
+    <property name="cell" value="downui"/>
+   </properties>
+  </object>
+  <object id="48" name="排名雕像2&amp;2000002" x="1812" y="942" width="80" height="80"/>
+  <object id="49" name="排名雕像&amp;2000001" x="1954" y="912" width="80" height="80"/>
+  <object id="50" name="排名雕像3&amp;2000003" x="2084" y="971" width="80" height="80"/>
+  <object id="48" name="狩猎传送门&amp;299501" x="880" y="1520" width="80" height="80"/>
+  <object id="49" name="兑换NPC&amp;1200030" x="1440" y="1920" width="143.636" height="186.061"/>
+  <object id="50" name="兑换NPC形象&amp;199951" x="1470.3" y="1996.97" width="80" height="80"/>
+  <object id="51" name="普通补给站1&amp;1411004" x="1600" y="2560" width="80" height="80"/>
+  <object id="52" name="普通补给站2&amp;1412004" x="2240" y="2560" width="80" height="80"/>
+  <object id="53" name="普通补给站3&amp;1413004" x="2160" y="2880" width="80" height="80"/>
+  <object id="54" name="普通补给站4&amp;1414004" x="1680" y="2880" width="80" height="80"/>
+  <object id="57" name="普通补给站8&amp;1414005" x="1440" y="1680" width="80" height="80"/>
+  <object id="58" name="普通补给站7&amp;1413005" x="2480" y="1680" width="80" height="80"/>
+  <object id="59" name="普通补给站6&amp;1412005" x="2560" y="1600" width="80" height="80" visible="0"/>
+  <object id="60" name="普通补给站5&amp;1411005" x="1920" y="2640" width="80" height="80"/>
+ </objectgroup>
+</map>

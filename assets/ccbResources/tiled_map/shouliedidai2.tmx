@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.1" orientation="orthogonal" renderorder="right-down" width="100" height="60" tilewidth="40" tileheight="40" infinite="0" nextlayerid="177" nextobjectid="82">
+ <tileset firstgid="1" name="block" tilewidth="80" tileheight="80" tilecount="1" columns="1">
+  <image source="yuejianshan/block.png" width="80" height="80"/>
+ </tileset>
+ <tileset firstgid="2" name="shouliedidaiditu_01" tilewidth="1000" tileheight="1000" spacing="2" tilecount="1" columns="1">
+  <image source="shouliedidai/shouliedidaiditu_01.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="3" name="shouliedidaiditu_02" tilewidth="1000" tileheight="1000" spacing="2" tilecount="1" columns="1">
+  <image source="shouliedidai/shouliedidaiditu_02.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="4" name="shouliedidaiditu_03" tilewidth="1000" tileheight="1000" spacing="2" tilecount="1" columns="1">
+  <image source="shouliedidai/shouliedidaiditu_03.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="5" name="shouliedidaiditu_04" tilewidth="1000" tileheight="1000" spacing="2" tilecount="1" columns="1">
+  <image source="shouliedidai/shouliedidaiditu_04.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="6" name="shouliedidaiditu_05" tilewidth="1000" tileheight="1000" spacing="2" tilecount="1" columns="1">
+  <image source="shouliedidai/shouliedidaiditu_05.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="7" name="shouliedidaiditu_06" tilewidth="1000" tileheight="1000" spacing="2" tilecount="1" columns="1">
+  <image source="shouliedidai/shouliedidaiditu_06.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="8" name="shouliedidaiditu_07" tilewidth="1000" tileheight="1000" spacing="2" tilecount="1" columns="1">
+  <image source="shouliedidai/shouliedidaiditu_07.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="9" name="shouliedidaiditu_08" tilewidth="1000" tileheight="1000" spacing="2" tilecount="1" columns="1">
+  <image source="shouliedidai/shouliedidaiditu_08.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="10" name="shouliedidaiditu_09" tilewidth="1000" tileheight="400" spacing="2" tilecount="1" columns="1">
+  <image source="shouliedidai/shouliedidaiditu_09.png" width="1000" height="400"/>
+ </tileset>
+ <tileset firstgid="11" name="shouliedidaiditu_10" tilewidth="1000" tileheight="400" spacing="2" tilecount="1" columns="1">
+  <image source="shouliedidai/shouliedidaiditu_10.png" width="1000" height="400"/>
+ </tileset>
+ <tileset firstgid="12" name="shouliedidaiditu_11" tilewidth="1000" tileheight="400" spacing="2" tilecount="1" columns="1">
+  <image source="shouliedidai/shouliedidaiditu_11.png" width="1000" height="400"/>
+ </tileset>
+ <tileset firstgid="13" name="shouliedidaiditu_12" tilewidth="1000" tileheight="400" spacing="2" tilecount="1" columns="1">
+  <image source="shouliedidai/shouliedidaiditu_12.png" width="1000" height="400"/>
+ </tileset>
+ <tileset firstgid="14" name="jingshipai" tilewidth="200" tileheight="280" spacing="2" tilecount="1" columns="1">
+  <image source="shouliedidai/jingshipai.png" width="200" height="280"/>
+ </tileset>
+ <tileset firstgid="15" name="common_shu" tilewidth="360" tileheight="360" tilecount="6" columns="3">
+  <image source="common/common_shu.png" width="1080" height="720"/>
+ </tileset>
+ <tileset firstgid="21" name="anquanxiao" tilewidth="240" tileheight="720" tilecount="1" columns="1">
+  <image source="shouliedidai/anquanxiao.png" width="240" height="720"/>
+ </tileset>
+ <layer id="169" name="surface" width="100" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztzTcRgAAAADGOXv3bxQPDLyQGMgwAAAAAAAAAAAB8MQbHFBxzcCzBAQAAAAAAAAAAwDdrcGzBsQfHERwAAAD80xkcV3DcwfEExwuCcwBb
+  </data>
+ </layer>
+ <layer id="176" name="decorate1" width="100" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztzgENAAAIA6CXsH9VY3w6SEACAAAAAAAAAAAAAAAAAL9MOwAAAAAAAAAAAMBZC4bBABY=
+  </data>
+ </layer>
+ <layer id="171" name="order1" width="100" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt2sENACAIA0AmUPef1g1UfEhM7ibok4ZGAAAAAAA7vToAQMKoDgDAd1b3bnuWAgAAAAAAAKjmP1jD3geALPt2AG7pHwAAAAAA5yZH0QB6
+  </data>
+ </layer>
+ <layer id="173" name="block" width="100" height="60">
+  <properties>
+   <property name="piece_h" type="int" value="2"/>
+   <property name="piece_w" type="int" value="2"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt0zEShFAQQkH3/pc2/qFYC8z4OiGyVGq4LjT5kVWJLul7IM9El/Q9kGeiS/oevnI/2/9vq9Z73XY36T6had/HFuk+oWEfHuk+oWEfHuk+oWEfHuk+oWnfx5b7SfcJTes+tqHPmdiHB33OxD486HMm9uFBnzOxDw/6nIl9eNDnTOzDgz5nYh8e9DlT6z623U+6T2ja97FFuk9o2IdHuk9o2IdHuk9o2IdHuk9o2vbx9v2t98Y+ZmrZx9vvUL+z7f/QhX1ozz3FPmb6912SzxJd0vdAnoku6Xsgz0SX9D2QZ96KhgLQ
+  </data>
+ </layer>
+ <layer id="174" name="downui" width="100" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T+3sARQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADddwAAB
+  </data>
+ </layer>
+ <layer id="175" name="revive" width="100" height="60" visible="0">
+  <properties>
+   <property name="piece_h" type="int" value="2"/>
+   <property name="piece_w" type="int" value="2"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt0zERACAQwLDHv2kUdGBggEuWKugMAAAAnFuXCj/wBzR/QPMHNH9A8wc0f0DzBzR/QPMHNH9A8wc0f0DzBzR/QPMHNH9A8wc0f0DzBTRfQPMHAADAmzb9pQDu
+  </data>
+ </layer>
+ <objectgroup id="37" name="objects">
+  <object id="78" name="出生点&amp;999201" x="800" y="1120" width="80" height="80"/>
+  <object id="79" name="普通补给点&amp;1400002" x="1680" y="960" width="80" height="80"/>
+  <object id="80" name="战斗区&amp;699922" x="1600" y="560" width="240" height="240"/>
+  <object id="81" name="战斗区&amp;699921" x="1600" y="1280" width="240" height="240"/>
+ </objectgroup>
+</map>

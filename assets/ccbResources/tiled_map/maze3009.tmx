@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.4" orientation="orthogonal" renderorder="right-down" width="93" height="87" tilewidth="40" tileheight="40" infinite="0" nextlayerid="88" nextobjectid="41">
+ <tileset firstgid="1" name="decorate_wenluo" tilewidth="360" tileheight="360" tilecount="2" columns="2">
+  <image source="18/decorate_wenluo.png" width="720" height="360"/>
+ </tileset>
+ <tileset firstgid="3" name="decorate2" tilewidth="120" tileheight="120" tilecount="16" columns="8">
+  <image source="18/decorate2.png" width="960" height="240"/>
+ </tileset>
+ <tileset firstgid="19" name="decorate4" tilewidth="120" tileheight="120" tilecount="35" columns="7">
+  <image source="18/decorate4.png" width="840" height="600"/>
+ </tileset>
+ <tileset firstgid="54" name="order2" tilewidth="360" tileheight="360" tilecount="10" columns="5">
+  <image source="18/order2.png" width="1800" height="720"/>
+ </tileset>
+ <tileset firstgid="64" name="order3" tilewidth="240" tileheight="240" tilecount="8" columns="4">
+  <image source="18/order3.png" width="960" height="480"/>
+ </tileset>
+ <tileset firstgid="72" name="surface" tilewidth="160" tileheight="256" spacing="2" tilecount="18" columns="6">
+  <image source="18/surface.png" width="972" height="774"/>
+ </tileset>
+ <tileset firstgid="90" name="block" tilewidth="120" tileheight="120" tilecount="1" columns="1">
+  <image source="common/block.png" width="120" height="120"/>
+ </tileset>
+ <tileset firstgid="91" name="caocong" tilewidth="120" tileheight="120" tilecount="1" columns="1">
+  <image source="common/caocong.png" width="120" height="120"/>
+ </tileset>
+ <tileset firstgid="92" name="decorate1" tilewidth="120" tileheight="120" spacing="6" tilecount="16" columns="8">
+  <image source="18/decorate1.png" width="1008" height="252"/>
+ </tileset>
+ <tileset firstgid="108" name="common_shu" tilewidth="360" tileheight="360" tilecount="6" columns="3">
+  <image source="common/common_shu.png" width="1080" height="720"/>
+ </tileset>
+ <layer id="78" name="surface" width="93" height="87">
+  <data encoding="base64" compression="zlib">
+   eJztnFFqwzAQRHMh36P5TJ0D5Gg9agmtYdlopJHUgIve++myyLYa0Hi1Y/tyAQAAgBk+Q3wj/7Y8wGrEtbCTf1seYDXOcE9fIQ+wGnEtXMm/LQ+wGiP34kfn+C3kN5Gfmc9/yAOshrNGcm1f0odd5GscY+7iWqqPcRdxrBPUsSq+iRhtARjDWctPNiMusYs4HturJ1cjjloX17ijY/RyAeZx77lRQx6FfKxVrkbeOVbFNxFHPblcytqSjz1Q+kAvF2AMpyf5pKdWcfmr87TOn3uqSqMO6OUCzKN6FGo9xtjZm6hYncepAdT+xdlzZVr7Muf3cfIAqxH7D7vIP2ntNdQaV33XfJ5WrHovHyGu9ZwPCvr2lceo+c/kAVbDveeWtCWO+Ujx1oh7URpV05ZSXo15R63CnghWxu1Dlnq5cXxc43l8id49lKqLlLYoT1nVWkq7YowHDeAz40HHta+0JWtFy0uqxaV5xus6eqL0ynlOBg8awGfEgx7VlhFK2hLjeF2n3lDPwOQ+yWifGQ8a4IcZD9rRlt7+p+r35n5OKVZ6ErVCPQOjaoxca5XOjwcN8MqMB632JhFVb2Rt2QpxvlYrdj2a1v+idBUPGsBnxIN+/P6tvafT00vJ5x9FzT/7U6VrOc/34kED+Mx40G7fskc31LMoTlzbW5VwxkTwoOv0/p4wz5l/8xEPutVfVfsap2eitMXxoGPtoXRG7aGcueFBA/jMeNC5T9Ia73g6Sq9UfVLr86hn/lvvR9d0qTQ3PGiAV2Y86EitNmtpi/MMieNBqzpBfU/G+fYCHjTAGDMedKxb4vfoansiVfMcxzrfW4j7mnjOOIesJ0f+FuI95UvvMeFBA4wx40GvFuNBA/i4HjTgQQP04Nxzz/At6zPk8aABfHq/xbRyHg8awMdZU2eoGc6Qn/WgvwH14POf
+  </data>
+ </layer>
+ <layer id="79" name="decorate1" width="93" height="87">
+  <data encoding="base64" compression="zlib">
+   eJzt3CkOwwAQBEH/JScxSf7/t1CjkTzS5nIVGrio4S4L/L/10wcAf0lbgAnaAkzQFmCCtgATtAWYsLctj81+HmCfFqCxty3nkSu+1+XTB8CP0pZMW6CjLZm2QEdbMm2BjrZk2gIdbcm0BTrakmkLdLQl0xboaEumLdDRlkxboKMtmbZAR1sybYGOtmTaAh1tybQFOtqSaQt0tCXTFuhoS6Yt0Nnblutm3w6w7wvQ8C8XmKAtwARtASas9tv3CydGFoo=
+  </data>
+ </layer>
+ <layer id="80" name="decorate2" width="93" height="87">
+  <data encoding="base64" compression="zlib">
+   eJzt2VsOgjAQBdDKSt3/KvSHiA8gxdIO7TlfJBpobss4GVMCAAAAAAAAAACIZ2q9gMEs877tfHfvc8rzPpQ1pe1Mj+a9d18AXtTLeuasb0nuQD/03utkU9bWDCRnlpLDHr6rlcXo865p5ZprGP38EtvzfN5br4F4Ruh3otTmKOso6Yz/d/g2zxLXMo32HkdaC9cR7RyPRO7t9NgbXI09AEpQS5j12NPWOt/L5/SWIXC+FvX31/NGqV9HfxtGyae1z5yP5K6/3eYs1yNrRqDmxmNP6lLr68nN2t7kKZGXzPP9k5l5JAAAAAAAuR4CLADe
+  </data>
+ </layer>
+ <layer id="81" name="decorate3" width="93" height="87">
+  <data encoding="base64" compression="zlib">
+   eJzt22FrwyAUhWFhMLplDPL//+wILCA2NppGPdf7Pl9a0kLsqdGraUMAAAAAAAAAAAAAAMCHdXQDJvJV8V5yr1OTLWDRR6fzPP4fvzOvp8ctX3tx23vli3s9Co/BD/UxSb19uAd1/Bi/oxvgzJo8evIz6Lxr8Jl3bAnP+S8dz19bZ1quS1v381w22/fpvZ+PQu7PWl3DW81C3u9Jx/6ec4Fl296X6tzkpc5R2xM4WkNZ3iMdVae/El9zaT/P7b971LrfeRhfVFjPOh4XLa39reeuoGWGavO/irPMVevWK7bPcnc/uFJHtFw3Kfdz1ovw4KxusbzOU/dOtnwvUPY5ugEH0vqQdVCZXE4e82tRl+fs+wu5nPltC3qj7tB1NB4cHSsdtz2O75bt9Y3lvYve97osZ6WO+kRLyXg+y/zes05Pz7srnT9nyVwF485clO8TAWinZA6d6b6/srXyOa45yzD+j52X30T38Oo+xxLYKwAAAAAAAAAA5P0Bbc4FXQ==
+  </data>
+ </layer>
+ <layer id="83" name="decorate4" width="93" height="87">
+  <data encoding="base64" compression="zlib">
+   eJzt3FtuwzAMRNFsoMj+dxsURRHA8EMPihqS93z1w3EkcqzITtDXCwDi+tk9AHR5Nx531dfW19+dQ8XVXFrG3VOH0ffIINs8Z/sOW/QDAAAACtiX2qKeerLd2wPwZbmusx75aql3T0+Ox/aen/6Po3Z2RnK88v2zyT6/Fgr3Q5brv0VPycW8sxqO1FUhnztUyODO3lrX9/d8VbOqYLT2Ua6zKOPEfhmykmEOFvhMuRelPuRZm9X9ytlrdz/HiUapPivHcrZ2rfgeQ6me+ENPvlQ+w73WaXrfh3rhyHvNiLyH86iVZz1mfgsAbSp7AQ9kM7dKWf5Hpu+1ZMI6N/SkltXPlZ4o5E1hDLBx7GVLlpX633vtrRy7Ul1mqc5lZK2d/X86FVjMvbXOFffuT7zW3Z0Zp+/xrejhylyQuTHvi7+roxY+Ku/FRqyoV5Ssk5V+6jXzyl6UjCtYee8dhfp1gzos9ujkua5sazN88YwgFsseZej3SH4zzBuIiusPwAjWDgAAkFnPXufuWIs90+w5ou7brHrggWeD9vhuzUaVOn4ALMgHsA==
+  </data>
+ </layer>
+ <layer id="84" name="order3" width="93" height="87">
+  <data encoding="base64" compression="zlib">
+   eJzt3cFygkAMxnGfyk57su3z8P5Xx56YLa4I2c2X5P+7qFMHQhJgoYCXCwAAAADks3gHACA8i+2IwrZIIYZI3s3XyO9b1o4++K9CTrz6bSSVOFXisLC1LL3lO/q3GSx6fs802u94L/fayFgi7pcs+lWpvs94jlvPzjtCfiuhHjlR17o+vAPYQD+e9+kdAP4ojGe3XFfvM/eK0nHp7+T5VcC+AgroQ1Sl2PuKxzV7KeazmtE1UK9x5PUHvmb19rX5fDOc9pfhtLaor//QYHnO4MdwWvC3NK/oa/cXyMN6HRi9TjG+jivz/0ta9Gls394B7BTl+sSoyEFelWr72J6dPY6tlK+sqtSQ8ZeOKj2niNz7Iv95zKql9fWOs6+fpOeBWqKcL2uxrYqdgyzHeVFqkPleDKv7rqPUEjoib8fo97g5uHkHYCBq7oGj6Hl/EZ/fBKjrXW8ceZy8xvqeDzXtIz+5UM++5cl72CCndR2pfbR7nTLb+5zsVzk+8szhs8/oHnncb9HXM/uyyjkQ5dge1ON7ZVT8o3+HpLIzuVKpd7T5KbB6rn3F3EVEnWztyecd14w3TQ==
+  </data>
+ </layer>
+ <layer id="85" name="block" width="93" height="87">
+  <data encoding="base64" compression="zlib">
+   eJzt2kESgyAQBEDfmdf51By8WsmiuwjSfZoTlaRqJwhuGwAAAABAjo8czkDcCDM7SwbiRpjZWTIQF5yv/V+u/jzV6+sWyOX//fDW7wVPMVMHvwPkqpipyDNU6/NU9d5Jt0Cu6pmKnNtcWKcpZ60PxOmW3HWAQ8+Zqu6WO3QL5GqdqTv3ziN0y2r3X/CUFWZq5bt1eMpqM6VboI8O5xj7Wb655mmuWFO3wDWd329J5/0WGFPiGel+lqvZt8CYirqlG/sWGFNFt8xIt0Cu4F3J3pJnpFsgV9a7H7oFSOyTpTLw2whzOmMGfhthTmfMAABv9QXiF4cz
+  </data>
+ </layer>
+ <layer id="87" name="baoweihe" width="93" height="87">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20LL6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeBt+bAAB
+  </data>
+ </layer>
+ <layer id="86" name="downui" width="93" height="87">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20LL6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeBt+bAAB
+  </data>
+ </layer>
+ <objectgroup id="58" name="objects">
+  <object id="19" name="右传送门&amp;780014" x="2640" y="2040" width="120" height="120" visible="0"/>
+  <object id="20" name="左传送门&amp;780013" x="720" y="1920" width="120" height="120" visible="0"/>
+  <object id="21" name="下传送门&amp;780012" x="1320" y="2520" width="120" height="120" visible="0"/>
+  <object id="22" name="上传送门&amp;780011" x="1560" y="840" width="120" height="120" visible="0"/>
+  <object id="27" name="银宝箱&amp;330095" x="1800" y="2520" width="120" height="120"/>
+  <object id="28" name="宝箱&amp;330094" x="840" y="1320" width="120" height="120"/>
+  <object id="29" name="宝箱&amp;330093" x="1320" y="840" width="120" height="120"/>
+  <object id="30" name="宝箱&amp;330092" x="2520" y="2160" width="120" height="120"/>
+  <object id="31" name="宝箱&amp;330091" x="1680" y="1800" width="120" height="120"/>
+  <object id="32" name="宝箱消失出现&amp;630097" x="1080" y="960" width="120" height="240"/>
+  <object id="33" name="宝箱消失出现&amp;630096" x="1320" y="1800" width="120" height="240"/>
+  <object id="34" name="宝箱消失出现&amp;630095" x="1560" y="1680" width="360" height="120"/>
+  <object id="35" name="宝箱消失出现&amp;630094" x="1440" y="2040" width="600" height="120"/>
+  <object id="36" name="宝箱消失出现&amp;630093" x="2040" y="1800" width="120" height="240"/>
+  <object id="38" name="宝箱消失出现&amp;630092" x="2160" y="2520" width="120" height="360"/>
+  <object id="39" name="宝箱消失出现&amp;630091" x="2040" y="840" width="120" height="360"/>
+  <object id="40" name="捕虫少年&amp;130091" x="1920" y="1920" width="120" height="120"/>
+ </objectgroup>
+</map>

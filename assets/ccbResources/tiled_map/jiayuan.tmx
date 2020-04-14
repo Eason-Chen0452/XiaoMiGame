@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.4" orientation="orthogonal" renderorder="right-down" width="96" height="57" tilewidth="40" tileheight="40" infinite="0" nextlayerid="17" nextobjectid="31">
+ <tileset firstgid="1" name="block" tilewidth="120" tileheight="120" tilecount="1" columns="1">
+  <image source="common/block.png" width="120" height="120"/>
+ </tileset>
+ <tileset firstgid="2" name="order3_zawu_001" tilewidth="360" tileheight="360" tilecount="1" columns="1">
+  <image source="jiayuan/order3_zawu_001.png" width="360" height="360"/>
+ </tileset>
+ <tileset firstgid="3" name="shitou01" tilewidth="460" tileheight="460" tilecount="1" columns="1">
+  <image source="jiayuan/shitou01.png" width="460" height="460"/>
+ </tileset>
+ <tileset firstgid="4" name="zalan01" tilewidth="400" tileheight="400" tilecount="1" columns="1">
+  <image source="jiayuan/zalan01.png" width="400" height="400"/>
+ </tileset>
+ <tileset firstgid="5" name="zalan02" tilewidth="400" tileheight="400" tilecount="1" columns="1">
+  <image source="jiayuan/zalan02.png" width="400" height="400"/>
+ </tileset>
+ <tileset firstgid="6" name="zalan03" tilewidth="460" tileheight="460" tilecount="1" columns="1">
+  <image source="jiayuan/zalan03.png" width="460" height="460"/>
+ </tileset>
+ <tileset firstgid="7" name="zalan04" tilewidth="200" tileheight="200" tilecount="1" columns="1">
+  <image source="jiayuan/zalan04.png" width="200" height="200"/>
+ </tileset>
+ <tileset firstgid="8" name="order_017" tilewidth="200" tileheight="200" tilecount="1" columns="1">
+  <image source="jiayuan/order_017.png" width="200" height="200"/>
+ </tileset>
+ <tileset firstgid="9" name="order_016" tilewidth="200" tileheight="200" tilecount="1" columns="1">
+  <image source="jiayuan/order_016.png" width="200" height="200"/>
+ </tileset>
+ <tileset firstgid="10" name="gonghuiditu7" tilewidth="120" tileheight="240" tilecount="4" columns="1">
+  <image source="jiayuan/gonghuiditu7.png" width="120" height="960"/>
+ </tileset>
+ <tileset firstgid="14" name="shu_002" tilewidth="360" tileheight="360" tilecount="1" columns="1">
+  <image source="jiayuan/shu_002.png" width="360" height="360"/>
+ </tileset>
+ <tileset firstgid="15" name="jiayuanditu_03" tilewidth="1200" tileheight="1200" tilecount="1" columns="1">
+  <image source="jiayuan/jiayuanditu_03.png" width="1200" height="1200"/>
+ </tileset>
+ <tileset firstgid="16" name="jiayuanditu_01" tilewidth="1200" tileheight="1200" tilecount="1" columns="1">
+  <image source="jiayuan/jiayuanditu_01.png" width="1200" height="1200"/>
+ </tileset>
+ <tileset firstgid="17" name="jiayuanditu_02" tilewidth="1200" tileheight="1200" tilecount="1" columns="1">
+  <image source="jiayuan/jiayuanditu_02.png" width="1200" height="1200"/>
+ </tileset>
+ <tileset firstgid="18" name="jiayuanditu_04" tilewidth="340" tileheight="1200" tilecount="1" columns="1">
+  <image source="jiayuan/jiayuanditu_04.png" width="340" height="1200"/>
+ </tileset>
+ <tileset firstgid="19" name="jiayuanditu_05" tilewidth="1200" tileheight="1080" tilecount="1" columns="1">
+  <image source="jiayuan/jiayuanditu_05.png" width="1200" height="1080"/>
+ </tileset>
+ <tileset firstgid="20" name="jiayuanditu_06" tilewidth="1200" tileheight="1080" tilecount="1" columns="1">
+  <image source="jiayuan/jiayuanditu_06.png" width="1200" height="1080"/>
+ </tileset>
+ <tileset firstgid="21" name="jiayuanditu_08" tilewidth="340" tileheight="1080" tilecount="1" columns="1">
+  <image source="jiayuan/jiayuanditu_08.png" width="340" height="1080"/>
+ </tileset>
+ <tileset firstgid="22" name="jiayuanditu_07" tilewidth="1200" tileheight="1080" tilecount="1" columns="1">
+  <image source="jiayuan/jiayuanditu_07.png" width="1200" height="1080"/>
+ </tileset>
+ <tileset firstgid="23" name="order3_zawu_005" tilewidth="360" tileheight="360" tilecount="1" columns="1">
+  <image source="jiayuan/order3_zawu_005.png" width="360" height="360"/>
+ </tileset>
+ <tileset firstgid="24" name="order3_zawu_004" tilewidth="360" tileheight="360" tilecount="1" columns="1">
+  <image source="jiayuan/order3_zawu_004.png" width="360" height="360"/>
+ </tileset>
+ <layer id="13" name="surface" width="96" height="57">
+  <data encoding="base64" compression="zlib">
+   eJztzbkNwCAUBcHfAYex+y+VCpBIrJfMhJtsFQAAAAAAAAAAAABwq4e+I/Rtoe8MfQEAAAAAAAAAAOAPT+i7Qt8v9H0PfQM6RQCV
+  </data>
+ </layer>
+ <layer id="14" name="order1" width="96" height="57">
+  <data encoding="base64" compression="zlib">
+   eJzt2ssKwjAUBNAu6gMXbvX/v9Rli4qGRDJpPWdfMhQyXJJMEwDA4pwOAIO4pAMUuKcDADS6dlqnZr4xE8GYbg3f9uqcNV0CPEt0ERlbOFdgW2rmIJ0DjGD0LjqlAxRyH0Bvh3SASqN3Ttqe/8+cDgAre95r/+qYDgAf6Bygxa/OG3QRAJRpefsGvLKn4D13ywAAAADw3QNScwGT
+  </data>
+ </layer>
+ <layer id="15" name="block" width="96" height="57">
+  <data encoding="base64" compression="zlib">
+   eJzt2UEKhEAMBED3/5/2AXuahNEeU3XKSWKgG8Hrgrl+5ldnmCwhg5NnmCwhg6vZTNhN/0BfQgY7eUzYWf9ATUIGV/OYsKf+gb6EDOofmOn0DCbsr3+gJiGDqzlNy3vaPnCKhG45JadffS94S0KfnJhN/QN9075hdnATqNE/fW4CNfqnz02gRuf0uQ/U6J8+94GahP7Z8fwnM65/oOb0/tnx3z+hP2GCJ7Nv/p9hsoQMTp5vkdsBvw==
+  </data>
+ </layer>
+ <layer id="16" name="downui" width="96" height="57">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20PBxQAAAAAAAAAAAAAAAAAAAAAAAAAAMCnAVWAAAE=
+  </data>
+ </layer>
+ <objectgroup id="10" name="objects">
+  <object id="2" name="出生点&amp;999999" x="1800" y="960" width="120" height="120"/>
+  <object id="3" name="金币&amp;1200009" x="852.121" y="540.606" width="444.364" height="368.484"/>
+  <object id="5" name="体力&amp;1200008" x="1920" y="560" width="390.957" height="331.819"/>
+  <object id="6" name="钻石&amp;1200007" x="2520" y="640" width="372.182" height="309.637"/>
+  <object id="7" name="树&amp;299801" x="3120" y="1560" width="120" height="120"/>
+  <object id="8" name="花2&amp;299807" x="2320" y="960" width="120" height="120"/>
+  <object id="9" name="花1&amp;299806" x="1200" y="1080" width="120" height="120"/>
+  <object id="10" name="草块&amp;299805" x="1080" y="1440" width="120" height="120"/>
+  <object id="11" name="灌木丛&amp;299804" x="1680" y="1200" width="120" height="120"/>
+  <object id="12" name="草2&amp;299803" x="2760" y="1200" width="120" height="120"/>
+  <object id="13" name="草1&amp;299802" x="1320" y="1320" width="120" height="120"/>
+  <object id="17" name="花3&amp;299808" x="2040" y="1280" width="120" height="120"/>
+  <object id="18" name="管家&amp;199998" x="1560" y="720" width="120" height="120"/>
+  <object id="19" name="钻石建筑&amp;299810" x="2600" y="760" width="120" height="120"/>
+  <object id="20" name="体力建筑&amp;299811" x="2040" y="680" width="120" height="120"/>
+  <object id="21" name="金币建筑&amp;299809" x="960" y="760" width="120" height="120"/>
+  <object id="28" name="草块6&amp;299817" x="1200" y="360" width="120" height="120"/>
+  <object id="22" name="草块5&amp;299816" x="1080" y="360" width="120" height="120"/>
+  <object id="23" name="草块4&amp;299815" x="960" y="360" width="120" height="120"/>
+  <object id="24" name="草块3&amp;299814" x="1200" y="480" width="120" height="120"/>
+  <object id="25" name="草块2&amp;299813" x="1080" y="480" width="120" height="120"/>
+  <object id="26" name="草块1&amp;299812" x="960" y="480" width="120" height="120"/>
+  <object id="29" name="饲育屋&amp;1200010" x="720" y="1200" width="360" height="360"/>
+  <object id="30" name="碎片建筑&amp;299818" x="840" y="1320" width="120" height="120"/>
+ </objectgroup>
+</map>

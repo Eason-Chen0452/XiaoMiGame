@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.4" orientation="orthogonal" renderorder="right-down" width="100" height="60" tilewidth="40" tileheight="40" infinite="0" nextlayerid="177" nextobjectid="85">
+ <tileset firstgid="1" name="block" tilewidth="80" tileheight="80" tilecount="1" columns="1">
+  <image source="yuejianshan/block.png" width="80" height="80"/>
+ </tileset>
+ <tileset firstgid="2" name="shouliedidaiditu_01" tilewidth="1000" tileheight="1000" spacing="2" tilecount="1" columns="1">
+  <image source="shouliedidai/shouliedidaiditu_01.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="3" name="shouliedidaiditu_02" tilewidth="1000" tileheight="1000" spacing="2" tilecount="1" columns="1">
+  <image source="shouliedidai/shouliedidaiditu_02.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="4" name="shouliedidaiditu_03" tilewidth="1000" tileheight="1000" spacing="2" tilecount="1" columns="1">
+  <image source="shouliedidai/shouliedidaiditu_03.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="5" name="shouliedidaiditu_04" tilewidth="1000" tileheight="1000" spacing="2" tilecount="1" columns="1">
+  <image source="shouliedidai/shouliedidaiditu_04.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="6" name="shouliedidaiditu_05" tilewidth="1000" tileheight="1000" spacing="2" tilecount="1" columns="1">
+  <image source="shouliedidai/shouliedidaiditu_05.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="7" name="shouliedidaiditu_06" tilewidth="1000" tileheight="1000" spacing="2" tilecount="1" columns="1">
+  <image source="shouliedidai/shouliedidaiditu_06.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="8" name="shouliedidaiditu_07" tilewidth="1000" tileheight="1000" spacing="2" tilecount="1" columns="1">
+  <image source="shouliedidai/shouliedidaiditu_07.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="9" name="shouliedidaiditu_08" tilewidth="1000" tileheight="1000" spacing="2" tilecount="1" columns="1">
+  <image source="shouliedidai/shouliedidaiditu_08.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="10" name="shouliedidaiditu_09" tilewidth="1000" tileheight="400" spacing="2" tilecount="1" columns="1">
+  <image source="shouliedidai/shouliedidaiditu_09.png" width="1000" height="400"/>
+ </tileset>
+ <tileset firstgid="11" name="shouliedidaiditu_10" tilewidth="1000" tileheight="400" spacing="2" tilecount="1" columns="1">
+  <image source="shouliedidai/shouliedidaiditu_10.png" width="1000" height="400"/>
+ </tileset>
+ <tileset firstgid="12" name="shouliedidaiditu_11" tilewidth="1000" tileheight="400" spacing="2" tilecount="1" columns="1">
+  <image source="shouliedidai/shouliedidaiditu_11.png" width="1000" height="400"/>
+ </tileset>
+ <tileset firstgid="13" name="shouliedidaiditu_12" tilewidth="1000" tileheight="400" spacing="2" tilecount="1" columns="1">
+  <image source="shouliedidai/shouliedidaiditu_12.png" width="1000" height="400"/>
+ </tileset>
+ <tileset firstgid="14" name="jingshipai" tilewidth="200" tileheight="280" spacing="2" tilecount="1" columns="1">
+  <image source="shouliedidai/jingshipai.png" width="200" height="280"/>
+ </tileset>
+ <tileset firstgid="15" name="common_shu" tilewidth="360" tileheight="360" tilecount="6" columns="3">
+  <image source="common/common_shu.png" width="1080" height="720"/>
+ </tileset>
+ <tileset firstgid="21" name="anquanxiao" tilewidth="240" tileheight="720" tilecount="1" columns="1">
+  <image source="shouliedidai/anquanxiao.png" width="240" height="720"/>
+ </tileset>
+ <layer id="169" name="surface" width="100" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztzTcRgAAAADGOXv3bxQPDLyQGMgwAAAAAAAAAAAB8MQbHFBxzcCzBAQAAAAAAAAAAwDdrcGzBsQfHERwAAAD80xkcV3DcwfEExwuCcwBb
+  </data>
+ </layer>
+ <layer id="176" name="decorate1" width="100" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztzjENAAAIA7CZwL9VRIyEp1XQBAAAAAAAAAAAAAAAAADgznwHAAAAAAAAAAAACgtnQQAW
+  </data>
+ </layer>
+ <layer id="171" name="order1" width="100" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt2bENACAMA0EmAPaflgUoUAqSSHcTuPvCYwAAAABQxc4eAEBL+gFAxK0f8/sKAAAAAAAAIIt/EKhmZQ8AoCX9ACBCPwAAAAB4cQAvAQB6
+  </data>
+ </layer>
+ <layer id="173" name="block" width="100" height="60">
+  <properties>
+   <property name="piece_h" type="int" value="2"/>
+   <property name="piece_w" type="int" value="2"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt1jkOQkEMREG4/6WJRwIkNk/3UJU4YvP3k7hcSHI1oyZZdt+DuU6y7L4Hc51k2X0P/3I/p/++U6Xc66P3O+Vu9NEpvY9T6KOTPmboo5M+Zuijkz5m6KNTWh+n3os+On27D8/9Pn10+lYfnvtz+uiU8v/qdPbZSR8z7LOTPmbYZyd9zLDPTvqYYZ+d9DHDPjul9XHqveijU0ofp9+HPjrpY4Y+Ouljhj466WOGPjql9fHp56femz46tffx6fdM+31k0cd7r3uVPjr9+i7N1yZZdt+DuU6y7L4Hc51k2X0P5jpvF6wC1w==
+  </data>
+ </layer>
+ <layer id="174" name="downui" width="100" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T+3sARQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADddwAAB
+  </data>
+ </layer>
+ <layer id="175" name="revive" width="100" height="60" visible="0">
+  <properties>
+   <property name="piece_h" type="int" value="2"/>
+   <property name="piece_w" type="int" value="2"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt07ENgDAMAMGw/9L0SC+cMnDXuLE7/1oAAACw73rM6d70Dk42/W998Edvfz+d8EX6gKYPaPqApg9o+oCmD2j6gKYPaPqApg9o+oCmD2j6gKYPaPqApg9o+oCmD2j6AAAAONMNN8YAwA==
+  </data>
+ </layer>
+ <objectgroup id="37" name="objects">
+  <object id="11" name="出生点&amp;999996" x="800" y="1680" width="80" height="80"/>
+  <object id="48" name="超级补给站1&amp;1421010" x="2160" y="720" width="80" height="80"/>
+  <object id="49" name="超级补给站2&amp;1422010" x="2960" y="1440" width="80" height="80"/>
+  <object id="71" name="超级补给站3&amp;1423010" x="2160" y="1440" width="80" height="80"/>
+  <object id="83" name="超级补给站2&amp;1424010" x="2960" y="720" width="80" height="80"/>
+  <object id="84" name="超级补给站1&amp;1425010" x="2560" y="1040" width="80" height="80"/>
+  <object id="50" name="普通补给站1&amp;1421004" x="1120" y="1680" width="80" height="80"/>
+  <object id="51" name="普通补给站2&amp;1422004" x="1840" y="1680" width="80" height="80"/>
+  <object id="52" name="普通补给站3&amp;1423004" x="2640" y="1680" width="80" height="80"/>
+  <object id="53" name="普通补给站4&amp;1424004" x="2640" y="480" width="80" height="80"/>
+  <object id="54" name="普通补给站5&amp;1421005" x="1840" y="480" width="80" height="80"/>
+  <object id="55" name="普通补给站6&amp;1422005" x="1120" y="1200" width="80" height="80"/>
+  <object id="72" name="普通补给站7&amp;1423005" x="1840" y="1040" width="80" height="80"/>
+  <object id="73" name="普通补给站8&amp;1424005" x="3280" y="480" width="80" height="80"/>
+  <object id="74" name="普通补给站9&amp;1421006" x="1120" y="560" width="80" height="80"/>
+  <object id="81" name="普通补给站9&amp;1422006" x="3280" y="1040" width="80" height="80"/>
+  <object id="82" name="普通补给站9&amp;1423006" x="3280" y="1680" width="80" height="80"/>
+  <object id="75" name="广场&amp;1200031" x="720" y="1360" width="240" height="240"/>
+  <object id="76" name="传送门&amp;299409" x="800" y="1440" width="80" height="80"/>
+  <object id="77" name="战斗区&amp;699942" x="1400" y="560" width="240" height="240"/>
+  <object id="78" name="战斗区&amp;699941" x="1400" y="1280" width="240" height="240"/>
+  <object id="80" name="体力补给车&amp;1431002" x="880" y="880" width="80" height="80"/>
+ </objectgroup>
+</map>

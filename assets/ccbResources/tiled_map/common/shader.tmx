@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="left-down" width="40" height="40" tilewidth="120" tileheight="120">
+ <tileset firstgid="1" name="fog" tilewidth="120" tileheight="120">
+  <image source="fog.png" trans="ff00ff" width="480" height="480"/>
+ </tileset>
+ <layer name="shader" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAMBKH7/qXXYyi4aqqqqqqqqo8eShIGQQ==
+  </data>
+ </layer>
+</map>

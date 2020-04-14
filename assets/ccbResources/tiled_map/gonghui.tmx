@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.4" orientation="orthogonal" renderorder="right-down" width="141" height="39" tilewidth="40" tileheight="40" infinite="0" nextlayerid="87" nextobjectid="40">
+ <tileset firstgid="1" name="block" tilewidth="120" tileheight="120" tilecount="1" columns="1">
+  <image source="common/block.png" width="120" height="120"/>
+ </tileset>
+ <tileset firstgid="2" name="gonghuiditu4" tilewidth="452" tileheight="673" tilecount="1" columns="1">
+  <image source="gonghui/gonghuiditu4.png" width="452" height="673"/>
+ </tileset>
+ <tileset firstgid="3" name="gonghuiditu5" tilewidth="403" tileheight="358" tilecount="1" columns="1">
+  <image source="gonghui/gonghuiditu5.png" width="403" height="358"/>
+ </tileset>
+ <tileset firstgid="4" name="chuan01" tilewidth="800" tileheight="800" tilecount="1" columns="1">
+  <image source="gonghui/chuan01.png" width="800" height="800"/>
+ </tileset>
+ <tileset firstgid="5" name="dengta" tilewidth="800" tileheight="800" tilecount="1" columns="1">
+  <image source="gonghui/dengta.png" width="800" height="800"/>
+ </tileset>
+ <tileset firstgid="6" name="gonghuiditu6" tilewidth="200" tileheight="200" tilecount="1" columns="1">
+  <image source="gonghui/gonghuiditu6.png" width="200" height="200"/>
+ </tileset>
+ <tileset firstgid="7" name="gonghuiditu7" tilewidth="120" tileheight="240" tilecount="4" columns="1">
+  <image source="gonghui/gonghuiditu7.png" width="120" height="960"/>
+ </tileset>
+ <tileset firstgid="11" name="gonghuijianzhu" tilewidth="660" tileheight="660" tilecount="3" columns="3">
+  <image source="gonghui/gonghuijianzhu.png" width="1980" height="660"/>
+ </tileset>
+ <tileset firstgid="14" name="common_jianzhu2" tilewidth="480" tileheight="480" tilecount="4" columns="2">
+  <image source="common/common_jianzhu2.png" width="960" height="960"/>
+ </tileset>
+ <tileset firstgid="18" name="gonghuiditu_01" tilewidth="1000" tileheight="1560" tilecount="1" columns="1">
+  <image source="gonghui/gonghuiditu_01.png" width="1000" height="1560"/>
+ </tileset>
+ <tileset firstgid="19" name="gonghuiditu_02" tilewidth="1000" tileheight="1560" tilecount="1" columns="1">
+  <image source="gonghui/gonghuiditu_02.png" width="1000" height="1560"/>
+ </tileset>
+ <tileset firstgid="20" name="gonghuiditu_03" tilewidth="1000" tileheight="1560" tilecount="1" columns="1">
+  <image source="gonghui/gonghuiditu_03.png" width="1000" height="1560"/>
+ </tileset>
+ <tileset firstgid="21" name="gonghuiditu_04" tilewidth="1000" tileheight="1560" tilecount="1" columns="1">
+  <image source="gonghui/gonghuiditu_04.png" width="1000" height="1560"/>
+ </tileset>
+ <tileset firstgid="22" name="gonghuiditu_05" tilewidth="1000" tileheight="1560" tilecount="1" columns="1">
+  <image source="gonghui/gonghuiditu_05.png" width="1000" height="1560"/>
+ </tileset>
+ <tileset firstgid="23" name="gonghuiditu_06" tilewidth="640" tileheight="1560" tilecount="1" columns="1">
+  <image source="gonghui/gonghuiditu_06.png" width="640" height="1560"/>
+ </tileset>
+ <layer id="86" name="surface" width="141" height="39">
+  <data encoding="base64" compression="zlib">
+   eJztzbkNADAMxDDPkHf/Td2nDXAV2QuqAgAAAAAAAAAAAAAAAAAAAAAAAAAAXiPwmIHHCjx24HECj/vZN+X0AHw=
+  </data>
+ </layer>
+ <layer id="83" name="order1" width="141" height="39">
+  <data encoding="base64" compression="zlib">
+   eJzt2k0KgCAQgFHpd1FB9z9tFyhoYYyT7y1F5MOVA5YCAAAA+SzRAdCYNTogOfcHAGTxNAvdrZub+uNdC0BvpuiAn9grn3dUPg+IcUYHAAAAAAAAAM3bogMS8LcTgIzm6AAAqhpf7hs+rejTBaLIAHc=
+  </data>
+ </layer>
+ <layer id="84" name="block" width="141" height="39">
+  <data encoding="base64" compression="zlib">
+   eJzt2TEOhDAMRUH2/pfmCkHg7I89U7mgQCA9K3BdALV+ZvPDGaBaQuvMZ80A1To1LaHbE2aAap2altDtCTNAtX81raKHCd1eueeEe7ObgGSn9HlFQrcnnBMBqnXaTdPYTUBXOrbHV89kwnkQQMf2ePPf7en13ilwOh3bw24CWKdj30rYHd4pcLquHUtoeNcZoFpyx075xjVtvgFRIAG5
+  </data>
+ </layer>
+ <layer id="85" name="downui" width="141" height="39">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20IX6AAAAAAAAAAAAAAAAAAAAAAAAAAAAB4DVXsAAE=
+  </data>
+ </layer>
+ <objectgroup id="10" name="objects">
+  <object id="26" name="公会boss&amp;1200001" x="3840" y="904" width="358" height="567.946"/>
+  <object id="27" name="公会商店&amp;1200002" x="1251.52" y="513.333" width="470.962" height="316"/>
+  <object id="28" name="公会副本&amp;1200003" x="1320" y="1280" width="411" height="282"/>
+  <object id="29" name="公会建设&amp;1200004" x="2018" y="344" width="640" height="466"/>
+  <object id="30" name="公会管理&amp;1200005" x="2820" y="120" width="644" height="624"/>
+  <object id="31" name="公会战&amp;1200006" x="452.667" y="941.333" width="484.667" height="393.333"/>
+  <object id="32" name="会长&amp;199999" x="3000" y="840" width="120" height="120"/>
+  <object id="34" name="出生点&amp;999998" x="2280" y="880" width="120" height="120"/>
+  <object id="37" name="传送阵&amp;299999" x="1440" y="1320" width="120" height="120"/>
+  <object id="38" name="快龙&amp;199997" x="4440" y="1200" width="120" height="120"/>
+ </objectgroup>
+</map>

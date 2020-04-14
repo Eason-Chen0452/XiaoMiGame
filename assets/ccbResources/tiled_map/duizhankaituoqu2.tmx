@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.4" orientation="orthogonal" renderorder="right-down" width="124" height="64" tilewidth="40" tileheight="40" infinite="0" nextlayerid="219" nextobjectid="124">
+ <tileset firstgid="1" name="block" tilewidth="80" tileheight="80" tilecount="1" columns="1">
+  <image source="yuejianshan/block.png" width="80" height="80"/>
+ </tileset>
+ <tileset firstgid="2" name="jingshipai" tilewidth="200" tileheight="280" spacing="2" tilecount="1" columns="1">
+  <image source="duizhankaituoqu/jingshipai.png" width="200" height="280"/>
+ </tileset>
+ <tileset firstgid="3" name="common_shu" tilewidth="360" tileheight="360" tilecount="6" columns="3">
+  <image source="common/common_shu.png" width="1080" height="720"/>
+ </tileset>
+ <tileset firstgid="9" name="anquanxiao" tilewidth="240" tileheight="720" tilecount="1" columns="1">
+  <image source="duizhankaituoqu/anquanxiao.png" width="240" height="720"/>
+ </tileset>
+ <tileset firstgid="10" name="duizhankaituoqu_01" tilewidth="1000" tileheight="1000" tilecount="1" columns="1">
+  <image source="duizhankaituoqu/duizhankaituoqu_01.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="11" name="duizhankaituoqu_10" tilewidth="1000" tileheight="1000" tilecount="1" columns="1">
+  <image source="duizhankaituoqu/duizhankaituoqu_10.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="12" name="duizhankaituoqu_02" tilewidth="1000" tileheight="1000" tilecount="1" columns="1">
+  <image source="duizhankaituoqu/duizhankaituoqu_02.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="13" name="duizhankaituoqu_03" tilewidth="1000" tileheight="1000" tilecount="1" columns="1">
+  <image source="duizhankaituoqu/duizhankaituoqu_03.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="14" name="duizhankaituoqu_04" tilewidth="1000" tileheight="1000" tilecount="1" columns="1">
+  <image source="duizhankaituoqu/duizhankaituoqu_04.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="15" name="duizhankaituoqu_05" tilewidth="1000" tileheight="1000" tilecount="1" columns="1">
+  <image source="duizhankaituoqu/duizhankaituoqu_05.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="16" name="duizhankaituoqu_06" tilewidth="1000" tileheight="1000" tilecount="1" columns="1">
+  <image source="duizhankaituoqu/duizhankaituoqu_06.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="17" name="duizhankaituoqu_07" tilewidth="1000" tileheight="1000" tilecount="1" columns="1">
+  <image source="duizhankaituoqu/duizhankaituoqu_07.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="18" name="duizhankaituoqu_08" tilewidth="1000" tileheight="1000" tilecount="1" columns="1">
+  <image source="duizhankaituoqu/duizhankaituoqu_08.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="19" name="duizhankaituoqu_09" tilewidth="1000" tileheight="1000" tilecount="1" columns="1">
+  <image source="duizhankaituoqu/duizhankaituoqu_09.png" width="1000" height="1000"/>
+ </tileset>
+ <tileset firstgid="20" name="duizhankaituoqu_15" tilewidth="1000" tileheight="600" tilecount="1" columns="1">
+  <image source="duizhankaituoqu/duizhankaituoqu_15.png" width="1000" height="600"/>
+ </tileset>
+ <tileset firstgid="21" name="duizhankaituoqu_11" tilewidth="1000" tileheight="600" tilecount="1" columns="1">
+  <image source="duizhankaituoqu/duizhankaituoqu_11.png" width="1000" height="600"/>
+ </tileset>
+ <tileset firstgid="22" name="duizhankaituoqu_12" tilewidth="1000" tileheight="600" tilecount="1" columns="1">
+  <image source="duizhankaituoqu/duizhankaituoqu_12.png" width="1000" height="600"/>
+ </tileset>
+ <tileset firstgid="23" name="duizhankaituoqu_13" tilewidth="1000" tileheight="600" tilecount="1" columns="1">
+  <image source="duizhankaituoqu/duizhankaituoqu_13.png" width="1000" height="600"/>
+ </tileset>
+ <tileset firstgid="24" name="duizhankaituoqu_14" tilewidth="1000" tileheight="600" tilecount="1" columns="1">
+  <image source="duizhankaituoqu/duizhankaituoqu_14.png" width="1000" height="600"/>
+ </tileset>
+ <layer id="213" name="surface" width="124" height="64">
+  <data encoding="base64" compression="zlib">
+   eJztzcsRQEAABcE9W6w/+UcqBFWqvIvuAGZKAQAAAAAAAAAAAAB4pws8+sBjCDzGwKMFHgAAAAAAAAAAAAAA8GQKPObAYwk81sCjBh4AAAAAAADwF3vgcQQeZ+BxBR7bx/0bNRoBAA==
+  </data>
+ </layer>
+ <layer id="214" name="decorate1" width="124" height="64">
+  <data encoding="base64" compression="zlib">
+   eJztzjEBAAAMAiDf9S+8AAbwgQQkAAAAAAAAAAAAAAAAAAAAAAAArNw6AAAAAAAAAAAAAAAAQHk9sgAK
+  </data>
+ </layer>
+ <layer id="215" name="order1" width="124" height="64">
+  <data encoding="base64" compression="zlib">
+   eJzt3DEKACAMA8Ci/v/Ngou4OKrFuxdkDmkjAAAAAMio3g4AAAAs2u0AAADAsOvPy7EUAAAAAAAAAAAAMNmvQX7uxwAA4A3+rwEAwFv05wAAAMAPOmZiABo=
+  </data>
+ </layer>
+ <layer id="216" name="block" width="124" height="64">
+  <properties>
+   <property name="piece_h" type="int" value="2"/>
+   <property name="piece_w" type="int" value="2"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt2jGCwkAMA0D4/6fvBYgDgr3GM40aiiSWOm43NrnLVcku3X2Ttcku3X2Ttcku3X2Ttcku3X27qp/f7nX3e9s379C3/6l6D9+bK3X141f61v0e9k1i37PZN4l9z2bfJPY9m32T2Pds9k2iH7O5H4l+zOZ+JPoxm/uR6MdzJ38L9yPRj+dO/hbuR6Ifs7kfiX7M5n4k+jGb+5Hox2zuR+L/a7PZN4l9z2bfJPY9m32T2Pds9k1i37PZN8lp+/70ebb12r5JTtn3q8/xbj56jtP2UPX+/Db7fu33VeybK1TtSp6R7NLdN1mb7NLdN1mb7NLdN1mbfyw0A5U=
+  </data>
+ </layer>
+ <layer id="217" name="downui" width="124" height="64">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T+1lC6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAG3wAAAE=
+  </data>
+ </layer>
+ <layer id="218" name="revive" width="124" height="64" visible="0">
+  <properties>
+   <property name="piece_h" type="int" value="2"/>
+   <property name="piece_w" type="int" value="2"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt08EJACAQwLBz/6XdQBB8SEk+naAzAAAAAAAA3FiPCvzH39Dlb+jyN3T5G7r8DV3+hi5/Q5e/ocvf0OVv6PI3dPkbuvwNXf6GLn9Dl7+hy9/Q5W/o8jd0+Ru6/A0AAABwtgE1gwDH
+  </data>
+ </layer>
+ <objectgroup id="37" name="objects">
+  <object id="11" name="出生点&amp;999994" x="760" y="1760" width="80" height="80"/>
+  <object id="84" name="陨石&amp;1490021" x="3000" y="1200" width="80" height="80"/>
+  <object id="51" name="普通补给站8&amp;1490023" x="1760" y="1840" width="80" height="80"/>
+  <object id="54" name="普通补给站2&amp;1490017" x="1760" y="640" width="80" height="80"/>
+  <object id="73" name="普通补给站4&amp;1490019" x="4080" y="640" width="80" height="80"/>
+  <object id="82" name="普通补给站10&amp;1490025" x="4080" y="1840" width="80" height="80"/>
+  <object id="75" name="广场&amp;1200034" x="600" y="1360" width="240" height="240"/>
+  <object id="76" name="传送门&amp;299408" x="680" y="1440" width="80" height="80"/>
+  <object id="77" name="战斗区&amp;699962" x="1280" y="640" width="240" height="240"/>
+  <object id="78" name="战斗区&amp;699961" x="1280" y="1440" width="240" height="240"/>
+  <object id="80" name="钻石补给车&amp;1490030" x="760" y="880" width="80" height="80"/>
+  <object id="122" name="怪物生成器&amp;1510412" x="3680" y="760" width="80" height="80"/>
+  <object id="123" name="怪物生成器&amp;1510411" x="2320" y="1160" width="80" height="80"/>
+  <object id="92" name="怪物生成器&amp;1510410" x="3480" y="2000" width="80" height="80"/>
+  <object id="93" name="怪物生成器&amp;1510409" x="2640" y="1920" width="80" height="80"/>
+  <object id="94" name="怪物生成器&amp;1510408" x="3920" y="1760" width="80" height="80"/>
+  <object id="95" name="怪物生成器&amp;1510407" x="3160" y="1440" width="80" height="80"/>
+  <object id="96" name="怪物生成器&amp;1510406" x="2200" y="1400" width="80" height="80"/>
+  <object id="97" name="怪物生成器&amp;1510405" x="4000" y="800" width="80" height="80"/>
+  <object id="98" name="怪物生成器&amp;1510404" x="3000" y="880" width="80" height="80"/>
+  <object id="99" name="怪物生成器&amp;1510403" x="2200" y="560" width="80" height="80"/>
+  <object id="100" name="怪物生成器&amp;1510402" x="3480" y="600" width="80" height="80"/>
+  <object id="101" name="怪物生成器&amp;1510401" x="2640" y="560" width="80" height="80"/>
+  <object id="102" name="怪物生成器&amp;1510301" x="2200" y="960" width="80" height="80"/>
+  <object id="103" name="怪物生成器&amp;1510302" x="2640" y="1520" width="80" height="80"/>
+  <object id="104" name="怪物生成器&amp;1510303" x="3480" y="880" width="80" height="80"/>
+  <object id="105" name="怪物生成器&amp;1510304" x="3920" y="1520" width="80" height="80"/>
+  <object id="106" name="怪物生成器&amp;1510305" x="3880" y="2080" width="80" height="80"/>
+  <object id="107" name="怪物生成器&amp;1510101" x="3000" y="560" width="80" height="80"/>
+  <object id="108" name="怪物生成器&amp;1510102" x="2640" y="880" width="80" height="80"/>
+  <object id="109" name="怪物生成器&amp;1510103" x="3840" y="560" width="80" height="80"/>
+  <object id="110" name="怪物生成器&amp;1510104" x="3920" y="1120" width="80" height="80"/>
+  <object id="111" name="怪物生成器&amp;1510105" x="3000" y="2080" width="80" height="80"/>
+  <object id="112" name="怪物生成器&amp;1510210" x="1880" y="840" width="80" height="80"/>
+  <object id="113" name="怪物生成器&amp;1510209" x="1880" y="1240" width="80" height="80"/>
+  <object id="114" name="怪物生成器&amp;1510208" x="2240" y="1800" width="80" height="80"/>
+  <object id="115" name="怪物生成器&amp;1510207" x="2640" y="1160" width="80" height="80"/>
+  <object id="116" name="怪物生成器&amp;1510206" x="3000" y="1760" width="80" height="80"/>
+  <object id="117" name="怪物生成器&amp;1510205" x="3480" y="1600" width="80" height="80"/>
+  <object id="118" name="怪物生成器&amp;1510204" x="3480" y="1200" width="80" height="80"/>
+  <object id="119" name="怪物生成器&amp;1510203" x="1880" y="1600" width="80" height="80"/>
+  <object id="120" name="怪物生成器&amp;1510202" x="4160" y="960" width="80" height="80"/>
+  <object id="121" name="怪物生成器&amp;1510201" x="4160" y="1440" width="80" height="80"/>
+ </objectgroup>
+</map>
