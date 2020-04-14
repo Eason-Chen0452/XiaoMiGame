@@ -1,0 +1,9 @@
+{
+    "appId": "2076", 
+	"appKey": "6a07cf89abcc4dba9545dc6d2ae642df",
+    "channel": "xiaomi",
+    "host": "zjyxapi01.01game.com",
+    "port": "7777",
+    "http_port": "8000",
+    "againstFakePay":"true"
+}

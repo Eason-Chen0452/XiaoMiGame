@@ -1,0 +1,14 @@
+{
+    "defaultUserSdk": "UserMi", 
+    "defaultIapSdk": "IAPMi", 
+    "sdks": [
+        {
+            "name": "UserMi", 
+            "type": "user"
+        }, 
+        {
+            "name": "IAPMi", 
+            "type": "userPay"
+        }
+    ]
+}

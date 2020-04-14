@@ -1,0 +1,4 @@
+thread_num : 5
+fail_retry_num : 2
+speed_limit:  1024
+speed_time:5
