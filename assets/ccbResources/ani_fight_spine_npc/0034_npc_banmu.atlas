@@ -1,0 +1,174 @@
+
+0034_npc_banmu.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: false
+  xy: 857, 91
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 811, 82
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 330, 40
+  size: 86, 125
+  orig: 86, 125
+  offset: 0, 0
+  index: -1
+Die
+  rotate: true
+  xy: 2, 31
+  size: 95, 183
+  orig: 95, 183
+  offset: 0, 0
+  index: -1
+Eyes
+  rotate: false
+  xy: 116, 10
+  size: 67, 19
+  orig: 67, 19
+  offset: 0, 0
+  index: -1
+Finger
+  rotate: false
+  xy: 629, 73
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 752, 95
+  size: 57, 31
+  orig: 57, 31
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: true
+  xy: 374, 2
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: true
+  xy: 330, 2
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 416, 6
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+Hand_R (3)
+  rotate: true
+  xy: 82, 2
+  size: 27, 32
+  orig: 29, 34
+  offset: 1, 1
+  index: -1
+Head
+  rotate: true
+  xy: 187, 12
+  size: 114, 141
+  orig: 114, 141
+  offset: 0, 0
+  index: -1
+Kua
+  rotate: false
+  xy: 629, 92
+  size: 63, 34
+  orig: 63, 34
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 694, 91
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 589, 66
+  size: 38, 60
+  orig: 38, 60
+  offset: 0, 0
+  index: -1
+Poke
+  rotate: false
+  xy: 902, 94
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+Thigh_L
+  rotate: false
+  xy: 457, 52
+  size: 40, 74
+  orig: 40, 74
+  offset: 0, 0
+  index: -1
+Thigh_R
+  rotate: false
+  xy: 545, 58
+  size: 42, 68
+  orig: 42, 68
+  offset: 0, 0
+  index: -1
+UpArm_L
+  rotate: false
+  xy: 499, 57
+  size: 44, 69
+  orig: 44, 69
+  offset: 0, 0
+  index: -1
+UpArm_R
+  rotate: true
+  xy: 457, 2
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 934, 110
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 934, 110
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 934, 110
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+eye
+  rotate: false
+  xy: 2, 4
+  size: 78, 25
+  orig: 78, 25
+  offset: 0, 0
+  index: -1

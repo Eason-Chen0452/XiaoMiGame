@@ -1,0 +1,118 @@
+
+qita_zibao_eff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huan02
+  rotate: false
+  xy: 128, 19
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+leidian2_eff/lightning01a
+  rotate: false
+  xy: 2, 773
+  size: 253, 241
+  orig: 254, 242
+  offset: 1, 0
+  index: -1
+leidian2_eff/lightning01b
+  rotate: false
+  xy: 2, 547
+  size: 252, 224
+  orig: 254, 242
+  offset: 1, 3
+  index: -1
+leidian2_eff/lightning01c
+  rotate: false
+  xy: 257, 819
+  size: 250, 195
+  orig: 254, 242
+  offset: 1, 11
+  index: -1
+leidian2_eff/lightning02a
+  rotate: false
+  xy: 2, 326
+  size: 226, 219
+  orig: 228, 220
+  offset: 1, 0
+  index: -1
+leidian2_eff/lightning02b
+  rotate: true
+  xy: 734, 805
+  size: 209, 216
+  orig: 228, 220
+  offset: 9, 1
+  index: -1
+leidian2_eff/lightning02c
+  rotate: false
+  xy: 678, 613
+  size: 201, 190
+  orig: 228, 220
+  offset: 12, 15
+  index: -1
+leihuan_eff/00001 (3)
+  rotate: true
+  xy: 881, 688
+  size: 115, 75
+  orig: 225, 218
+  offset: 56, 72
+  index: -1
+leihuan_eff/00002 (4)
+  rotate: true
+  xy: 461, 431
+  size: 179, 187
+  orig: 225, 218
+  offset: 24, 16
+  index: -1
+leihuan_eff/00003 (3)
+  rotate: false
+  xy: 470, 612
+  size: 206, 195
+  orig: 225, 218
+  offset: 10, 12
+  index: -1
+leihuan_eff/00004 (2)
+  rotate: false
+  xy: 509, 809
+  size: 223, 205
+  orig: 225, 218
+  offset: 2, 7
+  index: -1
+leihuan_eff/00005
+  rotate: false
+  xy: 2, 117
+  size: 224, 207
+  orig: 225, 218
+  offset: 1, 6
+  index: -1
+leihuan_eff/00006
+  rotate: true
+  xy: 256, 434
+  size: 185, 203
+  orig: 225, 218
+  offset: 21, 8
+  index: -1
+leihuan_eff/00007
+  rotate: true
+  xy: 257, 621
+  size: 196, 211
+  orig: 225, 218
+  offset: 15, 4
+  index: -1
+ring2
+  rotate: false
+  xy: 230, 336
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+star02
+  rotate: false
+  xy: 2, 2
+  size: 124, 113
+  orig: 124, 113
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+wqsp-lani.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wqsp-lani-sp
+  rotate: false
+  xy: 2, 2
+  size: 100, 98
+  orig: 102, 100
+  offset: 1, 1
+  index: -1
+wqsp-lani-ty
+  rotate: false
+  xy: 104, 45
+  size: 111, 55
+  orig: 113, 57
+  offset: 1, 1
+  index: -1
+wqsp-lani-w
+  rotate: true
+  xy: 104, 4
+  size: 39, 65
+  orig: 41, 67
+  offset: 1, 1
+  index: -1

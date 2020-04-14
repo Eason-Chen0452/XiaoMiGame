@@ -1,0 +1,82 @@
+
+bianshen_eff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00002
+  rotate: true
+  xy: 819, 570
+  size: 377, 203
+  orig: 442, 278
+  offset: 51, 44
+  index: -1
+00003
+  rotate: false
+  xy: 440, 19
+  size: 322, 207
+  orig: 442, 278
+  offset: 51, 44
+  index: -1
+00004
+  rotate: true
+  xy: 819, 212
+  size: 356, 197
+  orig: 442, 278
+  offset: 57, 50
+  index: -1
+baixian
+  rotate: true
+  xy: 2, 66
+  size: 421, 62
+  orig: 429, 66
+  offset: 4, 2
+  index: -1
+chanrao1
+  rotate: true
+  xy: 440, 228
+  size: 328, 338
+  orig: 400, 400
+  offset: 36, 31
+  index: -1
+chanrao2
+  rotate: true
+  xy: 435, 558
+  size: 389, 382
+  orig: 400, 400
+  offset: 5, 9
+  index: -1
+darkboom01@2x
+  rotate: false
+  xy: 2, 489
+  size: 431, 458
+  orig: 431, 458
+  offset: 0, 0
+  index: -1
+e_beam002@2x
+  rotate: false
+  xy: 66, 97
+  size: 372, 390
+  orig: 372, 390
+  offset: 0, 0
+  index: -1
+heixian
+  rotate: false
+  xy: 2, 2
+  size: 421, 62
+  orig: 429, 66
+  offset: 4, 2
+  index: -1
+
+bianshen_eff2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00001
+  rotate: false
+  xy: 2, 2
+  size: 389, 208
+  orig: 442, 278
+  offset: 51, 44
+  index: -1

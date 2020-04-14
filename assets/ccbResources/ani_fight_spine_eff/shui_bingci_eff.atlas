@@ -1,0 +1,104 @@
+
+shui_bingci_eff.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bingdongshexian_002@2x
+  rotate: false
+  xy: 2, 315
+  size: 317, 187
+  orig: 317, 187
+  offset: 0, 0
+  index: -1
+ice/ice01
+  rotate: false
+  xy: 2, 5
+  size: 75, 40
+  orig: 75, 49
+  offset: 0, 0
+  index: -1
+ice/ice04
+  rotate: false
+  xy: 514, 92
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1
+jianshe_eff/00001
+  rotate: false
+  xy: 778, 143
+  size: 150, 149
+  orig: 263, 225
+  offset: 44, 10
+  index: -1
+jianshe_eff/00002
+  rotate: false
+  xy: 311, 122
+  size: 192, 167
+  orig: 263, 225
+  offset: 29, 11
+  index: -1
+jianshe_eff/00003
+  rotate: true
+  xy: 818, 294
+  size: 208, 181
+  orig: 263, 225
+  offset: 24, 11
+  index: -1
+jianshe_eff/00004
+  rotate: false
+  xy: 579, 306
+  size: 237, 196
+  orig: 263, 225
+  offset: 9, 10
+  index: -1
+jianshe_eff/00005
+  rotate: false
+  xy: 321, 291
+  size: 256, 211
+  orig: 263, 225
+  offset: 0, 11
+  index: -1
+nengliangjianzadi/nengliangjianzadi_00013
+  rotate: true
+  xy: 505, 122
+  size: 167, 137
+  orig: 209, 137
+  offset: 21, 0
+  index: -1
+nengliangjianzadi/nengliangjianzadi_00014
+  rotate: true
+  xy: 644, 95
+  size: 209, 132
+  orig: 209, 137
+  offset: 0, 2
+  index: -1
+nengliangjianzadi/nengliangjianzadi_00015
+  rotate: false
+  xy: 311, 2
+  size: 201, 118
+  orig: 209, 137
+  offset: 4, 11
+  index: -1
+particle/particle
+  rotate: false
+  xy: 2, 47
+  size: 203, 266
+  orig: 203, 266
+  offset: 0, 0
+  index: -1
+particle/particle02
+  rotate: true
+  xy: 930, 206
+  size: 86, 92
+  orig: 86, 92
+  offset: 0, 0
+  index: -1
+spear01
+  rotate: true
+  xy: 207, 41
+  size: 272, 102
+  orig: 272, 102
+  offset: 0, 0
+  index: -1

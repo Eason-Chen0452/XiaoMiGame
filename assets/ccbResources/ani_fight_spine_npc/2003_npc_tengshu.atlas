@@ -1,0 +1,174 @@
+
+2003_npc_tengshu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: false
+  xy: 416, 5
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 334, 2
+  size: 56, 31
+  orig: 56, 31
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 2, 8
+  size: 74, 97
+  orig: 74, 97
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 329, 110
+  size: 77, 40
+  orig: 77, 40
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 259, 3
+  size: 53, 34
+  orig: 53, 34
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: false
+  xy: 334, 60
+  size: 57, 48
+  orig: 57, 48
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 2, 84
+  size: 190, 170
+  orig: 190, 170
+  offset: 0, 0
+  index: -1
+Hair_L
+  rotate: true
+  xy: 266, 39
+  size: 26, 66
+  orig: 26, 66
+  offset: 0, 0
+  index: -1
+Hair_R
+  rotate: false
+  xy: 329, 152
+  size: 88, 102
+  orig: 88, 102
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 416, 48
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 174, 2
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 194, 110
+  size: 133, 144
+  orig: 133, 144
+  offset: 0, 0
+  index: -1
+Kua
+  rotate: false
+  xy: 419, 136
+  size: 70, 47
+  orig: 70, 47
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 219, 4
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 101, 12
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+Leg_R1
+  rotate: false
+  xy: 463, 84
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+Thigh_L
+  rotate: false
+  xy: 419, 185
+  size: 77, 69
+  orig: 77, 69
+  offset: 0, 0
+  index: -1
+Thigh_R
+  rotate: false
+  xy: 367, 3
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+Thigh_R1
+  rotate: true
+  xy: 194, 46
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: -1
+UpArm_L
+  rotate: false
+  xy: 408, 90
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+UpArm_R
+  rotate: true
+  xy: 266, 67
+  size: 41, 66
+  orig: 41, 66
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 454, 36
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+buff_mid
+  rotate: false
+  xy: 454, 36
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+buff_up
+  rotate: false
+  xy: 454, 36
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1

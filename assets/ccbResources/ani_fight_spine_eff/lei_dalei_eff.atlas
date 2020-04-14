@@ -1,0 +1,236 @@
+
+lei_dalei_eff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00001
+  rotate: false
+  xy: 2, 665
+  size: 359, 350
+  orig: 413, 413
+  offset: 28, 30
+  index: -1
+fangsheleidian_eff/lei_fangshe001
+  rotate: false
+  xy: 135, 420
+  size: 46, 46
+  orig: 195, 180
+  offset: 75, 64
+  index: -1
+fangsheleidian_eff/lei_fangshe002.png
+  rotate: false
+  xy: 506, 10
+  size: 64, 65
+  orig: 195, 180
+  offset: 68, 53
+  index: -1
+fangsheleidian_eff/lei_fangshe003.png
+  rotate: false
+  xy: 376, 5
+  size: 128, 111
+  orig: 195, 180
+  offset: 28, 37
+  index: -1
+fangsheleidian_eff/lei_fangshe005.png
+  rotate: false
+  xy: 210, 321
+  size: 194, 168
+  orig: 195, 180
+  offset: 0, 5
+  index: -1
+fangsheleidian_eff/lei_fangshe006.png
+  rotate: true
+  xy: 211, 491
+  size: 172, 148
+  orig: 195, 180
+  offset: 10, 16
+  index: -1
+leidian2_eff/lightning01a
+  rotate: false
+  xy: 641, 774
+  size: 253, 241
+  orig: 254, 242
+  offset: 1, 0
+  index: -1
+leidian2_eff/lightning01b
+  rotate: false
+  xy: 641, 548
+  size: 252, 224
+  orig: 254, 242
+  offset: 1, 3
+  index: -1
+leidian2_eff/lightning01c
+  rotate: false
+  xy: 363, 543
+  size: 250, 195
+  orig: 254, 242
+  offset: 1, 11
+  index: -1
+leidian2_eff/lightning02a
+  rotate: false
+  xy: 615, 327
+  size: 226, 219
+  orig: 228, 220
+  offset: 1, 0
+  index: -1
+leidian2_eff/lightning02b
+  rotate: true
+  xy: 616, 116
+  size: 209, 216
+  orig: 228, 220
+  offset: 9, 1
+  index: -1
+leidian2_eff/lightning02c
+  rotate: true
+  xy: 211, 118
+  size: 201, 190
+  orig: 228, 220
+  offset: 12, 15
+  index: -1
+leidian_huohua_eff/spark01a
+  rotate: false
+  xy: 321, 4
+  size: 53, 112
+  orig: 53, 112
+  offset: 0, 0
+  index: -1
+leidian_huohua_eff/spark01b
+  rotate: true
+  xy: 506, 77
+  size: 41, 106
+  orig: 41, 106
+  offset: 0, 0
+  index: -1
+leidian_huohua_eff/spark02a
+  rotate: true
+  xy: 896, 756
+  size: 132, 119
+  orig: 132, 119
+  offset: 0, 0
+  index: -1
+leidian_huohua_eff/spark02b
+  rotate: true
+  xy: 211, 3
+  size: 113, 108
+  orig: 113, 108
+  offset: 0, 0
+  index: -1
+leidian_huohua_eff/spark03a
+  rotate: true
+  xy: 895, 648
+  size: 106, 119
+  orig: 106, 119
+  offset: 0, 0
+  index: -1
+leidian_huohua_eff/spark03b
+  rotate: false
+  xy: 614, 9
+  size: 103, 104
+  orig: 104, 116
+  offset: 1, 0
+  index: -1
+leidian_huohua_eff/spark04a
+  rotate: true
+  xy: 895, 509
+  size: 60, 114
+  orig: 60, 114
+  offset: 0, 0
+  index: -1
+leidian_huohua_eff/spark04b
+  rotate: false
+  xy: 2, 2
+  size: 56, 90
+  orig: 56, 107
+  offset: 0, 17
+  index: -1
+leihuan_eff/00001 (3)
+  rotate: false
+  xy: 895, 571
+  size: 115, 75
+  orig: 225, 218
+  offset: 56, 72
+  index: -1
+leihuan_eff/00002 (4)
+  rotate: false
+  xy: 843, 320
+  size: 179, 187
+  orig: 225, 218
+  offset: 24, 16
+  index: -1
+leihuan_eff/00003 (3)
+  rotate: false
+  xy: 2, 468
+  size: 206, 195
+  orig: 225, 218
+  offset: 10, 12
+  index: -1
+leihuan_eff/00004 (2)
+  rotate: true
+  xy: 406, 318
+  size: 223, 205
+  orig: 225, 218
+  offset: 2, 7
+  index: -1
+leihuan_eff/00005
+  rotate: true
+  xy: 2, 94
+  size: 224, 207
+  orig: 225, 218
+  offset: 1, 6
+  index: -1
+leihuan_eff/00006
+  rotate: false
+  xy: 834, 115
+  size: 185, 203
+  orig: 225, 218
+  offset: 21, 8
+  index: -1
+leihuan_eff/00007
+  rotate: true
+  xy: 403, 120
+  size: 196, 211
+  orig: 225, 218
+  offset: 15, 4
+  index: -1
+luoxuan_qiliu_eff/0_00000
+  rotate: true
+  xy: 363, 740
+  size: 275, 276
+  orig: 338, 338
+  offset: 34, 27
+  index: -1
+wind01
+  rotate: false
+  xy: 896, 890
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+wind02
+  rotate: false
+  xy: 2, 335
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+
+lei_dalei_eff2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fangsheleidian_eff/lei_fangshe004.png
+  rotate: false
+  xy: 207, 48
+  size: 181, 157
+  orig: 195, 180
+  offset: 7, 10
+  index: -1
+ring2
+  rotate: false
+  xy: 2, 2
+  size: 203, 203
+  orig: 206, 207
+  offset: 0, 3
+  index: -1

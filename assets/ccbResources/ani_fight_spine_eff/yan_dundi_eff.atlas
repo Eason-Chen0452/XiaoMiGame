@@ -1,0 +1,132 @@
+
+yan_dundi_eff.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chongji_eff/dusty02
+  rotate: true
+  xy: 536, 72
+  size: 61, 80
+  orig: 76, 110
+  offset: 8, 3
+  index: -1
+chongji_eff/dusty03
+  rotate: true
+  xy: 883, 107
+  size: 73, 110
+  orig: 76, 110
+  offset: 1, 0
+  index: -1
+chongji_eff/dusty04
+  rotate: true
+  xy: 444, 60
+  size: 73, 90
+  orig: 76, 110
+  offset: 1, 2
+  index: -1
+chongji_eff/dusty05
+  rotate: true
+  xy: 618, 77
+  size: 49, 75
+  orig: 76, 110
+  offset: 12, 3
+  index: -1
+chongji_eff/dusty06
+  rotate: true
+  xy: 695, 73
+  size: 53, 70
+  orig: 76, 110
+  offset: 11, 4
+  index: -1
+jianshe_eff/bai_shashi_02_eff_01
+  rotate: false
+  xy: 161, 9
+  size: 126, 43
+  orig: 225, 188
+  offset: 57, 18
+  index: -1
+jianshe_eff/bai_shashi_02_eff_02
+  rotate: false
+  xy: 883, 182
+  size: 128, 72
+  orig: 225, 188
+  offset: 55, 23
+  index: -1
+jianshe_eff/bai_shashi_02_eff_03
+  rotate: false
+  xy: 755, 136
+  size: 126, 118
+  orig: 225, 188
+  offset: 56, 19
+  index: -1
+jianshe_eff/bai_shashi_02_eff_04
+  rotate: true
+  xy: 623, 128
+  size: 126, 130
+  orig: 225, 188
+  offset: 56, 19
+  index: -1
+jianshe_eff/bai_shashi_02_eff_05
+  rotate: false
+  xy: 316, 73
+  size: 126, 74
+  orig: 225, 188
+  offset: 56, 19
+  index: -1
+luoshi_eff/rock01
+  rotate: false
+  xy: 767, 86
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+luoshi_eff/rock03
+  rotate: false
+  xy: 820, 92
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+yanwu_eff/bai_shashi_03_eff_01
+  rotate: false
+  xy: 311, 149
+  size: 160, 105
+  orig: 188, 165
+  offset: 19, 13
+  index: -1
+yanwu_eff/bai_shashi_03_eff_02
+  rotate: false
+  xy: 154, 137
+  size: 155, 117
+  orig: 188, 165
+  offset: 20, 15
+  index: -1
+yanwu_eff/bai_shashi_03_eff_03
+  rotate: false
+  xy: 161, 54
+  size: 153, 81
+  orig: 188, 165
+  offset: 20, 18
+  index: -1
+yanwu_eff/bai_shashi_03_eff_04
+  rotate: false
+  xy: 2, 2
+  size: 157, 107
+  orig: 188, 165
+  offset: 22, 13
+  index: -1
+yanwu_eff/bai_shashi_03_eff_05
+  rotate: false
+  xy: 473, 135
+  size: 148, 119
+  orig: 188, 165
+  offset: 27, 15
+  index: -1
+yanwu_eff/bai_shashi_03_eff_06
+  rotate: false
+  xy: 2, 111
+  size: 150, 143
+  orig: 188, 165
+  offset: 24, 15
+  index: -1

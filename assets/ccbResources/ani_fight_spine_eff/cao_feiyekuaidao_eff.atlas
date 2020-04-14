@@ -1,0 +1,153 @@
+
+cao_feiyekuaidao_eff.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jianshe_eff/00001
+  rotate: false
+  xy: 2, 287
+  size: 184, 153
+  orig: 206, 188
+  offset: 9, 11
+  index: -1
+jianshe_eff/00002
+  rotate: false
+  xy: 2, 117
+  size: 133, 168
+  orig: 206, 188
+  offset: 9, 15
+  index: -1
+jianshe_eff/00003
+  rotate: false
+  xy: 188, 281
+  size: 128, 159
+  orig: 206, 188
+  offset: 23, 21
+  index: -1
+jianshe_eff/00004
+  rotate: false
+  xy: 753, 343
+  size: 108, 100
+  orig: 206, 188
+  offset: 49, 31
+  index: -1
+leaf02
+  rotate: false
+  xy: 471, 297
+  size: 135, 71
+  orig: 135, 101
+  offset: 0, 16
+  index: -1
+light
+  rotate: false
+  xy: 2, 442
+  size: 316, 48
+  orig: 322, 50
+  offset: 3, 1
+  index: -1
+starlight
+  rotate: false
+  xy: 137, 132
+  size: 147, 147
+  orig: 149, 149
+  offset: 1, 1
+  index: -1
+xiaojianshe_eff/chuifei001
+  rotate: false
+  xy: 318, 290
+  size: 151, 109
+  orig: 169, 120
+  offset: 0, 7
+  index: -1
+xiaojianshe_eff/chuifei002
+  rotate: false
+  xy: 2, 2
+  size: 157, 113
+  orig: 169, 120
+  offset: 2, 6
+  index: -1
+xiaojianshe_eff/chuifei003
+  rotate: false
+  xy: 161, 17
+  size: 161, 113
+  orig: 169, 120
+  offset: 3, 6
+  index: -1
+xiaojianshe_eff/chuifei004
+  rotate: false
+  xy: 503, 370
+  size: 154, 76
+  orig: 169, 120
+  offset: 7, 5
+  index: -1
+xiaojianshe_eff/chuifei005
+  rotate: true
+  xy: 374, 149
+  size: 65, 67
+  orig: 169, 120
+  offset: 60, 7
+  index: -1
+xuli_eff/lv_zhongzi_03_eff_01
+  rotate: false
+  xy: 659, 365
+  size: 92, 81
+  orig: 171, 173
+  offset: 38, 57
+  index: -1
+xuli_eff/lv_zhongzi_03_eff_02
+  rotate: false
+  xy: 863, 347
+  size: 86, 96
+  orig: 171, 173
+  offset: 44, 42
+  index: -1
+xuli_eff/lv_zhongzi_03_eff_03
+  rotate: false
+  xy: 374, 216
+  size: 81, 72
+  orig: 171, 173
+  offset: 45, 51
+  index: -1
+xuli_eff/lv_zhongzi_03_eff_04
+  rotate: true
+  xy: 286, 136
+  size: 55, 63
+  orig: 171, 173
+  offset: 44, 66
+  index: -1
+yanwu_eff/bai_chongciyanwu_01_eff_01
+  rotate: false
+  xy: 753, 445
+  size: 194, 45
+  orig: 244, 56
+  offset: 5, 2
+  index: -1
+yanwu_eff/bai_chongciyanwu_01_eff_02
+  rotate: false
+  xy: 320, 401
+  size: 181, 45
+  orig: 244, 56
+  offset: 29, 2
+  index: -1
+yanwu_eff/bai_chongciyanwu_01_eff_03
+  rotate: false
+  xy: 545, 448
+  size: 206, 42
+  orig: 244, 56
+  offset: 10, 2
+  index: -1
+yanwu_eff/bai_chongciyanwu_01_eff_04
+  rotate: false
+  xy: 320, 448
+  size: 223, 42
+  orig: 244, 56
+  offset: 0, 2
+  index: -1
+ys_zhizhuwang_eff_03
+  rotate: false
+  xy: 286, 193
+  size: 86, 86
+  orig: 113, 113
+  offset: 13, 14
+  index: -1

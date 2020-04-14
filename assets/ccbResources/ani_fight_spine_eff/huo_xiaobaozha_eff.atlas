@@ -1,0 +1,54 @@
+
+huo_xiaobaozha_eff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huoyan_eff/guaiwubaozha15
+  rotate: false
+  xy: 464, 55
+  size: 412, 421
+  orig: 572, 540
+  offset: 142, 60
+  index: -1
+huoyan_eff/guaiwubaozha17
+  rotate: false
+  xy: 2, 2
+  size: 460, 474
+  orig: 572, 540
+  offset: 112, 38
+  index: -1
+huoyan_eff/guaiwubaozha18
+  rotate: false
+  xy: 2, 478
+  size: 492, 540
+  orig: 572, 540
+  offset: 80, 0
+  index: -1
+huoyan_eff/guaiwubaozha20
+  rotate: false
+  xy: 496, 478
+  size: 482, 540
+  orig: 572, 540
+  offset: 90, 0
+  index: -1
+
+huo_xiaobaozha_eff2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huoyan_eff/guaiwubaozha11
+  rotate: false
+  xy: 360, 248
+  size: 154, 166
+  orig: 572, 540
+  offset: 301, 156
+  index: -1
+huoyan_eff/guaiwubaozha13
+  rotate: false
+  xy: 2, 2
+  size: 356, 412
+  orig: 572, 540
+  offset: 187, 73
+  index: -1

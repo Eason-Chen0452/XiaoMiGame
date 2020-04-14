@@ -1,0 +1,146 @@
+
+2008_npc_yadang.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: true
+  xy: 460, 203
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+Arm_L2
+  rotate: true
+  xy: 293, 105
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 149, 40
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 149, 144
+  size: 110, 175
+  orig: 110, 175
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 2, 26
+  size: 85, 56
+  orig: 85, 56
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: true
+  xy: 128, 2
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: false
+  xy: 89, 2
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 165, 5
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 321, 106
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 84
+  size: 145, 170
+  orig: 145, 170
+  offset: 0, 0
+  index: -1
+Kua
+  rotate: false
+  xy: 388, 209
+  size: 70, 45
+  orig: 70, 45
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 326, 140
+  size: 37, 74
+  orig: 37, 74
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: true
+  xy: 388, 179
+  size: 28, 70
+  orig: 28, 70
+  offset: 0, 0
+  index: -1
+Thigh_L
+  rotate: true
+  xy: 149, 85
+  size: 57, 76
+  orig: 57, 76
+  offset: 0, 0
+  index: -1
+Thigh_R
+  rotate: false
+  xy: 326, 179
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+UpArm_L
+  rotate: true
+  xy: 227, 93
+  size: 49, 64
+  orig: 49, 64
+  offset: 0, 0
+  index: -1
+UpArm_R
+  rotate: true
+  xy: 89, 41
+  size: 41, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 402, 131
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+buff_mid
+  rotate: false
+  xy: 402, 131
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+buff_up
+  rotate: false
+  xy: 402, 131
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1

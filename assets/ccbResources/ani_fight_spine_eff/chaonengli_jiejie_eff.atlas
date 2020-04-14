@@ -1,0 +1,341 @@
+
+chaonengli_jiejie_eff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+barrier01
+  rotate: false
+  xy: 224, 421
+  size: 160, 143
+  orig: 160, 143
+  offset: 0, 0
+  index: -1
+fangsheguang02
+  rotate: false
+  xy: 862, 89
+  size: 94, 94
+  orig: 96, 96
+  offset: 1, 1
+  index: -1
+feng/feng01
+  rotate: false
+  xy: 708, 728
+  size: 186, 145
+  orig: 225, 188
+  offset: 16, 14
+  index: -1
+feng/feng02
+  rotate: false
+  xy: 476, 859
+  size: 217, 155
+  orig: 225, 188
+  offset: 2, 21
+  index: -1
+feng/feng03
+  rotate: true
+  xy: 441, 584
+  size: 193, 139
+  orig: 225, 188
+  offset: 24, 26
+  index: -1
+feng/feng04
+  rotate: true
+  xy: 582, 587
+  size: 194, 124
+  orig: 225, 188
+  offset: 28, 23
+  index: -1
+feng/feng05
+  rotate: false
+  xy: 213, 292
+  size: 189, 127
+  orig: 225, 188
+  offset: 32, 19
+  index: -1
+feng/feng06
+  rotate: true
+  xy: 375, 142
+  size: 148, 81
+  orig: 225, 188
+  offset: 36, 15
+  index: -1
+feng/feng07
+  rotate: true
+  xy: 914, 875
+  size: 139, 93
+  orig: 225, 188
+  offset: 75, 22
+  index: -1
+light01
+  rotate: false
+  xy: 859, 4
+  size: 84, 83
+  orig: 96, 96
+  offset: 6, 7
+  index: -1
+light04
+  rotate: false
+  xy: 2, 766
+  size: 251, 248
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
+nengliang/nl_00
+  rotate: false
+  xy: 666, 496
+  size: 195, 74
+  orig: 225, 80
+  offset: 2, 3
+  index: -1
+nengliang/nl_01
+  rotate: false
+  xy: 476, 783
+  size: 208, 74
+  orig: 225, 80
+  offset: 2, 3
+  index: -1
+nengliang/nl_02
+  rotate: false
+  xy: 255, 779
+  size: 219, 67
+  orig: 225, 80
+  offset: 4, 6
+  index: -1
+nengliang/nl_03
+  rotate: true
+  xy: 160, 53
+  size: 216, 55
+  orig: 225, 80
+  offset: 6, 16
+  index: -1
+nengliang/nl_04
+  rotate: true
+  xy: 224, 566
+  size: 198, 59
+  orig: 225, 80
+  offset: 23, 17
+  index: -1
+nengliang/nl_05
+  rotate: true
+  xy: 885, 534
+  size: 192, 55
+  orig: 225, 80
+  offset: 25, 22
+  index: -1
+nengliang/nl_06
+  rotate: false
+  xy: 666, 447
+  size: 189, 47
+  orig: 225, 80
+  offset: 27, 28
+  index: -1
+nengliang/nl_07
+  rotate: true
+  xy: 942, 464
+  size: 176, 34
+  orig: 225, 80
+  offset: 37, 35
+  index: -1
+nengliang/nl_08
+  rotate: false
+  xy: 2, 27
+  size: 81, 29
+  orig: 225, 80
+  offset: 39, 38
+  index: -1
+suipian/sp_001
+  rotate: true
+  xy: 942, 642
+  size: 99, 80
+  orig: 225, 225
+  offset: 70, 19
+  index: -1
+suipian/sp_002
+  rotate: true
+  xy: 761, 53
+  size: 104, 96
+  orig: 225, 225
+  offset: 66, 20
+  index: -1
+suipian/sp_003
+  rotate: false
+  xy: 862, 185
+  size: 120, 124
+  orig: 225, 225
+  offset: 49, 9
+  index: -1
+suipian/sp_004
+  rotate: false
+  xy: 521, 2
+  size: 142, 138
+  orig: 225, 225
+  offset: 36, 12
+  index: -1
+suipian/sp_005
+  rotate: false
+  xy: 217, 148
+  size: 156, 142
+  orig: 225, 225
+  offset: 25, 13
+  index: -1
+suipian/sp_006
+  rotate: false
+  xy: 708, 572
+  size: 175, 154
+  orig: 225, 225
+  offset: 17, 10
+  index: -1
+suipian/sp_007
+  rotate: true
+  xy: 285, 585
+  size: 192, 154
+  orig: 225, 225
+  offset: 10, 9
+  index: -1
+suipian/sp_008
+  rotate: false
+  xy: 2, 271
+  size: 209, 163
+  orig: 225, 225
+  offset: 3, 9
+  index: -1
+suipian/sp_009
+  rotate: true
+  xy: 2, 58
+  size: 211, 156
+  orig: 225, 225
+  offset: 2, 13
+  index: -1
+suipian/sp_010
+  rotate: false
+  xy: 2, 592
+  size: 220, 172
+  orig: 225, 225
+  offset: 0, 9
+  index: -1
+suipian/sp_011
+  rotate: false
+  xy: 255, 848
+  size: 219, 166
+  orig: 225, 225
+  offset: 0, 16
+  index: -1
+suipian/sp_012
+  rotate: false
+  xy: 2, 436
+  size: 220, 154
+  orig: 225, 225
+  offset: 0, 36
+  index: -1
+suipian/sp_013
+  rotate: false
+  xy: 695, 875
+  size: 217, 139
+  orig: 225, 225
+  offset: 3, 53
+  index: -1
+suipian/sp_014
+  rotate: false
+  xy: 386, 446
+  size: 149, 136
+  orig: 225, 225
+  offset: 56, 67
+  index: -1
+suipian/sp_015
+  rotate: true
+  xy: 537, 447
+  size: 135, 127
+  orig: 225, 225
+  offset: 58, 79
+  index: -1
+suipian/sp_016
+  rotate: false
+  xy: 896, 743
+  size: 121, 130
+  orig: 225, 225
+  offset: 59, 81
+  index: -1
+suipian/sp_017
+  rotate: false
+  xy: 665, 34
+  size: 94, 107
+  orig: 225, 225
+  offset: 53, 109
+  index: -1
+zhaozi01/zhaozi_000
+  rotate: false
+  xy: 217, 12
+  size: 150, 134
+  orig: 150, 150
+  offset: 0, 16
+  index: -1
+zhaozi01/zhaozi_001
+  rotate: true
+  xy: 404, 294
+  size: 150, 134
+  orig: 150, 150
+  offset: 0, 16
+  index: -1
+zhaozi01/zhaozi_002
+  rotate: true
+  xy: 540, 295
+  size: 150, 134
+  orig: 150, 150
+  offset: 0, 16
+  index: -1
+zhaozi01/zhaozi_003
+  rotate: false
+  xy: 676, 311
+  size: 150, 134
+  orig: 150, 150
+  offset: 0, 16
+  index: -1
+zhaozi01/zhaozi_004
+  rotate: true
+  xy: 458, 142
+  size: 150, 130
+  orig: 150, 150
+  offset: 0, 20
+  index: -1
+zhaozi01/zhaozi_005
+  rotate: false
+  xy: 369, 8
+  size: 150, 132
+  orig: 150, 150
+  offset: 0, 18
+  index: -1
+zhaozi01/zhaozi_006
+  rotate: true
+  xy: 590, 143
+  size: 150, 134
+  orig: 150, 150
+  offset: 0, 16
+  index: -1
+zhaozi01/zhaozi_007
+  rotate: true
+  xy: 726, 159
+  size: 150, 134
+  orig: 150, 150
+  offset: 0, 16
+  index: -1
+zhaozi01/zhaozi_008
+  rotate: false
+  xy: 828, 311
+  size: 150, 134
+  orig: 150, 150
+  offset: 0, 16
+  index: -1
+
+chaonengli_jiejie_eff2.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+suipian/sp_018
+  rotate: false
+  xy: 2, 2
+  size: 81, 83
+  orig: 225, 225
+  offset: 51, 137
+  index: -1

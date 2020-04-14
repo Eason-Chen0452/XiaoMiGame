@@ -1,0 +1,216 @@
+
+0046_npc_wayi.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: true
+  xy: 280, 84
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 810, 166
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 949, 202
+  size: 49, 71
+  orig: 49, 71
+  offset: 0, 0
+  index: -1
+Dress
+  rotate: false
+  xy: 382, 120
+  size: 84, 47
+  orig: 84, 47
+  offset: 0, 0
+  index: -1
+Eyes_C
+  rotate: false
+  xy: 285, 120
+  size: 95, 47
+  orig: 95, 47
+  offset: 0, 0
+  index: -1
+Eyes_O
+  rotate: false
+  xy: 721, 161
+  size: 87, 38
+  orig: 87, 38
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: true
+  xy: 535, 144
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: true
+  xy: 534, 114
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+Hair_01
+  rotate: true
+  xy: 839, 207
+  size: 44, 108
+  orig: 44, 108
+  offset: 0, 0
+  index: -1
+Hair_02
+  rotate: true
+  xy: 587, 167
+  size: 84, 132
+  orig: 84, 132
+  offset: 0, 0
+  index: -1
+Hair_03
+  rotate: true
+  xy: 2, 2
+  size: 60, 123
+  orig: 60, 123
+  offset: 0, 0
+  index: -1
+Hair_04
+  rotate: true
+  xy: 721, 201
+  size: 50, 116
+  orig: 50, 116
+  offset: 0, 0
+  index: -1
+Hair_05
+  rotate: true
+  xy: 437, 179
+  size: 72, 148
+  orig: 72, 148
+  offset: 0, 0
+  index: -1
+Hair_06
+  rotate: true
+  xy: 139, 79
+  size: 54, 115
+  orig: 54, 115
+  offset: 0, 0
+  index: -1
+Hair_07
+  rotate: false
+  xy: 139, 135
+  size: 144, 116
+  orig: 144, 116
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: true
+  xy: 139, 59
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 169, 64
+  size: 13, 24
+  orig: 13, 24
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 64
+  size: 135, 187
+  orig: 135, 187
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 256, 84
+  size: 22, 49
+  orig: 22, 49
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: true
+  xy: 280, 97
+  size: 21, 49
+  orig: 21, 49
+  offset: 0, 0
+  index: -1
+Maozi
+  rotate: false
+  xy: 285, 169
+  size: 150, 82
+  orig: 150, 82
+  offset: 0, 0
+  index: -1
+Mouth_C
+  rotate: false
+  xy: 169, 59
+  size: 24, 3
+  orig: 24, 3
+  offset: 0, 0
+  index: -1
+Mouth_O
+  rotate: false
+  xy: 432, 102
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+Thigh_L
+  rotate: true
+  xy: 468, 146
+  size: 31, 65
+  orig: 31, 65
+  offset: 0, 0
+  index: -1
+Thigh_R
+  rotate: true
+  xy: 468, 113
+  size: 31, 64
+  orig: 31, 64
+  offset: 0, 0
+  index: -1
+UpArm_L
+  rotate: true
+  xy: 381, 102
+  size: 16, 49
+  orig: 16, 49
+  offset: 0, 0
+  index: -1
+UpArm_R
+  rotate: true
+  xy: 331, 98
+  size: 20, 48
+  orig: 20, 48
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 195, 61
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 195, 61
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 195, 61
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1

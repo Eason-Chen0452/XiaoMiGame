@@ -1,0 +1,229 @@
+
+jl_025_pikaqiu_eff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gongji1_jianshe/002
+  rotate: false
+  xy: 2, 37
+  size: 300, 85
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+gongji1_jianshe/003
+  rotate: false
+  xy: 693, 286
+  size: 300, 143
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+gongji1_jianshe/005
+  rotate: false
+  xy: 2, 351
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+gongji1_jianshe/006
+  rotate: false
+  xy: 2, 124
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+gongji1_jianshe/007
+  rotate: false
+  xy: 304, 23
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+gongji1_jianshe/008
+  rotate: true
+  xy: 466, 377
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+gongji1_jianshe/009
+  rotate: false
+  xy: 693, 431
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+gongji1_jianshe/010
+  rotate: false
+  xy: 606, 59
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+gongji2_chongji/1
+  rotate: true
+  xy: 908, 75
+  size: 209, 113
+  orig: 209, 113
+  offset: 0, 0
+  index: -1
+light01
+  rotate: false
+  xy: 466, 279
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+shaiwei_eff/0
+  rotate: false
+  xy: 725, 658
+  size: 295, 179
+  orig: 295, 179
+  offset: 0, 0
+  index: -1
+shaiwei_eff/2
+  rotate: false
+  xy: 415, 679
+  size: 308, 169
+  orig: 308, 169
+  offset: 0, 0
+  index: -1
+shaiwei_eff/3
+  rotate: true
+  xy: 304, 250
+  size: 326, 160
+  orig: 326, 160
+  offset: 0, 0
+  index: -1
+shaiwei_eff/4
+  rotate: false
+  xy: 2, 791
+  size: 411, 230
+  orig: 411, 230
+  offset: 0, 0
+  index: -1
+shaiwei_eff/5
+  rotate: false
+  xy: 2, 578
+  size: 407, 211
+  orig: 407, 211
+  offset: 0, 0
+  index: -1
+shaiwei_eff/6
+  rotate: false
+  xy: 415, 850
+  size: 395, 171
+  orig: 395, 171
+  offset: 0, 0
+  index: -1
+shaiwei_eff/7
+  rotate: false
+  xy: 606, 7
+  size: 240, 50
+  orig: 240, 50
+  offset: 0, 0
+  index: -1
+xuli1_eff/xuli1_eff004
+  rotate: false
+  xy: 812, 839
+  size: 203, 182
+  orig: 203, 182
+  offset: 0, 0
+  index: -1
+
+jl_025_pikaqiu_eff2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gongji1_jianshe/004
+  rotate: false
+  xy: 2, 735
+  size: 300, 182
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+gongji2_chongji/2
+  rotate: true
+  xy: 2, 16
+  size: 209, 113
+  orig: 209, 113
+  offset: 0, 0
+  index: -1
+gongji2_chongji/3
+  rotate: false
+  xy: 182, 436
+  size: 209, 113
+  orig: 209, 113
+  offset: 0, 0
+  index: -1
+gongji2_chongji/4
+  rotate: false
+  xy: 393, 436
+  size: 209, 113
+  orig: 209, 113
+  offset: 0, 0
+  index: -1
+gongji2_chongji/5
+  rotate: false
+  xy: 186, 321
+  size: 209, 113
+  orig: 209, 113
+  offset: 0, 0
+  index: -1
+shaiwei_eff/1
+  rotate: true
+  xy: 2, 432
+  size: 301, 178
+  orig: 301, 178
+  offset: 0, 0
+  index: -1
+xuli1_eff/xuli1_eff005
+  rotate: false
+  xy: 304, 735
+  size: 203, 182
+  orig: 203, 182
+  offset: 0, 0
+  index: -1
+xuli1_eff/xuli1_eff006
+  rotate: false
+  xy: 182, 551
+  size: 203, 182
+  orig: 203, 182
+  offset: 0, 0
+  index: -1
+xuli1_eff/xuli1_eff007
+  rotate: false
+  xy: 509, 735
+  size: 203, 182
+  orig: 203, 182
+  offset: 0, 0
+  index: -1
+xuli1_eff/xuli1_eff008
+  rotate: false
+  xy: 387, 551
+  size: 203, 182
+  orig: 203, 182
+  offset: 0, 0
+  index: -1
+xuli1_eff/xuli1_eff009
+  rotate: false
+  xy: 714, 735
+  size: 203, 182
+  orig: 203, 182
+  offset: 0, 0
+  index: -1
+xuli1_eff/xuli1_eff011
+  rotate: false
+  xy: 592, 551
+  size: 203, 182
+  orig: 203, 182
+  offset: 0, 0
+  index: -1
+xuli1_eff/xuli1_eff013
+  rotate: true
+  xy: 2, 227
+  size: 203, 182
+  orig: 203, 182
+  offset: 0, 0
+  index: -1

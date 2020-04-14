@@ -1,0 +1,174 @@
+
+qita_caihongzhiguang_eff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 305, 467
+  size: 182, 184
+  orig: 203, 203
+  offset: 10, 13
+  index: -1
+fangshexian_eff/fangshe_eff
+  rotate: true
+  xy: 2, 28
+  size: 623, 59
+  orig: 710, 74
+  offset: 50, 10
+  index: -1
+fangshexian_eff/fangshe_eff2
+  rotate: false
+  xy: 372, 945
+  size: 623, 59
+  orig: 710, 74
+  offset: 50, 10
+  index: -1
+guangyun
+  rotate: false
+  xy: 605, 23
+  size: 56, 253
+  orig: 101, 275
+  offset: 18, 11
+  index: -1
+huomiao_eff/huangzhong_huoniao_eff_000
+  rotate: false
+  xy: 663, 151
+  size: 98, 125
+  orig: 132, 175
+  offset: 20, 23
+  index: -1
+huomiao_eff/huangzhong_huoniao_eff_001
+  rotate: false
+  xy: 313, 2
+  size: 121, 171
+  orig: 132, 175
+  offset: 0, 2
+  index: -1
+huomiao_eff/huangzhong_huoniao_eff_003
+  rotate: true
+  xy: 850, 685
+  size: 126, 172
+  orig: 132, 175
+  offset: 0, 0
+  index: -1
+huomiao_eff/huangzhong_huoniao_eff_005
+  rotate: true
+  xy: 809, 445
+  size: 131, 175
+  orig: 132, 175
+  offset: 1, 0
+  index: -1
+huomiao_eff/huangzhong_huoniao_eff_006
+  rotate: true
+  xy: 850, 813
+  size: 130, 172
+  orig: 132, 175
+  offset: 2, 0
+  index: -1
+huomiao_eff/huangzhong_huoniao_eff_007
+  rotate: true
+  xy: 850, 578
+  size: 105, 172
+  orig: 132, 175
+  offset: 22, 0
+  index: -1
+lanse
+  rotate: false
+  xy: 63, 425
+  size: 240, 226
+  orig: 240, 226
+  offset: 0, 0
+  index: -1
+luoxuan_eff
+  rotate: false
+  xy: 372, 716
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+quan2
+  rotate: false
+  xy: 559, 278
+  size: 171, 171
+  orig: 225, 225
+  offset: 27, 27
+  index: -1
+quan3
+  rotate: false
+  xy: 663, 54
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+quan4
+  rotate: false
+  xy: 372, 659
+  size: 55, 55
+  orig: 107, 107
+  offset: 26, 26
+  index: -1
+ranshao_eff/1058-3
+  rotate: false
+  xy: 601, 779
+  size: 247, 164
+  orig: 251, 164
+  offset: 4, 0
+  index: -1
+ranshao_eff/1058-4
+  rotate: true
+  xy: 63, 175
+  size: 248, 164
+  orig: 251, 164
+  offset: 3, 0
+  index: -1
+ranshao_eff/1058-5
+  rotate: true
+  xy: 229, 175
+  size: 248, 163
+  orig: 251, 164
+  offset: 3, 0
+  index: -1
+ranshao_eff/1058-6
+  rotate: false
+  xy: 63, 11
+  size: 248, 162
+  orig: 251, 164
+  offset: 3, 1
+  index: -1
+ranshao_eff/1058-7
+  rotate: true
+  xy: 394, 217
+  size: 248, 163
+  orig: 251, 163
+  offset: 3, 0
+  index: -1
+ranshao_eff/1058-8
+  rotate: false
+  xy: 601, 614
+  size: 247, 163
+  orig: 251, 164
+  offset: 3, 1
+  index: -1
+ranshao_eff/1058-9
+  rotate: false
+  xy: 559, 451
+  size: 248, 161
+  orig: 251, 163
+  offset: 3, 1
+  index: -1
+taiyang1
+  rotate: false
+  xy: 436, 34
+  size: 167, 181
+  orig: 192, 192
+  offset: 15, 11
+  index: -1
+taiyang2
+  rotate: false
+  xy: 2, 653
+  size: 368, 351
+  orig: 384, 384
+  offset: 1, 32
+  index: -1

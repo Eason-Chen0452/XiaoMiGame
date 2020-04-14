@@ -1,0 +1,132 @@
+
+0022_npc_xiaogang.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: true
+  xy: 154, 24
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 154, 52
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 2, 4
+  size: 89, 115
+  orig: 89, 115
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: true
+  xy: 119, 34
+  size: 59, 33
+  orig: 59, 33
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: false
+  xy: 315, 175
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: true
+  xy: 358, 189
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 119, 2
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 95
+  size: 147, 159
+  orig: 147, 159
+  offset: 0, 0
+  index: -1
+Kua
+  rotate: false
+  xy: 315, 213
+  size: 72, 41
+  orig: 72, 41
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 263, 188
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 151, 106
+  size: 54, 69
+  orig: 54, 69
+  offset: 0, 0
+  index: -1
+Thigh_L
+  rotate: false
+  xy: 216, 179
+  size: 45, 75
+  orig: 45, 75
+  offset: 0, 0
+  index: -1
+Thigh_R
+  rotate: false
+  xy: 151, 177
+  size: 63, 77
+  orig: 63, 77
+  offset: 0, 0
+  index: -1
+UpArm_L
+  rotate: false
+  xy: 449, 199
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+UpArm_R
+  rotate: true
+  xy: 389, 203
+  size: 51, 58
+  orig: 51, 58
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 358, 171
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 358, 171
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 358, 171
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1

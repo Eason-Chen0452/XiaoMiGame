@@ -1,0 +1,20 @@
+
+xuruo_dahudun.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: true
+  xy: 443, 2
+  size: 246, 279
+  orig: 247, 279
+  offset: 1, 0
+  index: -1
+shield
+  rotate: true
+  xy: 2, 51
+  size: 197, 439
+  orig: 197, 442
+  offset: 0, 1
+  index: -1

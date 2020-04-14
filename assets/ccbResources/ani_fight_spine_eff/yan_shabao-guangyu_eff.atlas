@@ -1,0 +1,160 @@
+
+yan_shabao-guangyu_eff.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dimian_eff/bai_chongciyanwu_01_eff_01
+  rotate: true
+  xy: 148, 60
+  size: 194, 45
+  orig: 244, 56
+  offset: 5, 2
+  index: -1
+dimian_eff/bai_chongciyanwu_01_eff_02
+  rotate: true
+  xy: 195, 73
+  size: 181, 45
+  orig: 244, 56
+  offset: 29, 2
+  index: -1
+dimian_eff/bai_chongciyanwu_01_eff_03
+  rotate: true
+  xy: 913, 224
+  size: 206, 42
+  orig: 244, 56
+  offset: 10, 2
+  index: -1
+dimian_eff/bai_chongciyanwu_01_eff_04
+  rotate: true
+  xy: 104, 16
+  size: 223, 42
+  orig: 244, 56
+  offset: 0, 2
+  index: -1
+fengsha_eff/bai_shashi_05_eff_01
+  rotate: true
+  xy: 242, 79
+  size: 48, 126
+  orig: 150, 263
+  offset: 32, 22
+  index: -1
+fengsha_eff/bai_shashi_05_eff_02
+  rotate: false
+  xy: 298, 289
+  size: 96, 208
+  orig: 150, 263
+  offset: 39, 0
+  index: -1
+fengsha_eff/bai_shashi_05_eff_03
+  rotate: false
+  xy: 109, 256
+  size: 90, 241
+  orig: 150, 263
+  offset: 43, 5
+  index: -1
+fengsha_eff/bai_shashi_05_eff_04
+  rotate: false
+  xy: 2, 241
+  size: 105, 256
+  orig: 150, 263
+  offset: 39, 6
+  index: -1
+fengsha_eff/bai_shashi_05_eff_05
+  rotate: false
+  xy: 2, 2
+  size: 100, 237
+  orig: 150, 263
+  offset: 41, 6
+  index: -1
+fengsha_eff/bai_shashi_05_eff_06
+  rotate: false
+  xy: 201, 286
+  size: 95, 211
+  orig: 150, 263
+  offset: 43, 6
+  index: -1
+jianshe_eff/bai_shashi_03_eff_01
+  rotate: false
+  xy: 751, 325
+  size: 160, 105
+  orig: 188, 165
+  offset: 19, 13
+  index: -1
+jianshe_eff/bai_shashi_03_eff_02
+  rotate: true
+  xy: 242, 129
+  size: 155, 117
+  orig: 188, 165
+  offset: 20, 15
+  index: -1
+jianshe_eff/bai_shashi_03_eff_03
+  rotate: false
+  xy: 361, 150
+  size: 153, 81
+  orig: 188, 165
+  offset: 20, 18
+  index: -1
+jianshe_eff/bai_shashi_03_eff_04
+  rotate: false
+  xy: 546, 231
+  size: 157, 107
+  orig: 188, 165
+  offset: 22, 13
+  index: -1
+jianshe_eff/bai_shashi_03_eff_05
+  rotate: false
+  xy: 396, 233
+  size: 148, 119
+  orig: 188, 165
+  offset: 27, 15
+  index: -1
+jianshe_eff/bai_shashi_03_eff_06
+  rotate: false
+  xy: 396, 354
+  size: 150, 143
+  orig: 188, 165
+  offset: 24, 15
+  index: -1
+luoxuan_eff/shaxuanfeng001
+  rotate: true
+  xy: 705, 198
+  size: 57, 184
+  orig: 165, 225
+  offset: 30, 29
+  index: -1
+luoxuan_eff/shaxuanfeng003
+  rotate: true
+  xy: 548, 412
+  size: 85, 194
+  orig: 165, 225
+  offset: 8, 22
+  index: -1
+luoxuan_eff/shaxuanfeng005
+  rotate: false
+  xy: 957, 312
+  size: 65, 185
+  orig: 165, 225
+  offset: 29, 36
+  index: -1
+luoxuan_eff/shaxuanfeng007
+  rotate: true
+  xy: 705, 257
+  size: 66, 183
+  orig: 165, 225
+  offset: 27, 33
+  index: -1
+luoxuan_eff/shaxuanfeng009
+  rotate: true
+  xy: 548, 340
+  size: 70, 201
+  orig: 165, 225
+  offset: 25, 18
+  index: -1
+luoxuan_eff/shaxuanfeng011
+  rotate: true
+  xy: 744, 432
+  size: 65, 211
+  orig: 165, 225
+  offset: 21, 10
+  index: -1

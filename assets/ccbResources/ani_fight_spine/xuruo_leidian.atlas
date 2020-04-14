@@ -1,0 +1,62 @@
+
+xuruo_leidian.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spark01a
+  rotate: true
+  xy: 612, 171
+  size: 69, 148
+  orig: 70, 149
+  offset: 0, 1
+  index: -1
+spark01b
+  rotate: true
+  xy: 612, 114
+  size: 55, 141
+  orig: 55, 141
+  offset: 0, 0
+  index: -1
+spark02a
+  rotate: false
+  xy: 2, 82
+  size: 176, 158
+  orig: 176, 159
+  offset: 0, 0
+  index: -1
+spark02b
+  rotate: false
+  xy: 322, 97
+  size: 149, 143
+  orig: 150, 144
+  offset: 1, 0
+  index: -1
+spark03a
+  rotate: false
+  xy: 180, 83
+  size: 140, 157
+  orig: 141, 159
+  offset: 0, 1
+  index: -1
+spark03b
+  rotate: false
+  xy: 473, 102
+  size: 137, 138
+  orig: 138, 154
+  offset: 1, 0
+  index: -1
+spark04a
+  rotate: true
+  xy: 2, 2
+  size: 78, 150
+  orig: 80, 152
+  offset: 1, 1
+  index: -1
+spark04b
+  rotate: true
+  xy: 762, 167
+  size: 73, 119
+  orig: 75, 143
+  offset: 1, 23
+  index: -1

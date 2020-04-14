@@ -1,0 +1,167 @@
+
+0020_npc_hefunan.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: false
+  xy: 540, 2
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+Arm_L_01
+  rotate: false
+  xy: 985, 70
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 728, 37
+  size: 48, 65
+  orig: 48, 65
+  offset: 0, 0
+  index: -1
+Bpdy
+  rotate: true
+  xy: 419, 26
+  size: 100, 119
+  orig: 100, 119
+  offset: 0, 0
+  index: -1
+Dress_01
+  rotate: true
+  xy: 913, 72
+  size: 54, 70
+  orig: 54, 70
+  offset: 0, 0
+  index: -1
+Dress_02
+  rotate: true
+  xy: 148, 39
+  size: 87, 144
+  orig: 87, 144
+  offset: 0, 0
+  index: -1
+Eyes
+  rotate: false
+  xy: 540, 29
+  size: 73, 30
+  orig: 73, 30
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 795, 35
+  size: 59, 47
+  orig: 59, 47
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: true
+  xy: 856, 39
+  size: 43, 51
+  orig: 43, 51
+  offset: 0, 0
+  index: -1
+Hair_01
+  rotate: true
+  xy: 540, 61
+  size: 65, 101
+  orig: 65, 101
+  offset: 0, 0
+  index: -1
+Hair_02
+  rotate: true
+  xy: 643, 62
+  size: 64, 83
+  orig: 64, 83
+  offset: 0, 0
+  index: -1
+Hair_03
+  rotate: true
+  xy: 223, 13
+  size: 24, 65
+  orig: 24, 65
+  offset: 0, 0
+  index: -1
+Hair_04
+  rotate: true
+  xy: 728, 87
+  size: 39, 106
+  orig: 39, 106
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: true
+  xy: 697, 32
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 697, 2
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2, 11
+  size: 115, 144
+  orig: 115, 144
+  offset: 0, 0
+  index: -1
+UpArm_L
+  rotate: false
+  xy: 643, 2
+  size: 52, 58
+  orig: 52, 58
+  offset: 0, 0
+  index: -1
+UpArm_R
+  rotate: true
+  xy: 836, 84
+  size: 42, 75
+  orig: 42, 75
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 294, 42
+  size: 123, 84
+  orig: 123, 84
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 615, 43
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 615, 43
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 615, 43
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+eye
+  rotate: false
+  xy: 148, 7
+  size: 73, 30
+  orig: 73, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+zd_jisha.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1003
+  rotate: false
+  xy: 358, 888
+  size: 428, 95
+  orig: 428, 102
+  offset: 0, 0
+  index: -1
+bai01
+  rotate: false
+  xy: 2, 26
+  size: 114, 64
+  orig: 114, 64
+  offset: 0, 0
+  index: -1
+sudu04
+  rotate: false
+  xy: 2, 606
+  size: 354, 377
+  orig: 400, 400
+  offset: 29, 9
+  index: -1
+sudu06
+  rotate: true
+  xy: 2, 92
+  size: 512, 162
+  orig: 512, 162
+  offset: 0, 0
+  index: -1
+xian/sd_003
+  rotate: true
+  xy: 166, 304
+  size: 300, 188
+  orig: 300, 188
+  offset: 0, 0
+  index: -1
+xian/sd_004
+  rotate: false
+  xy: 358, 698
+  size: 300, 188
+  orig: 300, 188
+  offset: 0, 0
+  index: -1
+xian/sd_005
+  rotate: true
+  xy: 166, 2
+  size: 300, 188
+  orig: 300, 188
+  offset: 0, 0
+  index: -1
+xian/sd_006
+  rotate: false
+  xy: 358, 508
+  size: 300, 188
+  orig: 300, 188
+  offset: 0, 0
+  index: -1
+xuxian/xuxian_003
+  rotate: true
+  xy: 852, 729
+  size: 254, 30
+  orig: 350, 30
+  offset: 0, 0
+  index: -1
+xuxian/xuxian_004
+  rotate: true
+  xy: 820, 688
+  size: 295, 30
+  orig: 350, 30
+  offset: 0, 0
+  index: -1
+xuxian/xuxian_005
+  rotate: true
+  xy: 788, 667
+  size: 316, 30
+  orig: 350, 30
+  offset: 7, 0
+  index: -1
+xuxian/xuxian_006
+  rotate: true
+  xy: 692, 560
+  size: 326, 30
+  orig: 350, 30
+  offset: 16, 0
+  index: -1
+xuxian/xuxian_007
+  rotate: true
+  xy: 660, 558
+  size: 328, 30
+  orig: 350, 30
+  offset: 22, 0
+  index: -1
+xuxian/xuxian_008
+  rotate: true
+  xy: 724, 564
+  size: 322, 30
+  orig: 350, 30
+  offset: 28, 0
+  index: -1
+xuxian/xuxian_009
+  rotate: true
+  xy: 756, 568
+  size: 318, 30
+  orig: 350, 30
+  offset: 32, 0
+  index: -1
+xuxian/xuxian_010
+  rotate: true
+  xy: 884, 796
+  size: 187, 30
+  orig: 350, 30
+  offset: 35, 0
+  index: -1
+xuxian/xuxian_011
+  rotate: true
+  xy: 916, 799
+  size: 184, 30
+  orig: 350, 30
+  offset: 39, 0
+  index: -1

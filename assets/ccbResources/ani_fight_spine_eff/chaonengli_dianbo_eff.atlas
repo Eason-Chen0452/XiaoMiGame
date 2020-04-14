@@ -1,0 +1,167 @@
+
+chaonengli_dianbo_eff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dajianshe_eff/lan_dimianleidian_eff_01
+  rotate: true
+  xy: 355, 493
+  size: 119, 80
+  orig: 123, 88
+  offset: 3, 0
+  index: -1
+dajianshe_eff/lan_dimianleidian_eff_02
+  rotate: true
+  xy: 113, 109
+  size: 122, 88
+  orig: 123, 88
+  offset: 1, 0
+  index: -1
+dajianshe_eff/lan_dimianleidian_eff_03
+  rotate: false
+  xy: 113, 20
+  size: 120, 87
+  orig: 123, 88
+  offset: 0, 1
+  index: -1
+dajianshe_eff/lan_dimianleidian_eff_04
+  rotate: true
+  xy: 197, 339
+  size: 119, 87
+  orig: 123, 88
+  offset: 2, 0
+  index: -1
+leihua_eff/spark02a
+  rotate: true
+  xy: 894, 676
+  size: 132, 119
+  orig: 132, 119
+  offset: 0, 0
+  index: -1
+leihua_eff/spark02b
+  rotate: false
+  xy: 240, 504
+  size: 113, 108
+  orig: 113, 108
+  offset: 0, 0
+  index: -1
+leihua_eff/spark03a
+  rotate: false
+  xy: 89, 339
+  size: 106, 119
+  orig: 106, 119
+  offset: 0, 0
+  index: -1
+leihua_eff/spark03b
+  rotate: false
+  xy: 89, 233
+  size: 103, 104
+  orig: 104, 116
+  offset: 1, 0
+  index: -1
+leihua_eff/spark04a
+  rotate: true
+  xy: 194, 277
+  size: 60, 114
+  orig: 60, 114
+  offset: 0, 0
+  index: -1
+leihua_eff/spark04b
+  rotate: false
+  xy: 203, 185
+  size: 56, 90
+  orig: 56, 107
+  offset: 0, 17
+  index: -1
+luolei_xiao_eff/00001
+  rotate: false
+  xy: 2, 233
+  size: 85, 377
+  orig: 225, 428
+  offset: 64, 8
+  index: -1
+luolei_xiao_eff/00005
+  rotate: false
+  xy: 99, 635
+  size: 102, 381
+  orig: 225, 428
+  offset: 65, 7
+  index: -1
+luolei_xiao_eff/00021
+  rotate: false
+  xy: 2, 612
+  size: 95, 404
+  orig: 225, 428
+  offset: 56, 22
+  index: -1
+xiaojianshe_eff/lan_leidianhuohua_eff_01
+  rotate: false
+  xy: 461, 697
+  size: 203, 121
+  orig: 300, 150
+  offset: 24, 16
+  index: -1
+xiaojianshe_eff/lan_leidianhuohua_eff_02
+  rotate: true
+  xy: 2, 2
+  size: 229, 109
+  orig: 300, 150
+  offset: 27, 6
+  index: -1
+xiaojianshe_eff/lan_leidianhuohua_eff_03
+  rotate: false
+  xy: 203, 682
+  size: 250, 121
+  orig: 300, 150
+  offset: 29, 18
+  index: -1
+xiaojianshe_eff/lan_leidianhuohua_eff_04
+  rotate: true
+  xy: 910, 810
+  size: 206, 103
+  orig: 300, 150
+  offset: 23, 24
+  index: -1
+xiaojianshe_eff/lan_leidianhuohua_eff_05
+  rotate: false
+  xy: 203, 614
+  size: 212, 66
+  orig: 300, 150
+  offset: 22, 60
+  index: -1
+zhongjianshe_eff/00001
+  rotate: true
+  xy: 89, 460
+  size: 150, 149
+  orig: 263, 225
+  offset: 44, 10
+  index: -1
+zhongjianshe_eff/00002
+  rotate: false
+  xy: 700, 666
+  size: 192, 167
+  orig: 263, 225
+  offset: 29, 11
+  index: -1
+zhongjianshe_eff/00003
+  rotate: false
+  xy: 700, 835
+  size: 208, 181
+  orig: 263, 225
+  offset: 24, 11
+  index: -1
+zhongjianshe_eff/00004
+  rotate: false
+  xy: 461, 820
+  size: 237, 196
+  orig: 263, 225
+  offset: 9, 10
+  index: -1
+zhongjianshe_eff/00005
+  rotate: false
+  xy: 203, 805
+  size: 256, 211
+  orig: 263, 225
+  offset: 0, 11
+  index: -1

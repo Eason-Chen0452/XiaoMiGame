@@ -1,0 +1,62 @@
+
+wq-zi.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+furnace_glow_purple
+  rotate: true
+  xy: 128, 14
+  size: 111, 127
+  orig: 128, 128
+  offset: 9, 0
+  index: -1
+gs055
+  rotate: false
+  xy: 257, 36
+  size: 128, 89
+  orig: 130, 91
+  offset: 1, 1
+  index: -1
+gs057
+  rotate: false
+  xy: 257, 36
+  size: 128, 89
+  orig: 130, 91
+  offset: 1, 1
+  index: -1
+gs056
+  rotate: false
+  xy: 387, 36
+  size: 128, 89
+  orig: 130, 91
+  offset: 1, 1
+  index: -1
+gs058
+  rotate: false
+  xy: 387, 36
+  size: 128, 89
+  orig: 130, 91
+  offset: 1, 1
+  index: -1
+wq-zi-ty
+  rotate: false
+  xy: 517, 76
+  size: 120, 49
+  orig: 122, 51
+  offset: 1, 1
+  index: -1
+wq-zi-w
+  rotate: true
+  xy: 639, 79
+  size: 46, 71
+  orig: 48, 73
+  offset: 1, 1
+  index: -1
+wq-zi-wq
+  rotate: false
+  xy: 2, 2
+  size: 124, 123
+  orig: 124, 123
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+yan_huitianmiedi_eff.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fengsha
+  rotate: false
+  xy: 2, 260
+  size: 416, 209
+  orig: 416, 209
+  offset: 0, 0
+  index: -1
+luoshi_eff/bai_shashi_05_eff_01
+  rotate: true
+  xy: 869, 421
+  size: 48, 126
+  orig: 150, 263
+  offset: 32, 22
+  index: -1
+luoshi_eff/bai_shashi_05_eff_02
+  rotate: true
+  xy: 659, 373
+  size: 96, 208
+  orig: 150, 263
+  offset: 39, 0
+  index: -1
+luoshi_eff/bai_shashi_05_eff_03
+  rotate: false
+  xy: 109, 17
+  size: 90, 241
+  orig: 150, 263
+  offset: 43, 5
+  index: -1
+luoshi_eff/bai_shashi_05_eff_04
+  rotate: false
+  xy: 2, 2
+  size: 105, 256
+  orig: 150, 263
+  offset: 39, 6
+  index: -1
+luoshi_eff/bai_shashi_05_eff_05
+  rotate: true
+  xy: 420, 369
+  size: 100, 237
+  orig: 150, 263
+  offset: 41, 6
+  index: -1
+luoshi_eff/bai_shashi_05_eff_06
+  rotate: true
+  xy: 420, 272
+  size: 95, 211
+  orig: 150, 263
+  offset: 43, 6
+  index: -1
+luoxuan_eff/shaxuanfeng001
+  rotate: false
+  xy: 606, 86
+  size: 57, 184
+  orig: 165, 225
+  offset: 30, 29
+  index: -1
+luoxuan_eff/shaxuanfeng003
+  rotate: false
+  xy: 201, 64
+  size: 85, 194
+  orig: 165, 225
+  offset: 8, 22
+  index: -1
+luoxuan_eff/shaxuanfeng005
+  rotate: false
+  xy: 471, 85
+  size: 65, 185
+  orig: 165, 225
+  offset: 29, 36
+  index: -1
+luoxuan_eff/shaxuanfeng007
+  rotate: false
+  xy: 538, 87
+  size: 66, 183
+  orig: 165, 225
+  offset: 27, 33
+  index: -1
+luoxuan_eff/shaxuanfeng009
+  rotate: false
+  xy: 288, 57
+  size: 70, 201
+  orig: 165, 225
+  offset: 25, 18
+  index: -1
+luoxuan_eff/shaxuanfeng011
+  rotate: false
+  xy: 360, 47
+  size: 65, 211
+  orig: 165, 225
+  offset: 21, 10
+  index: -1
+yanwu_eff/bai_chongciyanwu_01_eff_01
+  rotate: false
+  xy: 633, 282
+  size: 194, 45
+  orig: 244, 56
+  offset: 5, 2
+  index: -1
+yanwu_eff/bai_chongciyanwu_01_eff_02
+  rotate: true
+  xy: 665, 99
+  size: 181, 45
+  orig: 244, 56
+  offset: 29, 2
+  index: -1
+yanwu_eff/bai_chongciyanwu_01_eff_03
+  rotate: false
+  xy: 659, 329
+  size: 206, 42
+  orig: 244, 56
+  offset: 10, 2
+  index: -1
+yanwu_eff/bai_chongciyanwu_01_eff_04
+  rotate: true
+  xy: 427, 47
+  size: 223, 42
+  orig: 244, 56
+  offset: 0, 2
+  index: -1

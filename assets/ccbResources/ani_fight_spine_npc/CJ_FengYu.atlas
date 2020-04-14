@@ -1,0 +1,55 @@
+
+CJ_FengYu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff_flo
+  rotate: false
+  xy: 164, 63
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 164, 63
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 164, 63
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+crs
+  rotate: false
+  xy: 2, 2
+  size: 88, 47
+  orig: 90, 49
+  offset: 1, 1
+  index: -1
+fe
+  rotate: false
+  xy: 295, 130
+  size: 64, 64
+  orig: 66, 66
+  offset: 1, 1
+  index: -1
+feather
+  rotate: false
+  xy: 164, 81
+  size: 129, 113
+  orig: 131, 115
+  offset: 1, 1
+  index: -1
+featherl
+  rotate: false
+  xy: 2, 51
+  size: 160, 143
+  orig: 162, 145
+  offset: 1, 1
+  index: -1

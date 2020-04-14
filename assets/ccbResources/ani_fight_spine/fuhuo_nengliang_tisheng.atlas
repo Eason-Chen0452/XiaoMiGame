@@ -1,0 +1,160 @@
+
+fuhuo_nengliang_tisheng.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+breathline01
+  rotate: false
+  xy: 419, 614
+  size: 163, 41
+  orig: 169, 43
+  offset: 3, 1
+  index: -1
+breathline02
+  rotate: true
+  xy: 949, 830
+  size: 183, 41
+  orig: 188, 43
+  offset: 3, 1
+  index: -1
+breathline03
+  rotate: true
+  xy: 871, 659
+  size: 148, 36
+  orig: 154, 38
+  offset: 3, 1
+  index: -1
+breathline04
+  rotate: false
+  xy: 2, 2
+  size: 257, 37
+  orig: 260, 39
+  offset: 3, 1
+  index: -1
+breathwave01
+  rotate: true
+  xy: 843, 650
+  size: 363, 26
+  orig: 363, 31
+  offset: 0, 5
+  index: -1
+breathwave02
+  rotate: true
+  xy: 393, 405
+  size: 250, 24
+  orig: 265, 39
+  offset: 12, 4
+  index: -1
+breathwave03
+  rotate: true
+  xy: 267, 88
+  size: 230, 8
+  orig: 233, 10
+  offset: 1, 0
+  index: -1
+breathwave04
+  rotate: true
+  xy: 992, 877
+  size: 136, 26
+  orig: 146, 29
+  offset: 0, 3
+  index: -1
+lightning01-1
+  rotate: false
+  xy: 419, 517
+  size: 102, 95
+  orig: 104, 98
+  offset: 2, 2
+  index: -1
+lightning01-2
+  rotate: false
+  xy: 285, 325
+  size: 67, 73
+  orig: 70, 77
+  offset: 2, 3
+  index: -1
+lightning01-3
+  rotate: false
+  xy: 523, 565
+  size: 59, 47
+  orig: 59, 65
+  offset: 0, 16
+  index: -1
+lightning02-1
+  rotate: true
+  xy: 285, 400
+  size: 222, 106
+  orig: 224, 108
+  offset: 1, 1
+  index: -1
+lightning02-2
+  rotate: false
+  xy: 393, 657
+  size: 213, 90
+  orig: 217, 94
+  offset: 2, 2
+  index: -1
+lightning02-3
+  rotate: true
+  xy: 871, 809
+  size: 204, 76
+  orig: 206, 78
+  offset: 1, 1
+  index: -1
+lightning03-1
+  rotate: false
+  xy: 419, 445
+  size: 65, 70
+  orig: 66, 72
+  offset: 0, 2
+  index: -1
+lightning03-2
+  rotate: false
+  xy: 608, 700
+  size: 60, 47
+  orig: 61, 47
+  offset: 1, 0
+  index: -1
+lightning03-3
+  rotate: true
+  xy: 909, 767
+  size: 40, 33
+  orig: 42, 36
+  offset: 1, 2
+  index: -1
+mcircle
+  rotate: false
+  xy: 673, 656
+  size: 168, 357
+  orig: 168, 357
+  offset: 0, 0
+  index: -1
+particle01
+  rotate: false
+  xy: 2, 320
+  size: 281, 302
+  orig: 283, 305
+  offset: 1, 2
+  index: -1
+particle02
+  rotate: false
+  xy: 393, 749
+  size: 278, 264
+  orig: 280, 266
+  offset: 1, 1
+  index: -1
+particle03
+  rotate: false
+  xy: 2, 41
+  size: 263, 277
+  orig: 265, 279
+  offset: 1, 1
+  index: -1
+starlight
+  rotate: false
+  xy: 2, 624
+  size: 389, 389
+  orig: 398, 397
+  offset: 5, 4
+  index: -1

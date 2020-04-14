@@ -1,0 +1,62 @@
+
+BUFF_ZhongDu.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+suduxian_eff/hf_00008
+  rotate: true
+  xy: 300, 55
+  size: 90, 166
+  orig: 100, 200
+  offset: 1, 2
+  index: -1
+suduxian_eff/hf_00009
+  rotate: true
+  xy: 300, 147
+  size: 90, 189
+  orig: 100, 200
+  offset: 1, 0
+  index: -1
+suduxian_eff/hf_00010
+  rotate: false
+  xy: 2, 44
+  size: 97, 193
+  orig: 100, 200
+  offset: 1, 6
+  index: -1
+suduxian_eff/hf_00011
+  rotate: false
+  xy: 101, 44
+  size: 97, 193
+  orig: 100, 200
+  offset: 1, 7
+  index: -1
+suduxian_eff/hf_00012
+  rotate: false
+  xy: 200, 54
+  size: 98, 183
+  orig: 100, 200
+  offset: 0, 17
+  index: -1
+suduxian_eff/hf_00013
+  rotate: true
+  xy: 491, 139
+  size: 98, 151
+  orig: 100, 200
+  offset: 0, 36
+  index: -1
+suduxian_eff/hf_00014
+  rotate: true
+  xy: 644, 139
+  size: 98, 127
+  orig: 100, 200
+  offset: 0, 56
+  index: -1
+yuansu_eff/kuloutuo
+  rotate: false
+  xy: 2, 2
+  size: 44, 40
+  orig: 86, 78
+  offset: 21, 19
+  index: -1

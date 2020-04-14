@@ -1,0 +1,160 @@
+
+shui_bingdongguangshu_eff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00003 (2)
+  rotate: false
+  xy: 649, 482
+  size: 86, 85
+  orig: 113, 113
+  offset: 13, 18
+  index: -1
+arrow03
+  rotate: true
+  xy: 959, 666
+  size: 148, 23
+  orig: 151, 23
+  offset: 3, 0
+  index: -1
+fangshe_eff2
+  rotate: false
+  xy: 2, 956
+  size: 623, 59
+  orig: 710, 74
+  offset: 50, 10
+  index: -1
+ice02
+  rotate: false
+  xy: 945, 988
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+ice04
+  rotate: false
+  xy: 876, 637
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1
+jianse_eff/00001
+  rotate: false
+  xy: 830, 816
+  size: 150, 149
+  orig: 263, 225
+  offset: 44, 10
+  index: -1
+jianse_eff/00002
+  rotate: true
+  xy: 480, 539
+  size: 192, 167
+  orig: 263, 225
+  offset: 29, 11
+  index: -1
+jianse_eff/00003
+  rotate: false
+  xy: 2, 329
+  size: 208, 181
+  orig: 263, 225
+  offset: 24, 11
+  index: -1
+jianse_eff/00004
+  rotate: false
+  xy: 260, 758
+  size: 237, 196
+  orig: 263, 225
+  offset: 9, 10
+  index: -1
+jianse_eff/00005
+  rotate: false
+  xy: 2, 743
+  size: 256, 211
+  orig: 263, 225
+  offset: 0, 11
+  index: -1
+light
+  rotate: false
+  xy: 627, 967
+  size: 316, 48
+  orig: 322, 50
+  offset: 3, 1
+  index: -1
+nengliangjianzadi/nengliangjianzadi_00013
+  rotate: true
+  xy: 649, 569
+  size: 167, 137
+  orig: 209, 137
+  offset: 21, 0
+  index: -1
+nengliangjianzadi/nengliangjianzadi_00014
+  rotate: false
+  xy: 2, 2
+  size: 209, 132
+  orig: 209, 137
+  offset: 0, 2
+  index: -1
+nengliangjianzadi/nengliangjianzadi_00015
+  rotate: false
+  xy: 627, 847
+  size: 201, 118
+  orig: 209, 137
+  offset: 4, 11
+  index: -1
+particle02
+  rotate: false
+  xy: 788, 573
+  size: 86, 92
+  orig: 86, 92
+  offset: 0, 0
+  index: -1
+ring/ring01
+  rotate: false
+  xy: 2, 136
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: -1
+ring/ring02
+  rotate: false
+  xy: 2, 512
+  size: 229, 229
+  orig: 229, 229
+  offset: 0, 0
+  index: -1
+ring01 (2)
+  rotate: true
+  xy: 802, 667
+  size: 147, 155
+  orig: 150, 157
+  offset: 1, 1
+  index: -1
+xuli_eff/qinpu_eff_002
+  rotate: true
+  xy: 499, 733
+  size: 221, 123
+  orig: 225, 150
+  offset: 2, 12
+  index: -1
+xuli_eff/qinpu_eff_003
+  rotate: true
+  xy: 233, 520
+  size: 221, 123
+  orig: 225, 150
+  offset: 2, 12
+  index: -1
+xuli_eff/qinpu_eff_004
+  rotate: true
+  xy: 358, 538
+  size: 218, 120
+  orig: 225, 150
+  offset: 5, 12
+  index: -1
+xuli_eff/qinpu_eff_005
+  rotate: false
+  xy: 624, 738
+  size: 176, 107
+  orig: 225, 150
+  offset: 44, 12
+  index: -1

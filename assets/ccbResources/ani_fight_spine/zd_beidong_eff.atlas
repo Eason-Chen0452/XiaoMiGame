@@ -1,0 +1,125 @@
+
+zd_beidong_eff.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liuguang 0
+  rotate: true
+  xy: 2, 123
+  size: 119, 106
+  orig: 119, 106
+  offset: 0, 0
+  index: -1
+liuguang 1
+  rotate: true
+  xy: 2, 2
+  size: 119, 106
+  orig: 119, 106
+  offset: 0, 0
+  index: -1
+liuguang 10
+  rotate: true
+  xy: 542, 123
+  size: 119, 106
+  orig: 119, 106
+  offset: 0, 0
+  index: -1
+liuguang 11
+  rotate: true
+  xy: 542, 2
+  size: 119, 106
+  orig: 119, 106
+  offset: 0, 0
+  index: -1
+liuguang 12
+  rotate: true
+  xy: 650, 123
+  size: 119, 106
+  orig: 119, 106
+  offset: 0, 0
+  index: -1
+liuguang 13
+  rotate: true
+  xy: 650, 2
+  size: 119, 106
+  orig: 119, 106
+  offset: 0, 0
+  index: -1
+liuguang 14
+  rotate: true
+  xy: 758, 123
+  size: 119, 106
+  orig: 119, 106
+  offset: 0, 0
+  index: -1
+liuguang 15
+  rotate: true
+  xy: 758, 2
+  size: 119, 106
+  orig: 119, 106
+  offset: 0, 0
+  index: -1
+liuguang 16
+  rotate: false
+  xy: 866, 136
+  size: 119, 106
+  orig: 119, 106
+  offset: 0, 0
+  index: -1
+liuguang 2
+  rotate: true
+  xy: 110, 123
+  size: 119, 106
+  orig: 119, 106
+  offset: 0, 0
+  index: -1
+liuguang 3
+  rotate: true
+  xy: 110, 2
+  size: 119, 106
+  orig: 119, 106
+  offset: 0, 0
+  index: -1
+liuguang 4
+  rotate: true
+  xy: 218, 123
+  size: 119, 106
+  orig: 119, 106
+  offset: 0, 0
+  index: -1
+liuguang 5
+  rotate: true
+  xy: 218, 2
+  size: 119, 106
+  orig: 119, 106
+  offset: 0, 0
+  index: -1
+liuguang 6
+  rotate: true
+  xy: 326, 123
+  size: 119, 106
+  orig: 119, 106
+  offset: 0, 0
+  index: -1
+liuguang 7
+  rotate: true
+  xy: 326, 2
+  size: 119, 106
+  orig: 119, 106
+  offset: 0, 0
+  index: -1
+liuguang 8
+  rotate: true
+  xy: 434, 123
+  size: 119, 106
+  orig: 119, 106
+  offset: 0, 0
+  index: -1
+liuguang 9
+  rotate: true
+  xy: 434, 2
+  size: 119, 106
+  orig: 119, 106
+  offset: 0, 0
+  index: -1

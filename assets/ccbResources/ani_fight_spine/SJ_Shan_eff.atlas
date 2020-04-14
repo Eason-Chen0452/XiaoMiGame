@@ -1,0 +1,13 @@
+
+SJ_Shan_eff.png
+size: 32,16
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shanshuo_bg
+  rotate: false
+  xy: 2, 2
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1

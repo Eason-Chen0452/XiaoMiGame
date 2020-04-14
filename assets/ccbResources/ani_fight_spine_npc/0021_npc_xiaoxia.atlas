@@ -1,0 +1,244 @@
+
+0021_npc_xiaoxia.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: true
+  xy: 436, 154
+  size: 30, 40
+  orig: 32, 42
+  offset: 1, 1
+  index: -1
+Arm_R
+  rotate: false
+  xy: 440, 112
+  size: 25, 40
+  orig: 27, 42
+  offset: 1, 1
+  index: -1
+Ball_L
+  rotate: false
+  xy: 478, 160
+  size: 20, 20
+  orig: 22, 22
+  offset: 1, 1
+  index: -1
+Body
+  rotate: false
+  xy: 359, 182
+  size: 61, 69
+  orig: 63, 71
+  offset: 1, 1
+  index: -1
+Die
+  rotate: false
+  xy: 2, 72
+  size: 125, 179
+  orig: 125, 179
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 95, 4
+  size: 66, 16
+  orig: 66, 16
+  offset: 0, 0
+  index: -1
+Eye1_L
+  rotate: true
+  xy: 467, 129
+  size: 23, 15
+  orig: 25, 17
+  offset: 1, 1
+  index: -1
+Eye1_R
+  rotate: false
+  xy: 417, 60
+  size: 31, 19
+  orig: 33, 21
+  offset: 1, 1
+  index: -1
+Eye_L
+  rotate: true
+  xy: 365, 110
+  size: 30, 44
+  orig: 32, 46
+  offset: 1, 1
+  index: -1
+Eye_R
+  rotate: false
+  xy: 328, 68
+  size: 33, 44
+  orig: 35, 46
+  offset: 1, 1
+  index: -1
+Foot_L
+  rotate: false
+  xy: 207, 75
+  size: 48, 39
+  orig: 50, 41
+  offset: 1, 1
+  index: -1
+Foot_R
+  rotate: false
+  xy: 365, 142
+  size: 43, 38
+  orig: 45, 40
+  offset: 1, 1
+  index: -1
+Hair_L
+  rotate: false
+  xy: 422, 186
+  size: 63, 65
+  orig: 65, 67
+  offset: 1, 1
+  index: -1
+Hair_L2
+  rotate: false
+  xy: 255, 171
+  size: 102, 80
+  orig: 104, 82
+  offset: 1, 1
+  index: -1
+Hair_L3
+  rotate: false
+  xy: 335, 114
+  size: 28, 55
+  orig: 30, 57
+  offset: 1, 1
+  index: -1
+Hair_R
+  rotate: false
+  xy: 2, 2
+  size: 91, 68
+  orig: 93, 70
+  offset: 1, 1
+  index: -1
+Hair_R2
+  rotate: true
+  xy: 255, 120
+  size: 49, 78
+  orig: 51, 80
+  offset: 1, 1
+  index: -1
+Hand_L
+  rotate: false
+  xy: 418, 81
+  size: 27, 27
+  orig: 29, 29
+  offset: 1, 1
+  index: -1
+Hand_R
+  rotate: true
+  xy: 410, 145
+  size: 35, 24
+  orig: 37, 26
+  offset: 1, 1
+  index: -1
+Hand_R2
+  rotate: false
+  xy: 411, 110
+  size: 27, 33
+  orig: 29, 34
+  offset: 1, 1
+  index: -1
+Head
+  rotate: false
+  xy: 129, 116
+  size: 124, 135
+  orig: 126, 137
+  offset: 1, 1
+  index: -1
+Kua
+  rotate: true
+  xy: 171, 2
+  size: 68, 32
+  orig: 70, 34
+  offset: 1, 1
+  index: -1
+Leg_L
+  rotate: false
+  xy: 487, 182
+  size: 22, 69
+  orig: 24, 71
+  offset: 1, 1
+  index: -1
+Leg_R
+  rotate: true
+  xy: 257, 79
+  size: 39, 69
+  orig: 41, 71
+  offset: 1, 1
+  index: -1
+Mouth
+  rotate: true
+  xy: 450, 61
+  size: 20, 15
+  orig: 22, 17
+  offset: 1, 1
+  index: -1
+Mouth2
+  rotate: true
+  xy: 447, 83
+  size: 27, 15
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+Mouth3
+  rotate: true
+  xy: 500, 160
+  size: 20, 7
+  orig: 22, 17
+  offset: 1, 9
+  index: -1
+Thigh_L
+  rotate: true
+  xy: 129, 72
+  size: 42, 76
+  orig: 44, 83
+  offset: 1, 6
+  index: -1
+Thigh_R
+  rotate: true
+  xy: 95, 22
+  size: 48, 74
+  orig: 50, 76
+  offset: 1, 1
+  index: -1
+UpArm_L
+  rotate: true
+  xy: 363, 83
+  size: 25, 53
+  orig: 27, 55
+  offset: 1, 1
+  index: -1
+UpArm_R
+  rotate: true
+  xy: 363, 56
+  size: 25, 52
+  orig: 27, 54
+  offset: 1, 1
+  index: -1
+buff_flo
+  rotate: false
+  xy: 467, 111
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 467, 111
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 467, 111
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1

@@ -1,0 +1,146 @@
+
+chaonengli_nianlibo_eff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00002 (3)
+  rotate: false
+  xy: 829, 601
+  size: 94, 92
+  orig: 125, 126
+  offset: 18, 19
+  index: -1
+chuansong_01@2x
+  rotate: false
+  xy: 720, 592
+  size: 107, 101
+  orig: 108, 101
+  offset: 0, 0
+  index: -1
+leibao_eff/lei_fangshe001
+  rotate: true
+  xy: 408, 297
+  size: 93, 92
+  orig: 390, 360
+  offset: 149, 128
+  index: -1
+leibao_eff/lei_fangshe002.png
+  rotate: false
+  xy: 589, 590
+  size: 129, 128
+  orig: 390, 360
+  offset: 136, 107
+  index: -1
+leibao_eff/lei_fangshe003.png
+  rotate: false
+  xy: 2, 147
+  size: 253, 220
+  orig: 390, 360
+  offset: 58, 76
+  index: -1
+leibao_eff/lei_fangshe004.png
+  rotate: false
+  xy: 2, 369
+  size: 361, 312
+  orig: 390, 360
+  offset: 13, 22
+  index: -1
+leibao_eff/lei_fangshe005.png
+  rotate: false
+  xy: 2, 683
+  size: 387, 335
+  orig: 390, 360
+  offset: 0, 10
+  index: -1
+leibao_eff/lei_fangshe006.png
+  rotate: false
+  xy: 391, 720
+  size: 343, 298
+  orig: 390, 360
+  offset: 19, 31
+  index: -1
+leidun_eff/leidun001
+  rotate: false
+  xy: 736, 834
+  size: 172, 184
+  orig: 203, 206
+  offset: 31, 15
+  index: -1
+leidun_eff/leidun002
+  rotate: false
+  xy: 257, 169
+  size: 149, 198
+  orig: 203, 206
+  offset: 31, 7
+  index: -1
+leidun_eff/leidun003
+  rotate: true
+  xy: 2, 2
+  size: 143, 197
+  orig: 203, 206
+  offset: 28, 4
+  index: -1
+leidun_eff/leidun004
+  rotate: true
+  xy: 736, 695
+  size: 137, 195
+  orig: 203, 206
+  offset: 27, 3
+  index: -1
+leidun_eff/leidun006
+  rotate: true
+  xy: 391, 585
+  size: 133, 196
+  orig: 203, 206
+  offset: 27, 3
+  index: -1
+leidun_eff/leidun008
+  rotate: false
+  xy: 365, 392
+  size: 133, 191
+  orig: 203, 206
+  offset: 27, 3
+  index: -1
+leidun_eff/leidun009
+  rotate: false
+  xy: 621, 464
+  size: 123, 124
+  orig: 203, 206
+  offset: 27, 3
+  index: -1
+leidun_eff/leidun011
+  rotate: false
+  xy: 746, 466
+  size: 123, 124
+  orig: 203, 206
+  offset: 27, 3
+  index: -1
+leihua_eff/spark01a
+  rotate: true
+  xy: 910, 850
+  size: 53, 112
+  orig: 53, 112
+  offset: 0, 0
+  index: -1
+leihua_eff/spark01b
+  rotate: false
+  xy: 201, 39
+  size: 41, 106
+  orig: 41, 106
+  offset: 0, 0
+  index: -1
+leihua_eff/spark02a
+  rotate: true
+  xy: 500, 451
+  size: 132, 119
+  orig: 132, 119
+  offset: 0, 0
+  index: -1
+leihua_eff/spark02b
+  rotate: true
+  xy: 910, 905
+  size: 113, 108
+  orig: 113, 108
+  offset: 0, 0
+  index: -1

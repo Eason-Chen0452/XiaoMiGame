@@ -1,0 +1,160 @@
+
+0043_npc_lijia.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: false
+  xy: 349, 127
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 208, 109
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 401, 172
+  size: 60, 82
+  orig: 62, 84
+  offset: 1, 1
+  index: -1
+Dress
+  rotate: false
+  xy: 2, 98
+  size: 131, 156
+  orig: 133, 158
+  offset: 1, 1
+  index: -1
+Eye1_L
+  rotate: true
+  xy: 166, 52
+  size: 22, 14
+  orig: 24, 16
+  offset: 1, 1
+  index: -1
+Eye1_R
+  rotate: false
+  xy: 349, 110
+  size: 26, 15
+  orig: 28, 17
+  offset: 1, 1
+  index: -1
+Eye_L
+  rotate: false
+  xy: 162, 2
+  size: 25, 34
+  orig: 27, 36
+  offset: 1, 1
+  index: -1
+Eye_R
+  rotate: false
+  xy: 132, 2
+  size: 28, 34
+  orig: 30, 36
+  offset: 1, 1
+  index: -1
+Foot_L
+  rotate: false
+  xy: 132, 38
+  size: 32, 36
+  orig: 34, 38
+  offset: 1, 1
+  index: -1
+Foot_R
+  rotate: false
+  xy: 135, 76
+  size: 40, 35
+  orig: 42, 37
+  offset: 1, 1
+  index: -1
+HDJ
+  rotate: false
+  xy: 463, 193
+  size: 33, 61
+  orig: 35, 63
+  offset: 1, 1
+  index: -1
+Hair_B
+  rotate: true
+  xy: 2, 16
+  size: 80, 128
+  orig: 82, 130
+  offset: 1, 1
+  index: -1
+Hair_F
+  rotate: false
+  xy: 208, 165
+  size: 113, 89
+  orig: 115, 91
+  offset: 1, 1
+  index: -1
+Hair_R
+  rotate: false
+  xy: 135, 113
+  size: 71, 141
+  orig: 73, 143
+  offset: 1, 1
+  index: -1
+Hand_L
+  rotate: false
+  xy: 463, 168
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 177, 78
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 323, 171
+  size: 76, 83
+  orig: 78, 85
+  offset: 1, 1
+  index: -1
+UpArm_L
+  rotate: false
+  xy: 306, 114
+  size: 41, 49
+  orig: 43, 51
+  offset: 1, 1
+  index: -1
+UpArm_R
+  rotate: false
+  xy: 265, 110
+  size: 39, 53
+  orig: 41, 55
+  offset: 1, 1
+  index: -1
+buff_flo
+  rotate: false
+  xy: 377, 109
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 377, 109
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 377, 109
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1

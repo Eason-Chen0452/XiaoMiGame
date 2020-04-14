@@ -1,0 +1,202 @@
+
+2007_npc_xiaoyao.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bip001 Eye
+  rotate: false
+  xy: 2, 15
+  size: 60, 11
+  orig: 60, 11
+  offset: 0, 0
+  index: -1
+Bip001 Eye-c
+  rotate: false
+  xy: 335, 36
+  size: 59, 30
+  orig: 59, 30
+  offset: 0, 0
+  index: -1
+Bip001 Hair01
+  rotate: true
+  xy: 353, 68
+  size: 58, 68
+  orig: 58, 68
+  offset: 0, 0
+  index: -1
+Bip001 Hair02
+  rotate: true
+  xy: 151, 77
+  size: 49, 106
+  orig: 49, 106
+  offset: 0, 0
+  index: -1
+Bip001 Hair03
+  rotate: false
+  xy: 2, 28
+  size: 70, 98
+  orig: 70, 98
+  offset: 0, 0
+  index: -1
+Bip001 Head
+  rotate: false
+  xy: 74, 40
+  size: 75, 86
+  orig: 75, 86
+  offset: 0, 0
+  index: -1
+Bip001 Head01
+  rotate: true
+  xy: 196, 3
+  size: 17, 24
+  orig: 17, 26
+  offset: 0, 2
+  index: -1
+Bip001 Head02
+  rotate: false
+  xy: 151, 30
+  size: 61, 45
+  orig: 61, 45
+  offset: 0, 0
+  index: -1
+Bip001 Head03
+  rotate: false
+  xy: 423, 72
+  size: 60, 54
+  orig: 60, 54
+  offset: 0, 0
+  index: -1
+Bip001 Head04
+  rotate: false
+  xy: 259, 84
+  size: 92, 42
+  orig: 95, 42
+  offset: 1, 0
+  index: -1
+Bip001 L Calf
+  rotate: false
+  xy: 485, 74
+  size: 15, 52
+  orig: 15, 53
+  offset: 0, 0
+  index: -1
+Bip001 L Foot
+  rotate: true
+  xy: 129, 2
+  size: 26, 33
+  orig: 28, 33
+  offset: 1, 0
+  index: -1
+Bip001 L Forearm
+  rotate: true
+  xy: 398, 2
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+Bip001 L Hand
+  rotate: true
+  xy: 487, 41
+  size: 31, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+Bip001 L Thigh
+  rotate: true
+  xy: 335, 6
+  size: 28, 61
+  orig: 29, 61
+  offset: 1, 0
+  index: -1
+Bip001 L UpperArm
+  rotate: true
+  xy: 396, 37
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+Bip001 Pelvis
+  rotate: false
+  xy: 435, 41
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+Bip001 Pelvis01
+  rotate: true
+  xy: 302, 20
+  size: 62, 31
+  orig: 62, 31
+  offset: 0, 0
+  index: -1
+Bip001 R Calf
+  rotate: true
+  xy: 74, 9
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1
+Bip001 R Foot
+  rotate: true
+  xy: 477, 12
+  size: 27, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+Bip001 R Forearm
+  rotate: true
+  xy: 164, 2
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+Bip001 R Hand
+  rotate: true
+  xy: 262, 4
+  size: 20, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+Bip001 R Thigh
+  rotate: false
+  xy: 262, 26
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+Bip001 R UpperArm
+  rotate: true
+  xy: 435, 18
+  size: 21, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+Bip001 Spine
+  rotate: false
+  xy: 214, 22
+  size: 46, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 335, 69
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_mid
+  rotate: false
+  xy: 335, 69
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1
+buff_up
+  rotate: false
+  xy: 335, 69
+  size: 13, 13
+  orig: 35, 35
+  offset: 11, 11
+  index: -1

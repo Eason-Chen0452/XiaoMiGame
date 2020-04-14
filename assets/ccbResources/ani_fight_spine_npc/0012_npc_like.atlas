@@ -1,0 +1,118 @@
+
+0012_npc_like.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: false
+  xy: 259, 107
+  size: 31, 47
+  orig: 33, 49
+  offset: 1, 1
+  index: -1
+Arm_R
+  rotate: false
+  xy: 98, 27
+  size: 54, 56
+  orig: 56, 58
+  offset: 1, 1
+  index: -1
+Body
+  rotate: false
+  xy: 163, 91
+  size: 94, 161
+  orig: 96, 163
+  offset: 1, 1
+  index: -1
+Eye1_L
+  rotate: false
+  xy: 259, 96
+  size: 20, 9
+  orig: 22, 11
+  offset: 1, 1
+  index: -1
+Eye1_R
+  rotate: false
+  xy: 426, 240
+  size: 29, 12
+  orig: 31, 14
+  offset: 1, 1
+  index: -1
+Eye_L
+  rotate: true
+  xy: 2, 2
+  size: 20, 30
+  orig: 22, 32
+  offset: 1, 1
+  index: -1
+Eye_R
+  rotate: true
+  xy: 313, 158
+  size: 28, 33
+  orig: 30, 35
+  offset: 1, 1
+  index: -1
+Head
+  rotate: false
+  xy: 2, 85
+  size: 159, 167
+  orig: 161, 169
+  offset: 1, 1
+  index: -1
+Leg_L
+  rotate: true
+  xy: 2, 24
+  size: 59, 94
+  orig: 61, 96
+  offset: 1, 1
+  index: -1
+Leg_R
+  rotate: false
+  xy: 259, 156
+  size: 52, 96
+  orig: 54, 98
+  offset: 1, 1
+  index: -1
+Pocket
+  rotate: true
+  xy: 355, 188
+  size: 28, 42
+  orig: 30, 44
+  offset: 1, 1
+  index: -1
+UpArm_L
+  rotate: false
+  xy: 313, 188
+  size: 40, 64
+  orig: 42, 66
+  offset: 1, 1
+  index: -1
+UpArm_R
+  rotate: true
+  xy: 355, 218
+  size: 34, 69
+  orig: 36, 71
+  offset: 1, 1
+  index: -1
+buff_flo
+  rotate: false
+  xy: 292, 138
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 292, 138
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 292, 138
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1

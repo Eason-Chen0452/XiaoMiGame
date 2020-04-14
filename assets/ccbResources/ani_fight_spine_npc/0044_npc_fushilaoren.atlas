@@ -1,0 +1,195 @@
+
+0044_npc_fushilaoren.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: true
+  xy: 193, 45
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 378, 140
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 151, 168
+  size: 86, 172
+  orig: 86, 172
+  offset: 0, 0
+  index: -1
+Eyes
+  rotate: false
+  xy: 151, 92
+  size: 66, 27
+  orig: 66, 27
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: true
+  xy: 308, 127
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 338, 140
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 97
+  size: 147, 157
+  orig: 147, 157
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 238, 126
+  size: 40, 68
+  orig: 40, 68
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 50, 22
+  size: 45, 73
+  orig: 45, 73
+  offset: 0, 0
+  index: -1
+Thigh_L
+  rotate: true
+  xy: 151, 121
+  size: 45, 85
+  orig: 45, 85
+  offset: 0, 0
+  index: -1
+Toot_R
+  rotate: false
+  xy: 148, 17
+  size: 49, 26
+  orig: 49, 26
+  offset: 0, 0
+  index: -1
+UpArm_L
+  rotate: false
+  xy: 404, 187
+  size: 49, 67
+  orig: 49, 67
+  offset: 0, 0
+  index: -1
+UpArm_R
+  rotate: false
+  xy: 97, 33
+  size: 49, 62
+  orig: 49, 62
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 263, 108
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 263, 108
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 263, 108
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+shenzi_CC
+  rotate: true
+  xy: 2, 2
+  size: 93, 46
+  orig: 93, 46
+  offset: 0, 0
+  index: -1
+shenzi_KL-body
+  rotate: false
+  xy: 148, 45
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+shenzi_KL-foot-l
+  rotate: false
+  xy: 404, 176
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+shenzi_KL-foot-r
+  rotate: false
+  xy: 97, 22
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+shenzi_KL-tail
+  rotate: false
+  xy: 199, 2
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+shenzi_KL-tl-l
+  rotate: false
+  xy: 238, 104
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+shenzi_KL-tl-r
+  rotate: false
+  xy: 199, 23
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+shenzi_KL-upam-l
+  rotate: true
+  xy: 50, 3
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+shenzi_KL-upam-r
+  rotate: true
+  xy: 219, 92
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+tou_CC
+  rotate: false
+  xy: 325, 176
+  size: 77, 78
+  orig: 77, 78
+  offset: 0, 0
+  index: -1
+tou_KL
+  rotate: true
+  xy: 455, 192
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1

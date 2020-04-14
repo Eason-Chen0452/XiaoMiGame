@@ -1,0 +1,244 @@
+
+zd_siwang.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff/fangsheguang01
+  rotate: false
+  xy: 2, 377
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+eff/huo/h_000
+  rotate: true
+  xy: 797, 322
+  size: 78, 82
+  orig: 128, 128
+  offset: 24, 30
+  index: -1
+eff/huo/h_001
+  rotate: false
+  xy: 715, 322
+  size: 80, 82
+  orig: 128, 128
+  offset: 24, 31
+  index: -1
+eff/huo/h_002
+  rotate: true
+  xy: 337, 211
+  size: 84, 80
+  orig: 128, 128
+  offset: 21, 30
+  index: -1
+eff/huo/h_003
+  rotate: true
+  xy: 382, 312
+  size: 84, 79
+  orig: 128, 128
+  offset: 22, 31
+  index: -1
+eff/huo/h_004
+  rotate: true
+  xy: 419, 227
+  size: 83, 77
+  orig: 128, 128
+  offset: 23, 32
+  index: -1
+eff/huo/h_005
+  rotate: false
+  xy: 881, 320
+  size: 79, 80
+  orig: 128, 128
+  offset: 24, 31
+  index: -1
+eff/huo/h_006
+  rotate: true
+  xy: 745, 246
+  size: 74, 81
+  orig: 128, 128
+  offset: 27, 31
+  index: -1
+eff/huo/h_007
+  rotate: true
+  xy: 828, 245
+  size: 73, 80
+  orig: 128, 128
+  offset: 26, 31
+  index: -1
+eff/huo/h_008
+  rotate: true
+  xy: 663, 243
+  size: 77, 80
+  orig: 128, 128
+  offset: 25, 31
+  index: -1
+eff/huo/h_009
+  rotate: false
+  xy: 498, 239
+  size: 79, 81
+  orig: 128, 128
+  offset: 24, 31
+  index: -1
+eff/huo/h_010
+  rotate: true
+  xy: 579, 242
+  size: 78, 82
+  orig: 128, 128
+  offset: 26, 32
+  index: -1
+eff/huo/h_011
+  rotate: false
+  xy: 316, 118
+  size: 76, 83
+  orig: 128, 128
+  offset: 29, 32
+  index: -1
+eff/huo/h_012
+  rotate: false
+  xy: 632, 322
+  size: 81, 82
+  orig: 128, 128
+  offset: 24, 30
+  index: -1
+eff/huo/h_013
+  rotate: false
+  xy: 463, 323
+  size: 82, 84
+  orig: 128, 128
+  offset: 22, 29
+  index: -1
+eff/huo/h_014
+  rotate: false
+  xy: 547, 322
+  size: 83, 83
+  orig: 128, 128
+  offset: 22, 28
+  index: -1
+eff/suipian/sp_001
+  rotate: false
+  xy: 112, 222
+  size: 116, 77
+  orig: 200, 200
+  offset: 45, 20
+  index: -1
+eff/suipian/sp_002
+  rotate: false
+  xy: 2, 2
+  size: 119, 86
+  orig: 200, 200
+  offset: 44, 14
+  index: -1
+eff/suipian/sp_003
+  rotate: false
+  xy: 260, 297
+  size: 120, 99
+  orig: 200, 200
+  offset: 42, 14
+  index: -1
+eff/suipian/sp_004
+  rotate: false
+  xy: 823, 402
+  size: 130, 103
+  orig: 200, 200
+  offset: 35, 17
+  index: -1
+eff/suipian/sp_005
+  rotate: false
+  xy: 276, 398
+  size: 133, 107
+  orig: 200, 200
+  offset: 35, 20
+  index: -1
+eff/suipian/sp_006
+  rotate: false
+  xy: 554, 407
+  size: 134, 98
+  orig: 200, 200
+  offset: 35, 21
+  index: -1
+eff/suipian/sp_007
+  rotate: true
+  xy: 2, 235
+  size: 140, 108
+  orig: 200, 200
+  offset: 33, 21
+  index: -1
+eff/suipian/sp_008
+  rotate: false
+  xy: 132, 400
+  size: 142, 105
+  orig: 200, 200
+  offset: 31, 29
+  index: -1
+eff/suipian/sp_009
+  rotate: true
+  xy: 2, 90
+  size: 143, 103
+  orig: 200, 200
+  offset: 32, 30
+  index: -1
+eff/suipian/sp_010
+  rotate: false
+  xy: 411, 409
+  size: 141, 96
+  orig: 200, 200
+  offset: 31, 36
+  index: -1
+eff/suipian/sp_011
+  rotate: false
+  xy: 690, 406
+  size: 131, 99
+  orig: 200, 200
+  offset: 38, 39
+  index: -1
+eff/suipian/sp_012
+  rotate: false
+  xy: 132, 301
+  size: 126, 97
+  orig: 200, 200
+  offset: 43, 42
+  index: -1
+eff/suipian/sp_013
+  rotate: false
+  xy: 107, 118
+  size: 115, 102
+  orig: 200, 200
+  offset: 47, 47
+  index: -1
+eff/suipian/sp_014
+  rotate: false
+  xy: 123, 17
+  size: 98, 99
+  orig: 200, 200
+  offset: 56, 53
+  index: -1
+eff/suipian/sp_015
+  rotate: true
+  xy: 230, 203
+  size: 92, 105
+  orig: 200, 200
+  offset: 59, 56
+  index: -1
+eff/suipian/sp_016
+  rotate: false
+  xy: 224, 112
+  size: 90, 89
+  orig: 200, 200
+  offset: 60, 63
+  index: -1
+eff/suipian/sp_017
+  rotate: false
+  xy: 223, 17
+  size: 76, 93
+  orig: 200, 200
+  offset: 69, 68
+  index: -1
+eff/suipian/sp_018
+  rotate: false
+  xy: 955, 408
+  size: 49, 97
+  orig: 200, 200
+  offset: 76, 74
+  index: -1

@@ -1,0 +1,90 @@
+
+BUFF_HunDu.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hundu_eff/1001
+  rotate: false
+  xy: 2, 635
+  size: 209, 209
+  orig: 256, 256
+  offset: 27, 3
+  index: -1
+hundu_eff/1003
+  rotate: false
+  xy: 2, 424
+  size: 209, 209
+  orig: 256, 256
+  offset: 27, 3
+  index: -1
+hundu_eff/1005
+  rotate: false
+  xy: 213, 635
+  size: 209, 209
+  orig: 256, 256
+  offset: 27, 3
+  index: -1
+hundu_eff/1007
+  rotate: false
+  xy: 2, 213
+  size: 209, 209
+  orig: 256, 256
+  offset: 27, 3
+  index: -1
+hundu_eff/1009
+  rotate: false
+  xy: 213, 424
+  size: 209, 209
+  orig: 256, 256
+  offset: 27, 3
+  index: -1
+hundu_eff/1011
+  rotate: false
+  xy: 424, 635
+  size: 209, 209
+  orig: 256, 256
+  offset: 27, 3
+  index: -1
+hundu_eff/1013
+  rotate: false
+  xy: 2, 2
+  size: 209, 209
+  orig: 256, 256
+  offset: 27, 3
+  index: -1
+hundu_eff/1015
+  rotate: false
+  xy: 213, 213
+  size: 209, 209
+  orig: 256, 256
+  offset: 27, 3
+  index: -1
+hundu_eff/1017
+  rotate: false
+  xy: 424, 424
+  size: 209, 209
+  orig: 256, 256
+  offset: 27, 3
+  index: -1
+hundu_eff/1019
+  rotate: false
+  xy: 635, 635
+  size: 209, 209
+  orig: 256, 256
+  offset: 27, 3
+  index: -1
+hundu_eff/1021
+  rotate: false
+  xy: 213, 2
+  size: 209, 209
+  orig: 256, 256
+  offset: 27, 3
+  index: -1
+hundu_eff/1023
+  rotate: false
+  xy: 424, 213
+  size: 209, 209
+  orig: 256, 256
+  offset: 27, 3
+  index: -1

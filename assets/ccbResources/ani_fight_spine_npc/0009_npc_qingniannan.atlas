@@ -1,0 +1,146 @@
+
+0009_npc_qingniannan.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: false
+  xy: 476, 224
+  size: 34, 29
+  orig: 36, 31
+  offset: 1, 1
+  index: -1
+Arm_R
+  rotate: false
+  xy: 141, 119
+  size: 59, 33
+  orig: 61, 35
+  offset: 1, 1
+  index: -1
+Body
+  rotate: true
+  xy: 2, 15
+  size: 76, 99
+  orig: 78, 101
+  offset: 1, 1
+  index: -1
+Foot_L
+  rotate: false
+  xy: 141, 96
+  size: 50, 21
+  orig: 52, 23
+  offset: 1, 1
+  index: -1
+Foot_R
+  rotate: false
+  xy: 476, 195
+  size: 34, 27
+  orig: 36, 29
+  offset: 1, 1
+  index: -1
+Hand
+  rotate: false
+  xy: 436, 218
+  size: 38, 35
+  orig: 40, 37
+  offset: 1, 1
+  index: -1
+Head
+  rotate: false
+  xy: 2, 93
+  size: 137, 160
+  orig: 139, 162
+  offset: 1, 1
+  index: -1
+Kua
+  rotate: true
+  xy: 274, 165
+  size: 55, 35
+  orig: 57, 37
+  offset: 1, 1
+  index: -1
+Leg_L
+  rotate: false
+  xy: 242, 156
+  size: 30, 64
+  orig: 32, 66
+  offset: 1, 1
+  index: -1
+Leg_R
+  rotate: true
+  xy: 202, 123
+  size: 31, 61
+  orig: 33, 63
+  offset: 1, 1
+  index: -1
+Mouth
+  rotate: false
+  xy: 2, 2
+  size: 40, 11
+  orig: 42, 13
+  offset: 1, 1
+  index: -1
+Thigh_L
+  rotate: true
+  xy: 380, 222
+  size: 31, 54
+  orig: 33, 56
+  offset: 1, 1
+  index: -1
+Thigh_R
+  rotate: false
+  xy: 103, 31
+  size: 35, 60
+  orig: 37, 62
+  offset: 1, 1
+  index: -1
+UpArm_L
+  rotate: false
+  xy: 202, 156
+  size: 38, 64
+  orig: 40, 66
+  offset: 1, 1
+  index: -1
+UpArm_R
+  rotate: true
+  xy: 307, 229
+  size: 24, 71
+  orig: 26, 73
+  offset: 1, 1
+  index: -1
+Yi_L
+  rotate: true
+  xy: 202, 222
+  size: 31, 103
+  orig: 33, 105
+  offset: 1, 1
+  index: -1
+Yi_R
+  rotate: false
+  xy: 141, 154
+  size: 59, 99
+  orig: 61, 101
+  offset: 1, 1
+  index: -1
+buff_flo
+  rotate: false
+  xy: 103, 13
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 103, 13
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 103, 13
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1

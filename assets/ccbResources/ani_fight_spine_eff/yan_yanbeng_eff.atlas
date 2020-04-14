@@ -1,0 +1,132 @@
+
+yan_yanbeng_eff.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shashi_eff/bai_shashi_03_eff_01
+  rotate: false
+  xy: 154, 177
+  size: 160, 105
+  orig: 188, 165
+  offset: 19, 13
+  index: -1
+shashi_eff/bai_shashi_03_eff_02
+  rotate: false
+  xy: 420, 376
+  size: 155, 117
+  orig: 188, 165
+  offset: 20, 15
+  index: -1
+shashi_eff/bai_shashi_03_eff_03
+  rotate: false
+  xy: 410, 96
+  size: 153, 81
+  orig: 188, 165
+  offset: 20, 18
+  index: -1
+shashi_eff/bai_shashi_03_eff_04
+  rotate: false
+  xy: 420, 267
+  size: 157, 107
+  orig: 188, 165
+  offset: 22, 13
+  index: -1
+shashi_eff/bai_shashi_03_eff_05
+  rotate: false
+  xy: 2, 18
+  size: 148, 119
+  orig: 188, 165
+  offset: 27, 15
+  index: -1
+shashi_eff/bai_shashi_03_eff_06
+  rotate: false
+  xy: 2, 139
+  size: 150, 143
+  orig: 188, 165
+  offset: 24, 15
+  index: -1
+shatu_eff/bai_shashi_04_eff_01
+  rotate: false
+  xy: 896, 299
+  size: 86, 100
+  orig: 300, 225
+  offset: 91, 58
+  index: -1
+shatu_eff/bai_shashi_04_eff_02
+  rotate: false
+  xy: 579, 295
+  size: 150, 110
+  orig: 300, 225
+  offset: 57, 54
+  index: -1
+shatu_eff/bai_shashi_04_eff_03
+  rotate: false
+  xy: 410, 179
+  size: 153, 86
+  orig: 300, 225
+  offset: 75, 52
+  index: -1
+shatu_eff/bai_shashi_04_eff_04
+  rotate: false
+  xy: 152, 2
+  size: 142, 87
+  orig: 300, 225
+  offset: 96, 54
+  index: -1
+shatu_eff/bai_shashi_04_eff_05
+  rotate: false
+  xy: 731, 305
+  size: 163, 94
+  orig: 300, 225
+  offset: 85, 51
+  index: -1
+shatu_eff/bai_shashi_04_eff_06
+  rotate: true
+  xy: 316, 128
+  size: 154, 92
+  orig: 300, 225
+  offset: 101, 51
+  index: -1
+shatu_eff/bai_shashi_04_eff_07
+  rotate: false
+  xy: 154, 91
+  size: 149, 84
+  orig: 300, 225
+  offset: 109, 56
+  index: -1
+shazi
+  rotate: false
+  xy: 2, 284
+  size: 416, 209
+  orig: 416, 209
+  offset: 0, 0
+  index: -1
+yanwu_eff/bai_chongciyanwu_01_eff_01
+  rotate: false
+  xy: 802, 448
+  size: 194, 45
+  orig: 244, 56
+  offset: 5, 2
+  index: -1
+yanwu_eff/bai_chongciyanwu_01_eff_02
+  rotate: false
+  xy: 785, 401
+  size: 181, 45
+  orig: 244, 56
+  offset: 29, 2
+  index: -1
+yanwu_eff/bai_chongciyanwu_01_eff_03
+  rotate: false
+  xy: 577, 407
+  size: 206, 42
+  orig: 244, 56
+  offset: 10, 2
+  index: -1
+yanwu_eff/bai_chongciyanwu_01_eff_04
+  rotate: false
+  xy: 577, 451
+  size: 223, 42
+  orig: 244, 56
+  offset: 0, 2
+  index: -1

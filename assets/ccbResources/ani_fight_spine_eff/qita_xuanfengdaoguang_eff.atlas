@@ -1,0 +1,125 @@
+
+qita_xuanfengdaoguang_eff.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xuanfeng_eff/bai_xuanfeng_01_eff_01
+  rotate: false
+  xy: 336, 226
+  size: 148, 104
+  orig: 192, 192
+  offset: 18, 0
+  index: -1
+xuanfeng_eff/bai_xuanfeng_01_eff_02
+  rotate: false
+  xy: 486, 226
+  size: 146, 104
+  orig: 192, 192
+  offset: 17, 0
+  index: -1
+xuanfeng_eff/bai_xuanfeng_01_eff_03
+  rotate: false
+  xy: 634, 196
+  size: 141, 104
+  orig: 192, 192
+  offset: 19, 0
+  index: -1
+xuanfeng_eff/bai_xuanfeng_01_eff_04
+  rotate: false
+  xy: 657, 302
+  size: 157, 104
+  orig: 192, 192
+  offset: 15, 0
+  index: -1
+xuli_luoxuan2_eff/1
+  rotate: false
+  xy: 2, 152
+  size: 310, 117
+  orig: 360, 128
+  offset: 4, 6
+  index: -1
+xuli_luoxuan2_eff/2
+  rotate: false
+  xy: 2, 271
+  size: 332, 116
+  orig: 360, 128
+  offset: 4, 6
+  index: -1
+xuli_luoxuan2_eff/3
+  rotate: false
+  xy: 2, 389
+  size: 349, 105
+  orig: 360, 128
+  offset: 8, 11
+  index: -1
+xuli_luoxuan2_eff/4
+  rotate: false
+  xy: 353, 408
+  size: 343, 86
+  orig: 360, 128
+  offset: 11, 26
+  index: -1
+xuli_luoxuan2_eff/5
+  rotate: false
+  xy: 2, 58
+  size: 314, 92
+  orig: 360, 128
+  offset: 38, 28
+  index: -1
+xuli_luoxuan2_eff/6
+  rotate: false
+  xy: 698, 408
+  size: 306, 86
+  orig: 360, 128
+  offset: 41, 36
+  index: -1
+xuli_luoxuan2_eff/7
+  rotate: false
+  xy: 353, 332
+  size: 302, 74
+  orig: 360, 128
+  offset: 43, 45
+  index: -1
+xuli_luoxuan2_eff/8
+  rotate: false
+  xy: 2, 2
+  size: 281, 54
+  orig: 360, 128
+  offset: 60, 56
+  index: -1
+xuli_luoxuan2_eff/9
+  rotate: true
+  xy: 916, 169
+  size: 129, 44
+  orig: 360, 128
+  offset: 63, 62
+  index: -1
+yanwu_eff/bai_yanwu_04_eff_02
+  rotate: false
+  xy: 777, 169
+  size: 137, 129
+  orig: 195, 169
+  offset: 31, 6
+  index: -1
+yanwu_eff/bai_yanwu_04_eff_04
+  rotate: false
+  xy: 816, 300
+  size: 156, 106
+  orig: 195, 169
+  offset: 23, 5
+  index: -1
+yanwu_eff/bai_yanwu_04_eff_06
+  rotate: false
+  xy: 314, 185
+  size: 149, 39
+  orig: 195, 169
+  offset: 26, 7
+  index: -1
+yanwu_eff/bai_yanwu_04_eff_07
+  rotate: false
+  xy: 465, 189
+  size: 147, 35
+  orig: 195, 169
+  offset: 27, 8
+  index: -1

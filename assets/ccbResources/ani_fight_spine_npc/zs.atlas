@@ -1,0 +1,20 @@
+
+zs.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zs
+  rotate: false
+  xy: 2, 2
+  size: 96, 92
+  orig: 98, 94
+  offset: 1, 1
+  index: -1
+zs-ty
+  rotate: false
+  xy: 100, 45
+  size: 100, 49
+  orig: 102, 51
+  offset: 1, 1
+  index: -1

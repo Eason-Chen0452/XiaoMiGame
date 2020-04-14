@@ -1,0 +1,153 @@
+
+xiaotianjuanboshi.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bip001 Eye-c
+  rotate: true
+  xy: 480, 64
+  size: 62, 22
+  orig: 62, 22
+  offset: 0, 0
+  index: -1
+Bip001 Hair01
+  rotate: false
+  xy: 379, 33
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+Bip001 Hair02
+  rotate: false
+  xy: 334, 67
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Bip001 Head
+  rotate: false
+  xy: 2, 12
+  size: 116, 114
+  orig: 116, 114
+  offset: 0, 0
+  index: -1
+Bip001 L Calf
+  rotate: true
+  xy: 279, 2
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+Bip001 L Foot
+  rotate: true
+  xy: 313, 25
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+Bip001 L Forearm
+  rotate: true
+  xy: 273, 25
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+Bip001 L Hand
+  rotate: false
+  xy: 349, 26
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+Bip001 L UpperArm
+  rotate: false
+  xy: 447, 72
+  size: 31, 54
+  orig: 31, 54
+  offset: 0, 0
+  index: -1
+Bip001 Pelvis
+  rotate: false
+  xy: 120, 10
+  size: 82, 70
+  orig: 82, 70
+  offset: 0, 0
+  index: -1
+Bip001 R Calf
+  rotate: true
+  xy: 236, 2
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1
+Bip001 R Foot
+  rotate: false
+  xy: 242, 61
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+Bip001 R Forearm
+  rotate: true
+  xy: 447, 47
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+Bip001 R Hand
+  rotate: true
+  xy: 294, 56
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+Bip001 R UpperArm
+  rotate: false
+  xy: 204, 23
+  size: 30, 57
+  orig: 30, 57
+  offset: 0, 0
+  index: -1
+Bip001 Spine
+  rotate: true
+  xy: 362, 61
+  size: 65, 83
+  orig: 65, 83
+  offset: 0, 0
+  index: -1
+Bip001 Spine02
+  rotate: true
+  xy: 242, 95
+  size: 31, 118
+  orig: 31, 118
+  offset: 0, 0
+  index: -1
+Bip001 Spine03
+  rotate: true
+  xy: 120, 82
+  size: 44, 120
+  orig: 44, 120
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 236, 24
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+buff_mid
+  rotate: false
+  xy: 236, 24
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+buff_up
+  rotate: false
+  xy: 236, 24
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1

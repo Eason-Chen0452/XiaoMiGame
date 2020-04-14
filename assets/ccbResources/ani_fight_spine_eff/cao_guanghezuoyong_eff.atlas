@@ -1,0 +1,97 @@
+
+cao_guanghezuoyong_eff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background01
+  rotate: true
+  xy: 394, 306
+  size: 384, 188
+  orig: 384, 192
+  offset: 0, 0
+  index: -1
+clouds/cloud02
+  rotate: true
+  xy: 2, 230
+  size: 436, 208
+  orig: 441, 208
+  offset: 0, 0
+  index: -1
+clouds/cloud03
+  rotate: false
+  xy: 372, 825
+  size: 431, 194
+  orig: 431, 194
+  offset: 0, 0
+  index: -1
+clouds/cloud07
+  rotate: true
+  xy: 212, 253
+  size: 413, 180
+  orig: 413, 182
+  offset: 0, 0
+  index: -1
+clouds/cloud08
+  rotate: false
+  xy: 372, 692
+  size: 355, 131
+  orig: 356, 131
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 584, 264
+  size: 56, 253
+  orig: 101, 275
+  offset: 18, 11
+  index: -1
+lanse
+  rotate: false
+  xy: 2, 2
+  size: 240, 226
+  orig: 240, 226
+  offset: 0, 0
+  index: -1
+lansediban
+  rotate: true
+  xy: 729, 722
+  size: 101, 53
+  orig: 101, 53
+  offset: 0, 0
+  index: -1
+quan2
+  rotate: false
+  xy: 584, 519
+  size: 171, 171
+  orig: 225, 225
+  offset: 27, 27
+  index: -1
+quan3
+  rotate: false
+  xy: 642, 422
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+quan4
+  rotate: false
+  xy: 642, 365
+  size: 55, 55
+  orig: 107, 107
+  offset: 26, 26
+  index: -1
+taiyang1
+  rotate: false
+  xy: 805, 838
+  size: 167, 181
+  orig: 192, 192
+  offset: 15, 11
+  index: -1
+taiyang2
+  rotate: false
+  xy: 2, 668
+  size: 368, 351
+  orig: 384, 384
+  offset: 1, 32
+  index: -1

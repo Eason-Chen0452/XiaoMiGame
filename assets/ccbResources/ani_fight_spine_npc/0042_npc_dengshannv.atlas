@@ -1,0 +1,209 @@
+
+0042_npc_dengshannv.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: false
+  xy: 317, 141
+  size: 20, 28
+  orig: 22, 30
+  offset: 1, 1
+  index: -1
+Arm_R
+  rotate: false
+  xy: 339, 140
+  size: 22, 32
+  orig: 24, 34
+  offset: 1, 1
+  index: -1
+Bag
+  rotate: false
+  xy: 2, 20
+  size: 79, 93
+  orig: 81, 95
+  offset: 1, 1
+  index: -1
+Body
+  rotate: false
+  xy: 145, 162
+  size: 58, 92
+  orig: 60, 94
+  offset: 1, 1
+  index: -1
+Eye1_L
+  rotate: false
+  xy: 286, 206
+  size: 15, 8
+  orig: 17, 10
+  offset: 1, 1
+  index: -1
+Eye1_R
+  rotate: true
+  xy: 197, 96
+  size: 27, 11
+  orig: 29, 13
+  offset: 1, 1
+  index: -1
+Eye_L
+  rotate: false
+  xy: 183, 63
+  size: 17, 31
+  orig: 19, 33
+  offset: 1, 1
+  index: -1
+Eye_R
+  rotate: false
+  xy: 338, 174
+  size: 31, 28
+  orig: 33, 30
+  offset: 1, 1
+  index: -1
+Foot_L
+  rotate: false
+  xy: 138, 47
+  size: 43, 47
+  orig: 45, 49
+  offset: 1, 1
+  index: -1
+Foot_R
+  rotate: true
+  xy: 211, 111
+  size: 31, 56
+  orig: 33, 58
+  offset: 1, 1
+  index: -1
+Hair_L
+  rotate: true
+  xy: 205, 173
+  size: 41, 79
+  orig: 43, 81
+  offset: 1, 1
+  index: -1
+Hair_L2
+  rotate: true
+  xy: 205, 216
+  size: 38, 100
+  orig: 40, 102
+  offset: 1, 1
+  index: -1
+Hair_R
+  rotate: true
+  xy: 307, 204
+  size: 50, 68
+  orig: 52, 70
+  offset: 1, 1
+  index: -1
+Hair_R2
+  rotate: true
+  xy: 377, 207
+  size: 47, 68
+  orig: 49, 70
+  offset: 1, 1
+  index: -1
+Hair_R3
+  rotate: false
+  xy: 83, 28
+  size: 53, 85
+  orig: 55, 87
+  offset: 1, 1
+  index: -1
+Hand_L
+  rotate: true
+  xy: 210, 86
+  size: 23, 29
+  orig: 25, 31
+  offset: 1, 1
+  index: -1
+Hand_R
+  rotate: true
+  xy: 285, 141
+  size: 28, 30
+  orig: 30, 32
+  offset: 1, 1
+  index: -1
+Head
+  rotate: false
+  xy: 2, 115
+  size: 141, 139
+  orig: 143, 141
+  offset: 1, 1
+  index: -1
+Kua
+  rotate: false
+  xy: 145, 96
+  size: 50, 27
+  orig: 52, 29
+  offset: 1, 1
+  index: -1
+Leg_L
+  rotate: true
+  xy: 138, 16
+  size: 29, 50
+  orig: 31, 52
+  offset: 1, 1
+  index: -1
+Leg_R
+  rotate: true
+  xy: 447, 218
+  size: 36, 56
+  orig: 38, 58
+  offset: 1, 1
+  index: -1
+Thigh_L
+  rotate: true
+  xy: 145, 125
+  size: 35, 64
+  orig: 37, 66
+  offset: 1, 1
+  index: -1
+Thigh_R
+  rotate: true
+  xy: 447, 180
+  size: 36, 56
+  orig: 38, 58
+  offset: 1, 1
+  index: -1
+Tie
+  rotate: true
+  xy: 211, 144
+  size: 27, 72
+  orig: 29, 74
+  offset: 1, 1
+  index: -1
+UpArm_L
+  rotate: true
+  xy: 83, 2
+  size: 24, 47
+  orig: 26, 49
+  offset: 1, 1
+  index: -1
+UpArm_R
+  rotate: true
+  xy: 286, 171
+  size: 31, 50
+  orig: 33, 52
+  offset: 1, 1
+  index: -1
+buff_flo
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1

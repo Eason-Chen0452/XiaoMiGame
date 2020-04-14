@@ -1,0 +1,230 @@
+
+0101_bixia.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: false
+  xy: 973, 207
+  size: 30, 50
+  orig: 32, 52
+  offset: 1, 1
+  index: -1
+Arm_R
+  rotate: false
+  xy: 860, 54
+  size: 38, 49
+  orig: 40, 51
+  offset: 1, 1
+  index: -1
+Foot_L
+  rotate: true
+  xy: 973, 159
+  size: 46, 35
+  orig: 48, 37
+  offset: 1, 1
+  index: -1
+Foot_R
+  rotate: true
+  xy: 979, 126
+  size: 31, 43
+  orig: 33, 45
+  offset: 1, 1
+  index: -1
+Hand_L
+  rotate: true
+  xy: 979, 52
+  size: 31, 36
+  orig: 33, 38
+  offset: 1, 1
+  index: -1
+Hand_R
+  rotate: false
+  xy: 979, 85
+  size: 39, 39
+  orig: 41, 41
+  offset: 1, 1
+  index: -1
+Kua
+  rotate: false
+  xy: 772, 31
+  size: 60, 32
+  orig: 62, 34
+  offset: 1, 1
+  index: -1
+Leg_L
+  rotate: true
+  xy: 241, 2
+  size: 27, 46
+  orig: 29, 48
+  offset: 1, 1
+  index: -1
+Leg_R
+  rotate: false
+  xy: 996, 452
+  size: 26, 58
+  orig: 28, 60
+  offset: 1, 1
+  index: -1
+Thigh_L
+  rotate: true
+  xy: 697, 25
+  size: 38, 73
+  orig: 40, 75
+  offset: 1, 1
+  index: -1
+Thigh_R
+  rotate: false
+  xy: 559, 2
+  size: 50, 81
+  orig: 52, 83
+  offset: 1, 1
+  index: -1
+UpArm_L
+  rotate: false
+  xy: 493, 240
+  size: 47, 57
+  orig: 49, 59
+  offset: 1, 1
+  index: -1
+UpArm_R
+  rotate: false
+  xy: 658, 22
+  size: 37, 61
+  orig: 39, 63
+  offset: 1, 1
+  index: -1
+baozha_eff/guaiwubaozha10
+  rotate: false
+  xy: 900, 69
+  size: 77, 83
+  orig: 286, 270
+  offset: 151, 78
+  index: -1
+baozha_eff/guaiwubaozha13
+  rotate: false
+  xy: 241, 31
+  size: 179, 207
+  orig: 286, 270
+  offset: 93, 36
+  index: -1
+baozha_eff/guaiwubaozha15
+  rotate: false
+  xy: 493, 299
+  size: 206, 211
+  orig: 286, 270
+  offset: 71, 30
+  index: -1
+baozha_eff/guaiwubaozha17
+  rotate: true
+  xy: 2, 8
+  size: 230, 237
+  orig: 286, 270
+  offset: 56, 19
+  index: -1
+baozha_eff/guaiwubaozha19
+  rotate: false
+  xy: 2, 240
+  size: 246, 270
+  orig: 286, 270
+  offset: 40, 0
+  index: -1
+baozha_eff/guaiwubaozha20
+  rotate: false
+  xy: 250, 240
+  size: 241, 270
+  orig: 286, 270
+  offset: 45, 0
+  index: -1
+body
+  rotate: false
+  xy: 916, 259
+  size: 91, 108
+  orig: 93, 110
+  offset: 1, 1
+  index: -1
+buff_flo
+  rotate: false
+  xy: 996, 434
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 996, 434
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 996, 434
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+feixingqi
+  rotate: true
+  xy: 923, 369
+  size: 141, 71
+  orig: 178, 107
+  offset: 18, 18
+  index: -1
+feixingqi2
+  rotate: false
+  xy: 697, 65
+  size: 161, 38
+  orig: 178, 107
+  offset: 7, 7
+  index: -1
+head
+  rotate: true
+  xy: 701, 244
+  size: 129, 213
+  orig: 131, 215
+  offset: 1, 1
+  index: -1
+huoyan/firebolt01
+  rotate: true
+  xy: 422, 30
+  size: 208, 135
+  orig: 208, 135
+  offset: 0, 0
+  index: -1
+huoyan/firebolt02
+  rotate: false
+  xy: 697, 105
+  size: 201, 137
+  orig: 201, 137
+  offset: 0, 0
+  index: -1
+huoyan/firebolt03
+  rotate: true
+  xy: 559, 85
+  size: 212, 136
+  orig: 212, 136
+  offset: 0, 0
+  index: -1
+huoyan/firebolt04
+  rotate: false
+  xy: 701, 375
+  size: 220, 135
+  orig: 220, 135
+  offset: 0, 0
+  index: -1
+vest1
+  rotate: false
+  xy: 900, 154
+  size: 71, 88
+  orig: 73, 90
+  offset: 1, 1
+  index: -1
+vest2
+  rotate: false
+  xy: 611, 2
+  size: 45, 81
+  orig: 47, 83
+  offset: 1, 1
+  index: -1

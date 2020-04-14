@@ -1,0 +1,223 @@
+
+0024_npc_nazi.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: false
+  xy: 754, 180
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 137, 59
+  size: 52, 22
+  orig: 52, 22
+  offset: 0, 0
+  index: -1
+Ball
+  rotate: false
+  xy: 191, 45
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 475, 160
+  size: 51, 81
+  orig: 51, 81
+  offset: 0, 0
+  index: -1
+Die
+  rotate: false
+  xy: 2, 56
+  size: 133, 185
+  orig: 133, 185
+  offset: 0, 0
+  index: -1
+Doll_Body
+  rotate: false
+  xy: 307, 105
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+Doll_Dress
+  rotate: false
+  xy: 226, 88
+  size: 79, 44
+  orig: 79, 44
+  offset: 0, 0
+  index: -1
+Doll_Hand_L
+  rotate: false
+  xy: 834, 174
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+Doll_Hand_R
+  rotate: false
+  xy: 528, 159
+  size: 48, 19
+  orig: 48, 19
+  offset: 0, 0
+  index: -1
+Doll_Head
+  rotate: false
+  xy: 528, 180
+  size: 63, 61
+  orig: 63, 61
+  offset: 0, 0
+  index: -1
+Eyes
+  rotate: false
+  xy: 593, 209
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 713, 181
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: false
+  xy: 475, 120
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+Hair_B
+  rotate: true
+  xy: 137, 134
+  size: 107, 201
+  orig: 107, 201
+  offset: 0, 0
+  index: -1
+Hair_H
+  rotate: false
+  xy: 2, 2
+  size: 101, 52
+  orig: 101, 52
+  offset: 0, 0
+  index: -1
+Hair_L
+  rotate: true
+  xy: 662, 180
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: -1
+Hair_R
+  rotate: true
+  xy: 835, 195
+  size: 46, 63
+  orig: 46, 63
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: true
+  xy: 307, 88
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 802, 177
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 340, 112
+  size: 129, 133
+  orig: 129, 133
+  offset: 0, 0
+  index: -1
+Kua
+  rotate: false
+  xy: 965, 196
+  size: 54, 45
+  orig: 54, 45
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 593, 177
+  size: 30, 67
+  orig: 30, 67
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: true
+  xy: 900, 194
+  size: 47, 63
+  orig: 47, 63
+  offset: 0, 0
+  index: -1
+Thigh_L
+  rotate: true
+  xy: 757, 206
+  size: 35, 76
+  orig: 35, 76
+  offset: 0, 0
+  index: -1
+Thigh_R
+  rotate: true
+  xy: 137, 83
+  size: 49, 87
+  orig: 49, 87
+  offset: 0, 0
+  index: -1
+UpArm_L
+  rotate: true
+  xy: 520, 129
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+UpArm_R
+  rotate: false
+  xy: 105, 4
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 875, 177
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 875, 177
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 875, 177
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+eye
+  rotate: false
+  xy: 675, 209
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1

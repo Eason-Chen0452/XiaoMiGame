@@ -1,0 +1,104 @@
+
+2002_npc_qianli.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bip001 Eye-c
+  rotate: false
+  xy: 449, 94
+  size: 68, 32
+  orig: 68, 32
+  offset: 0, 0
+  index: -1
+Bip001 Head
+  rotate: true
+  xy: 2, 4
+  size: 122, 146
+  orig: 122, 146
+  offset: 0, 0
+  index: -1
+Bip001 L Foot
+  rotate: false
+  xy: 583, 86
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+Bip001 L Forearm
+  rotate: false
+  xy: 519, 91
+  size: 62, 35
+  orig: 62, 35
+  offset: 0, 0
+  index: -1
+Bip001 L Hand
+  rotate: false
+  xy: 150, 2
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+Bip001 L UpperArm
+  rotate: false
+  xy: 409, 2
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+Bip001 Neck
+  rotate: true
+  xy: 641, 94
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+Bip001 Pelvis
+  rotate: true
+  xy: 150, 27
+  size: 99, 140
+  orig: 99, 140
+  offset: 0, 0
+  index: -1
+Bip001 R Foot
+  rotate: false
+  xy: 443, 13
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+Bip001 R Forearm
+  rotate: false
+  xy: 449, 61
+  size: 56, 31
+  orig: 56, 31
+  offset: 0, 0
+  index: -1
+Bip001 R Hand
+  rotate: false
+  xy: 734, 102
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+Bip001 R UpperArm
+  rotate: false
+  xy: 409, 61
+  size: 38, 65
+  orig: 38, 65
+  offset: 0, 0
+  index: -1
+Bip001 Spine
+  rotate: true
+  xy: 292, 33
+  size: 93, 115
+  orig: 93, 115
+  offset: 0, 0
+  index: -1
+Bip001 Spine03
+  rotate: true
+  xy: 693, 94
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1

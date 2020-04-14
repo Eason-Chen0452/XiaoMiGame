@@ -1,0 +1,97 @@
+
+CJ_kongbai.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baiyan/bai_baiyan_00_eff_01
+  rotate: false
+  xy: 258, 124
+  size: 86, 120
+  orig: 300, 225
+  offset: 110, 48
+  index: -1
+baiyan/bai_baiyan_00_eff_02
+  rotate: false
+  xy: 228, 380
+  size: 223, 130
+  orig: 300, 225
+  offset: 45, 37
+  index: -1
+baiyan/bai_baiyan_00_eff_03
+  rotate: false
+  xy: 2, 372
+  size: 224, 138
+  orig: 300, 225
+  offset: 45, 36
+  index: -1
+baiyan/bai_baiyan_00_eff_04
+  rotate: false
+  xy: 2, 237
+  size: 223, 133
+  orig: 300, 225
+  offset: 44, 36
+  index: -1
+baiyan/bai_baiyan_00_eff_06
+  rotate: true
+  xy: 2, 8
+  size: 227, 126
+  orig: 300, 225
+  offset: 41, 43
+  index: -1
+baiyan/bai_baiyan_00_eff_07
+  rotate: true
+  xy: 130, 17
+  size: 218, 126
+  orig: 300, 225
+  offset: 44, 43
+  index: -1
+baiyan/bai_baiyan_00_eff_08
+  rotate: false
+  xy: 228, 246
+  size: 202, 132
+  orig: 300, 225
+  offset: 45, 42
+  index: -1
+baiyan/bai_baiyan_00_eff_10
+  rotate: false
+  xy: 258, 2
+  size: 77, 120
+  orig: 300, 225
+  offset: 115, 57
+  index: -1
+baiyan/bai_baiyan_00_eff_12
+  rotate: false
+  xy: 453, 436
+  size: 53, 74
+  orig: 300, 225
+  offset: 127, 102
+  index: -1
+buff_flo
+  rotate: false
+  xy: 432, 362
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 432, 362
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 432, 362
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+shizidian
+  rotate: false
+  xy: 346, 224
+  size: 20, 20
+  orig: 30, 30
+  offset: 5, 5
+  index: -1

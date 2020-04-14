@@ -1,0 +1,27 @@
+
+zd_bg.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1003
+  rotate: true
+  xy: 457, 16
+  size: 856, 188
+  orig: 856, 203
+  offset: 0, 0
+  index: -1
+background01
+  rotate: false
+  xy: 2, 2
+  size: 410, 205
+  orig: 410, 205
+  offset: 0, 0
+  index: -1
+yanwu
+  rotate: false
+  xy: 2, 209
+  size: 453, 663
+  orig: 483, 710
+  offset: 8, 30
+  index: -1

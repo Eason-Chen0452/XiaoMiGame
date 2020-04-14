@@ -1,0 +1,13 @@
+
+BUFF_BingDong.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bingdong_eff/bingdong_eff
+  rotate: false
+  xy: 2, 2
+  size: 174, 194
+  orig: 174, 206
+  offset: 0, 4
+  index: -1

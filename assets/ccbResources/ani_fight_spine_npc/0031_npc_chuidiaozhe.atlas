@@ -1,0 +1,146 @@
+
+0031_npc_chuidiaozhe.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff_flo
+  rotate: false
+  xy: 396, 8
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 396, 8
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 396, 8
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+dabi_r
+  rotate: false
+  xy: 404, 82
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+datui_l
+  rotate: false
+  xy: 114, 23
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+datui_r
+  rotate: true
+  xy: 460, 81
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 318, 52
+  size: 74, 28
+  orig: 74, 28
+  offset: 0, 0
+  index: -1
+eye_c
+  rotate: false
+  xy: 318, 82
+  size: 84, 44
+  orig: 84, 44
+  offset: 0, 0
+  index: -1
+jiao_l
+  rotate: false
+  xy: 343, 4
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+jiao_r
+  rotate: true
+  xy: 202, 4
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+jingingqiu
+  rotate: false
+  xy: 396, 26
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+kua
+  rotate: false
+  xy: 259, 2
+  size: 82, 46
+  orig: 82, 46
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 6
+  size: 66, 110
+  orig: 66, 110
+  offset: 0, 0
+  index: -1
+shou_l
+  rotate: false
+  xy: 157, 128
+  size: 193, 126
+  orig: 193, 126
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 352, 128
+  size: 126, 149
+  orig: 126, 149
+  offset: 0, 0
+  index: -1
+waitao
+  rotate: true
+  xy: 157, 42
+  size: 84, 100
+  orig: 84, 100
+  offset: 0, 0
+  index: -1
+xian
+  rotate: false
+  xy: 2, 74
+  size: 153, 180
+  orig: 153, 180
+  offset: 0, 0
+  index: -1
+xiaobi_r
+  rotate: false
+  xy: 259, 50
+  size: 57, 76
+  orig: 57, 76
+  offset: 0, 0
+  index: -1
+xiaotui_l
+  rotate: false
+  xy: 432, 44
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+xiaotui_r
+  rotate: true
+  xy: 157, 2
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1

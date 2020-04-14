@@ -1,0 +1,132 @@
+
+2001_npc_naqi.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bip001 Eye-c
+  rotate: false
+  xy: 237, 49
+  size: 78, 43
+  orig: 78, 43
+  offset: 0, 0
+  index: -1
+Bip001 Head
+  rotate: false
+  xy: 2, 95
+  size: 135, 156
+  orig: 135, 156
+  offset: 0, 0
+  index: -1
+Bip001 Head01
+  rotate: true
+  xy: 139, 142
+  size: 109, 169
+  orig: 109, 169
+  offset: 0, 0
+  index: -1
+Bip001 L Calf
+  rotate: true
+  xy: 240, 94
+  size: 46, 80
+  orig: 46, 80
+  offset: 0, 0
+  index: -1
+Bip001 L Foot
+  rotate: true
+  xy: 481, 212
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+Bip001 L Forearm
+  rotate: false
+  xy: 413, 62
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+Bip001 L Hand
+  rotate: false
+  xy: 43, 12
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+Bip001 L Thigh
+  rotate: true
+  xy: 139, 96
+  size: 44, 99
+  orig: 44, 99
+  offset: 0, 0
+  index: -1
+Bip001 L UpperArm
+  rotate: false
+  xy: 317, 48
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+Bip001 Ponytail1
+  rotate: false
+  xy: 407, 182
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+Bip001 Ponytail2
+  rotate: false
+  xy: 310, 146
+  size: 95, 105
+  orig: 95, 105
+  offset: 0, 0
+  index: -1
+Bip001 R Calf
+  rotate: true
+  xy: 322, 96
+  size: 48, 89
+  orig: 48, 89
+  offset: 0, 0
+  index: -1
+Bip001 R Foot
+  rotate: true
+  xy: 407, 155
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+Bip001 R Forearm
+  rotate: false
+  xy: 413, 105
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+Bip001 R Hand
+  rotate: true
+  xy: 108, 54
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+Bip001 R Thigh
+  rotate: true
+  xy: 139, 50
+  size: 44, 96
+  orig: 44, 96
+  offset: 0, 0
+  index: -1
+Bip001 R UpperArm
+  rotate: true
+  xy: 2, 2
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+Bip001 Spine
+  rotate: true
+  xy: 2, 32
+  size: 61, 104
+  orig: 61, 104
+  offset: 0, 0
+  index: -1

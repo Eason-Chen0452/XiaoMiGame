@@ -1,0 +1,132 @@
+
+2004_npc_tiexuan.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: true
+  xy: 700, 192
+  size: 62, 98
+  orig: 62, 98
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 494, 178
+  size: 76, 109
+  orig: 76, 109
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 187, 114
+  size: 153, 140
+  orig: 153, 140
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 187, 65
+  size: 72, 47
+  orig: 72, 47
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: false
+  xy: 954, 206
+  size: 68, 48
+  orig: 68, 48
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 459, 127
+  size: 31, 55
+  orig: 31, 55
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 261, 73
+  size: 39, 67
+  orig: 39, 67
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 90
+  size: 183, 164
+  orig: 183, 164
+  offset: 0, 0
+  index: -1
+Kua
+  rotate: false
+  xy: 342, 184
+  size: 150, 70
+  orig: 150, 70
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 880, 205
+  size: 72, 49
+  orig: 72, 49
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: true
+  xy: 104, 4
+  size: 84, 62
+  orig: 84, 62
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 800, 200
+  size: 78, 54
+  orig: 78, 54
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 342, 122
+  size: 115, 60
+  orig: 115, 60
+  offset: 0, 0
+  index: -1
+Thigh_L
+  rotate: false
+  xy: 605, 169
+  size: 93, 85
+  orig: 93, 85
+  offset: 0, 0
+  index: -1
+Thigh_R
+  rotate: false
+  xy: 2, 2
+  size: 100, 86
+  orig: 100, 86
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 492, 130
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+buff_mid
+  rotate: false
+  xy: 492, 130
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+buff_up
+  rotate: false
+  xy: 492, 130
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1

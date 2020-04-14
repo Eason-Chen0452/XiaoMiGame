@@ -1,0 +1,160 @@
+
+0016_npc_wudaojia.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UpArm_L
+  rotate: true
+  xy: 597, 74
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+UpArm_R
+  rotate: true
+  xy: 170, 22
+  size: 30, 61
+  orig: 30, 61
+  offset: 0, 0
+  index: -1
+arm_l
+  rotate: true
+  xy: 880, 85
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 924, 95
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+bandeau1
+  rotate: true
+  xy: 753, 98
+  size: 28, 74
+  orig: 28, 74
+  offset: 0, 0
+  index: -1
+bandeau2
+  rotate: true
+  xy: 451, 81
+  size: 45, 74
+  orig: 45, 74
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 237, 62
+  size: 64, 100
+  orig: 64, 100
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 170, 4
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 170, 4
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 170, 4
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+eye
+  rotate: false
+  xy: 597, 99
+  size: 76, 27
+  orig: 76, 27
+  offset: 0, 0
+  index: -1
+eyes_c
+  rotate: false
+  xy: 675, 99
+  size: 76, 27
+  orig: 76, 27
+  offset: 0, 0
+  index: -1
+foot_l
+  rotate: false
+  xy: 639, 70
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+foot_r
+  rotate: false
+  xy: 966, 98
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 130, 54
+  size: 105, 72
+  orig: 105, 72
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: true
+  xy: 680, 66
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: false
+  xy: 717, 68
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 7
+  size: 119, 126
+  orig: 119, 126
+  offset: 0, 0
+  index: -1
+kua
+  rotate: false
+  xy: 527, 83
+  size: 68, 43
+  orig: 68, 43
+  offset: 0, 0
+  index: -1
+kua1
+  rotate: false
+  xy: 339, 72
+  size: 110, 54
+  orig: 110, 54
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 130, 2
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: true
+  xy: 829, 93
+  size: 33, 49
+  orig: 33, 49
+  offset: 0, 0
+  index: -1

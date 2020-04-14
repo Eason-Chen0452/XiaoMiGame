@@ -1,0 +1,62 @@
+
+BUFF_HuiFu.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+suduxian_eff/hf_00008
+  rotate: true
+  xy: 300, 45
+  size: 90, 166
+  orig: 100, 200
+  offset: 1, 2
+  index: -1
+suduxian_eff/hf_00009
+  rotate: true
+  xy: 300, 137
+  size: 90, 189
+  orig: 100, 200
+  offset: 1, 0
+  index: -1
+suduxian_eff/hf_00010
+  rotate: false
+  xy: 2, 34
+  size: 97, 193
+  orig: 100, 200
+  offset: 1, 6
+  index: -1
+suduxian_eff/hf_00011
+  rotate: false
+  xy: 101, 34
+  size: 97, 193
+  orig: 100, 200
+  offset: 1, 7
+  index: -1
+suduxian_eff/hf_00012
+  rotate: false
+  xy: 200, 44
+  size: 98, 183
+  orig: 100, 200
+  offset: 0, 17
+  index: -1
+suduxian_eff/hf_00013
+  rotate: true
+  xy: 491, 129
+  size: 98, 151
+  orig: 100, 200
+  offset: 0, 36
+  index: -1
+suduxian_eff/hf_00014
+  rotate: true
+  xy: 644, 129
+  size: 98, 127
+  orig: 100, 200
+  offset: 0, 56
+  index: -1
+yuansu_eff/ys_tianshi_08
+  rotate: false
+  xy: 2, 2
+  size: 29, 30
+  orig: 32, 33
+  offset: 1, 2
+  index: -1

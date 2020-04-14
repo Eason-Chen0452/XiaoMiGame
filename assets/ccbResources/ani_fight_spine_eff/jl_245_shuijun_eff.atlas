@@ -1,0 +1,271 @@
+
+jl_245_shuijun_eff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bingci_eff_003
+  rotate: true
+  xy: 2, 262
+  size: 160, 149
+  orig: 188, 150
+  offset: 14, 1
+  index: -1
+jianshe_01/nengliangjianzadi_00014
+  rotate: true
+  xy: 665, 49
+  size: 209, 132
+  orig: 209, 137
+  offset: 0, 2
+  index: -1
+jianshe_02/00003
+  rotate: true
+  xy: 799, 7
+  size: 208, 181
+  orig: 263, 225
+  offset: 24, 11
+  index: -1
+jianshe_02/00005
+  rotate: true
+  xy: 2, 2
+  size: 256, 211
+  orig: 263, 225
+  offset: 0, 11
+  index: -1
+jianshe_03/00001
+  rotate: true
+  xy: 291, 489
+  size: 145, 55
+  orig: 266, 124
+  offset: 60, 12
+  index: -1
+jianshe_03/00002
+  rotate: false
+  xy: 799, 217
+  size: 213, 85
+  orig: 266, 124
+  offset: 26, 14
+  index: -1
+jianshe_03/00006
+  rotate: true
+  xy: 340, 4
+  size: 254, 103
+  orig: 266, 124
+  offset: 6, 9
+  index: -1
+ring02 (2)
+  rotate: false
+  xy: 613, 260
+  size: 184, 184
+  orig: 187, 186
+  offset: 2, 1
+  index: -1
+water_xuanwo@2x
+  rotate: false
+  xy: 348, 260
+  size: 263, 259
+  orig: 263, 259
+  offset: 0, 0
+  index: -1
+xuli_hanqi_eff/00001
+  rotate: false
+  xy: 153, 267
+  size: 177, 155
+  orig: 350, 271
+  offset: 84, 15
+  index: -1
+xuli_hanqi_eff/00003
+  rotate: true
+  xy: 445, 12
+  size: 246, 218
+  orig: 350, 271
+  offset: 54, 16
+  index: -1
+xuli_hanqi_eff/00004
+  rotate: false
+  xy: 2, 424
+  size: 287, 210
+  orig: 350, 271
+  offset: 45, 12
+  index: -1
+xuli_hanqi_eff/00005
+  rotate: false
+  xy: 354, 577
+  size: 337, 244
+  orig: 350, 271
+  offset: 10, 10
+  index: -1
+xuli_hanqi_eff/00006
+  rotate: false
+  xy: 2, 754
+  size: 350, 262
+  orig: 350, 271
+  offset: 0, 9
+  index: -1
+xuli_hanqi_eff/00007
+  rotate: false
+  xy: 693, 715
+  size: 318, 88
+  orig: 350, 271
+  offset: 20, 0
+  index: -1
+xuli_luoxuan2_eff/1
+  rotate: false
+  xy: 705, 805
+  size: 310, 117
+  orig: 360, 128
+  offset: 4, 6
+  index: -1
+xuli_luoxuan2_eff/2
+  rotate: false
+  xy: 2, 636
+  size: 332, 116
+  orig: 360, 128
+  offset: 4, 6
+  index: -1
+xuli_luoxuan2_eff/3
+  rotate: false
+  xy: 354, 911
+  size: 349, 105
+  orig: 360, 128
+  offset: 8, 11
+  index: -1
+xuli_luoxuan2_eff/4
+  rotate: false
+  xy: 354, 823
+  size: 343, 86
+  orig: 360, 128
+  offset: 11, 26
+  index: -1
+xuli_luoxuan2_eff/5
+  rotate: false
+  xy: 705, 924
+  size: 314, 92
+  orig: 360, 128
+  offset: 38, 28
+  index: -1
+xuli_luoxuan2_eff/6
+  rotate: false
+  xy: 693, 627
+  size: 306, 86
+  orig: 360, 128
+  offset: 41, 36
+  index: -1
+xuli_luoxuan2_eff/7
+  rotate: false
+  xy: 693, 551
+  size: 302, 74
+  orig: 360, 128
+  offset: 43, 45
+  index: -1
+xuli_luoxuan2_eff/8
+  rotate: false
+  xy: 348, 521
+  size: 281, 54
+  orig: 360, 128
+  offset: 60, 56
+  index: -1
+xuli_luoxuan2_eff/9
+  rotate: true
+  xy: 631, 446
+  size: 129, 44
+  orig: 360, 128
+  offset: 63, 62
+  index: -1
+xuli_luoxuan_eff/qinpu_eff_002
+  rotate: true
+  xy: 215, 44
+  size: 221, 123
+  orig: 225, 150
+  offset: 2, 12
+  index: -1
+xuli_luoxuan_eff/qinpu_eff_003
+  rotate: false
+  xy: 799, 426
+  size: 221, 123
+  orig: 225, 150
+  offset: 2, 12
+  index: -1
+xuli_luoxuan_eff/qinpu_eff_004
+  rotate: false
+  xy: 799, 304
+  size: 218, 120
+  orig: 225, 150
+  offset: 5, 12
+  index: -1
+
+jl_245_shuijun_eff2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jianshe_01/nengliangjianzadi_00013
+  rotate: false
+  xy: 435, 268
+  size: 167, 137
+  orig: 209, 137
+  offset: 21, 0
+  index: -1
+jianshe_01/nengliangjianzadi_00015
+  rotate: false
+  xy: 668, 389
+  size: 201, 118
+  orig: 209, 137
+  offset: 4, 11
+  index: -1
+jianshe_02/00001
+  rotate: false
+  xy: 871, 358
+  size: 150, 149
+  orig: 263, 225
+  offset: 44, 10
+  index: -1
+jianshe_02/00002
+  rotate: false
+  xy: 241, 340
+  size: 192, 167
+  orig: 263, 225
+  offset: 29, 11
+  index: -1
+jianshe_02/00004
+  rotate: false
+  xy: 2, 311
+  size: 237, 196
+  orig: 263, 225
+  offset: 9, 10
+  index: -1
+jianshe_03/00004
+  rotate: false
+  xy: 435, 407
+  size: 231, 100
+  orig: 266, 124
+  offset: 17, 10
+  index: -1
+ring01 (2)
+  rotate: true
+  xy: 604, 240
+  size: 147, 155
+  orig: 150, 157
+  offset: 1, 1
+  index: -1
+xuehua2
+  rotate: false
+  xy: 241, 188
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+xuli_hanqi_eff/00002
+  rotate: false
+  xy: 2, 111
+  size: 227, 198
+  orig: 350, 271
+  offset: 72, 15
+  index: -1
+xuli_luoxuan_eff/qinpu_eff_005
+  rotate: false
+  xy: 2, 2
+  size: 176, 107
+  orig: 225, 150
+  offset: 44, 12
+  index: -1

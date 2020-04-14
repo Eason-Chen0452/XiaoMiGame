@@ -1,0 +1,132 @@
+
+youling_emeng-zuzhou_eff.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+acceye07_bai
+  rotate: false
+  xy: 297, 187
+  size: 120, 83
+  orig: 120, 83
+  offset: 0, 0
+  index: -1
+acceye07_hei
+  rotate: false
+  xy: 419, 187
+  size: 120, 83
+  orig: 120, 83
+  offset: 0, 0
+  index: -1
+luoxuan_eff/qinpu_eff_002
+  rotate: false
+  xy: 565, 387
+  size: 221, 123
+  orig: 225, 150
+  offset: 2, 12
+  index: -1
+luoxuan_eff/qinpu_eff_003
+  rotate: false
+  xy: 788, 387
+  size: 221, 123
+  orig: 225, 150
+  offset: 2, 12
+  index: -1
+luoxuan_eff/qinpu_eff_004
+  rotate: false
+  xy: 563, 265
+  size: 218, 120
+  orig: 225, 150
+  offset: 5, 12
+  index: -1
+luoxuan_eff/qinpu_eff_005
+  rotate: false
+  xy: 783, 278
+  size: 176, 107
+  orig: 225, 150
+  offset: 44, 12
+  index: -1
+ranshao_eff/caocao_huoyanxuanfeng_eff 1
+  rotate: false
+  xy: 541, 165
+  size: 116, 98
+  orig: 150, 150
+  offset: 17, 25
+  index: -1
+ranshao_eff/caocao_huoyanxuanfeng_eff 3
+  rotate: false
+  xy: 783, 185
+  size: 111, 91
+  orig: 150, 150
+  offset: 18, 29
+  index: -1
+ranshao_eff/caocao_huoyanxuanfeng_eff 4
+  rotate: false
+  xy: 534, 77
+  size: 114, 86
+  orig: 150, 150
+  offset: 18, 29
+  index: -1
+ranshao_eff/caocao_huoyanxuanfeng_eff 6
+  rotate: false
+  xy: 659, 172
+  size: 114, 91
+  orig: 150, 150
+  offset: 18, 29
+  index: -1
+ranshao_eff/caocao_huoyanxuanfeng_eff 7
+  rotate: false
+  xy: 292, 91
+  size: 120, 94
+  orig: 150, 150
+  offset: 15, 29
+  index: -1
+ranshao_eff/caocao_huoyanxuanfeng_eff 8
+  rotate: false
+  xy: 414, 86
+  size: 118, 99
+  orig: 150, 150
+  offset: 16, 25
+  index: -1
+starlight
+  rotate: false
+  xy: 2, 218
+  size: 293, 292
+  orig: 299, 298
+  offset: 3, 3
+  index: -1
+yanwu_eff/zi_yanwu_eff_01
+  rotate: false
+  xy: 2, 100
+  size: 288, 116
+  orig: 342, 131
+  offset: 18, 0
+  index: -1
+yanwu_eff/zi_yanwu_eff_02
+  rotate: false
+  xy: 297, 272
+  size: 264, 118
+  orig: 342, 131
+  offset: 36, 4
+  index: -1
+yanwu_eff/zi_yanwu_eff_03
+  rotate: false
+  xy: 297, 392
+  size: 266, 118
+  orig: 342, 131
+  offset: 36, 13
+  index: -1
+yanwu_eff/zi_yanwu_eff_04
+  rotate: false
+  xy: 2, 6
+  size: 253, 92
+  orig: 342, 131
+  offset: 49, 8
+  index: -1
+zi_fangshe_03_eff_04
+  rotate: true
+  xy: 257, 2
+  size: 87, 95
+  orig: 125, 126
+  offset: 21, 18
+  index: -1

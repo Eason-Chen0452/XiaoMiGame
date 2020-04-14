@@ -1,0 +1,111 @@
+
+shui_chonglang_eff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dilie2
+  rotate: false
+  xy: 397, 542
+  size: 171, 44
+  orig: 192, 192
+  offset: 8, 70
+  index: -1
+ice03
+  rotate: false
+  xy: 2, 130
+  size: 125, 142
+  orig: 134, 156
+  offset: 0, 7
+  index: -1
+shashi_eff/bai_shashi_03_eff_01
+  rotate: false
+  xy: 2, 274
+  size: 195, 155
+  orig: 195, 155
+  offset: 0, 0
+  index: -1
+shashi_eff/bai_shashi_03_eff_02
+  rotate: false
+  xy: 2, 588
+  size: 196, 155
+  orig: 196, 155
+  offset: 0, 0
+  index: -1
+shashi_eff/bai_shashi_03_eff_03
+  rotate: false
+  xy: 200, 431
+  size: 195, 155
+  orig: 195, 155
+  offset: 0, 0
+  index: -1
+shashi_eff/bai_shashi_03_eff_04
+  rotate: false
+  xy: 398, 588
+  size: 194, 155
+  orig: 194, 155
+  offset: 0, 0
+  index: -1
+shashi_eff/bai_shashi_03_eff_05
+  rotate: false
+  xy: 2, 431
+  size: 196, 155
+  orig: 196, 155
+  offset: 0, 0
+  index: -1
+shashi_eff/bai_shashi_03_eff_06
+  rotate: false
+  xy: 200, 588
+  size: 196, 155
+  orig: 196, 155
+  offset: 0, 0
+  index: -1
+shatu_eff/bai_shashi_04_eff_01
+  rotate: false
+  xy: 594, 625
+  size: 60, 45
+  orig: 206, 130
+  offset: 46, 37
+  index: -1
+shatu_eff/bai_shashi_04_eff_02
+  rotate: true
+  xy: 129, 191
+  size: 81, 56
+  orig: 206, 130
+  offset: 38, 35
+  index: -1
+shatu_eff/bai_shashi_04_eff_03
+  rotate: false
+  xy: 397, 469
+  size: 98, 71
+  orig: 206, 130
+  offset: 43, 33
+  index: -1
+shatu_eff/bai_shashi_04_eff_04
+  rotate: false
+  xy: 199, 282
+  size: 118, 74
+  orig: 206, 130
+  offset: 43, 33
+  index: -1
+shatu_eff/bai_shashi_04_eff_05
+  rotate: false
+  xy: 594, 672
+  size: 138, 71
+  orig: 206, 130
+  offset: 44, 32
+  index: -1
+shatu_eff/bai_shashi_04_eff_06
+  rotate: false
+  xy: 199, 358
+  size: 153, 71
+  orig: 206, 130
+  offset: 45, 32
+  index: -1
+shatu_eff/bai_shashi_04_eff_07
+  rotate: true
+  xy: 2, 2
+  size: 126, 68
+  orig: 206, 130
+  offset: 76, 32
+  index: -1

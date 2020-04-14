@@ -1,0 +1,195 @@
+
+0100_shaoniandamu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 288, 91
+  size: 27, 30
+  orig: 29, 32
+  offset: 1, 1
+  index: -1
+1-1
+  rotate: false
+  xy: 275, 58
+  size: 27, 31
+  orig: 29, 33
+  offset: 1, 1
+  index: -1
+2
+  rotate: true
+  xy: 83, 2
+  size: 24, 27
+  orig: 26, 29
+  offset: 1, 1
+  index: -1
+Ball
+  rotate: true
+  xy: 297, 125
+  size: 35, 33
+  orig: 37, 35
+  offset: 1, 1
+  index: -1
+arm_l
+  rotate: true
+  xy: 231, 123
+  size: 33, 64
+  orig: 35, 66
+  offset: 1, 1
+  index: -1
+arm_r
+  rotate: true
+  xy: 421, 218
+  size: 35, 67
+  orig: 37, 69
+  offset: 1, 1
+  index: -1
+bag
+  rotate: true
+  xy: 160, 113
+  size: 43, 69
+  orig: 45, 71
+  offset: 1, 1
+  index: -1
+buff_flo
+  rotate: false
+  xy: 319, 162
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 319, 162
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 319, 162
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+eyes-c
+  rotate: false
+  xy: 142, 76
+  size: 76, 35
+  orig: 78, 37
+  offset: 1, 1
+  index: -1
+foot_l
+  rotate: false
+  xy: 231, 91
+  size: 55, 30
+  orig: 57, 32
+  offset: 1, 1
+  index: -1
+foot_r
+  rotate: false
+  xy: 233, 52
+  size: 40, 37
+  orig: 42, 39
+  offset: 1, 1
+  index: -1
+hair1
+  rotate: false
+  xy: 160, 158
+  size: 118, 95
+  orig: 120, 97
+  offset: 1, 1
+  index: -1
+hair2
+  rotate: true
+  xy: 421, 194
+  size: 22, 68
+  orig: 24, 70
+  offset: 1, 1
+  index: -1
+hair3
+  rotate: true
+  xy: 2, 5
+  size: 21, 79
+  orig: 23, 81
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: false
+  xy: 204, 27
+  size: 27, 47
+  orig: 29, 49
+  offset: 1, 1
+  index: -1
+hand_l
+  rotate: true
+  xy: 233, 23
+  size: 27, 39
+  orig: 29, 41
+  offset: 1, 1
+  index: -1
+hand_r
+  rotate: true
+  xy: 304, 59
+  size: 30, 29
+  orig: 32, 31
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 2, 113
+  size: 156, 140
+  orig: 158, 142
+  offset: 1, 1
+  index: -1
+leg_l
+  rotate: false
+  xy: 328, 187
+  size: 42, 66
+  orig: 44, 68
+  offset: 1, 1
+  index: -1
+leg_r
+  rotate: false
+  xy: 372, 195
+  size: 47, 58
+  orig: 49, 60
+  offset: 1, 1
+  index: -1
+mouth_1
+  rotate: true
+  xy: 490, 218
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+mouth_2
+  rotate: false
+  xy: 280, 162
+  size: 37, 16
+  orig: 37, 16
+  offset: 0, 0
+  index: -1
+spine
+  rotate: true
+  xy: 2, 28
+  size: 83, 138
+  orig: 85, 140
+  offset: 1, 1
+  index: -1
+thigh_l
+  rotate: true
+  xy: 142, 31
+  size: 43, 60
+  orig: 45, 62
+  offset: 1, 1
+  index: -1
+thigh_r
+  rotate: false
+  xy: 280, 180
+  size: 46, 73
+  orig: 48, 75
+  offset: 1, 1
+  index: -1

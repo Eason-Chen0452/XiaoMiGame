@@ -1,0 +1,104 @@
+
+jl_212_juqiantanglang_sg_eff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangren1/gr1_00
+  rotate: false
+  xy: 2, 2
+  size: 160, 150
+  orig: 160, 150
+  offset: 0, 0
+  index: -1
+guangren1/gr1_01
+  rotate: false
+  xy: 224, 204
+  size: 160, 150
+  orig: 160, 150
+  offset: 0, 0
+  index: -1
+guangren1/gr1_02
+  rotate: false
+  xy: 664, 404
+  size: 160, 150
+  orig: 160, 150
+  offset: 0, 0
+  index: -1
+guangren1/gr1_03
+  rotate: false
+  xy: 164, 2
+  size: 160, 150
+  orig: 160, 150
+  offset: 0, 0
+  index: -1
+guangren1/gr1_04
+  rotate: false
+  xy: 386, 204
+  size: 160, 150
+  orig: 160, 150
+  offset: 0, 0
+  index: -1
+guangren1/gr1_05
+  rotate: false
+  xy: 326, 52
+  size: 160, 150
+  orig: 160, 150
+  offset: 0, 0
+  index: -1
+guangren1/gr1_06
+  rotate: true
+  xy: 548, 232
+  size: 160, 150
+  orig: 160, 150
+  offset: 0, 0
+  index: -1
+lan_chongji_04_eff_01
+  rotate: false
+  xy: 2, 154
+  size: 220, 200
+  orig: 220, 200
+  offset: 0, 0
+  index: -1
+lan_chongji_04_eff_04
+  rotate: false
+  xy: 442, 394
+  size: 220, 160
+  orig: 220, 160
+  offset: 0, 0
+  index: -1
+lan_fazhen_02_eff/lan_fazhen_02_eff_01
+  rotate: false
+  xy: 2, 756
+  size: 438, 198
+  orig: 438, 198
+  offset: 0, 0
+  index: -1
+lan_fazhen_02_eff/lan_fazhen_02_eff_02
+  rotate: false
+  xy: 2, 556
+  size: 438, 198
+  orig: 438, 198
+  offset: 0, 0
+  index: -1
+lan_fazhen_02_eff/lan_fazhen_02_eff_03
+  rotate: false
+  xy: 442, 756
+  size: 438, 198
+  orig: 438, 198
+  offset: 0, 0
+  index: -1
+lan_fazhen_02_eff/lan_fazhen_02_eff_04
+  rotate: false
+  xy: 2, 356
+  size: 438, 198
+  orig: 438, 198
+  offset: 0, 0
+  index: -1
+lan_fazhen_02_eff/lan_fazhen_02_eff_05
+  rotate: false
+  xy: 442, 556
+  size: 438, 198
+  orig: 438, 198
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+SJ_Leiji.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lightning02a
+  rotate: false
+  xy: 2, 526
+  size: 300, 290
+  orig: 304, 293
+  offset: 2, 1
+  index: -1
+lightning02b
+  rotate: false
+  xy: 2, 238
+  size: 277, 286
+  orig: 281, 289
+  offset: 2, 1
+  index: -1
+lightning02c
+  rotate: false
+  xy: 304, 564
+  size: 267, 252
+  orig: 268, 254
+  offset: 1, 1
+  index: -1
+shock
+  rotate: false
+  xy: 573, 587
+  size: 231, 229
+  orig: 232, 233
+  offset: 1, 2
+  index: -1
+starlight
+  rotate: false
+  xy: 2, 2
+  size: 233, 234
+  orig: 237, 237
+  offset: 2, 1
+  index: -1

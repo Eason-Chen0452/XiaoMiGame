@@ -1,0 +1,216 @@
+
+1003_npc_ache.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bip001 Eye
+  rotate: false
+  xy: 184, 62
+  size: 76, 48
+  orig: 78, 50
+  offset: 1, 1
+  index: -1
+Bip001 Eyebrow
+  rotate: true
+  xy: 477, 166
+  size: 88, 33
+  orig: 90, 35
+  offset: 1, 1
+  index: -1
+Bip001 Hair1
+  rotate: false
+  xy: 191, 169
+  size: 110, 85
+  orig: 112, 87
+  offset: 1, 1
+  index: -1
+Bip001 Hair2
+  rotate: false
+  xy: 129, 58
+  size: 53, 93
+  orig: 55, 95
+  offset: 1, 1
+  index: -1
+Bip001 Hair3
+  rotate: false
+  xy: 2, 153
+  size: 187, 101
+  orig: 189, 103
+  offset: 1, 1
+  index: -1
+Bip001 Hair4
+  rotate: true
+  xy: 262, 65
+  size: 43, 53
+  orig: 45, 55
+  offset: 1, 1
+  index: -1
+Bip001 Hair5
+  rotate: false
+  xy: 129, 2
+  size: 59, 54
+  orig: 61, 56
+  offset: 1, 1
+  index: -1
+Bip001 Head
+  rotate: false
+  xy: 2, 10
+  size: 125, 141
+  orig: 127, 143
+  offset: 1, 1
+  index: -1
+Bip001 L Calf
+  rotate: true
+  xy: 310, 13
+  size: 19, 40
+  orig: 21, 42
+  offset: 1, 1
+  index: -1
+Bip001 L Foot
+  rotate: false
+  xy: 314, 110
+  size: 41, 36
+  orig: 43, 38
+  offset: 1, 1
+  index: -1
+Bip001 L Forearm
+  rotate: false
+  xy: 477, 130
+  size: 29, 34
+  orig: 31, 36
+  offset: 1, 1
+  index: -1
+Bip001 L Hand
+  rotate: false
+  xy: 359, 82
+  size: 22, 27
+  orig: 24, 29
+  offset: 1, 1
+  index: -1
+Bip001 L Thigh
+  rotate: false
+  xy: 270, 110
+  size: 42, 57
+  orig: 44, 59
+  offset: 1, 1
+  index: -1
+Bip001 L UpperArm
+  rotate: false
+  xy: 251, 14
+  size: 24, 46
+  orig: 26, 48
+  offset: 1, 1
+  index: -1
+Bip001 Neck
+  rotate: true
+  xy: 357, 129
+  size: 17, 21
+  orig: 19, 23
+  offset: 1, 1
+  index: -1
+Bip001 Pelvis
+  rotate: false
+  xy: 314, 148
+  size: 64, 33
+  orig: 66, 35
+  offset: 1, 1
+  index: -1
+Bip001 R Calf
+  rotate: true
+  xy: 391, 170
+  size: 24, 52
+  orig: 26, 54
+  offset: 1, 1
+  index: -1
+Bip001 R Foot
+  rotate: false
+  xy: 445, 152
+  size: 30, 42
+  orig: 32, 44
+  offset: 1, 1
+  index: -1
+Bip001 R Forearm
+  rotate: true
+  xy: 310, 34
+  size: 26, 44
+  orig: 28, 46
+  offset: 1, 1
+  index: -1
+Bip001 R Thigh
+  rotate: true
+  xy: 190, 14
+  size: 46, 59
+  orig: 48, 61
+  offset: 1, 1
+  index: -1
+Bip001 R UpperArm
+  rotate: false
+  xy: 277, 17
+  size: 31, 46
+  orig: 33, 48
+  offset: 1, 1
+  index: -1
+Bip001 Spine
+  rotate: true
+  xy: 391, 196
+  size: 58, 84
+  orig: 60, 86
+  offset: 1, 1
+  index: -1
+buff_flo
+  rotate: false
+  xy: 357, 111
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 357, 111
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 357, 111
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+weapon
+  rotate: true
+  xy: 303, 183
+  size: 71, 86
+  orig: 73, 88
+  offset: 1, 1
+  index: -1
+weapon01
+  rotate: true
+  xy: 317, 62
+  size: 46, 40
+  orig: 48, 42
+  offset: 1, 1
+  index: -1
+weapon02
+  rotate: false
+  xy: 380, 114
+  size: 39, 23
+  orig: 41, 25
+  offset: 1, 1
+  index: -1
+weapon1
+  rotate: true
+  xy: 191, 112
+  size: 55, 77
+  orig: 57, 79
+  offset: 1, 1
+  index: -1
+weapon2
+  rotate: true
+  xy: 380, 139
+  size: 29, 49
+  orig: 31, 51
+  offset: 1, 1
+  index: -1

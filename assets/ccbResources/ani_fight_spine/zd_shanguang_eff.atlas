@@ -1,0 +1,20 @@
+
+zd_shanguang_eff.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: false
+  xy: 2, 80
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+star02
+  rotate: false
+  xy: 2, 2
+  size: 83, 76
+  orig: 83, 76
+  offset: 0, 0
+  index: -1

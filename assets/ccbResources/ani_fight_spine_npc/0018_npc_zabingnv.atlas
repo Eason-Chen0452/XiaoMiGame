@@ -1,0 +1,174 @@
+
+0018_npc_zabingnv.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hand_L
+  rotate: true
+  xy: 743, 70
+  size: 35, 42
+  orig: 37, 44
+  offset: 1, 1
+  index: -1
+Hand_R (2)
+  rotate: true
+  xy: 804, 91
+  size: 35, 41
+  orig: 37, 43
+  offset: 1, 1
+  index: -1
+arm_l
+  rotate: true
+  xy: 847, 92
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: true
+  xy: 65, 14
+  size: 20, 53
+  orig: 20, 53
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 242, 2
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 321, 29
+  size: 67, 97
+  orig: 67, 97
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 496, 67
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 496, 67
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 496, 67
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+eye
+  rotate: false
+  xy: 435, 85
+  size: 77, 41
+  orig: 77, 41
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 514, 86
+  size: 78, 40
+  orig: 78, 40
+  offset: 0, 0
+  index: -1
+forearm_l
+  rotate: true
+  xy: 321, 2
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+forearm_r
+  rotate: true
+  xy: 743, 107
+  size: 19, 59
+  orig: 19, 59
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 390, 48
+  size: 43, 78
+  orig: 43, 78
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 242, 26
+  size: 77, 100
+  orig: 77, 100
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: false
+  xy: 928, 98
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 2, 36
+  size: 131, 90
+  orig: 131, 90
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 135, 25
+  size: 105, 101
+  orig: 105, 101
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 435, 60
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: true
+  xy: 2, 3
+  size: 31, 61
+  orig: 31, 61
+  offset: 0, 0
+  index: -1
+shoues_l
+  rotate: false
+  xy: 887, 98
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+shoues_r
+  rotate: true
+  xy: 362, 2
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+thigh_l
+  rotate: true
+  xy: 594, 84
+  size: 42, 74
+  orig: 42, 74
+  offset: 0, 0
+  index: -1
+thigh_r
+  rotate: true
+  xy: 670, 85
+  size: 41, 71
+  orig: 41, 71
+  offset: 0, 0
+  index: -1

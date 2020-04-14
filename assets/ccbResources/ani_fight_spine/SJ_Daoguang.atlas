@@ -1,0 +1,41 @@
+
+SJ_Daoguang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 385
+  size: 421, 62
+  orig: 479, 108
+  offset: 29, 23
+  index: -1
+jianshe/01
+  rotate: false
+  xy: 194, 59
+  size: 155, 154
+  orig: 400, 400
+  offset: 111, 127
+  index: -1
+jianshe/02
+  rotate: false
+  xy: 194, 215
+  size: 173, 168
+  orig: 400, 400
+  offset: 102, 122
+  index: -1
+jianshe/03
+  rotate: false
+  xy: 2, 2
+  size: 184, 185
+  orig: 400, 400
+  offset: 101, 113
+  index: -1
+jianshe/04
+  rotate: false
+  xy: 2, 189
+  size: 190, 194
+  orig: 400, 400
+  offset: 101, 108
+  index: -1

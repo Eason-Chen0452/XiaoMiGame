@@ -1,0 +1,62 @@
+
+wqsp-zi.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+furnace_glow_purple
+  rotate: true
+  xy: 2, 2
+  size: 111, 127
+  orig: 128, 128
+  offset: 9, 0
+  index: -1
+gs055
+  rotate: false
+  xy: 131, 24
+  size: 128, 89
+  orig: 130, 91
+  offset: 1, 1
+  index: -1
+gs057
+  rotate: false
+  xy: 131, 24
+  size: 128, 89
+  orig: 130, 91
+  offset: 1, 1
+  index: -1
+gs056
+  rotate: false
+  xy: 261, 24
+  size: 128, 89
+  orig: 130, 91
+  offset: 1, 1
+  index: -1
+gs058
+  rotate: false
+  xy: 261, 24
+  size: 128, 89
+  orig: 130, 91
+  offset: 1, 1
+  index: -1
+wqsp-zi-sp
+  rotate: false
+  xy: 391, 15
+  size: 100, 98
+  orig: 102, 100
+  offset: 1, 1
+  index: -1
+wqsp-zi-ty
+  rotate: false
+  xy: 493, 58
+  size: 111, 55
+  orig: 113, 57
+  offset: 1, 1
+  index: -1
+wqsp-zi-w
+  rotate: true
+  xy: 493, 17
+  size: 39, 65
+  orig: 41, 67
+  offset: 1, 1
+  index: -1

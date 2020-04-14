@@ -1,0 +1,167 @@
+
+1011_npc_liubo.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff_flo
+  rotate: false
+  xy: 194, 52
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 194, 52
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 194, 52
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+dabi_l
+  rotate: false
+  xy: 88, 2
+  size: 28, 51
+  orig: 30, 53
+  offset: 1, 1
+  index: -1
+dabi_r
+  rotate: true
+  xy: 148, 70
+  size: 41, 66
+  orig: 43, 68
+  offset: 1, 1
+  index: -1
+datui_l
+  rotate: true
+  xy: 449, 215
+  size: 39, 59
+  orig: 41, 61
+  offset: 1, 1
+  index: -1
+datui_r
+  rotate: true
+  xy: 335, 120
+  size: 49, 67
+  orig: 51, 69
+  offset: 1, 1
+  index: -1
+eye-c
+  rotate: false
+  xy: 2, 9
+  size: 84, 44
+  orig: 86, 46
+  offset: 1, 1
+  index: -1
+guai
+  rotate: true
+  xy: 148, 113
+  size: 33, 149
+  orig: 35, 151
+  offset: 1, 1
+  index: -1
+jio_l
+  rotate: true
+  xy: 118, 10
+  size: 43, 33
+  orig: 45, 35
+  offset: 1, 1
+  index: -1
+jio_r
+  rotate: true
+  xy: 299, 106
+  size: 40, 34
+  orig: 42, 36
+  offset: 1, 1
+  index: -1
+kua
+  rotate: false
+  xy: 335, 171
+  size: 72, 47
+  orig: 74, 49
+  offset: 1, 1
+  index: -1
+shenti
+  rotate: true
+  xy: 148, 148
+  size: 106, 185
+  orig: 108, 187
+  offset: 1, 1
+  index: -1
+shenti_2
+  rotate: true
+  xy: 153, 10
+  size: 26, 29
+  orig: 28, 31
+  offset: 1, 1
+  index: -1
+shenti_3
+  rotate: false
+  xy: 335, 97
+  size: 31, 21
+  orig: 33, 23
+  offset: 1, 1
+  index: -1
+shou_l
+  rotate: false
+  xy: 153, 38
+  size: 39, 30
+  orig: 41, 32
+  offset: 1, 1
+  index: -1
+tou
+  rotate: false
+  xy: 2, 98
+  size: 144, 156
+  orig: 146, 158
+  offset: 1, 1
+  index: -1
+weijin_l
+  rotate: true
+  xy: 335, 220
+  size: 34, 112
+  orig: 36, 114
+  offset: 1, 1
+  index: -1
+weijin_r
+  rotate: true
+  xy: 2, 55
+  size: 41, 137
+  orig: 43, 139
+  offset: 1, 1
+  index: -1
+xiaobi_l
+  rotate: false
+  xy: 449, 163
+  size: 57, 50
+  orig: 59, 52
+  offset: 1, 1
+  index: -1
+xiaobi_r
+  rotate: false
+  xy: 404, 120
+  size: 42, 39
+  orig: 44, 41
+  offset: 1, 1
+  index: -1
+xiaotui_l
+  rotate: false
+  xy: 409, 161
+  size: 38, 57
+  orig: 40, 59
+  offset: 1, 1
+  index: -1
+xiaotui_r
+  rotate: true
+  xy: 216, 67
+  size: 44, 65
+  orig: 46, 67
+  offset: 1, 1
+  index: -1

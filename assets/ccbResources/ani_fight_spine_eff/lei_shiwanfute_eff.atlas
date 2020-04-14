@@ -1,0 +1,132 @@
+
+lei_shiwanfute_eff.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dajianshe_eff/lan_dimianleidian_eff_01
+  rotate: false
+  xy: 736, 430
+  size: 119, 80
+  orig: 123, 88
+  offset: 3, 0
+  index: -1
+dajianshe_eff/lan_dimianleidian_eff_02
+  rotate: true
+  xy: 765, 306
+  size: 122, 88
+  orig: 123, 88
+  offset: 1, 0
+  index: -1
+dajianshe_eff/lan_dimianleidian_eff_03
+  rotate: false
+  xy: 857, 423
+  size: 120, 87
+  orig: 123, 88
+  offset: 0, 1
+  index: -1
+dajianshe_eff/lan_dimianleidian_eff_04
+  rotate: false
+  xy: 765, 217
+  size: 119, 87
+  orig: 123, 88
+  offset: 2, 0
+  index: -1
+leihua_eff/spark02a
+  rotate: false
+  xy: 309, 106
+  size: 132, 119
+  orig: 132, 119
+  offset: 0, 0
+  index: -1
+leihua_eff/spark02b
+  rotate: false
+  xy: 886, 205
+  size: 113, 108
+  orig: 113, 108
+  offset: 0, 0
+  index: -1
+leihua_eff/spark03a
+  rotate: true
+  xy: 855, 315
+  size: 106, 119
+  orig: 106, 119
+  offset: 0, 0
+  index: -1
+leihua_eff/spark03b
+  rotate: true
+  xy: 596, 126
+  size: 103, 104
+  orig: 104, 116
+  offset: 1, 0
+  index: -1
+leihua_eff/spark04a
+  rotate: true
+  xy: 443, 14
+  size: 60, 114
+  orig: 60, 114
+  offset: 0, 0
+  index: -1
+leihua_eff/spark04b
+  rotate: false
+  xy: 385, 14
+  size: 56, 90
+  orig: 56, 107
+  offset: 0, 17
+  index: -1
+luolei_xiao_eff/00001
+  rotate: true
+  xy: 357, 425
+  size: 85, 377
+  orig: 225, 428
+  offset: 64, 8
+  index: -1
+luolei_xiao_eff/00005
+  rotate: true
+  xy: 2, 2
+  size: 102, 381
+  orig: 225, 428
+  offset: 65, 7
+  index: -1
+luolei_xiao_eff/00021
+  rotate: false
+  xy: 2, 106
+  size: 95, 404
+  orig: 225, 428
+  offset: 56, 22
+  index: -1
+zhongjianshe_eff/00001
+  rotate: false
+  xy: 443, 76
+  size: 150, 149
+  orig: 263, 225
+  offset: 44, 10
+  index: -1
+zhongjianshe_eff/00002
+  rotate: true
+  xy: 596, 231
+  size: 192, 167
+  orig: 263, 225
+  offset: 29, 11
+  index: -1
+zhongjianshe_eff/00003
+  rotate: false
+  xy: 99, 116
+  size: 208, 181
+  orig: 263, 225
+  offset: 24, 11
+  index: -1
+zhongjianshe_eff/00004
+  rotate: false
+  xy: 357, 227
+  size: 237, 196
+  orig: 263, 225
+  offset: 9, 10
+  index: -1
+zhongjianshe_eff/00005
+  rotate: false
+  xy: 99, 299
+  size: 256, 211
+  orig: 263, 225
+  offset: 0, 11
+  index: -1

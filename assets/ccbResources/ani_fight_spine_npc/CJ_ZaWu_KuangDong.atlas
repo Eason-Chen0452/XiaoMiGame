@@ -1,0 +1,69 @@
+
+CJ_ZaWu_KuangDong.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff_flo
+  rotate: false
+  xy: 345, 400
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 345, 400
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 345, 400
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+o
+  rotate: false
+  xy: 2, 294
+  size: 244, 209
+  orig: 246, 211
+  offset: 1, 1
+  index: -1
+od
+  rotate: false
+  xy: 2, 83
+  size: 244, 209
+  orig: 246, 211
+  offset: 1, 1
+  index: -1
+ol1
+  rotate: false
+  xy: 248, 304
+  size: 95, 112
+  orig: 97, 114
+  offset: 1, 1
+  index: -1
+ol2
+  rotate: false
+  xy: 248, 249
+  size: 24, 53
+  orig: 26, 55
+  offset: 1, 1
+  index: -1
+ol3
+  rotate: true
+  xy: 2, 2
+  size: 79, 88
+  orig: 81, 90
+  offset: 1, 1
+  index: -1
+os
+  rotate: false
+  xy: 248, 418
+  size: 248, 85
+  orig: 250, 87
+  offset: 1, 1
+  index: -1

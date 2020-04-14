@@ -1,0 +1,69 @@
+
+BUFF_XuanYun.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xuanyun_eff/xuanyun 01
+  rotate: false
+  xy: 873, 11
+  size: 92, 42
+  orig: 117, 78
+  offset: 13, 18
+  index: -1
+xuanyun_eff/xuanyun 02
+  rotate: false
+  xy: 775, 11
+  size: 96, 42
+  orig: 117, 78
+  offset: 12, 17
+  index: -1
+xuanyun_eff/xuanyun 03
+  rotate: false
+  xy: 570, 10
+  size: 102, 43
+  orig: 117, 78
+  offset: 7, 17
+  index: -1
+xuanyun_eff/xuanyun 05
+  rotate: false
+  xy: 115, 12
+  size: 116, 41
+  orig: 117, 78
+  offset: 1, 18
+  index: -1
+xuanyun_eff/xuanyun 06
+  rotate: false
+  xy: 233, 8
+  size: 112, 45
+  orig: 117, 78
+  offset: 2, 16
+  index: -1
+xuanyun_eff/xuanyun 07
+  rotate: false
+  xy: 459, 9
+  size: 109, 44
+  orig: 117, 78
+  offset: 5, 16
+  index: -1
+xuanyun_eff/xuanyun 08
+  rotate: false
+  xy: 347, 7
+  size: 110, 46
+  orig: 117, 78
+  offset: 3, 15
+  index: -1
+xuanyun_eff/xuanyun 09
+  rotate: false
+  xy: 2, 2
+  size: 111, 51
+  orig: 117, 78
+  offset: 5, 12
+  index: -1
+xuanyun_eff/xuanyun 10
+  rotate: false
+  xy: 674, 4
+  size: 99, 49
+  orig: 117, 78
+  offset: 18, 13
+  index: -1

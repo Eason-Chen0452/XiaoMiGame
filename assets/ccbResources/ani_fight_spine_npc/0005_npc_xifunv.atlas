@@ -1,0 +1,167 @@
+
+0005_npc_xifunv.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: false
+  xy: 405, 174
+  size: 38, 39
+  orig: 40, 41
+  offset: 1, 1
+  index: -1
+Arm_R
+  rotate: true
+  xy: 360, 191
+  size: 22, 43
+  orig: 24, 45
+  offset: 1, 1
+  index: -1
+Body
+  rotate: true
+  xy: 2, 35
+  size: 67, 105
+  orig: 69, 107
+  offset: 1, 1
+  index: -1
+Eye1_L
+  rotate: false
+  xy: 278, 109
+  size: 23, 30
+  orig: 25, 32
+  offset: 1, 1
+  index: -1
+Eye1_R
+  rotate: true
+  xy: 82, 3
+  size: 30, 33
+  orig: 32, 35
+  offset: 1, 1
+  index: -1
+Eye_L
+  rotate: false
+  xy: 476, 191
+  size: 26, 32
+  orig: 28, 34
+  offset: 1, 1
+  index: -1
+Eye_R
+  rotate: true
+  xy: 45, 2
+  size: 31, 35
+  orig: 33, 37
+  offset: 1, 1
+  index: -1
+Foot_L
+  rotate: false
+  xy: 2, 2
+  size: 41, 31
+  orig: 43, 33
+  offset: 1, 1
+  index: -1
+Foot_R
+  rotate: false
+  xy: 445, 183
+  size: 29, 40
+  orig: 31, 42
+  offset: 1, 1
+  index: -1
+Hair_B
+  rotate: false
+  xy: 149, 141
+  size: 143, 113
+  orig: 145, 115
+  offset: 1, 1
+  index: -1
+Hand_L
+  rotate: false
+  xy: 303, 120
+  size: 22, 26
+  orig: 24, 28
+  offset: 1, 1
+  index: -1
+Hand_R
+  rotate: false
+  xy: 117, 5
+  size: 27, 32
+  orig: 29, 34
+  offset: 1, 1
+  index: -1
+Head
+  rotate: false
+  xy: 2, 104
+  size: 145, 150
+  orig: 147, 152
+  offset: 1, 1
+  index: -1
+Kua
+  rotate: false
+  xy: 294, 189
+  size: 64, 65
+  orig: 66, 67
+  offset: 1, 1
+  index: -1
+Leg_L
+  rotate: true
+  xy: 224, 114
+  size: 25, 52
+  orig: 27, 54
+  offset: 1, 1
+  index: -1
+Leg_R
+  rotate: false
+  xy: 109, 39
+  size: 27, 63
+  orig: 29, 65
+  offset: 1, 1
+  index: -1
+Thigh_L
+  rotate: true
+  xy: 360, 215
+  size: 39, 78
+  orig: 41, 80
+  offset: 1, 1
+  index: -1
+Thigh_R
+  rotate: true
+  xy: 149, 105
+  size: 34, 73
+  orig: 36, 75
+  offset: 1, 1
+  index: -1
+UpArm_L
+  rotate: true
+  xy: 440, 225
+  size: 29, 56
+  orig: 31, 58
+  offset: 1, 1
+  index: -1
+UpArm_R
+  rotate: true
+  xy: 294, 148
+  size: 39, 56
+  orig: 41, 58
+  offset: 1, 1
+  index: -1
+buff_flo
+  rotate: false
+  xy: 327, 130
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 327, 130
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 327, 130
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1

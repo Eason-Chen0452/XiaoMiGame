@@ -1,0 +1,55 @@
+
+BUFF_ZhuoShang.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhuoshao_eff/00007
+  rotate: true
+  xy: 314, 88
+  size: 111, 192
+  orig: 300, 300
+  offset: 96, 44
+  index: -1
+zhuoshao_eff/00008
+  rotate: false
+  xy: 2, 7
+  size: 114, 192
+  orig: 300, 300
+  offset: 94, 49
+  index: -1
+zhuoshao_eff/00009
+  rotate: true
+  xy: 118, 88
+  size: 111, 194
+  orig: 300, 300
+  offset: 96, 52
+  index: -1
+zhuoshao_eff/00010
+  rotate: true
+  xy: 508, 105
+  size: 94, 188
+  orig: 300, 300
+  offset: 112, 60
+  index: -1
+zhuoshao_eff/00011
+  rotate: true
+  xy: 698, 111
+  size: 88, 187
+  orig: 300, 300
+  offset: 117, 61
+  index: -1
+zhuoshao_eff/00012
+  rotate: true
+  xy: 118, 2
+  size: 84, 171
+  orig: 300, 300
+  offset: 119, 79
+  index: -1
+zhuoshao_eff/00013
+  rotate: true
+  xy: 291, 16
+  size: 70, 157
+  orig: 300, 300
+  offset: 125, 91
+  index: -1

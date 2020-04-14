@@ -1,0 +1,76 @@
+
+huo_liuxing_eff.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huaguo_00022
+  rotate: false
+  xy: 510, 85
+  size: 68, 74
+  orig: 150, 315
+  offset: 45, 7
+  index: -1
+huaguo_00024
+  rotate: true
+  xy: 580, 84
+  size: 77, 94
+  orig: 150, 315
+  offset: 29, 16
+  index: -1
+huaguo_00025
+  rotate: true
+  xy: 408, 3
+  size: 79, 106
+  orig: 150, 315
+  offset: 24, 20
+  index: -1
+huaguo_00026
+  rotate: true
+  xy: 282, 2
+  size: 80, 124
+  orig: 150, 315
+  offset: 21, 22
+  index: -1
+huaguo_00027
+  rotate: true
+  xy: 830, 174
+  size: 78, 165
+  orig: 150, 315
+  offset: 21, 24
+  index: -1
+huaguo_00028
+  rotate: true
+  xy: 283, 84
+  size: 75, 225
+  orig: 150, 315
+  offset: 23, 26
+  index: -1
+huaguo_00029
+  rotate: true
+  xy: 2, 159
+  size: 93, 279
+  orig: 150, 315
+  offset: 25, 28
+  index: -1
+huaguo_00030
+  rotate: true
+  xy: 283, 161
+  size: 91, 276
+  orig: 150, 315
+  offset: 26, 29
+  index: -1
+huaguo_00031
+  rotate: true
+  xy: 2, 65
+  size: 92, 278
+  orig: 150, 315
+  offset: 28, 30
+  index: -1
+huaguo_00032
+  rotate: true
+  xy: 561, 163
+  size: 89, 267
+  orig: 150, 315
+  offset: 29, 39
+  index: -1

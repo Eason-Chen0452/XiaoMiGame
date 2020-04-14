@@ -1,0 +1,188 @@
+
+0007_npc_wushishaonian.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: true
+  xy: 194, 5
+  size: 20, 37
+  orig: 22, 39
+  offset: 1, 1
+  index: -1
+Arm_R
+  rotate: true
+  xy: 127, 2
+  size: 29, 24
+  orig: 31, 26
+  offset: 1, 1
+  index: -1
+Boby
+  rotate: true
+  xy: 2, 16
+  size: 64, 86
+  orig: 66, 88
+  offset: 1, 1
+  index: -1
+Dress
+  rotate: true
+  xy: 327, 40
+  size: 76, 48
+  orig: 78, 50
+  offset: 1, 1
+  index: -1
+Eye1_L
+  rotate: true
+  xy: 233, 4
+  size: 21, 27
+  orig: 23, 29
+  offset: 1, 1
+  index: -1
+Eye1_R
+  rotate: true
+  xy: 90, 2
+  size: 29, 35
+  orig: 31, 37
+  offset: 1, 1
+  index: -1
+Eye_L
+  rotate: true
+  xy: 290, 9
+  size: 16, 25
+  orig: 18, 27
+  offset: 1, 1
+  index: -1
+Eye_R
+  rotate: true
+  xy: 153, 27
+  size: 24, 31
+  orig: 26, 33
+  offset: 1, 1
+  index: -1
+Foot_L
+  rotate: false
+  xy: 153, 2
+  size: 39, 23
+  orig: 41, 25
+  offset: 1, 1
+  index: -1
+Foot_R
+  rotate: false
+  xy: 418, 83
+  size: 24, 26
+  orig: 26, 28
+  offset: 1, 1
+  index: -1
+Hand_L
+  rotate: true
+  xy: 262, 5
+  size: 20, 26
+  orig: 22, 28
+  offset: 1, 1
+  index: -1
+Hand_R
+  rotate: false
+  xy: 377, 53
+  size: 30, 28
+  orig: 32, 30
+  offset: 1, 1
+  index: -1
+Hat
+  rotate: false
+  xy: 199, 118
+  size: 185, 136
+  orig: 187, 138
+  offset: 1, 1
+  index: -1
+Head
+  rotate: false
+  xy: 199, 27
+  size: 126, 89
+  orig: 128, 91
+  offset: 1, 1
+  index: -1
+Kua
+  rotate: false
+  xy: 90, 33
+  size: 53, 47
+  orig: 55, 49
+  offset: 1, 1
+  index: -1
+Leg_L
+  rotate: true
+  xy: 409, 63
+  size: 18, 32
+  orig: 20, 34
+  offset: 1, 1
+  index: -1
+Leg_R
+  rotate: true
+  xy: 449, 116
+  size: 28, 42
+  orig: 30, 44
+  offset: 1, 1
+  index: -1
+Thigh_L
+  rotate: true
+  xy: 386, 111
+  size: 33, 61
+  orig: 35, 63
+  offset: 1, 1
+  index: -1
+Thigh_R
+  rotate: true
+  xy: 145, 53
+  size: 27, 48
+  orig: 29, 50
+  offset: 1, 1
+  index: -1
+UpArm_L
+  rotate: false
+  xy: 377, 83
+  size: 39, 26
+  orig: 41, 28
+  offset: 1, 1
+  index: -1
+UpArm_R
+  rotate: true
+  xy: 327, 2
+  size: 36, 49
+  orig: 38, 51
+  offset: 1, 1
+  index: -1
+Wang
+  rotate: false
+  xy: 2, 82
+  size: 195, 172
+  orig: 197, 174
+  offset: 1, 1
+  index: -1
+Weapon
+  rotate: false
+  xy: 386, 146
+  size: 117, 108
+  orig: 119, 110
+  offset: 1, 1
+  index: -1
+buff_flo
+  rotate: false
+  xy: 493, 128
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 493, 128
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 493, 128
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1

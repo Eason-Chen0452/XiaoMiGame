@@ -1,0 +1,139 @@
+
+0014_npc_wuneng.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: false
+  xy: 232, 108
+  size: 22, 40
+  orig: 24, 42
+  offset: 1, 1
+  index: -1
+Arm_R
+  rotate: true
+  xy: 358, 193
+  size: 29, 41
+  orig: 31, 43
+  offset: 1, 1
+  index: -1
+Body
+  rotate: false
+  xy: 160, 150
+  size: 100, 104
+  orig: 102, 106
+  offset: 1, 1
+  index: -1
+Foot_L
+  rotate: false
+  xy: 358, 224
+  size: 59, 30
+  orig: 61, 32
+  offset: 1, 1
+  index: -1
+Foot_R
+  rotate: false
+  xy: 262, 144
+  size: 43, 38
+  orig: 45, 40
+  offset: 1, 1
+  index: -1
+Hand_L
+  rotate: true
+  xy: 57, 2
+  size: 20, 27
+  orig: 22, 29
+  offset: 1, 1
+  index: -1
+Hand_R
+  rotate: false
+  xy: 473, 223
+  size: 31, 31
+  orig: 33, 33
+  offset: 1, 1
+  index: -1
+Head
+  rotate: false
+  xy: 2, 94
+  size: 156, 160
+  orig: 158, 162
+  offset: 1, 1
+  index: -1
+Kua
+  rotate: false
+  xy: 160, 100
+  size: 70, 48
+  orig: 72, 50
+  offset: 1, 1
+  index: -1
+Leg_L
+  rotate: false
+  xy: 312, 193
+  size: 44, 61
+  orig: 46, 63
+  offset: 1, 1
+  index: -1
+Leg_R
+  rotate: false
+  xy: 2, 9
+  size: 53, 83
+  orig: 55, 85
+  offset: 1, 1
+  index: -1
+Pidai
+  rotate: false
+  xy: 141, 52
+  size: 22, 40
+  orig: 24, 42
+  offset: 1, 1
+  index: -1
+Thigh_L
+  rotate: false
+  xy: 262, 184
+  size: 48, 70
+  orig: 50, 72
+  offset: 1, 1
+  index: -1
+Thigh_R
+  rotate: false
+  xy: 57, 24
+  size: 48, 68
+  orig: 50, 70
+  offset: 1, 1
+  index: -1
+UpArm_L
+  rotate: true
+  xy: 419, 221
+  size: 33, 52
+  orig: 35, 54
+  offset: 1, 1
+  index: -1
+UpArm_R
+  rotate: false
+  xy: 107, 29
+  size: 32, 63
+  orig: 34, 65
+  offset: 1, 1
+  index: -1
+buff_flo
+  rotate: false
+  xy: 401, 206
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 401, 206
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 401, 206
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1

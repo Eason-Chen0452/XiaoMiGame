@@ -1,0 +1,223 @@
+
+yan_jianshigongji_eff.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha_eff/dusty02
+  rotate: false
+  xy: 840, 295
+  size: 61, 80
+  orig: 76, 110
+  offset: 8, 3
+  index: -1
+baozha_eff/dusty03
+  rotate: true
+  xy: 895, 437
+  size: 73, 110
+  orig: 76, 110
+  offset: 1, 0
+  index: -1
+baozha_eff/dusty04
+  rotate: true
+  xy: 2, 10
+  size: 73, 90
+  orig: 76, 110
+  offset: 1, 2
+  index: -1
+baozha_eff/dusty05
+  rotate: true
+  xy: 840, 244
+  size: 49, 75
+  orig: 76, 110
+  offset: 12, 3
+  index: -1
+baozha_eff/dusty06
+  rotate: true
+  xy: 907, 351
+  size: 53, 70
+  orig: 76, 110
+  offset: 11, 4
+  index: -1
+huichen_eff/bai_shashi_05_eff_01
+  rotate: false
+  xy: 790, 249
+  size: 48, 126
+  orig: 150, 263
+  offset: 32, 22
+  index: -1
+huichen_eff/bai_shashi_05_eff_02
+  rotate: true
+  xy: 109, 2
+  size: 96, 208
+  orig: 150, 263
+  offset: 39, 0
+  index: -1
+huichen_eff/bai_shashi_05_eff_03
+  rotate: false
+  xy: 109, 100
+  size: 90, 241
+  orig: 150, 263
+  offset: 43, 5
+  index: -1
+huichen_eff/bai_shashi_05_eff_04
+  rotate: false
+  xy: 2, 85
+  size: 105, 256
+  orig: 150, 263
+  offset: 39, 6
+  index: -1
+huichen_eff/bai_shashi_05_eff_05
+  rotate: true
+  xy: 217, 410
+  size: 100, 237
+  orig: 150, 263
+  offset: 41, 6
+  index: -1
+huichen_eff/bai_shashi_05_eff_06
+  rotate: true
+  xy: 682, 415
+  size: 95, 211
+  orig: 150, 263
+  offset: 43, 6
+  index: -1
+jianshi_eff/001
+  rotate: false
+  xy: 407, 151
+  size: 61, 185
+  orig: 62, 185
+  offset: 1, 0
+  index: -1
+jianshi_eff/002
+  rotate: true
+  xy: 456, 426
+  size: 84, 224
+  orig: 84, 224
+  offset: 0, 0
+  index: -1
+luoshi_eff/light02
+  rotate: false
+  xy: 2, 343
+  size: 213, 167
+  orig: 213, 167
+  offset: 0, 0
+  index: -1
+luoshi_eff/rock01
+  rotate: false
+  xy: 903, 301
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+luoshi_eff/rock02
+  rotate: false
+  xy: 201, 106
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+luoshi_eff/rock03
+  rotate: false
+  xy: 609, 172
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+luoxuan_eff/shaxuanfeng001
+  rotate: true
+  xy: 456, 367
+  size: 57, 184
+  orig: 165, 225
+  offset: 30, 29
+  index: -1
+luoxuan_eff/shaxuanfeng002
+  rotate: false
+  xy: 338, 147
+  size: 67, 189
+  orig: 165, 225
+  offset: 27, 27
+  index: -1
+luoxuan_eff/shaxuanfeng004
+  rotate: false
+  xy: 470, 184
+  size: 69, 181
+  orig: 165, 225
+  offset: 22, 34
+  index: -1
+luoxuan_eff/shaxuanfeng007
+  rotate: false
+  xy: 541, 182
+  size: 66, 183
+  orig: 165, 225
+  offset: 27, 33
+  index: -1
+luoxuan_eff/shaxuanfeng009
+  rotate: false
+  xy: 266, 135
+  size: 70, 201
+  orig: 165, 225
+  offset: 25, 18
+  index: -1
+luoxuan_eff/shaxuanfeng010
+  rotate: true
+  xy: 217, 338
+  size: 70, 210
+  orig: 165, 225
+  offset: 23, 12
+  index: -1
+luoxuan_eff/shaxuanfeng012
+  rotate: false
+  xy: 201, 125
+  size: 63, 211
+  orig: 165, 225
+  offset: 20, 9
+  index: -1
+yanwu_eff/bai_yanwu_02_eff_01
+  rotate: false
+  xy: 907, 406
+  size: 98, 29
+  orig: 158, 60
+  offset: 24, 8
+  index: -1
+yanwu_eff/bai_yanwu_02_eff_02
+  rotate: false
+  xy: 783, 377
+  size: 122, 36
+  orig: 158, 60
+  offset: 14, 6
+  index: -1
+yanwu_eff/bai_yanwu_02_eff_03
+  rotate: true
+  xy: 750, 234
+  size: 134, 38
+  orig: 158, 60
+  offset: 9, 5
+  index: -1
+yanwu_eff/bai_yanwu_02_eff_04
+  rotate: false
+  xy: 642, 370
+  size: 139, 43
+  orig: 158, 60
+  offset: 10, 4
+  index: -1
+yanwu_eff/bai_yanwu_02_eff_05
+  rotate: true
+  xy: 656, 225
+  size: 143, 49
+  orig: 158, 60
+  offset: 9, 5
+  index: -1
+yanwu_eff/bai_yanwu_02_eff_06
+  rotate: true
+  xy: 609, 216
+  size: 149, 45
+  orig: 158, 60
+  offset: 6, 4
+  index: -1
+yanwu_eff/bai_yanwu_02_eff_07
+  rotate: true
+  xy: 707, 231
+  size: 137, 41
+  orig: 158, 60
+  offset: 12, 4
+  index: -1

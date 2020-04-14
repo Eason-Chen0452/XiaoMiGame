@@ -1,0 +1,195 @@
+
+0040_npc_huizhang.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: true
+  xy: 202, 23
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 154, 2
+  size: 19, 52
+  orig: 19, 52
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 2, 7
+  size: 72, 104
+  orig: 72, 104
+  offset: 0, 0
+  index: -1
+Eye1_L
+  rotate: true
+  xy: 387, 138
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+Eye1_R
+  rotate: false
+  xy: 108, 9
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: true
+  xy: 398, 136
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: true
+  xy: 362, 78
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 457, 156
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: true
+  xy: 349, 104
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+Hair_B
+  rotate: false
+  xy: 156, 106
+  size: 124, 148
+  orig: 124, 148
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 227, 37
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 318, 78
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 81
+  size: 152, 173
+  orig: 152, 173
+  offset: 0, 0
+  index: -1
+Hui_X
+  rotate: false
+  xy: 282, 138
+  size: 103, 116
+  orig: 103, 116
+  offset: 0, 0
+  index: -1
+Huzi_L
+  rotate: false
+  xy: 387, 158
+  size: 68, 48
+  orig: 68, 48
+  offset: 0, 0
+  index: -1
+Huzi_R
+  rotate: true
+  xy: 154, 23
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+Kua
+  rotate: false
+  xy: 387, 208
+  size: 74, 46
+  orig: 74, 46
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 208, 2
+  size: 19, 43
+  orig: 19, 43
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: true
+  xy: 270, 79
+  size: 23, 46
+  orig: 23, 46
+  offset: 0, 0
+  index: -1
+Thigh_L
+  rotate: true
+  xy: 156, 65
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+Thigh_R
+  rotate: false
+  xy: 108, 21
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1
+UpArm_L
+  rotate: true
+  xy: 213, 73
+  size: 31, 55
+  orig: 31, 55
+  offset: 0, 0
+  index: -1
+UpArm_R
+  rotate: false
+  xy: 463, 196
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 429, 140
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 429, 140
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 429, 140
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+eye
+  rotate: false
+  xy: 282, 104
+  size: 65, 32
+  orig: 65, 32
+  offset: 0, 0
+  index: -1

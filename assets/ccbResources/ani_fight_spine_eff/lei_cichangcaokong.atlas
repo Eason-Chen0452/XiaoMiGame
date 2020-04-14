@@ -1,0 +1,125 @@
+
+lei_cichangcaokong.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00001
+  rotate: false
+  xy: 2, 632
+  size: 359, 350
+  orig: 413, 413
+  offset: 28, 30
+  index: -1
+fangsheleidian_eff/lei_fangshe001
+  rotate: false
+  xy: 294, 451
+  size: 46, 46
+  orig: 195, 180
+  offset: 75, 64
+  index: -1
+fangsheleidian_eff/lei_fangshe002.png
+  rotate: false
+  xy: 228, 432
+  size: 64, 65
+  orig: 195, 180
+  offset: 68, 53
+  index: -1
+fangsheleidian_eff/lei_fangshe003.png
+  rotate: false
+  xy: 359, 163
+  size: 128, 111
+  orig: 195, 180
+  offset: 28, 37
+  index: -1
+fangsheleidian_eff/lei_fangshe004.png
+  rotate: true
+  xy: 200, 240
+  size: 181, 157
+  orig: 195, 180
+  offset: 7, 10
+  index: -1
+fangsheleidian_eff/lei_fangshe005.png
+  rotate: false
+  xy: 363, 607
+  size: 194, 168
+  orig: 195, 180
+  offset: 0, 5
+  index: -1
+fangsheleidian_eff/lei_fangshe006.png
+  rotate: false
+  xy: 359, 276
+  size: 172, 148
+  orig: 195, 180
+  offset: 10, 16
+  index: -1
+leihuan_eff/00001 (3)
+  rotate: true
+  xy: 489, 159
+  size: 115, 75
+  orig: 225, 218
+  offset: 56, 72
+  index: -1
+leihuan_eff/00002 (4)
+  rotate: true
+  xy: 361, 426
+  size: 179, 187
+  orig: 225, 218
+  offset: 24, 16
+  index: -1
+leihuan_eff/00003 (3)
+  rotate: true
+  xy: 2, 2
+  size: 206, 195
+  orig: 225, 218
+  offset: 10, 12
+  index: -1
+leihuan_eff/00004 (2)
+  rotate: false
+  xy: 363, 777
+  size: 223, 205
+  orig: 225, 218
+  offset: 2, 7
+  index: -1
+leihuan_eff/00005
+  rotate: false
+  xy: 2, 423
+  size: 224, 207
+  orig: 225, 218
+  offset: 1, 6
+  index: -1
+leihuan_eff/00006
+  rotate: false
+  xy: 793, 779
+  size: 185, 203
+  orig: 225, 218
+  offset: 21, 8
+  index: -1
+leihuan_eff/00007
+  rotate: false
+  xy: 2, 210
+  size: 196, 211
+  orig: 225, 218
+  offset: 15, 4
+  index: -1
+ring2
+  rotate: false
+  xy: 588, 779
+  size: 203, 203
+  orig: 206, 207
+  offset: 0, 3
+  index: -1
+wind01
+  rotate: false
+  xy: 200, 113
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+wind02
+  rotate: false
+  xy: 228, 499
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1

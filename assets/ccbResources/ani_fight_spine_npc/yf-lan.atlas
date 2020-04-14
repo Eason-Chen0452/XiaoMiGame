@@ -1,0 +1,27 @@
+
+yf-lan.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yf-lan-ty
+  rotate: false
+  xy: 130, 57
+  size: 120, 49
+  orig: 122, 51
+  offset: 1, 1
+  index: -1
+yf-lan-w
+  rotate: true
+  xy: 130, 16
+  size: 39, 65
+  orig: 41, 67
+  offset: 1, 1
+  index: -1
+yf-lan-yf
+  rotate: false
+  xy: 2, 2
+  size: 126, 104
+  orig: 128, 106
+  offset: 1, 1
+  index: -1

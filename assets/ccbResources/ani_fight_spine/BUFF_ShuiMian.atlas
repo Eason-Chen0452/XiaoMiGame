@@ -1,0 +1,76 @@
+
+BUFF_ShuiMian.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuimian_eff/016
+  rotate: true
+  xy: 414, 23
+  size: 27, 37
+  orig: 256, 256
+  offset: 114, 110
+  index: -1
+shuimian_eff/017
+  rotate: true
+  xy: 325, 14
+  size: 36, 44
+  orig: 256, 256
+  offset: 110, 106
+  index: -1
+shuimian_eff/018
+  rotate: true
+  xy: 213, 8
+  size: 42, 55
+  orig: 256, 256
+  offset: 107, 101
+  index: -1
+shuimian_eff/019
+  rotate: true
+  xy: 145, 5
+  size: 45, 66
+  orig: 256, 256
+  offset: 105, 95
+  index: -1
+shuimian_eff/020
+  rotate: true
+  xy: 2, 2
+  size: 48, 70
+  orig: 256, 256
+  offset: 104, 93
+  index: -1
+shuimian_eff/021
+  rotate: true
+  xy: 74, 2
+  size: 48, 69
+  orig: 256, 256
+  offset: 104, 94
+  index: -1
+shuimian_eff/022
+  rotate: true
+  xy: 74, 2
+  size: 48, 69
+  orig: 256, 256
+  offset: 104, 94
+  index: -1
+shuimian_eff/023
+  rotate: true
+  xy: 270, 9
+  size: 41, 53
+  orig: 256, 256
+  offset: 107, 102
+  index: -1
+shuimian_eff/024
+  rotate: true
+  xy: 371, 23
+  size: 27, 41
+  orig: 256, 256
+  offset: 114, 108
+  index: -1
+shuimian_eff/025
+  rotate: false
+  xy: 453, 24
+  size: 20, 26
+  orig: 256, 256
+  offset: 118, 115
+  index: -1

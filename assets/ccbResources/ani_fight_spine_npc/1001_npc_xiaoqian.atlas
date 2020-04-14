@@ -1,0 +1,153 @@
+
+1001_npc_xiaoqian.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: true
+  xy: 426, 158
+  size: 32, 36
+  orig: 34, 38
+  offset: 1, 1
+  index: -1
+Arm_R
+  rotate: false
+  xy: 110, 4
+  size: 29, 32
+  orig: 31, 34
+  offset: 1, 1
+  index: -1
+Body
+  rotate: true
+  xy: 2, 39
+  size: 66, 111
+  orig: 68, 113
+  offset: 1, 1
+  index: -1
+Die
+  rotate: true
+  xy: 149, 161
+  size: 93, 185
+  orig: 93, 185
+  offset: 0, 0
+  index: -1
+Eyes
+  rotate: false
+  xy: 336, 209
+  size: 82, 45
+  orig: 84, 47
+  offset: 1, 1
+  index: -1
+Foot_L
+  rotate: false
+  xy: 76, 2
+  size: 32, 35
+  orig: 34, 37
+  offset: 1, 1
+  index: -1
+Foot_R
+  rotate: false
+  xy: 426, 192
+  size: 48, 30
+  orig: 50, 32
+  offset: 1, 1
+  index: -1
+Hair_L
+  rotate: false
+  xy: 149, 115
+  size: 86, 44
+  orig: 88, 46
+  offset: 1, 1
+  index: -1
+Hair_R
+  rotate: false
+  xy: 336, 157
+  size: 55, 50
+  orig: 57, 52
+  offset: 1, 1
+  index: -1
+Hand_L
+  rotate: true
+  xy: 334, 132
+  size: 23, 31
+  orig: 25, 33
+  offset: 1, 1
+  index: -1
+Hand_R
+  rotate: true
+  xy: 307, 136
+  size: 23, 25
+  orig: 25, 27
+  offset: 1, 1
+  index: -1
+Head
+  rotate: false
+  xy: 2, 107
+  size: 145, 147
+  orig: 147, 149
+  offset: 1, 1
+  index: -1
+Leg_L
+  rotate: true
+  xy: 237, 135
+  size: 24, 68
+  orig: 26, 70
+  offset: 1, 1
+  index: -1
+Leg_R
+  rotate: false
+  xy: 115, 38
+  size: 23, 67
+  orig: 25, 69
+  offset: 1, 1
+  index: -1
+Thigh_L
+  rotate: true
+  xy: 2, 6
+  size: 31, 72
+  orig: 33, 74
+  offset: 1, 1
+  index: -1
+Thigh_R
+  rotate: true
+  xy: 420, 224
+  size: 30, 70
+  orig: 32, 72
+  offset: 1, 1
+  index: -1
+UpArm_L
+  rotate: false
+  xy: 393, 157
+  size: 31, 50
+  orig: 33, 52
+  offset: 1, 1
+  index: -1
+UpArm_R
+  rotate: true
+  xy: 237, 104
+  size: 29, 52
+  orig: 31, 54
+  offset: 1, 1
+  index: -1
+buff_flo
+  rotate: false
+  xy: 492, 238
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 492, 238
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 492, 238
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1

@@ -1,0 +1,125 @@
+
+0047_npc_dr.kongmu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: false
+  xy: 129, 106
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 129, 156
+  size: 50, 91
+  orig: 50, 91
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 2, 20
+  size: 79, 113
+  orig: 79, 113
+  offset: 0, 0
+  index: -1
+Book
+  rotate: false
+  xy: 226, 138
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+Eyes
+  rotate: false
+  xy: 417, 213
+  size: 63, 34
+  orig: 63, 34
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 181, 158
+  size: 43, 89
+  orig: 43, 89
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: false
+  xy: 226, 171
+  size: 53, 76
+  orig: 53, 76
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 101
+  size: 125, 146
+  orig: 125, 146
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 281, 175
+  size: 43, 72
+  orig: 43, 72
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 326, 179
+  size: 43, 68
+  orig: 43, 68
+  offset: 0, 0
+  index: -1
+UpArm_L
+  rotate: true
+  xy: 417, 175
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+UpArm_R
+  rotate: false
+  xy: 482, 189
+  size: 28, 58
+  orig: 28, 58
+  offset: 0, 0
+  index: -1
+Yb_L
+  rotate: false
+  xy: 371, 188
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+Yb_R
+  rotate: false
+  xy: 117, 60
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1

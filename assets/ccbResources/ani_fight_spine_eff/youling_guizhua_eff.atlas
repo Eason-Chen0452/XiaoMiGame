@@ -1,0 +1,104 @@
+
+youling_guizhua_eff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hong_fazhen_03_eff/hong_fazhen_03_eff_03
+  rotate: true
+  xy: 852, 838
+  size: 180, 144
+  orig: 398, 338
+  offset: 63, 33
+  index: -1
+hong_fazhen_03_eff/hong_fazhen_03_eff_04
+  rotate: false
+  xy: 395, 613
+  size: 216, 173
+  orig: 398, 338
+  offset: 63, 33
+  index: -1
+hong_fazhen_03_eff/hong_fazhen_03_eff_11
+  rotate: true
+  xy: 382, 788
+  size: 230, 263
+  orig: 398, 338
+  offset: 60, 27
+  index: -1
+hong_fazhen_03_eff/hong_fazhen_03_eff_12
+  rotate: false
+  xy: 647, 806
+  size: 203, 212
+  orig: 398, 338
+  offset: 60, 33
+  index: -1
+hong_fazhen_03_eff/hong_fazhen_03_eff_13
+  rotate: false
+  xy: 2, 292
+  size: 255, 237
+  orig: 398, 338
+  offset: 43, 33
+  index: -1
+hong_fazhen_03_eff/hong_fazhen_03_eff_14
+  rotate: false
+  xy: 2, 531
+  size: 271, 237
+  orig: 398, 338
+  offset: 33, 33
+  index: -1
+hong_fazhen_03_eff/hong_fazhen_03_eff_15
+  rotate: false
+  xy: 2, 770
+  size: 378, 248
+  orig: 398, 338
+  offset: 8, 33
+  index: -1
+zhuazi/cheng_daoguang_04_eff_01
+  rotate: false
+  xy: 259, 411
+  size: 105, 91
+  orig: 160, 158
+  offset: 43, 34
+  index: -1
+zhuazi/cheng_daoguang_04_eff_02
+  rotate: true
+  xy: 613, 690
+  size: 96, 90
+  orig: 160, 158
+  offset: 52, 35
+  index: -1
+zhuazi/cheng_daoguang_04_eff_03
+  rotate: false
+  xy: 259, 320
+  size: 98, 89
+  orig: 160, 158
+  offset: 55, 34
+  index: -1
+zi_yanwu_eff_01
+  rotate: true
+  xy: 2, 2
+  size: 288, 116
+  orig: 342, 131
+  offset: 18, 0
+  index: -1
+zi_yanwu_eff_02
+  rotate: true
+  xy: 275, 504
+  size: 264, 118
+  orig: 342, 131
+  offset: 36, 4
+  index: -1
+zi_yanwu_eff_03
+  rotate: true
+  xy: 120, 24
+  size: 266, 118
+  orig: 342, 131
+  offset: 36, 13
+  index: -1
+zi_yanwu_eff_04
+  rotate: false
+  xy: 395, 519
+  size: 253, 92
+  orig: 342, 131
+  offset: 49, 8
+  index: -1

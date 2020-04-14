@@ -1,0 +1,125 @@
+
+youling_heidong_eff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dark01@2x
+  rotate: false
+  xy: 2, 414
+  size: 417, 418
+  orig: 439, 425
+  offset: 11, 4
+  index: -1
+dark02@2x
+  rotate: false
+  xy: 2, 834
+  size: 736, 188
+  orig: 736, 188
+  offset: 0, 0
+  index: -1
+fangshe1
+  rotate: false
+  xy: 421, 539
+  size: 279, 293
+  orig: 279, 293
+  offset: 0, 0
+  index: -1
+fangshe2
+  rotate: false
+  xy: 2, 68
+  size: 323, 344
+  orig: 323, 344
+  offset: 0, 0
+  index: -1
+guangqiu_eff/0_00000 (3)
+  rotate: false
+  xy: 702, 426
+  size: 196, 195
+  orig: 225, 225
+  offset: 19, 16
+  index: -1
+guangqiu_eff/0_00001 (3)
+  rotate: false
+  xy: 421, 339
+  size: 204, 198
+  orig: 225, 225
+  offset: 9, 11
+  index: -1
+guangqiu_eff/0_00002 (3)
+  rotate: true
+  xy: 531, 138
+  size: 199, 197
+  orig: 225, 225
+  offset: 11, 21
+  index: -1
+guangqiu_eff/0_00003 (3)
+  rotate: false
+  xy: 327, 137
+  size: 202, 200
+  orig: 225, 225
+  offset: 10, 20
+  index: -1
+guangqiu_eff/0_00004 (3)
+  rotate: true
+  xy: 740, 826
+  size: 196, 210
+  orig: 225, 225
+  offset: 11, 7
+  index: -1
+guangqiu_eff/0_00005 (3)
+  rotate: false
+  xy: 702, 623
+  size: 204, 201
+  orig: 225, 225
+  offset: 12, 8
+  index: -1
+lightning01-1
+  rotate: false
+  xy: 327, 339
+  size: 77, 73
+  orig: 78, 74
+  offset: 1, 1
+  index: -1
+lightning01-2
+  rotate: false
+  xy: 627, 480
+  size: 53, 57
+  orig: 53, 58
+  offset: 0, 1
+  index: -1
+lightning02-1
+  rotate: false
+  xy: 327, 54
+  size: 168, 81
+  orig: 168, 81
+  offset: 0, 0
+  index: -1
+lightning02-2
+  rotate: true
+  xy: 952, 859
+  size: 163, 70
+  orig: 163, 71
+  offset: 0, 0
+  index: -1
+lightning03-1
+  rotate: true
+  xy: 2, 2
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+lightning03-2
+  rotate: false
+  xy: 908, 692
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1
+zi_fangshe_03_eff_04
+  rotate: false
+  xy: 908, 729
+  size: 87, 95
+  orig: 125, 126
+  offset: 21, 18
+  index: -1

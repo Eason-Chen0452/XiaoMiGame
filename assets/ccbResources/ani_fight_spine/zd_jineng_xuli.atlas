@@ -1,0 +1,118 @@
+
+zd_jineng_xuli.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fangshe_eff
+  rotate: false
+  xy: 2, 943
+  size: 830, 79
+  orig: 947, 99
+  offset: 67, 13
+  index: -1
+neiju1/xt_000
+  rotate: false
+  xy: 2, 697
+  size: 261, 244
+  orig: 300, 300
+  offset: 39, 32
+  index: -1
+neiju1/xt_001
+  rotate: false
+  xy: 2, 458
+  size: 257, 237
+  orig: 300, 300
+  offset: 40, 37
+  index: -1
+neiju1/xt_002
+  rotate: false
+  xy: 2, 213
+  size: 223, 243
+  orig: 300, 300
+  offset: 51, 40
+  index: -1
+neiju1/xt_003
+  rotate: false
+  xy: 265, 699
+  size: 228, 242
+  orig: 300, 300
+  offset: 59, 41
+  index: -1
+neiju1/xt_004
+  rotate: false
+  xy: 495, 724
+  size: 177, 217
+  orig: 300, 300
+  offset: 109, 59
+  index: -1
+neiju1/xt_005
+  rotate: false
+  xy: 2, 70
+  size: 148, 141
+  orig: 300, 300
+  offset: 136, 92
+  index: -1
+neiju2/xs1_000
+  rotate: false
+  xy: 674, 678
+  size: 133, 123
+  orig: 228, 231
+  offset: 47, 69
+  index: -1
+neiju2/xs1_001
+  rotate: true
+  xy: 834, 894
+  size: 128, 142
+  orig: 228, 231
+  offset: 52, 49
+  index: -1
+neiju2/xs1_002
+  rotate: true
+  xy: 152, 88
+  size: 123, 106
+  orig: 228, 231
+  offset: 52, 63
+  index: -1
+neiju2/xs1_003
+  rotate: true
+  xy: 152, 2
+  size: 84, 94
+  orig: 228, 231
+  offset: 53, 83
+  index: -1
+xingxing
+  rotate: false
+  xy: 674, 803
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+yueya/yy_00
+  rotate: false
+  xy: 227, 236
+  size: 99, 98
+  orig: 150, 150
+  offset: 37, 35
+  index: -1
+yueya/yy_01
+  rotate: false
+  xy: 809, 648
+  size: 121, 121
+  orig: 150, 150
+  offset: 26, 24
+  index: -1
+yueya/yy_02
+  rotate: false
+  xy: 814, 771
+  size: 122, 121
+  orig: 150, 150
+  offset: 27, 26
+  index: -1
+yueya/yy_03
+  rotate: false
+  xy: 227, 336
+  size: 119, 120
+  orig: 150, 150
+  offset: 31, 29
+  index: -1

@@ -1,0 +1,69 @@
+
+BUFF_FuHuo.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02-chuxiantexiao-01
+  rotate: false
+  xy: 675, 370
+  size: 146, 137
+  orig: 146, 142
+  offset: 0, 5
+  index: -1
+11
+  rotate: true
+  xy: 675, 278
+  size: 90, 115
+  orig: 125, 125
+  offset: 17, 2
+  index: -1
+22
+  rotate: true
+  xy: 823, 357
+  size: 67, 91
+  orig: 125, 125
+  offset: 28, 14
+  index: -1
+c2
+  rotate: true
+  xy: 2, 2
+  size: 253, 242
+  orig: 253, 242
+  offset: 0, 0
+  index: -1
+c3
+  rotate: false
+  xy: 2, 257
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+c4l
+  rotate: false
+  xy: 254, 276
+  size: 222, 231
+  orig: 227, 231
+  offset: 1, 0
+  index: -1
+gaoliang
+  rotate: false
+  xy: 478, 312
+  size: 195, 195
+  orig: 199, 199
+  offset: 2, 2
+  index: -1
+suduxian
+  rotate: true
+  xy: 823, 426
+  size: 81, 169
+  orig: 81, 169
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 916, 346
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1

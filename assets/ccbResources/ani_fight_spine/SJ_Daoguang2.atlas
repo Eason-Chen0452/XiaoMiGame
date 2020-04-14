@@ -1,0 +1,83 @@
+
+SJ_Daoguang2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha4_eff/00_00000
+  rotate: false
+  xy: 384, 344
+  size: 116, 156
+  orig: 156, 186
+  offset: 20, 20
+  index: -1
+baozha4_eff/00_00001
+  rotate: false
+  xy: 2, 42
+  size: 119, 156
+  orig: 156, 186
+  offset: 17, 20
+  index: -1
+baozha4_eff/00_00002
+  rotate: false
+  xy: 347, 117
+  size: 109, 109
+  orig: 156, 186
+  offset: 18, 43
+  index: -1
+baozha4_eff/00_00003
+  rotate: false
+  xy: 347, 9
+  size: 109, 106
+  orig: 156, 186
+  offset: 18, 45
+  index: -1
+baozha4_eff/00_00004
+  rotate: false
+  xy: 298, 228
+  size: 114, 114
+  orig: 156, 186
+  offset: 16, 39
+  index: -1
+baozha4_eff/00_00005
+  rotate: false
+  xy: 228, 79
+  size: 117, 123
+  orig: 156, 186
+  offset: 10, 37
+  index: -1
+jianshe2/11
+  rotate: false
+  xy: 2, 351
+  size: 207, 149
+  orig: 400, 400
+  offset: 117, 115
+  index: -1
+jianshe2/12
+  rotate: false
+  xy: 2, 200
+  size: 191, 149
+  orig: 400, 400
+  offset: 149, 116
+  index: -1
+jianshe2/13
+  rotate: false
+  xy: 211, 356
+  size: 171, 144
+  orig: 400, 400
+  offset: 180, 122
+  index: -1
+jianshe2/14
+  rotate: true
+  xy: 123, 45
+  size: 153, 103
+  orig: 400, 400
+  offset: 198, 159
+  index: -1
+jianshe3/21
+  rotate: false
+  xy: 195, 204
+  size: 101, 145
+  orig: 200, 200
+  offset: 48, 28
+  index: -1

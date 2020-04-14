@@ -1,0 +1,146 @@
+
+CJ_ZaWu_MuTong.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai_yanwu_04_eff_01
+  rotate: false
+  xy: 392, 326
+  size: 144, 117
+  orig: 260, 225
+  offset: 58, 6
+  index: -1
+bai_yanwu_04_eff_02
+  rotate: true
+  xy: 392, 445
+  size: 181, 171
+  orig: 260, 225
+  offset: 42, 9
+  index: -1
+bai_yanwu_04_eff_03
+  rotate: false
+  xy: 2, 620
+  size: 250, 211
+  orig: 260, 225
+  offset: 5, 0
+  index: -1
+bai_yanwu_04_eff_04
+  rotate: true
+  xy: 381, 628
+  size: 207, 140
+  orig: 260, 225
+  offset: 31, 7
+  index: -1
+bai_yanwu_04_eff_05
+  rotate: true
+  xy: 962, 817
+  size: 204, 59
+  orig: 260, 225
+  offset: 32, 3
+  index: -1
+bai_yanwu_04_eff_06
+  rotate: false
+  xy: 2, 3
+  size: 198, 51
+  orig: 260, 225
+  offset: 35, 10
+  index: -1
+bai_yanwu_04_eff_07
+  rotate: false
+  xy: 747, 804
+  size: 194, 45
+  orig: 260, 225
+  offset: 37, 11
+  index: -1
+buff_flo
+  rotate: false
+  xy: 374, 410
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 374, 410
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 374, 410
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+ta
+  rotate: false
+  xy: 2, 833
+  size: 309, 188
+  orig: 349, 245
+  offset: 10, 24
+  index: -1
+tb
+  rotate: false
+  xy: 2, 427
+  size: 228, 191
+  orig: 349, 245
+  offset: 57, 29
+  index: -1
+tc
+  rotate: false
+  xy: 747, 851
+  size: 213, 170
+  orig: 349, 245
+  offset: 58, 25
+  index: -1
+td
+  rotate: false
+  xy: 528, 844
+  size: 217, 177
+  orig: 349, 245
+  offset: 58, 29
+  index: -1
+te
+  rotate: false
+  xy: 313, 837
+  size: 213, 184
+  orig: 349, 245
+  offset: 57, 33
+  index: -1
+tf
+  rotate: false
+  xy: 2, 243
+  size: 215, 182
+  orig: 349, 245
+  offset: 57, 36
+  index: -1
+tg
+  rotate: false
+  xy: 2, 56
+  size: 212, 185
+  orig: 349, 245
+  offset: 54, 33
+  index: -1
+tong_001
+  rotate: true
+  xy: 232, 428
+  size: 188, 158
+  orig: 188, 158
+  offset: 0, 0
+  index: -1
+tong_002
+  rotate: true
+  xy: 219, 250
+  size: 175, 153
+  orig: 175, 153
+  offset: 0, 0
+  index: -1
+tong_003
+  rotate: true
+  xy: 254, 618
+  size: 213, 125
+  orig: 213, 125
+  offset: 0, 0
+  index: -1

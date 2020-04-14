@@ -1,0 +1,160 @@
+
+shui_penshepaopao_eff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dimian_00013
+  rotate: true
+  xy: 935, 681
+  size: 86, 85
+  orig: 113, 113
+  offset: 13, 18
+  index: -1
+gaoliang_eff/00001
+  rotate: false
+  xy: 591, 397
+  size: 138, 144
+  orig: 188, 188
+  offset: 26, 22
+  index: -1
+gaoliang_eff/00002
+  rotate: false
+  xy: 453, 188
+  size: 181, 181
+  orig: 188, 188
+  offset: 3, 3
+  index: -1
+gaoliang_eff/00003
+  rotate: false
+  xy: 436, 2
+  size: 184, 184
+  orig: 188, 188
+  offset: 1, 1
+  index: -1
+gaoliang_eff/00004
+  rotate: false
+  xy: 748, 581
+  size: 185, 186
+  orig: 188, 188
+  offset: 1, 0
+  index: -1
+huoyan-penshe1-eff/cheng_huoyan_02_eff_02
+  rotate: false
+  xy: 241, 22
+  size: 193, 181
+  orig: 255, 255
+  offset: 38, 39
+  index: -1
+huoyan-penshe1-eff/cheng_huoyan_02_eff_03
+  rotate: false
+  xy: 267, 540
+  size: 225, 212
+  orig: 255, 255
+  offset: 21, 23
+  index: -1
+huoyan-penshe1-eff/cheng_huoyan_02_eff_04
+  rotate: false
+  xy: 747, 769
+  size: 235, 214
+  orig: 255, 255
+  offset: 13, 22
+  index: -1
+huoyan-penshe1-eff/cheng_huoyan_02_eff_05
+  rotate: false
+  xy: 2, 256
+  size: 239, 223
+  orig: 255, 255
+  offset: 11, 18
+  index: -1
+huoyan-penshe1-eff/cheng_huoyan_02_eff_06
+  rotate: false
+  xy: 267, 754
+  size: 239, 229
+  orig: 255, 255
+  offset: 11, 15
+  index: -1
+huoyan-penshe1-eff/cheng_huoyan_02_eff_07
+  rotate: false
+  xy: 2, 481
+  size: 239, 241
+  orig: 255, 255
+  offset: 11, 10
+  index: -1
+huoyan-penshe1-eff/cheng_huoyan_02_eff_08
+  rotate: false
+  xy: 243, 366
+  size: 207, 172
+  orig: 255, 255
+  offset: 10, 52
+  index: -1
+huoyan-penshe2-eff/cheng_huoyan_01_eff_02
+  rotate: false
+  xy: 636, 251
+  size: 144, 144
+  orig: 255, 255
+  offset: 73, 60
+  index: -1
+huoyan-penshe2-eff/cheng_huoyan_01_eff_03
+  rotate: false
+  xy: 748, 445
+  size: 181, 134
+  orig: 255, 255
+  offset: 29, 67
+  index: -1
+huoyan-penshe2-eff/cheng_huoyan_01_eff_04
+  rotate: false
+  xy: 508, 767
+  size: 237, 216
+  orig: 255, 255
+  offset: 12, 21
+  index: -1
+huoyan-penshe2-eff/cheng_huoyan_01_eff_05
+  rotate: false
+  xy: 2, 40
+  size: 237, 214
+  orig: 255, 255
+  offset: 11, 22
+  index: -1
+huoyan-penshe2-eff/cheng_huoyan_01_eff_06
+  rotate: false
+  xy: 243, 205
+  size: 208, 159
+  orig: 255, 255
+  offset: 10, 65
+  index: -1
+penkou_eff/00001
+  rotate: true
+  xy: 452, 371
+  size: 167, 137
+  orig: 209, 137
+  offset: 21, 0
+  index: -1
+penkou_eff/00002
+  rotate: true
+  xy: 494, 543
+  size: 209, 132
+  orig: 209, 137
+  offset: 0, 2
+  index: -1
+penkou_eff/00003
+  rotate: true
+  xy: 628, 564
+  size: 201, 118
+  orig: 209, 137
+  offset: 4, 11
+  index: -1
+xuli1
+  rotate: false
+  xy: 622, 10
+  size: 173, 176
+  orig: 173, 176
+  offset: 0, 0
+  index: -1
+xuli2
+  rotate: false
+  xy: 2, 724
+  size: 263, 259
+  orig: 263, 259
+  offset: 0, 0
+  index: -1

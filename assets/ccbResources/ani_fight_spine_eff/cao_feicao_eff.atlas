@@ -1,0 +1,160 @@
+
+cao_feicao_eff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guihuo1_eff/00001
+  rotate: true
+  xy: 420, 726
+  size: 15, 31
+  orig: 203, 203
+  offset: 158, 52
+  index: -1
+guihuo1_eff/00002
+  rotate: false
+  xy: 519, 123
+  size: 46, 61
+  orig: 203, 203
+  offset: 124, 38
+  index: -1
+guihuo1_eff/00003
+  rotate: true
+  xy: 2, 2
+  size: 83, 102
+  orig: 203, 203
+  offset: 92, 39
+  index: -1
+guihuo1_eff/00004
+  rotate: false
+  xy: 401, 60
+  size: 116, 124
+  orig: 203, 203
+  offset: 66, 27
+  index: -1
+guihuo1_eff/00005
+  rotate: false
+  xy: 670, 182
+  size: 121, 146
+  orig: 203, 203
+  offset: 63, 27
+  index: -1
+guihuo1_eff/00006
+  rotate: false
+  xy: 777, 461
+  size: 161, 184
+  orig: 203, 203
+  offset: 13, 8
+  index: -1
+guihuo1_eff/00007
+  rotate: true
+  xy: 482, 186
+  size: 142, 186
+  orig: 203, 203
+  offset: 19, 11
+  index: -1
+guihuo1_eff/00008
+  rotate: false
+  xy: 236, 16
+  size: 163, 156
+  orig: 203, 203
+  offset: 14, 29
+  index: -1
+guihuo1_eff/00009
+  rotate: false
+  xy: 940, 508
+  size: 82, 137
+  orig: 203, 203
+  offset: 18, 33
+  index: -1
+guihuo1_eff/00010
+  rotate: true
+  xy: 106, 13
+  size: 72, 86
+  orig: 203, 203
+  offset: 17, 52
+  index: -1
+guihuo1_eff/00011
+  rotate: false
+  xy: 760, 676
+  size: 21, 65
+  orig: 203, 203
+  offset: 32, 61
+  index: -1
+guihuo2_eff/00001
+  rotate: false
+  xy: 420, 743
+  size: 361, 271
+  orig: 450, 375
+  offset: 37, 37
+  index: -1
+guihuo2_eff/00002
+  rotate: false
+  xy: 2, 726
+  size: 416, 288
+  orig: 450, 375
+  offset: 13, 52
+  index: -1
+guihuo2_eff/00003
+  rotate: false
+  xy: 2, 454
+  size: 363, 270
+  orig: 450, 375
+  offset: 60, 56
+  index: -1
+guihuo2_eff/00004
+  rotate: true
+  xy: 783, 647
+  size: 367, 228
+  orig: 450, 375
+  offset: 67, 54
+  index: -1
+guihuo2_eff/00005
+  rotate: true
+  xy: 2, 87
+  size: 365, 232
+  orig: 450, 375
+  offset: 64, 48
+  index: -1
+guihuo2_eff/00006
+  rotate: true
+  xy: 236, 174
+  size: 278, 150
+  orig: 450, 375
+  offset: 81, 40
+  index: -1
+guihuo2_eff/00007
+  rotate: false
+  xy: 487, 568
+  size: 271, 173
+  orig: 450, 375
+  offset: 150, 55
+  index: -1
+zi_yanwu_eff_01
+  rotate: false
+  xy: 487, 450
+  size: 288, 116
+  orig: 342, 131
+  offset: 18, 0
+  index: -1
+zi_yanwu_eff_02
+  rotate: false
+  xy: 482, 330
+  size: 264, 118
+  orig: 342, 131
+  offset: 36, 4
+  index: -1
+zi_yanwu_eff_03
+  rotate: true
+  xy: 367, 458
+  size: 266, 118
+  orig: 342, 131
+  offset: 36, 13
+  index: -1
+zi_yanwu_eff_04
+  rotate: true
+  xy: 388, 203
+  size: 253, 92
+  orig: 342, 131
+  offset: 49, 8
+  index: -1

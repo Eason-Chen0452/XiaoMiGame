@@ -1,0 +1,20 @@
+
+tl.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tl
+  rotate: true
+  xy: 95, 2
+  size: 48, 85
+  orig: 50, 87
+  offset: 1, 1
+  index: -1
+tl=ty
+  rotate: false
+  xy: 2, 5
+  size: 91, 45
+  orig: 93, 47
+  offset: 1, 1
+  index: -1

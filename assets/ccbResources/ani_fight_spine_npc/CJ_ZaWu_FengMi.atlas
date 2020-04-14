@@ -1,0 +1,62 @@
+
+CJ_ZaWu_FengMi.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b1
+  rotate: false
+  xy: 83, 36
+  size: 33, 74
+  orig: 35, 76
+  offset: 1, 1
+  index: -1
+b2
+  rotate: false
+  xy: 121, 177
+  size: 93, 61
+  orig: 95, 63
+  offset: 1, 1
+  index: -1
+b3
+  rotate: false
+  xy: 2, 2
+  size: 79, 108
+  orig: 81, 110
+  offset: 1, 1
+  index: -1
+b5
+  rotate: false
+  xy: 2, 112
+  size: 117, 126
+  orig: 117, 126
+  offset: 0, 0
+  index: -1
+bs
+  rotate: false
+  xy: 121, 116
+  size: 73, 59
+  orig: 75, 61
+  offset: 1, 1
+  index: -1
+buff_flo
+  rotate: false
+  xy: 216, 222
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 216, 222
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 216, 222
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1

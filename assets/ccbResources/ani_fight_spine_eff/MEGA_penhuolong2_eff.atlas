@@ -1,0 +1,250 @@
+
+MEGA_penhuolong2_eff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha1_eff/behit_jiguanpao_c_04
+  rotate: true
+  xy: 221, 7
+  size: 176, 118
+  orig: 244, 195
+  offset: 28, 4
+  index: -1
+baozha1_eff/behit_jiguanpao_c_05
+  rotate: true
+  xy: 648, 333
+  size: 188, 131
+  orig: 244, 195
+  offset: 36, 9
+  index: -1
+baozha1_eff/behit_jiguanpao_c_06
+  rotate: true
+  xy: 700, 826
+  size: 196, 156
+  orig: 244, 195
+  offset: 33, 6
+  index: -1
+baozha1_eff/behit_jiguanpao_c_07
+  rotate: true
+  xy: 271, 220
+  size: 232, 187
+  orig: 244, 195
+  offset: 11, 3
+  index: -1
+baozha1_eff/behit_jiguanpao_c_08
+  rotate: true
+  xy: 461, 600
+  size: 208, 183
+  orig: 244, 195
+  offset: 21, 0
+  index: -1
+baozha1_eff/behit_jiguanpao_c_09
+  rotate: true
+  xy: 460, 271
+  size: 229, 186
+  orig: 244, 195
+  offset: 11, 4
+  index: -1
+baozha1_eff/behit_jiguanpao_c_10
+  rotate: true
+  xy: 277, 502
+  size: 230, 182
+  orig: 244, 195
+  offset: 4, 6
+  index: -1
+baozha1_eff/behit_jiguanpao_c_11
+  rotate: true
+  xy: 527, 48
+  size: 221, 168
+  orig: 244, 195
+  offset: 4, 27
+  index: -1
+huoyan-penshe1-eff/cheng_huoyan_02_eff_02
+  rotate: false
+  xy: 630, 523
+  size: 132, 75
+  orig: 244, 169
+  offset: 5, 35
+  index: -1
+huoyan-penshe1-eff/cheng_huoyan_02_eff_03
+  rotate: true
+  xy: 601, 822
+  size: 200, 97
+  orig: 244, 169
+  offset: 7, 31
+  index: -1
+huoyan-penshe1-eff/cheng_huoyan_02_eff_04
+  rotate: true
+  xy: 287, 805
+  size: 217, 151
+  orig: 244, 169
+  offset: 25, 14
+  index: -1
+huoyan-penshe1-eff/cheng_huoyan_02_eff_05
+  rotate: true
+  xy: 646, 623
+  size: 197, 157
+  orig: 244, 169
+  offset: 47, 10
+  index: -1
+huoyan-penshe1-eff/cheng_huoyan_02_eff_06
+  rotate: true
+  xy: 858, 729
+  size: 154, 159
+  orig: 244, 169
+  offset: 90, 8
+  index: -1
+huoyan-penshe1-eff/cheng_huoyan_02_eff_08
+  rotate: true
+  xy: 781, 411
+  size: 139, 167
+  orig: 244, 169
+  offset: 105, 0
+  index: -1
+huoyan-penshe2-eff/cheng_huoyan_01_eff_02
+  rotate: true
+  xy: 461, 503
+  size: 95, 167
+  orig: 225, 240
+  offset: 66, 0
+  index: -1
+huoyan-penshe2-eff/cheng_huoyan_01_eff_03
+  rotate: false
+  xy: 440, 810
+  size: 159, 212
+  orig: 225, 240
+  offset: 33, 0
+  index: -1
+huoyan-penshe2-eff/cheng_huoyan_01_eff_04
+  rotate: true
+  xy: 2, 2
+  size: 181, 217
+  orig: 225, 240
+  offset: 25, 6
+  index: -1
+huoyan-penshe2-eff/cheng_huoyan_01_eff_05
+  rotate: false
+  xy: 341, 2
+  size: 184, 216
+  orig: 225, 240
+  offset: 22, 14
+  index: -1
+huoyan-penshe2-eff/cheng_huoyan_01_eff_06
+  rotate: true
+  xy: 805, 552
+  size: 175, 195
+  orig: 225, 240
+  offset: 24, 43
+  index: -1
+penkou_eff/00001
+  rotate: false
+  xy: 2, 185
+  size: 267, 267
+  orig: 315, 315
+  offset: 17, 11
+  index: -1
+penkou_eff/00002
+  rotate: false
+  xy: 2, 734
+  size: 283, 288
+  orig: 315, 315
+  offset: 20, 12
+  index: -1
+penkou_eff/00003
+  rotate: false
+  xy: 2, 454
+  size: 273, 278
+  orig: 315, 315
+  offset: 31, 25
+  index: -1
+ranshao_xuli/1743-10
+  rotate: true
+  xy: 846, 106
+  size: 147, 166
+  orig: 263, 261
+  offset: 54, 54
+  index: -1
+ranshao_xuli/1743-11
+  rotate: true
+  xy: 858, 885
+  size: 137, 163
+  orig: 263, 261
+  offset: 60, 56
+  index: -1
+ranshao_xuli/1743-8
+  rotate: true
+  xy: 781, 255
+  size: 154, 166
+  orig: 263, 261
+  offset: 49, 54
+  index: -1
+ranshao_xuli/1743-9
+  rotate: false
+  xy: 697, 87
+  size: 147, 166
+  orig: 263, 261
+  offset: 51, 54
+  index: -1
+
+MEGA_penhuolong2_eff2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huoyan-penshe1-eff/cheng_huoyan_02_eff_07
+  rotate: false
+  xy: 159, 336
+  size: 143, 165
+  orig: 244, 169
+  offset: 101, 2
+  index: -1
+ranshao_xuli/1743-1
+  rotate: false
+  xy: 300, 182
+  size: 152, 152
+  orig: 263, 261
+  offset: 55, 54
+  index: -1
+ranshao_xuli/1743-2
+  rotate: false
+  xy: 148, 177
+  size: 150, 157
+  orig: 263, 261
+  offset: 56, 55
+  index: -1
+ranshao_xuli/1743-3
+  rotate: false
+  xy: 2, 2
+  size: 142, 165
+  orig: 263, 261
+  offset: 57, 54
+  index: -1
+ranshao_xuli/1743-4
+  rotate: false
+  xy: 2, 169
+  size: 144, 165
+  orig: 263, 261
+  offset: 56, 55
+  index: -1
+ranshao_xuli/1743-5
+  rotate: false
+  xy: 146, 2
+  size: 136, 165
+  orig: 263, 261
+  offset: 58, 54
+  index: -1
+ranshao_xuli/1743-6
+  rotate: false
+  xy: 304, 336
+  size: 140, 165
+  orig: 263, 261
+  offset: 56, 54
+  index: -1
+ranshao_xuli/1743-7
+  rotate: false
+  xy: 2, 336
+  size: 155, 165
+  orig: 263, 261
+  offset: 50, 55
+  index: -1

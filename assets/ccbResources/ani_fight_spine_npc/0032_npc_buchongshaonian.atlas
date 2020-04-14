@@ -1,0 +1,153 @@
+
+0032_npc_buchongshaonian.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: true
+  xy: 2, 2
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 203, 104
+  size: 38, 17
+  orig: 38, 17
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 23
+  size: 54, 80
+  orig: 54, 80
+  offset: 0, 0
+  index: -1
+Chongwang
+  rotate: false
+  xy: 2, 105
+  size: 199, 149
+  orig: 199, 149
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 114, 50
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: true
+  xy: 153, 48
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: true
+  xy: 180, 81
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 180, 55
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 203, 123
+  size: 174, 131
+  orig: 174, 131
+  offset: 0, 0
+  index: -1
+Kua
+  rotate: false
+  xy: 58, 52
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 243, 103
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 417, 175
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+Thigh_L
+  rotate: false
+  xy: 379, 156
+  size: 36, 59
+  orig: 36, 59
+  offset: 0, 0
+  index: -1
+Thigh_R
+  rotate: true
+  xy: 450, 215
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+UpArm_L
+  rotate: true
+  xy: 379, 122
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+UpArm_R
+  rotate: true
+  xy: 58, 2
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 34, 5
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 34, 5
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 34, 5
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+eye
+  rotate: false
+  xy: 114, 74
+  size: 64, 29
+  orig: 64, 29
+  offset: 0, 0
+  index: -1
+eye_c
+  rotate: false
+  xy: 379, 217
+  size: 69, 37
+  orig: 69, 37
+  offset: 0, 0
+  index: -1

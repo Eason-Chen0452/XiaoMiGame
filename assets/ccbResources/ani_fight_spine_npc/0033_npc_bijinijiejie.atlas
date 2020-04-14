@@ -1,0 +1,174 @@
+
+0033_npc_bijinijiejie.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: true
+  xy: 692, 48
+  size: 28, 64
+  orig: 28, 64
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: false
+  xy: 604, 5
+  size: 37, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 387, 28
+  size: 83, 98
+  orig: 83, 98
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 758, 60
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 758, 60
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 758, 60
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+eye
+  rotate: false
+  xy: 860, 85
+  size: 78, 41
+  orig: 78, 41
+  offset: 0, 0
+  index: -1
+eyes-C
+  rotate: false
+  xy: 940, 83
+  size: 76, 43
+  orig: 76, 43
+  offset: 0, 0
+  index: -1
+foot_l
+  rotate: true
+  xy: 428, 7
+  size: 19, 30
+  orig: 19, 38
+  offset: 0, 0
+  index: -1
+foot_r
+  rotate: true
+  xy: 720, 20
+  size: 26, 32
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+forearm_L
+  rotate: true
+  xy: 537, 7
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+forearm_R
+  rotate: false
+  xy: 643, 17
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+glasses
+  rotate: false
+  xy: 472, 39
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 2, 8
+  size: 156, 118
+  orig: 156, 118
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 594, 62
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 291, 13
+  size: 94, 113
+  orig: 94, 113
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 472, 73
+  size: 53, 120
+  orig: 53, 120
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: true
+  xy: 387, 2
+  size: 24, 39
+  orig: 24, 45
+  offset: 0, 6
+  index: -1
+hand_R
+  rotate: false
+  xy: 682, 21
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 160, 13
+  size: 113, 129
+  orig: 113, 129
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 575, 2
+  size: 27, 58
+  orig: 27, 60
+  offset: 0, 2
+  index: -1
+leg_r
+  rotate: true
+  xy: 472, 3
+  size: 34, 63
+  orig: 35, 66
+  offset: 0, 3
+  index: -1
+thigh_l
+  rotate: true
+  xy: 777, 82
+  size: 44, 81
+  orig: 44, 81
+  offset: 0, 0
+  index: -1
+thigh_r
+  rotate: true
+  xy: 692, 78
+  size: 48, 83
+  orig: 48, 83
+  offset: 0, 0
+  index: -1

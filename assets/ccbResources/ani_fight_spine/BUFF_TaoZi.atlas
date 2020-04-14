@@ -1,0 +1,48 @@
+
+BUFF_TaoZi.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff_zhaozi/baise
+  rotate: false
+  xy: 2, 238
+  size: 279, 245
+  orig: 279, 245
+  offset: 0, 0
+  index: -1
+buff_zhaozi_faguang/hudun1_00001
+  rotate: false
+  xy: 332, 12
+  size: 171, 160
+  orig: 189, 171
+  offset: 9, 0
+  index: -1
+buff_zhaozi_faguang/hudun1_00002
+  rotate: false
+  xy: 283, 174
+  size: 189, 153
+  orig: 189, 171
+  offset: 0, 7
+  index: -1
+buff_zhaozi_faguang/hudun1_00003
+  rotate: false
+  xy: 283, 329
+  size: 189, 154
+  orig: 189, 171
+  offset: 0, 6
+  index: -1
+buff_zhaozi_faguang/hudun1_00004
+  rotate: true
+  xy: 2, 66
+  size: 170, 165
+  orig: 189, 171
+  offset: 10, 6
+  index: -1
+buff_zhaozi_faguang/hudun1_00005
+  rotate: true
+  xy: 169, 2
+  size: 170, 161
+  orig: 189, 171
+  offset: 10, 6
+  index: -1

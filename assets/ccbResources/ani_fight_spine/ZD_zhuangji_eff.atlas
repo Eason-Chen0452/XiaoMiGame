@@ -1,0 +1,69 @@
+
+ZD_zhuangji_eff.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daobeida@2x
+  rotate: false
+  xy: 357, 105
+  size: 155, 149
+  orig: 155, 149
+  offset: 0, 0
+  index: -1
+dazibao_003@2x
+  rotate: false
+  xy: 2, 21
+  size: 209, 233
+  orig: 212, 242
+  offset: 0, 5
+  index: -1
+vs_standby_003@2x
+  rotate: false
+  xy: 213, 89
+  size: 142, 165
+  orig: 142, 165
+  offset: 0, 0
+  index: -1
+zhuangji_eff/0
+  rotate: true
+  xy: 514, 25
+  size: 100, 133
+  orig: 146, 134
+  offset: 23, 0
+  index: -1
+zhuangji_eff/1
+  rotate: false
+  xy: 662, 128
+  size: 144, 126
+  orig: 146, 134
+  offset: 0, 8
+  index: -1
+zhuangji_eff/2
+  rotate: false
+  xy: 808, 130
+  size: 143, 124
+  orig: 146, 134
+  offset: 2, 9
+  index: -1
+zhuangji_eff/3
+  rotate: false
+  xy: 514, 127
+  size: 146, 127
+  orig: 146, 134
+  offset: 0, 7
+  index: -1
+zhuangji_eff/4
+  rotate: false
+  xy: 662, 2
+  size: 144, 124
+  orig: 146, 134
+  offset: 2, 7
+  index: -1
+zhuangji_eff/5
+  rotate: false
+  xy: 808, 11
+  size: 137, 117
+  orig: 146, 134
+  offset: 6, 12
+  index: -1

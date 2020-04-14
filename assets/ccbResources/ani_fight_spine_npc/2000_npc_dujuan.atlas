@@ -1,0 +1,174 @@
+
+2000_npc_dujuan.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: true
+  xy: 255, 5
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 2, 3
+  size: 73, 79
+  orig: 73, 79
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 127, 19
+  size: 64, 70
+  orig: 64, 70
+  offset: 0, 0
+  index: -1
+Collar
+  rotate: true
+  xy: 226, 94
+  size: 160, 89
+  orig: 160, 89
+  offset: 0, 0
+  index: -1
+Dress
+  rotate: true
+  xy: 2, 78
+  size: 176, 79
+  orig: 176, 79
+  offset: 0, 0
+  index: -1
+Eye1_L
+  rotate: true
+  xy: 478, 210
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+Eye1_R
+  rotate: true
+  xy: 228, 3
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: true
+  xy: 465, 44
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: true
+  xy: 193, 2
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: true
+  xy: 478, 158
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: false
+  xy: 416, 100
+  size: 48, 33
+  orig: 48, 33
+  offset: 0, 0
+  index: -1
+Hair_L
+  rotate: false
+  xy: 324, 5
+  size: 90, 114
+  orig: 90, 114
+  offset: 0, 0
+  index: -1
+Hair_R
+  rotate: false
+  xy: 370, 135
+  size: 106, 119
+  orig: 106, 119
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: true
+  xy: 290, 6
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 478, 229
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 83, 91
+  size: 163, 141
+  orig: 163, 141
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 193, 33
+  size: 56, 127
+  orig: 56, 127
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 317, 121
+  size: 51, 133
+  orig: 51, 133
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 466, 64
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Tie
+  rotate: true
+  xy: 83, 18
+  size: 71, 42
+  orig: 71, 42
+  offset: 0, 0
+  index: -1
+UpArm_L
+  rotate: false
+  xy: 478, 102
+  size: 21, 54
+  orig: 21, 54
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 416, 52
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+buff_mid
+  rotate: false
+  xy: 416, 52
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+buff_up
+  rotate: false
+  xy: 416, 52
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1

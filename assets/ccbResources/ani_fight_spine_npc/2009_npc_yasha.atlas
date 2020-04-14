@@ -1,0 +1,167 @@
+
+2009_npc_yasha.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bip001 Eye-c
+  rotate: true
+  xy: 825, 47
+  size: 79, 43
+  orig: 79, 43
+  offset: 0, 0
+  index: -1
+Bip001 Hair01
+  rotate: false
+  xy: 687, 42
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+Bip001 Hair02
+  rotate: true
+  xy: 2, 10
+  size: 116, 88
+  orig: 116, 88
+  offset: 0, 0
+  index: -1
+Bip001 Hair03
+  rotate: true
+  xy: 224, 16
+  size: 110, 84
+  orig: 110, 84
+  offset: 0, 0
+  index: -1
+Bip001 Hair04
+  rotate: false
+  xy: 310, 17
+  size: 211, 109
+  orig: 211, 109
+  offset: 0, 0
+  index: -1
+Bip001 Hair05
+  rotate: false
+  xy: 579, 32
+  size: 61, 94
+  orig: 61, 94
+  offset: 0, 0
+  index: -1
+Bip001 Hair06
+  rotate: false
+  xy: 642, 33
+  size: 43, 93
+  orig: 43, 93
+  offset: 0, 0
+  index: -1
+Bip001 Head
+  rotate: true
+  xy: 92, 15
+  size: 111, 130
+  orig: 111, 130
+  offset: 0, 0
+  index: -1
+Bip001 L Calf
+  rotate: false
+  xy: 870, 50
+  size: 47, 76
+  orig: 47, 76
+  offset: 0, 0
+  index: -1
+Bip001 L Foot
+  rotate: false
+  xy: 713, 2
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+Bip001 L Forearm
+  rotate: false
+  xy: 928, 5
+  size: 51, 35
+  orig: 51, 35
+  offset: 0, 0
+  index: -1
+Bip001 L Thigh
+  rotate: true
+  xy: 862, 8
+  size: 37, 64
+  orig: 37, 64
+  offset: 0, 0
+  index: -1
+Bip001 L UpperArm
+  rotate: true
+  xy: 523, 6
+  size: 17, 51
+  orig: 17, 51
+  offset: 0, 0
+  index: -1
+Bip001 Mouth
+  rotate: false
+  xy: 673, 6
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+Bip001 Pelvis
+  rotate: false
+  xy: 956, 42
+  size: 60, 33
+  orig: 60, 33
+  offset: 0, 0
+  index: -1
+Bip001 Pelvis01
+  rotate: true
+  xy: 956, 77
+  size: 49, 63
+  orig: 49, 63
+  offset: 0, 0
+  index: -1
+Bip001 Pelvis02
+  rotate: false
+  xy: 817, 3
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+Bip001 R Calf
+  rotate: false
+  xy: 773, 44
+  size: 50, 82
+  orig: 50, 82
+  offset: 0, 0
+  index: -1
+Bip001 R Foot
+  rotate: false
+  xy: 636, 3
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+Bip001 R Forearm
+  rotate: false
+  xy: 919, 61
+  size: 35, 65
+  orig: 35, 65
+  offset: 0, 0
+  index: -1
+Bip001 R Thigh
+  rotate: true
+  xy: 749, 3
+  size: 37, 66
+  orig: 37, 66
+  offset: 0, 0
+  index: -1
+Bip001 R UpperArm
+  rotate: true
+  xy: 579, 2
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+Bip001 Spine
+  rotate: false
+  xy: 523, 25
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1

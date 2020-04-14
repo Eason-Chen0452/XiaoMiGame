@@ -1,0 +1,97 @@
+
+CJ_BaoXiang2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang01
+  rotate: false
+  xy: 882, 298
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+wt_gaoguang_eff
+  rotate: false
+  xy: 254, 166
+  size: 165, 108
+  orig: 165, 108
+  offset: 0, 0
+  index: -1
+xiangzi_2/02-chuxiantexiao-01
+  rotate: false
+  xy: 246, 22
+  size: 146, 142
+  orig: 146, 142
+  offset: 0, 0
+  index: -1
+xiangzi_2/bg
+  rotate: false
+  xy: 547, 186
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+xiangzi_2/c2
+  rotate: true
+  xy: 2, 2
+  size: 253, 242
+  orig: 253, 242
+  offset: 0, 0
+  index: -1
+xiangzi_2/c3
+  rotate: false
+  xy: 2, 257
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+xiangzi_2/c4l
+  rotate: false
+  xy: 254, 276
+  size: 222, 231
+  orig: 227, 231
+  offset: 1, 0
+  index: -1
+xiangzi_2/suduxian
+  rotate: true
+  xy: 711, 258
+  size: 81, 169
+  orig: 81, 169
+  offset: 0, 0
+  index: -1
+xiangzi_2/xiangzi_11
+  rotate: false
+  xy: 421, 158
+  size: 124, 116
+  orig: 250, 250
+  offset: 72, 0
+  index: -1
+xiangzi_2/xiangzi_12
+  rotate: false
+  xy: 711, 341
+  size: 124, 166
+  orig: 250, 250
+  offset: 72, 0
+  index: -1
+xiangzi_2/xiangzi_13
+  rotate: false
+  xy: 837, 341
+  size: 124, 166
+  orig: 250, 250
+  offset: 72, 0
+  index: -1
+xiangzi_2/xiangzi_guang
+  rotate: false
+  xy: 478, 294
+  size: 231, 213
+  orig: 250, 270
+  offset: 16, 0
+  index: -1
+yingbi_feixing
+  rotate: true
+  xy: 963, 339
+  size: 168, 51
+  orig: 169, 85
+  offset: 0, 17
+  index: -1

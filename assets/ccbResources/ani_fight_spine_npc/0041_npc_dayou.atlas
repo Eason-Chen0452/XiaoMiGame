@@ -1,0 +1,216 @@
+
+0041_npc_dayou.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_R
+  rotate: false
+  xy: 409, 94
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+Arml
+  rotate: false
+  xy: 273, 2
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 266, 155
+  size: 74, 99
+  orig: 74, 99
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 258, 86
+  size: 81, 23
+  orig: 81, 23
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 455, 187
+  size: 54, 27
+  orig: 54, 27
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: false
+  xy: 237, 2
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+Glass
+  rotate: false
+  xy: 342, 171
+  size: 85, 35
+  orig: 85, 35
+  offset: 0, 0
+  index: -1
+Hair_B
+  rotate: false
+  xy: 2, 81
+  size: 158, 173
+  orig: 158, 173
+  offset: 0, 0
+  index: -1
+Hair_L
+  rotate: true
+  xy: 342, 146
+  size: 23, 69
+  orig: 23, 69
+  offset: 0, 0
+  index: -1
+Hair_L2
+  rotate: true
+  xy: 342, 208
+  size: 46, 111
+  orig: 46, 111
+  offset: 0, 0
+  index: -1
+Hair_L3
+  rotate: false
+  xy: 313, 5
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+Hair_R
+  rotate: false
+  xy: 149, 15
+  size: 28, 64
+  orig: 28, 64
+  offset: 0, 0
+  index: -1
+Hair_R2
+  rotate: true
+  xy: 2, 15
+  size: 64, 145
+  orig: 64, 145
+  offset: 0, 0
+  index: -1
+Hair_R3
+  rotate: true
+  xy: 408, 21
+  size: 36, 58
+  orig: 36, 58
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: true
+  xy: 179, 2
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 301, 39
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+Hand_R (2)
+  rotate: true
+  xy: 407, 59
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+Hand_R (3)
+  rotate: false
+  xy: 440, 60
+  size: 27, 32
+  orig: 29, 34
+  offset: 1, 1
+  index: -1
+Head
+  rotate: false
+  xy: 162, 128
+  size: 102, 126
+  orig: 102, 126
+  offset: 0, 0
+  index: -1
+Kua
+  rotate: false
+  xy: 266, 111
+  size: 73, 42
+  orig: 73, 42
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 343, 59
+  size: 37, 62
+  orig: 37, 62
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: true
+  xy: 237, 43
+  size: 41, 62
+  orig: 41, 62
+  offset: 0, 0
+  index: -1
+Thigh_L
+  rotate: true
+  xy: 343, 23
+  size: 34, 63
+  orig: 34, 63
+  offset: 0, 0
+  index: -1
+Thigh_R
+  rotate: true
+  xy: 341, 98
+  size: 46, 66
+  orig: 46, 66
+  offset: 0, 0
+  index: -1
+UpArm_L
+  rotate: false
+  xy: 179, 28
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+UpArm_R
+  rotate: false
+  xy: 455, 216
+  size: 55, 38
+  orig: 55, 38
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 206, 10
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 206, 10
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 206, 10
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+eyec
+  rotate: false
+  xy: 162, 86
+  size: 94, 40
+  orig: 94, 40
+  offset: 0, 0
+  index: -1

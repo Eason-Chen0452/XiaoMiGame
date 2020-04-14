@@ -1,0 +1,97 @@
+
+yf-cheng.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DH_ballista_frisbeeLaser
+  rotate: true
+  xy: 247, 721
+  size: 116, 291
+  orig: 210, 420
+  offset: 50, 74
+  index: -1
+DH_safetyShot_ember
+  rotate: false
+  xy: 668, 773
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+barbarian_leapAttack_spikeblast_addsStartDamage
+  rotate: false
+  xy: 2, 93
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+glow_shockwave_006
+  rotate: false
+  xy: 2, 351
+  size: 238, 240
+  orig: 256, 256
+  offset: 9, 8
+  index: -1
+gs051
+  rotate: false
+  xy: 2, 2
+  size: 128, 89
+  orig: 130, 91
+  offset: 1, 1
+  index: -1
+gs053
+  rotate: false
+  xy: 2, 2
+  size: 128, 89
+  orig: 130, 91
+  offset: 1, 1
+  index: -1
+gs052
+  rotate: true
+  xy: 132, 221
+  size: 128, 89
+  orig: 130, 91
+  offset: 1, 1
+  index: -1
+gs054
+  rotate: true
+  xy: 132, 221
+  size: 128, 89
+  orig: 130, 91
+  offset: 1, 1
+  index: -1
+ray045
+  rotate: false
+  xy: 2, 593
+  size: 243, 244
+  orig: 256, 256
+  offset: 9, 6
+  index: -1
+suduxian
+  rotate: true
+  xy: 247, 638
+  size: 81, 169
+  orig: 81, 169
+  offset: 0, 0
+  index: -1
+yf-cheng-ty
+  rotate: false
+  xy: 418, 670
+  size: 120, 49
+  orig: 122, 51
+  offset: 1, 1
+  index: -1
+yf-cheng-w
+  rotate: true
+  xy: 540, 685
+  size: 46, 71
+  orig: 48, 73
+  offset: 1, 1
+  index: -1
+yf-cheng-yf
+  rotate: false
+  xy: 540, 733
+  size: 126, 104
+  orig: 128, 106
+  offset: 1, 1
+  index: -1

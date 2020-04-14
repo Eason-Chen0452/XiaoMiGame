@@ -1,0 +1,150 @@
+
+loadingbattle.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball5a
+  rotate: true
+  xy: 2, 2
+  size: 266, 271
+  orig: 266, 271
+  offset: 0, 0
+  index: -1
+ball6a
+  rotate: true
+  xy: 275, 2
+  size: 266, 271
+  orig: 266, 271
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 889, 1018
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+role1d
+  rotate: false
+  xy: 548, 17
+  size: 439, 251
+  orig: 439, 251
+  offset: 0, 0
+  index: -1
+role3b
+  rotate: false
+  xy: 2, 270
+  size: 885, 752
+  orig: 885, 752
+  offset: 0, 0
+  index: -1
+
+loadingbattle2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball1a
+  rotate: true
+  xy: 300, 24
+  size: 268, 273
+  orig: 268, 273
+  offset: 0, 0
+  index: -1
+role1a
+  rotate: false
+  xy: 575, 86
+  size: 443, 206
+  orig: 443, 206
+  offset: 0, 0
+  index: -1
+role3c
+  rotate: false
+  xy: 2, 2
+  size: 296, 290
+  orig: 296, 290
+  offset: 0, 0
+  index: -1
+role4
+  rotate: false
+  xy: 2, 294
+  size: 874, 711
+  orig: 876, 711
+  offset: 0, 0
+  index: -1
+
+loadingbattle3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball2a
+  rotate: true
+  xy: 2, 2
+  size: 264, 269
+  orig: 264, 269
+  offset: 0, 0
+  index: -1
+ball3a
+  rotate: true
+  xy: 273, 2
+  size: 264, 269
+  orig: 264, 269
+  offset: 0, 0
+  index: -1
+ball4a
+  rotate: true
+  xy: 544, 2
+  size: 264, 269
+  orig: 264, 269
+  offset: 0, 0
+  index: -1
+role2
+  rotate: false
+  xy: 2, 268
+  size: 835, 752
+  orig: 850, 752
+  offset: 15, 0
+  index: -1
+
+loadingbattle4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball7a
+  rotate: false
+  xy: 2, 3
+  size: 268, 273
+  orig: 268, 273
+  offset: 0, 0
+  index: -1
+role1b
+  rotate: true
+  xy: 403, 540
+  size: 443, 599
+  orig: 443, 599
+  offset: 0, 0
+  index: -1
+role1c
+  rotate: true
+  xy: 272, 2
+  size: 274, 222
+  orig: 274, 222
+  offset: 0, 0
+  index: -1
+role3a
+  rotate: true
+  xy: 496, 142
+  size: 396, 509
+  orig: 396, 509
+  offset: 0, 0
+  index: -1
+role5
+  rotate: false
+  xy: 2, 278
+  size: 399, 705
+  orig: 403, 709
+  offset: 2, 4
+  index: -1

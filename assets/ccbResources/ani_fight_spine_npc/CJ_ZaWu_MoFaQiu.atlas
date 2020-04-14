@@ -1,0 +1,62 @@
+
+CJ_ZaWu_MoFaQiu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff_flo
+  rotate: false
+  xy: 107, 149
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 107, 149
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 107, 149
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+cr1
+  rotate: false
+  xy: 2, 61
+  size: 83, 84
+  orig: 85, 86
+  offset: 1, 1
+  index: -1
+cr2
+  rotate: false
+  xy: 107, 167
+  size: 83, 83
+  orig: 85, 85
+  offset: 1, 1
+  index: -1
+crl
+  rotate: false
+  xy: 2, 147
+  size: 103, 103
+  orig: 105, 105
+  offset: 1, 1
+  index: -1
+crlb
+  rotate: false
+  xy: 192, 192
+  size: 58, 58
+  orig: 85, 85
+  offset: 14, 13
+  index: -1
+crs
+  rotate: false
+  xy: 2, 12
+  size: 88, 47
+  orig: 90, 49
+  offset: 1, 1
+  index: -1

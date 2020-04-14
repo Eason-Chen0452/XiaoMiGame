@@ -1,0 +1,62 @@
+
+yf-zi.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+furnace_glow_purple
+  rotate: true
+  xy: 2, 2
+  size: 111, 127
+  orig: 128, 128
+  offset: 9, 0
+  index: -1
+gs055
+  rotate: false
+  xy: 259, 24
+  size: 128, 89
+  orig: 130, 91
+  offset: 1, 1
+  index: -1
+gs057
+  rotate: false
+  xy: 259, 24
+  size: 128, 89
+  orig: 130, 91
+  offset: 1, 1
+  index: -1
+gs056
+  rotate: false
+  xy: 389, 24
+  size: 128, 89
+  orig: 130, 91
+  offset: 1, 1
+  index: -1
+gs058
+  rotate: false
+  xy: 389, 24
+  size: 128, 89
+  orig: 130, 91
+  offset: 1, 1
+  index: -1
+yf-zi-ty
+  rotate: false
+  xy: 519, 64
+  size: 120, 49
+  orig: 122, 51
+  offset: 1, 1
+  index: -1
+yf-zi-w
+  rotate: true
+  xy: 641, 67
+  size: 46, 71
+  orig: 48, 73
+  offset: 1, 1
+  index: -1
+yf-zi-yf
+  rotate: false
+  xy: 131, 9
+  size: 126, 104
+  orig: 128, 106
+  offset: 1, 1
+  index: -1

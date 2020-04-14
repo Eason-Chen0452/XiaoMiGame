@@ -1,0 +1,90 @@
+
+SJ_Huo.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0_00003
+  rotate: false
+  xy: 204, 615
+  size: 168, 147
+  orig: 215, 198
+  offset: 39, 44
+  index: -1
+0_00004
+  rotate: false
+  xy: 204, 764
+  size: 197, 172
+  orig: 215, 198
+  offset: 17, 21
+  index: -1
+0_00005
+  rotate: false
+  xy: 2, 756
+  size: 200, 180
+  orig: 215, 198
+  offset: 15, 5
+  index: -1
+0_00006
+  rotate: false
+  xy: 2, 575
+  size: 200, 179
+  orig: 215, 198
+  offset: 14, 1
+  index: -1
+0_00007
+  rotate: false
+  xy: 2, 396
+  size: 179, 177
+  orig: 215, 198
+  offset: 5, 2
+  index: -1
+0_00008
+  rotate: false
+  xy: 403, 777
+  size: 126, 159
+  orig: 215, 198
+  offset: 3, 5
+  index: -1
+baozha4_eff/00_00000
+  rotate: false
+  xy: 531, 780
+  size: 116, 156
+  orig: 156, 186
+  offset: 20, 20
+  index: -1
+baozha4_eff/00_00001
+  rotate: false
+  xy: 2, 238
+  size: 119, 156
+  orig: 156, 186
+  offset: 17, 20
+  index: -1
+baozha4_eff/00_00002
+  rotate: false
+  xy: 2, 2
+  size: 109, 109
+  orig: 156, 186
+  offset: 18, 43
+  index: -1
+baozha4_eff/00_00003
+  rotate: false
+  xy: 765, 830
+  size: 109, 106
+  orig: 156, 186
+  offset: 18, 45
+  index: -1
+baozha4_eff/00_00004
+  rotate: false
+  xy: 649, 822
+  size: 114, 114
+  orig: 156, 186
+  offset: 16, 39
+  index: -1
+baozha4_eff/00_00005
+  rotate: false
+  xy: 2, 113
+  size: 117, 123
+  orig: 156, 186
+  offset: 10, 37
+  index: -1

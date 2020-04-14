@@ -1,0 +1,292 @@
+
+jl_244_yandi_eff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 613, 3
+  size: 182, 184
+  orig: 203, 203
+  offset: 10, 13
+  index: -1
+baozha2_eff/penfa-001
+  rotate: false
+  xy: 629, 469
+  size: 125, 121
+  orig: 345, 338
+  offset: 109, 24
+  index: -1
+baozha2_eff/penfa-003
+  rotate: true
+  xy: 763, 810
+  size: 212, 237
+  orig: 345, 338
+  offset: 65, 25
+  index: -1
+baozha2_eff/penfa-004
+  rotate: false
+  xy: 2, 183
+  size: 251, 268
+  orig: 345, 338
+  offset: 46, 25
+  index: -1
+baozha2_eff/penfa-005
+  rotate: false
+  xy: 2, 734
+  size: 267, 288
+  orig: 345, 338
+  offset: 37, 28
+  index: -1
+baozha2_eff/penfa-006
+  rotate: true
+  xy: 2, 453
+  size: 279, 130
+  orig: 345, 338
+  offset: 33, 31
+  index: -1
+dimian_00013
+  rotate: false
+  xy: 781, 193
+  size: 124, 81
+  orig: 124, 81
+  offset: 0, 0
+  index: -1
+dimian_chongji/lan_dimianbaozha2_eff_01
+  rotate: true
+  xy: 2, 2
+  size: 179, 121
+  orig: 225, 225
+  offset: 25, 39
+  index: -1
+dimian_chongji/lan_dimianbaozha2_eff_02
+  rotate: true
+  xy: 489, 2
+  size: 180, 122
+  orig: 225, 225
+  offset: 25, 38
+  index: -1
+dimian_chongji/lan_dimianbaozha2_eff_04
+  rotate: true
+  xy: 797, 8
+  size: 183, 124
+  orig: 225, 225
+  offset: 23, 37
+  index: -1
+dimian_chongji/lan_dimianbaozha2_eff_05
+  rotate: true
+  xy: 629, 592
+  size: 184, 125
+  orig: 225, 225
+  offset: 22, 37
+  index: -1
+huoqiu_ranshao/1058-2
+  rotate: true
+  xy: 599, 778
+  size: 244, 162
+  orig: 251, 164
+  offset: 7, 1
+  index: -1
+huoqiu_ranshao/1058-3
+  rotate: true
+  xy: 420, 275
+  size: 247, 164
+  orig: 251, 164
+  offset: 4, 0
+  index: -1
+huoqiu_ranshao/1058-4
+  rotate: true
+  xy: 134, 484
+  size: 248, 164
+  orig: 251, 164
+  offset: 3, 0
+  index: -1
+huoqiu_ranshao/1058-5
+  rotate: true
+  xy: 271, 774
+  size: 248, 163
+  orig: 251, 164
+  offset: 3, 0
+  index: -1
+huoqiu_ranshao/1058-6
+  rotate: true
+  xy: 300, 524
+  size: 248, 162
+  orig: 251, 164
+  offset: 3, 1
+  index: -1
+huoqiu_ranshao/1058-7
+  rotate: true
+  xy: 255, 234
+  size: 248, 163
+  orig: 251, 163
+  offset: 3, 0
+  index: -1
+huoqiu_ranshao/1058-8
+  rotate: true
+  xy: 464, 525
+  size: 247, 163
+  orig: 251, 164
+  offset: 3, 1
+  index: -1
+huoqiu_ranshao/1058-9
+  rotate: true
+  xy: 436, 774
+  size: 248, 161
+  orig: 251, 163
+  offset: 3, 1
+  index: -1
+light02
+  rotate: true
+  xy: 320, 19
+  size: 213, 167
+  orig: 213, 167
+  offset: 0, 0
+  index: -1
+particle02a
+  rotate: true
+  xy: 958, 749
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+particle03a
+  rotate: true
+  xy: 489, 184
+  size: 89, 95
+  orig: 90, 95
+  offset: 0, 0
+  index: -1
+ranshao_eff/1063-1
+  rotate: false
+  xy: 586, 189
+  size: 193, 83
+  orig: 269, 204
+  offset: 43, 19
+  index: -1
+ranshao_eff/1063-11
+  rotate: true
+  xy: 923, 121
+  size: 153, 89
+  orig: 269, 204
+  offset: 58, 69
+  index: -1
+ranshao_eff/1063-2
+  rotate: true
+  xy: 586, 274
+  size: 193, 165
+  orig: 269, 204
+  offset: 43, 19
+  index: -1
+ranshao_eff/1063-3
+  rotate: false
+  xy: 763, 632
+  size: 193, 176
+  orig: 269, 204
+  offset: 43, 16
+  index: -1
+ranshao_eff/1063-4
+  rotate: false
+  xy: 125, 4
+  size: 193, 177
+  orig: 269, 204
+  offset: 43, 15
+  index: -1
+ranshao_eff/1063-5
+  rotate: false
+  xy: 756, 454
+  size: 193, 176
+  orig: 269, 204
+  offset: 43, 15
+  index: -1
+ranshao_eff/1063-6
+  rotate: false
+  xy: 753, 276
+  size: 193, 176
+  orig: 269, 204
+  offset: 43, 13
+  index: -1
+
+jl_244_yandi_eff2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha2_eff/penfa-002
+  rotate: false
+  xy: 197, 169
+  size: 171, 165
+  orig: 345, 338
+  offset: 85, 20
+  index: -1
+baozha2_eff/penfa-007
+  rotate: false
+  xy: 392, 353
+  size: 164, 145
+  orig: 345, 338
+  offset: 87, 36
+  index: -1
+baozha2_eff/penfa-008
+  rotate: true
+  xy: 370, 184
+  size: 150, 123
+  orig: 345, 338
+  offset: 96, 61
+  index: -1
+dimian_chongji/lan_dimianbaozha2_eff_03
+  rotate: false
+  xy: 558, 374
+  size: 182, 124
+  orig: 225, 225
+  offset: 24, 37
+  index: -1
+dimian_chongji/lan_dimianbaozha2_eff_06
+  rotate: false
+  xy: 742, 376
+  size: 172, 122
+  orig: 225, 225
+  offset: 29, 37
+  index: -1
+dimian_chongji/lan_dimianbaozha2_eff_07
+  rotate: false
+  xy: 558, 250
+  size: 171, 122
+  orig: 225, 225
+  offset: 30, 37
+  index: -1
+particle01a
+  rotate: true
+  xy: 197, 60
+  size: 107, 135
+  orig: 107, 135
+  offset: 0, 0
+  index: -1
+ranshao_eff/1063-10
+  rotate: false
+  xy: 2, 2
+  size: 192, 157
+  orig: 269, 204
+  offset: 39, 31
+  index: -1
+ranshao_eff/1063-7
+  rotate: false
+  xy: 2, 328
+  size: 193, 170
+  orig: 269, 204
+  offset: 43, 18
+  index: -1
+ranshao_eff/1063-8
+  rotate: false
+  xy: 2, 161
+  size: 193, 165
+  orig: 269, 204
+  offset: 43, 22
+  index: -1
+ranshao_eff/1063-9
+  rotate: false
+  xy: 197, 336
+  size: 193, 162
+  orig: 269, 204
+  offset: 43, 24
+  index: -1

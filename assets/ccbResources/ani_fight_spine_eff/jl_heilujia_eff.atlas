@@ -1,0 +1,327 @@
+
+jl_heilujia_eff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chongji01
+  rotate: true
+  xy: 329, 471
+  size: 141, 49
+  orig: 141, 77
+  offset: 0, 7
+  index: -1
+eyelight01
+  rotate: false
+  xy: 184, 340
+  size: 192, 81
+  orig: 192, 96
+  offset: 0, 8
+  index: -1
+fangsheguang02
+  rotate: false
+  xy: 2, 327
+  size: 94, 94
+  orig: 96, 96
+  offset: 1, 1
+  index: -1
+kuosan_huo02/kshuo02_03
+  rotate: false
+  xy: 796, 765
+  size: 215, 127
+  orig: 293, 222
+  offset: 35, 85
+  index: -1
+kuosan_huo02/kshuo02_05
+  rotate: false
+  xy: 796, 894
+  size: 218, 127
+  orig: 293, 222
+  offset: 35, 85
+  index: -1
+lunkuo01
+  rotate: false
+  xy: 378, 328
+  size: 59, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+puyao/puyao_00
+  rotate: false
+  xy: 756, 571
+  size: 255, 192
+  orig: 525, 246
+  offset: 18, 3
+  index: -1
+puyao/puyao_01
+  rotate: false
+  xy: 382, 581
+  size: 372, 229
+  orig: 525, 246
+  offset: 27, 3
+  index: -1
+puyao/puyao_02
+  rotate: false
+  xy: 2, 814
+  size: 404, 207
+  orig: 525, 246
+  offset: 19, 4
+  index: -1
+puyao/puyao_03
+  rotate: false
+  xy: 408, 812
+  size: 386, 209
+  orig: 525, 246
+  offset: 74, 4
+  index: -1
+puyao/puyao_04
+  rotate: false
+  xy: 2, 614
+  size: 378, 198
+  orig: 525, 246
+  offset: 83, 5
+  index: -1
+puyao/puyao_05
+  rotate: false
+  xy: 706, 326
+  size: 314, 243
+  orig: 525, 246
+  offset: 151, 0
+  index: -1
+shouji/sj_02
+  rotate: true
+  xy: 679, 5
+  size: 150, 125
+  orig: 225, 150
+  offset: 54, 19
+  index: -1
+shouji/sj_03
+  rotate: true
+  xy: 700, 157
+  size: 167, 133
+  orig: 225, 150
+  offset: 42, 15
+  index: -1
+siyao/siyao_00
+  rotate: false
+  xy: 2, 423
+  size: 325, 189
+  orig: 375, 225
+  offset: 0, 17
+  index: -1
+siyao/siyao_01
+  rotate: false
+  xy: 380, 386
+  size: 324, 193
+  orig: 375, 225
+  offset: 2, 16
+  index: -1
+siyao/siyao_02
+  rotate: true
+  xy: 2, 5
+  size: 319, 195
+  orig: 375, 225
+  offset: 7, 16
+  index: -1
+siyao/siyao_03
+  rotate: true
+  xy: 199, 10
+  size: 314, 194
+  orig: 375, 225
+  offset: 12, 18
+  index: -1
+siyao/siyao_05
+  rotate: false
+  xy: 395, 157
+  size: 303, 169
+  orig: 375, 225
+  offset: 36, 37
+  index: -1
+siyao/siyao_06
+  rotate: false
+  xy: 395, 2
+  size: 282, 153
+  orig: 375, 225
+  offset: 55, 44
+  index: -1
+siyao/siyao_07
+  rotate: true
+  xy: 835, 3
+  size: 206, 140
+  orig: 375, 225
+  offset: 75, 55
+  index: -1
+siyao/siyao_08
+  rotate: false
+  xy: 835, 211
+  size: 185, 113
+  orig: 375, 225
+  offset: 97, 70
+  index: -1
+zhaozi01
+  rotate: false
+  xy: 98, 327
+  size: 84, 57
+  orig: 188, 188
+  offset: 52, 66
+  index: -1
+
+jl_heilujia_eff2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fangsheguang05
+  rotate: false
+  xy: 739, 896
+  size: 192, 126
+  orig: 192, 192
+  offset: 0, 66
+  index: -1
+fangsheguang06
+  rotate: true
+  xy: 2, 45
+  size: 177, 104
+  orig: 192, 192
+  offset: 1, 71
+  index: -1
+kuosan_huo/ksh01_00
+  rotate: true
+  xy: 128, 477
+  size: 165, 71
+  orig: 188, 94
+  offset: 14, 5
+  index: -1
+kuosan_huo/ksh01_01
+  rotate: false
+  xy: 316, 499
+  size: 164, 74
+  orig: 188, 94
+  offset: 14, 5
+  index: -1
+kuosan_huo/ksh01_02
+  rotate: false
+  xy: 312, 732
+  size: 160, 82
+  orig: 188, 94
+  offset: 14, 7
+  index: -1
+kuosan_huo/ksh01_03
+  rotate: false
+  xy: 312, 652
+  size: 161, 78
+  orig: 188, 94
+  offset: 16, 2
+  index: -1
+kuosan_huo/ksh01_04
+  rotate: false
+  xy: 528, 824
+  size: 155, 71
+  orig: 188, 94
+  offset: 17, 5
+  index: -1
+kuosan_huo/ksh01_05
+  rotate: true
+  xy: 108, 60
+  size: 162, 74
+  orig: 188, 94
+  offset: 14, 5
+  index: -1
+kuosan_huo/ksh01_06
+  rotate: false
+  xy: 314, 816
+  size: 165, 78
+  orig: 188, 94
+  offset: 15, 5
+  index: -1
+kuosan_huo/ksh01_07
+  rotate: false
+  xy: 316, 575
+  size: 165, 75
+  orig: 188, 94
+  offset: 15, 5
+  index: -1
+kuosan_huo02/kshuo02_00
+  rotate: true
+  xy: 933, 863
+  size: 159, 89
+  orig: 293, 222
+  offset: 66, 100
+  index: -1
+kuosan_huo02/kshuo02_01
+  rotate: true
+  xy: 196, 645
+  size: 191, 114
+  orig: 293, 222
+  offset: 51, 95
+  index: -1
+kuosan_huo02/kshuo02_02
+  rotate: true
+  xy: 2, 224
+  size: 205, 121
+  orig: 293, 222
+  offset: 44, 89
+  index: -1
+kuosan_huo02/kshuo02_04
+  rotate: true
+  xy: 2, 431
+  size: 211, 124
+  orig: 293, 222
+  offset: 37, 87
+  index: -1
+kuosan_huo02/kshuo02_06
+  rotate: false
+  xy: 528, 897
+  size: 209, 125
+  orig: 293, 222
+  offset: 44, 88
+  index: -1
+kuosan_huo02/kshuo02_07
+  rotate: false
+  xy: 314, 896
+  size: 212, 126
+  orig: 293, 222
+  offset: 40, 88
+  index: -1
+light01
+  rotate: false
+  xy: 827, 798
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+light02
+  rotate: false
+  xy: 2, 644
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+shouji/sj_00
+  rotate: true
+  xy: 125, 272
+  size: 157, 71
+  orig: 225, 150
+  offset: 30, 47
+  index: -1
+shouji/sj_01
+  rotate: true
+  xy: 201, 506
+  size: 137, 113
+  orig: 225, 150
+  offset: 55, 25
+  index: -1
+siyao/siyao_04
+  rotate: false
+  xy: 2, 838
+  size: 310, 184
+  orig: 375, 225
+  offset: 16, 28
+  index: -1
+siyao/siyao_09
+  rotate: false
+  xy: 685, 808
+  size: 140, 86
+  orig: 375, 225
+  offset: 133, 93
+  index: -1

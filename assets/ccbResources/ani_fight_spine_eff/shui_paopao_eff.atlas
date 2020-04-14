@@ -1,0 +1,194 @@
+
+shui_paopao_eff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+absolute_zero
+  rotate: false
+  xy: 2, 815
+  size: 368, 207
+  orig: 368, 207
+  offset: 0, 0
+  index: -1
+bingdongshexian_002@2x
+  rotate: false
+  xy: 2, 626
+  size: 317, 187
+  orig: 317, 187
+  offset: 0, 0
+  index: -1
+paopao/00001
+  rotate: false
+  xy: 450, 2
+  size: 144, 144
+  orig: 255, 255
+  offset: 73, 60
+  index: -1
+paopao/00003
+  rotate: false
+  xy: 596, 4
+  size: 181, 134
+  orig: 255, 255
+  offset: 29, 67
+  index: -1
+paopao/00005
+  rotate: true
+  xy: 825, 389
+  size: 193, 181
+  orig: 255, 255
+  offset: 38, 39
+  index: -1
+paopao/00007
+  rotate: false
+  xy: 513, 361
+  size: 225, 212
+  orig: 255, 255
+  offset: 21, 23
+  index: -1
+paopao/00009
+  rotate: false
+  xy: 243, 149
+  size: 235, 214
+  orig: 255, 255
+  offset: 13, 22
+  index: -1
+paopao/00011
+  rotate: false
+  xy: 321, 581
+  size: 237, 216
+  orig: 255, 255
+  offset: 12, 21
+  index: -1
+paopao/00013
+  rotate: false
+  xy: 560, 575
+  size: 237, 216
+  orig: 255, 255
+  offset: 12, 21
+  index: -1
+paopao/00015
+  rotate: false
+  xy: 372, 799
+  size: 239, 223
+  orig: 255, 255
+  offset: 11, 18
+  index: -1
+paopao/00016
+  rotate: false
+  xy: 613, 793
+  size: 239, 229
+  orig: 255, 255
+  offset: 11, 15
+  index: -1
+paopao/00018
+  rotate: false
+  xy: 2, 162
+  size: 239, 241
+  orig: 255, 255
+  offset: 11, 10
+  index: -1
+paopao/00020
+  rotate: false
+  xy: 274, 365
+  size: 237, 214
+  orig: 255, 255
+  offset: 11, 22
+  index: -1
+paopao/00022
+  rotate: true
+  xy: 799, 584
+  size: 207, 172
+  orig: 255, 255
+  offset: 10, 52
+  index: -1
+paopao/00024
+  rotate: true
+  xy: 854, 814
+  size: 208, 159
+  orig: 255, 255
+  offset: 10, 65
+  index: -1
+shuihua_langhua/00001
+  rotate: false
+  xy: 2, 3
+  size: 145, 55
+  orig: 266, 124
+  offset: 60, 12
+  index: -1
+shuihua_langhua/00002
+  rotate: false
+  xy: 235, 62
+  size: 213, 85
+  orig: 266, 124
+  offset: 26, 14
+  index: -1
+shuihua_langhua/00003
+  rotate: true
+  xy: 740, 360
+  size: 213, 83
+  orig: 266, 124
+  offset: 26, 16
+  index: -1
+shuihua_langhua/00004
+  rotate: false
+  xy: 2, 60
+  size: 231, 100
+  orig: 266, 124
+  offset: 17, 10
+  index: -1
+shuihua_langhua/00006
+  rotate: true
+  xy: 918, 133
+  size: 254, 103
+  orig: 266, 124
+  offset: 6, 9
+  index: -1
+shuihua_langhua/00007
+  rotate: true
+  xy: 918, 133
+  size: 254, 103
+  orig: 266, 124
+  offset: 6, 9
+  index: -1
+water/water_boom00
+  rotate: false
+  xy: 702, 140
+  size: 214, 218
+  orig: 352, 348
+  offset: 69, 65
+  index: -1
+water/water_boom01
+  rotate: false
+  xy: 480, 148
+  size: 220, 211
+  orig: 352, 348
+  offset: 66, 68
+  index: -1
+water/water_boom03
+  rotate: false
+  xy: 2, 405
+  size: 270, 219
+  orig: 352, 348
+  offset: 41, 64
+  index: -1
+
+shui_paopao_eff2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+barrier01
+  rotate: false
+  xy: 174, 25
+  size: 160, 143
+  orig: 160, 143
+  offset: 0, 0
+  index: -1
+water/water_boom02
+  rotate: false
+  xy: 2, 2
+  size: 170, 166
+  orig: 352, 348
+  offset: 91, 91
+  index: -1

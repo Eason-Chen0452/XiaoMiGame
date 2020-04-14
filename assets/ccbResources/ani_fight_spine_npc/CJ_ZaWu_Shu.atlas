@@ -1,0 +1,76 @@
+
+CJ_ZaWu_Shu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff_flo
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+f1
+  rotate: false
+  xy: 247, 273
+  size: 35, 34
+  orig: 37, 36
+  offset: 1, 1
+  index: -1
+f2
+  rotate: false
+  xy: 247, 309
+  size: 50, 44
+  orig: 52, 46
+  offset: 1, 1
+  index: -1
+f3
+  rotate: false
+  xy: 2, 20
+  size: 37, 48
+  orig: 39, 50
+  offset: 1, 1
+  index: -1
+f4
+  rotate: false
+  xy: 151, 98
+  size: 46, 32
+  orig: 48, 34
+  offset: 1, 1
+  index: -1
+f5
+  rotate: false
+  xy: 299, 336
+  size: 33, 17
+  orig: 35, 19
+  offset: 1, 1
+  index: -1
+tree
+  rotate: false
+  xy: 2, 132
+  size: 243, 221
+  orig: 245, 223
+  offset: 1, 1
+  index: -1
+ts
+  rotate: false
+  xy: 2, 70
+  size: 147, 60
+  orig: 149, 62
+  offset: 1, 1
+  index: -1

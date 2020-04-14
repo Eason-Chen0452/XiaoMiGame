@@ -1,0 +1,27 @@
+
+xuruo_hudun.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+barrier01
+  rotate: false
+  xy: 2, 117
+  size: 426, 381
+  orig: 426, 381
+  offset: 0, 0
+  index: -1
+barrier02
+  rotate: false
+  xy: 430, 416
+  size: 317, 82
+  orig: 319, 84
+  offset: 1, 1
+  index: -1
+light
+  rotate: false
+  xy: 2, 2
+  size: 326, 113
+  orig: 326, 113
+  offset: 0, 0
+  index: -1

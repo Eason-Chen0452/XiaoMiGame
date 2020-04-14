@@ -1,0 +1,264 @@
+
+MEGA_shuijiangui_eff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bingbao_eff/xuehuabaozha_eff_002
+  rotate: false
+  xy: 260, 131
+  size: 192, 208
+  orig: 225, 263
+  offset: 16, 20
+  index: -1
+bingbao_eff/xuehuabaozha_eff_003
+  rotate: true
+  xy: 304, 354
+  size: 212, 237
+  orig: 225, 263
+  offset: 6, 9
+  index: -1
+jianshe_eff/002
+  rotate: true
+  xy: 908, 720
+  size: 300, 85
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+jianshe_eff/003
+  rotate: false
+  xy: 606, 693
+  size: 300, 143
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+jianshe_eff/004
+  rotate: false
+  xy: 606, 838
+  size: 300, 182
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+jianshe_eff/005
+  rotate: false
+  xy: 2, 795
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+jianshe_eff/006
+  rotate: false
+  xy: 2, 568
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+jianshe_eff/007
+  rotate: false
+  xy: 304, 795
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+jianshe_eff/008
+  rotate: false
+  xy: 2, 341
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+jianshe_eff/009
+  rotate: false
+  xy: 304, 568
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+leidian_eff/0_00000
+  rotate: true
+  xy: 593, 2
+  size: 92, 113
+  orig: 135, 210
+  offset: 19, 28
+  index: -1
+leidian_eff/0_00001
+  rotate: true
+  xy: 708, 28
+  size: 78, 113
+  orig: 135, 210
+  offset: 27, 28
+  index: -1
+leidian_eff/0_00002
+  rotate: false
+  xy: 664, 125
+  size: 90, 152
+  orig: 135, 210
+  offset: 18, 33
+  index: -1
+leidian_eff/0_00003
+  rotate: false
+  xy: 912, 565
+  size: 75, 153
+  orig: 135, 210
+  offset: 29, 28
+  index: -1
+leidian_eff/0_00004
+  rotate: true
+  xy: 445, 31
+  size: 63, 146
+  orig: 135, 210
+  offset: 39, 30
+  index: -1
+leidian_eff/0_00005
+  rotate: false
+  xy: 756, 108
+  size: 68, 149
+  orig: 135, 210
+  offset: 43, 30
+  index: -1
+liangguang
+  rotate: true
+  xy: 912, 477
+  size: 86, 85
+  orig: 113, 113
+  offset: 13, 18
+  index: -1
+nengliangzhu1
+  rotate: true
+  xy: 845, 455
+  size: 236, 65
+  orig: 236, 65
+  offset: 0, 0
+  index: -1
+nengliangzhu2
+  rotate: true
+  xy: 763, 259
+  size: 234, 75
+  orig: 263, 131
+  offset: 19, 32
+  index: -1
+nengliangzhu3
+  rotate: true
+  xy: 2, 7
+  size: 119, 199
+  orig: 119, 199
+  offset: 0, 0
+  index: -1
+penkou_eff/xinzhaoyun_fazhenbaofa2_eff
+  rotate: false
+  xy: 840, 205
+  size: 180, 122
+  orig: 225, 225
+  offset: 25, 38
+  index: -1
+penkou_eff/xinzhaoyun_fazhenbaofa3_eff
+  rotate: false
+  xy: 840, 329
+  size: 182, 124
+  orig: 225, 225
+  offset: 24, 37
+  index: -1
+penkou_eff/xinzhaoyun_fazhenbaofa4_eff
+  rotate: false
+  xy: 260, 5
+  size: 183, 124
+  orig: 225, 225
+  offset: 23, 37
+  index: -1
+penshe_eff/00002
+  rotate: false
+  xy: 826, 36
+  size: 192, 167
+  orig: 263, 225
+  offset: 29, 11
+  index: -1
+penshe_eff/00003
+  rotate: false
+  xy: 454, 96
+  size: 208, 181
+  orig: 263, 225
+  offset: 24, 11
+  index: -1
+penshe_eff/00004
+  rotate: false
+  xy: 606, 495
+  size: 237, 196
+  orig: 263, 225
+  offset: 9, 10
+  index: -1
+penshe_eff/00005
+  rotate: false
+  xy: 2, 128
+  size: 256, 211
+  orig: 263, 225
+  offset: 0, 11
+  index: -1
+shuibao
+  rotate: true
+  xy: 543, 279
+  size: 214, 218
+  orig: 214, 218
+  offset: 0, 0
+  index: -1
+
+MEGA_shuijiangui_eff2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha_eff/00001
+  rotate: false
+  xy: 169, 114
+  size: 118, 118
+  orig: 131, 131
+  offset: 8, 6
+  index: -1
+baozha_eff/00002
+  rotate: false
+  xy: 2, 2
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+baozha_eff/00003
+  rotate: true
+  xy: 376, 376
+  size: 130, 131
+  orig: 131, 131
+  offset: 1, 0
+  index: -1
+baozha_eff/00004
+  rotate: false
+  xy: 347, 243
+  size: 130, 131
+  orig: 131, 131
+  offset: 1, 0
+  index: -1
+bingbao_eff/xuehuabaozha_eff_001
+  rotate: false
+  xy: 2, 135
+  size: 165, 178
+  orig: 225, 263
+  offset: 29, 38
+  index: -1
+penkou_eff/xinzhaoyun_fazhenbaofa1_eff
+  rotate: false
+  xy: 195, 385
+  size: 179, 121
+  orig: 225, 225
+  offset: 25, 39
+  index: -1
+penshe_eff/00001
+  rotate: false
+  xy: 195, 234
+  size: 150, 149
+  orig: 263, 225
+  offset: 44, 10
+  index: -1
+ring01
+  rotate: false
+  xy: 2, 315
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: -1

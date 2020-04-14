@@ -1,0 +1,188 @@
+
+lei_diancibo-chongdian_eff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00002 (3)
+  rotate: false
+  xy: 837, 122
+  size: 172, 177
+  orig: 195, 203
+  offset: 7, 6
+  index: -1
+leibao_eff/lei_fangshe001
+  rotate: false
+  xy: 899, 28
+  size: 93, 92
+  orig: 390, 360
+  offset: 149, 128
+  index: -1
+leibao_eff/lei_fangshe002.png
+  rotate: false
+  xy: 565, 396
+  size: 129, 128
+  orig: 390, 360
+  offset: 136, 107
+  index: -1
+leibao_eff/lei_fangshe003.png
+  rotate: false
+  xy: 2, 151
+  size: 253, 220
+  orig: 390, 360
+  offset: 58, 76
+  index: -1
+leibao_eff/lei_fangshe004.png
+  rotate: false
+  xy: 2, 373
+  size: 361, 312
+  orig: 390, 360
+  offset: 13, 22
+  index: -1
+leibao_eff/lei_fangshe005.png
+  rotate: false
+  xy: 2, 687
+  size: 387, 335
+  orig: 390, 360
+  offset: 0, 10
+  index: -1
+leibao_eff/lei_fangshe006.png
+  rotate: false
+  xy: 391, 724
+  size: 343, 298
+  orig: 390, 360
+  offset: 19, 31
+  index: -1
+leidun_eff/leidun001
+  rotate: true
+  xy: 651, 127
+  size: 172, 184
+  orig: 203, 206
+  offset: 31, 15
+  index: -1
+leidun_eff/leidun002
+  rotate: true
+  xy: 365, 376
+  size: 149, 198
+  orig: 203, 206
+  offset: 31, 7
+  index: -1
+leidun_eff/leidun003
+  rotate: true
+  xy: 2, 6
+  size: 143, 197
+  orig: 203, 206
+  offset: 28, 4
+  index: -1
+leidun_eff/leidun004
+  rotate: true
+  xy: 201, 9
+  size: 137, 195
+  orig: 203, 206
+  offset: 27, 3
+  index: -1
+leidun_eff/leidun006
+  rotate: false
+  xy: 599, 526
+  size: 133, 196
+  orig: 203, 206
+  offset: 27, 3
+  index: -1
+leidun_eff/leidun008
+  rotate: true
+  xy: 734, 482
+  size: 133, 191
+  orig: 203, 206
+  offset: 27, 3
+  index: -1
+leidun_eff/leidun009
+  rotate: true
+  xy: 398, 2
+  size: 123, 124
+  orig: 203, 206
+  offset: 27, 3
+  index: -1
+leidun_eff/leidun011
+  rotate: true
+  xy: 524, 2
+  size: 123, 124
+  orig: 203, 206
+  offset: 27, 3
+  index: -1
+leihua_eff/spark01a
+  rotate: false
+  xy: 962, 910
+  size: 53, 112
+  orig: 53, 112
+  offset: 0, 0
+  index: -1
+leihua_eff/spark01b
+  rotate: false
+  xy: 962, 802
+  size: 41, 106
+  orig: 41, 106
+  offset: 0, 0
+  index: -1
+leihua_eff/spark02a
+  rotate: false
+  xy: 650, 6
+  size: 132, 119
+  orig: 132, 119
+  offset: 0, 0
+  index: -1
+leihua_eff/spark02b
+  rotate: false
+  xy: 784, 12
+  size: 113, 108
+  orig: 113, 108
+  offset: 0, 0
+  index: -1
+leihuan_eff/00001 (3)
+  rotate: true
+  xy: 885, 365
+  size: 115, 75
+  orig: 225, 218
+  offset: 56, 72
+  index: -1
+leihuan_eff/00002 (4)
+  rotate: true
+  xy: 696, 301
+  size: 179, 187
+  orig: 225, 218
+  offset: 24, 16
+  index: -1
+leihuan_eff/00003 (3)
+  rotate: false
+  xy: 391, 527
+  size: 206, 195
+  orig: 225, 218
+  offset: 10, 12
+  index: -1
+leihuan_eff/00004 (2)
+  rotate: true
+  xy: 257, 148
+  size: 223, 205
+  orig: 225, 218
+  offset: 2, 7
+  index: -1
+leihuan_eff/00005
+  rotate: false
+  xy: 736, 815
+  size: 224, 207
+  orig: 225, 218
+  offset: 1, 6
+  index: -1
+leihuan_eff/00006
+  rotate: false
+  xy: 464, 171
+  size: 185, 203
+  orig: 225, 218
+  offset: 21, 8
+  index: -1
+leihuan_eff/00007
+  rotate: true
+  xy: 736, 617
+  size: 196, 211
+  orig: 225, 218
+  offset: 15, 4
+  index: -1

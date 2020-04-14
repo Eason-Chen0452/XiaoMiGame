@@ -1,0 +1,55 @@
+
+jl_123_feitiantanglan_eff.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lan_chongji_04_eff_01
+  rotate: true
+  xy: 956, 104
+  size: 107, 66
+  orig: 165, 150
+  offset: 30, 41
+  index: -1
+lan_chongji_04_eff_04
+  rotate: false
+  xy: 243, 42
+  size: 123, 72
+  orig: 165, 120
+  offset: 14, 24
+  index: -1
+lan_fazhen_02_eff/lan_fazhen_02_eff_01
+  rotate: false
+  xy: 2, 106
+  size: 239, 105
+  orig: 329, 149
+  offset: 45, 22
+  index: -1
+lan_fazhen_02_eff/lan_fazhen_02_eff_02
+  rotate: false
+  xy: 243, 116
+  size: 235, 95
+  orig: 329, 149
+  offset: 45, 27
+  index: -1
+lan_fazhen_02_eff/lan_fazhen_02_eff_03
+  rotate: false
+  xy: 716, 121
+  size: 238, 90
+  orig: 329, 149
+  offset: 46, 32
+  index: -1
+lan_fazhen_02_eff/lan_fazhen_02_eff_04
+  rotate: false
+  xy: 480, 115
+  size: 234, 96
+  orig: 329, 149
+  offset: 45, 26
+  index: -1
+lan_fazhen_02_eff/lan_fazhen_02_eff_05
+  rotate: false
+  xy: 2, 2
+  size: 235, 102
+  orig: 329, 149
+  offset: 45, 23
+  index: -1

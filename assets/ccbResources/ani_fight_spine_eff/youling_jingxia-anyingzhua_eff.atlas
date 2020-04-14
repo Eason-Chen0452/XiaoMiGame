@@ -1,0 +1,55 @@
+
+youling_jingxia-anyingzhua_eff.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baixian
+  rotate: false
+  xy: 2, 33
+  size: 316, 48
+  orig: 322, 50
+  offset: 3, 1
+  index: -1
+fangshe1
+  rotate: false
+  xy: 327, 134
+  size: 279, 293
+  orig: 279, 293
+  offset: 0, 0
+  index: -1
+fangshe2
+  rotate: false
+  xy: 2, 83
+  size: 323, 344
+  orig: 323, 344
+  offset: 0, 0
+  index: -1
+heixian
+  rotate: false
+  xy: 608, 337
+  size: 316, 48
+  orig: 322, 50
+  offset: 3, 1
+  index: -1
+zhuahen1
+  rotate: false
+  xy: 2, 2
+  size: 246, 29
+  orig: 246, 29
+  offset: 0, 0
+  index: -1
+zhuahen2
+  rotate: false
+  xy: 608, 387
+  size: 326, 40
+  orig: 326, 40
+  offset: 0, 0
+  index: -1
+zhuahen3
+  rotate: false
+  xy: 327, 103
+  size: 278, 29
+  orig: 278, 29
+  offset: 0, 0
+  index: -1

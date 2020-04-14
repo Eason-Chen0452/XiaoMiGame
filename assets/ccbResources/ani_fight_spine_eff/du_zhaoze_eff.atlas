@@ -1,0 +1,209 @@
+
+du_zhaoze_eff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cheng_dimianbaozha_05_eff/eff_baozha_0011
+  rotate: false
+  xy: 283, 319
+  size: 68, 63
+  orig: 270, 270
+  offset: 102, 69
+  index: -1
+cheng_dimianbaozha_05_eff/eff_baozha_0012
+  rotate: true
+  xy: 597, 589
+  size: 171, 108
+  orig: 270, 270
+  offset: 51, 52
+  index: -1
+cheng_dimianbaozha_05_eff/eff_baozha_0013
+  rotate: true
+  xy: 99, 31
+  size: 255, 146
+  orig: 270, 270
+  offset: 12, 50
+  index: -1
+cheng_dimianbaozha_05_eff/eff_baozha_0014
+  rotate: false
+  xy: 710, 802
+  size: 268, 157
+  orig: 270, 270
+  offset: 1, 51
+  index: -1
+cheng_dimianbaozha_05_eff/eff_baozha_0015
+  rotate: false
+  xy: 379, 202
+  size: 199, 158
+  orig: 270, 270
+  offset: 33, 54
+  index: -1
+cheng_dimianbaozha_05_eff/eff_baozha_0016
+  rotate: false
+  xy: 365, 601
+  size: 230, 159
+  orig: 270, 270
+  offset: 24, 57
+  index: -1
+cheng_dimianbaozha_05_eff/eff_baozha_0017
+  rotate: false
+  xy: 365, 444
+  size: 218, 155
+  orig: 270, 270
+  offset: 39, 62
+  index: -1
+cheng_dimianbaozha_05_eff/eff_baozha_0018
+  rotate: false
+  xy: 595, 291
+  size: 183, 151
+  orig: 270, 270
+  offset: 39, 65
+  index: -1
+yanjiang2_eff/0_00000
+  rotate: false
+  xy: 360, 851
+  size: 348, 108
+  orig: 375, 150
+  offset: 8, 23
+  index: -1
+yanjiang2_eff/0_00001
+  rotate: false
+  xy: 2, 858
+  size: 356, 101
+  orig: 375, 150
+  offset: 12, 24
+  index: -1
+yanjiang2_eff/0_00007
+  rotate: false
+  xy: 2, 858
+  size: 356, 101
+  orig: 375, 150
+  offset: 12, 24
+  index: -1
+yanjiang2_eff/0_00002
+  rotate: true
+  xy: 99, 288
+  size: 355, 90
+  orig: 375, 150
+  offset: 16, 23
+  index: -1
+yanjiang2_eff/0_00003
+  rotate: true
+  xy: 2, 284
+  size: 359, 95
+  orig: 375, 150
+  offset: 12, 24
+  index: -1
+yanjiang2_eff/0_00004
+  rotate: false
+  xy: 2, 645
+  size: 348, 108
+  orig: 375, 150
+  offset: 8, 23
+  index: -1
+yanjiang_eff/0_00004
+  rotate: false
+  xy: 2, 645
+  size: 348, 108
+  orig: 375, 150
+  offset: 8, 23
+  index: -1
+yanjiang2_eff/0_00005
+  rotate: false
+  xy: 2, 755
+  size: 356, 101
+  orig: 375, 150
+  offset: 12, 24
+  index: -1
+yanjiang_eff/0_00005
+  rotate: false
+  xy: 2, 755
+  size: 356, 101
+  orig: 375, 150
+  offset: 12, 24
+  index: -1
+yanjiang2_eff/0_00006
+  rotate: true
+  xy: 191, 288
+  size: 355, 90
+  orig: 375, 150
+  offset: 16, 23
+  index: -1
+yanjiang_eff/0_00006
+  rotate: true
+  xy: 191, 288
+  size: 355, 90
+  orig: 375, 150
+  offset: 16, 23
+  index: -1
+yanjiang_eff/0_00000
+  rotate: true
+  xy: 980, 824
+  size: 135, 40
+  orig: 375, 150
+  offset: 54, 40
+  index: -1
+yanjiang_eff/0_00001
+  rotate: false
+  xy: 365, 362
+  size: 228, 80
+  orig: 375, 150
+  offset: 33, 18
+  index: -1
+yanjiang_eff/0_00002
+  rotate: true
+  xy: 283, 384
+  size: 259, 80
+  orig: 375, 150
+  offset: 23, 30
+  index: -1
+yanjiang_eff/0_00003
+  rotate: true
+  xy: 2, 2
+  size: 280, 95
+  orig: 375, 150
+  offset: 12, 24
+  index: -1
+yanjiang_eff/0_00007
+  rotate: false
+  xy: 360, 762
+  size: 311, 87
+  orig: 375, 150
+  offset: 60, 26
+  index: -1
+yanwu_eff/ziyan01
+  rotate: false
+  xy: 707, 628
+  size: 167, 172
+  orig: 167, 174
+  offset: 0, 1
+  index: -1
+yanwu_eff/ziyan02
+  rotate: true
+  xy: 585, 444
+  size: 143, 149
+  orig: 143, 149
+  offset: 0, 0
+  index: -1
+yanwu_eff/ziyan03
+  rotate: false
+  xy: 876, 621
+  size: 133, 179
+  orig: 133, 179
+  offset: 0, 0
+  index: -1
+yanwu_eff/ziyan04
+  rotate: true
+  xy: 379, 78
+  size: 122, 209
+  orig: 122, 209
+  offset: 0, 0
+  index: -1
+yanwu_eff/ziyan05
+  rotate: false
+  xy: 247, 76
+  size: 130, 210
+  orig: 130, 211
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+youling_anyingzhiguang_eff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00001
+  rotate: false
+  xy: 608, 735
+  size: 293, 156
+  orig: 332, 209
+  offset: 38, 33
+  index: -1
+00002
+  rotate: false
+  xy: 608, 580
+  size: 283, 153
+  orig: 332, 209
+  offset: 38, 33
+  index: -1
+00003
+  rotate: false
+  xy: 296, 290
+  size: 242, 156
+  orig: 332, 209
+  offset: 38, 33
+  index: -1
+00004
+  rotate: false
+  xy: 327, 448
+  size: 267, 148
+  orig: 332, 209
+  offset: 43, 38
+  index: -1
+baixian
+  rotate: false
+  xy: 596, 530
+  size: 316, 48
+  orig: 322, 50
+  offset: 3, 1
+  index: -1
+chanrao1
+  rotate: false
+  xy: 2, 2
+  size: 246, 254
+  orig: 300, 300
+  offset: 27, 23
+  index: -1
+chanrao2
+  rotate: false
+  xy: 2, 258
+  size: 292, 287
+  orig: 300, 300
+  offset: 4, 7
+  index: -1
+darkboom01@2x
+  rotate: false
+  xy: 2, 547
+  size: 323, 344
+  orig: 323, 344
+  offset: 0, 0
+  index: -1
+e_beam002@2x
+  rotate: false
+  xy: 327, 598
+  size: 279, 293
+  orig: 279, 293
+  offset: 0, 0
+  index: -1
+heixian
+  rotate: false
+  xy: 596, 480
+  size: 316, 48
+  orig: 322, 50
+  offset: 3, 1
+  index: -1

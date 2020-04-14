@@ -1,0 +1,69 @@
+
+SJ_ShuiBao.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00001
+  rotate: false
+  xy: 178, 141
+  size: 157, 157
+  orig: 175, 175
+  offset: 11, 8
+  index: -1
+00002
+  rotate: false
+  xy: 2, 300
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+00003
+  rotate: false
+  xy: 2, 123
+  size: 174, 175
+  orig: 175, 175
+  offset: 1, 0
+  index: -1
+00004
+  rotate: false
+  xy: 179, 300
+  size: 174, 175
+  orig: 175, 175
+  offset: 1, 0
+  index: -1
+baozha4_eff/00_00000
+  rotate: false
+  xy: 355, 319
+  size: 116, 156
+  orig: 156, 186
+  offset: 20, 20
+  index: -1
+baozha4_eff/00_00001
+  rotate: true
+  xy: 2, 2
+  size: 119, 156
+  orig: 156, 186
+  offset: 17, 20
+  index: -1
+baozha4_eff/00_00002
+  rotate: false
+  xy: 337, 92
+  size: 109, 109
+  orig: 156, 186
+  offset: 18, 43
+  index: -1
+baozha4_eff/00_00003
+  rotate: false
+  xy: 178, 33
+  size: 109, 106
+  orig: 156, 186
+  offset: 18, 45
+  index: -1
+baozha4_eff/00_00004
+  rotate: false
+  xy: 355, 203
+  size: 114, 114
+  orig: 156, 186
+  offset: 16, 39
+  index: -1

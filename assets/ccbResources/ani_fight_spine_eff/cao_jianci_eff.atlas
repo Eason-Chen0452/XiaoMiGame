@@ -1,0 +1,62 @@
+
+cao_jianci_eff.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hong_fazhen_01_eff_01
+  rotate: false
+  xy: 93, 60
+  size: 133, 189
+  orig: 225, 225
+  offset: 56, 20
+  index: -1
+hong_fazhen_01_eff_02
+  rotate: false
+  xy: 228, 63
+  size: 125, 186
+  orig: 225, 225
+  offset: 57, 20
+  index: -1
+hong_fazhen_01_eff_03
+  rotate: false
+  xy: 616, 89
+  size: 124, 160
+  orig: 225, 225
+  offset: 58, 19
+  index: -1
+hong_fazhen_01_eff_04
+  rotate: false
+  xy: 486, 88
+  size: 128, 161
+  orig: 225, 225
+  offset: 55, 19
+  index: -1
+hong_fazhen_01_eff_05
+  rotate: false
+  xy: 355, 88
+  size: 129, 161
+  orig: 225, 225
+  offset: 50, 19
+  index: -1
+spikes_09
+  rotate: false
+  xy: 881, 94
+  size: 95, 155
+  orig: 95, 155
+  offset: 0, 0
+  index: -1
+spikes_10
+  rotate: false
+  xy: 2, 2
+  size: 89, 247
+  orig: 89, 247
+  offset: 0, 0
+  index: -1
+spikes_11
+  rotate: false
+  xy: 742, 103
+  size: 137, 146
+  orig: 137, 146
+  offset: 0, 0
+  index: -1

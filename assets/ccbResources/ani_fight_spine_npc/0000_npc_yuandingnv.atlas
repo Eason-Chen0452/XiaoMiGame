@@ -1,0 +1,167 @@
+
+0000_npc_yuandingnv.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: true
+  xy: 137, 35
+  size: 38, 18
+  orig: 40, 20
+  offset: 1, 1
+  index: -1
+Arm_R
+  rotate: true
+  xy: 294, 179
+  size: 31, 42
+  orig: 33, 44
+  offset: 1, 1
+  index: -1
+Body
+  rotate: false
+  xy: 145, 172
+  size: 62, 82
+  orig: 64, 84
+  offset: 1, 1
+  index: -1
+Eye1_L
+  rotate: false
+  xy: 353, 212
+  size: 16, 6
+  orig: 18, 8
+  offset: 1, 1
+  index: -1
+Eye1_R
+  rotate: true
+  xy: 129, 2
+  size: 26, 7
+  orig: 28, 9
+  offset: 1, 1
+  index: -1
+Eye_L
+  rotate: true
+  xy: 158, 65
+  size: 25, 28
+  orig: 27, 30
+  offset: 1, 1
+  index: -1
+Eye_R
+  rotate: false
+  xy: 99, 2
+  size: 28, 26
+  orig: 30, 28
+  offset: 1, 1
+  index: -1
+Foot_L
+  rotate: false
+  xy: 247, 172
+  size: 45, 25
+  orig: 47, 27
+  offset: 1, 1
+  index: -1
+Foot_R
+  rotate: false
+  xy: 473, 220
+  size: 34, 34
+  orig: 36, 36
+  offset: 1, 1
+  index: -1
+Hair
+  rotate: false
+  xy: 2, 14
+  size: 95, 100
+  orig: 97, 102
+  offset: 1, 1
+  index: -1
+Hand_L
+  rotate: false
+  xy: 158, 92
+  size: 28, 29
+  orig: 30, 31
+  offset: 1, 1
+  index: -1
+Hand_R
+  rotate: false
+  xy: 137, 75
+  size: 19, 39
+  orig: 21, 41
+  offset: 1, 1
+  index: -1
+Head
+  rotate: false
+  xy: 2, 116
+  size: 141, 138
+  orig: 143, 140
+  offset: 1, 1
+  index: -1
+Kua
+  rotate: false
+  xy: 145, 123
+  size: 58, 47
+  orig: 60, 49
+  offset: 1, 1
+  index: -1
+Leg_L
+  rotate: true
+  xy: 418, 219
+  size: 35, 53
+  orig: 37, 55
+  offset: 1, 1
+  index: -1
+Leg_R
+  rotate: true
+  xy: 353, 220
+  size: 34, 63
+  orig: 36, 65
+  offset: 1, 1
+  index: -1
+Thigh_L
+  rotate: false
+  xy: 99, 30
+  size: 36, 84
+  orig: 38, 86
+  offset: 1, 1
+  index: -1
+Thigh_R
+  rotate: false
+  xy: 209, 186
+  size: 36, 68
+  orig: 38, 70
+  offset: 1, 1
+  index: -1
+UpArm_L
+  rotate: false
+  xy: 247, 199
+  size: 45, 55
+  orig: 47, 57
+  offset: 1, 1
+  index: -1
+UpArm_R
+  rotate: true
+  xy: 294, 212
+  size: 42, 57
+  orig: 44, 59
+  offset: 1, 1
+  index: -1
+buff_flo
+  rotate: false
+  xy: 188, 105
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 188, 105
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 188, 105
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1

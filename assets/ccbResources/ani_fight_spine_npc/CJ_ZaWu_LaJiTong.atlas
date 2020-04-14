@@ -1,0 +1,62 @@
+
+CJ_ZaWu_LaJiTong.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff_flo
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+ru1
+  rotate: false
+  xy: 2, 103
+  size: 119, 148
+  orig: 121, 150
+  offset: 1, 1
+  index: -1
+ru2
+  rotate: false
+  xy: 2, 20
+  size: 109, 81
+  orig: 115, 95
+  offset: 6, 1
+  index: -1
+ru2a
+  rotate: false
+  xy: 123, 103
+  size: 112, 76
+  orig: 120, 94
+  offset: 4, 1
+  index: -1
+ru2b
+  rotate: false
+  xy: 113, 65
+  size: 63, 36
+  orig: 65, 38
+  offset: 1, 1
+  index: -1
+rus1
+  rotate: false
+  xy: 123, 181
+  size: 122, 70
+  orig: 124, 72
+  offset: 1, 1
+  index: -1

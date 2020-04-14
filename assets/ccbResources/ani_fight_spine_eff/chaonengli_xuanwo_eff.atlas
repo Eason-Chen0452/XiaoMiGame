@@ -1,0 +1,90 @@
+
+chaonengli_xuanwo_eff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00001
+  rotate: true
+  xy: 250, 408
+  size: 293, 156
+  orig: 332, 209
+  offset: 38, 33
+  index: -1
+00002
+  rotate: true
+  xy: 408, 461
+  size: 283, 153
+  orig: 332, 209
+  offset: 38, 33
+  index: -1
+00003
+  rotate: false
+  xy: 238, 40
+  size: 242, 156
+  orig: 332, 209
+  offset: 38, 33
+  index: -1
+00004
+  rotate: true
+  xy: 563, 505
+  size: 267, 148
+  orig: 332, 209
+  offset: 43, 38
+  index: -1
+chanrao1
+  rotate: false
+  xy: 2, 447
+  size: 246, 254
+  orig: 300, 300
+  offset: 27, 23
+  index: -1
+chanrao2
+  rotate: false
+  xy: 2, 703
+  size: 292, 287
+  orig: 300, 300
+  offset: 4, 7
+  index: -1
+paopao_eff/00006
+  rotate: false
+  xy: 776, 780
+  size: 216, 210
+  orig: 255, 255
+  offset: 30, 24
+  index: -1
+paopao_eff/00008
+  rotate: false
+  xy: 2, 2
+  size: 234, 212
+  orig: 255, 255
+  offset: 13, 23
+  index: -1
+paopao_eff/00012
+  rotate: false
+  xy: 537, 774
+  size: 237, 216
+  orig: 255, 255
+  offset: 12, 21
+  index: -1
+paopao_eff/00016
+  rotate: false
+  xy: 2, 216
+  size: 239, 229
+  orig: 255, 255
+  offset: 11, 15
+  index: -1
+paopao_eff/00019
+  rotate: false
+  xy: 296, 746
+  size: 239, 244
+  orig: 255, 255
+  offset: 11, 9
+  index: -1
+paopao_eff/00023
+  rotate: true
+  xy: 243, 198
+  size: 208, 158
+  orig: 255, 255
+  offset: 10, 67
+  index: -1

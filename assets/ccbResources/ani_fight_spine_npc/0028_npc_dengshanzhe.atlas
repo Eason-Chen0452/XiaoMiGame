@@ -1,0 +1,167 @@
+
+0028_npc_dengshanzhe.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beibao_01
+  rotate: false
+  xy: 2, 51
+  size: 259, 201
+  orig: 259, 201
+  offset: 0, 0
+  index: -1
+buff_flo
+  rotate: false
+  xy: 139, 33
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 139, 33
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 139, 33
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+eye
+  rotate: false
+  xy: 2, 31
+  size: 135, 18
+  orig: 135, 18
+  offset: 0, 0
+  index: -1
+gebo_01
+  rotate: false
+  xy: 943, 169
+  size: 75, 83
+  orig: 75, 83
+  offset: 0, 0
+  index: -1
+gebo_02
+  rotate: true
+  xy: 747, 134
+  size: 42, 93
+  orig: 42, 93
+  offset: 0, 0
+  index: -1
+jiao_01
+  rotate: false
+  xy: 2, 2
+  size: 67, 27
+  orig: 67, 27
+  offset: 0, 0
+  index: -1
+jiao_02
+  rotate: false
+  xy: 465, 28
+  size: 67, 26
+  orig: 67, 26
+  offset: 0, 0
+  index: -1
+mao_01
+  rotate: false
+  xy: 335, 23
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+pihu_01
+  rotate: false
+  xy: 631, 121
+  size: 114, 60
+  orig: 114, 60
+  offset: 0, 0
+  index: -1
+shenzi_01
+  rotate: false
+  xy: 263, 88
+  size: 189, 164
+  orig: 189, 164
+  offset: 0, 0
+  index: -1
+shou_01
+  rotate: false
+  xy: 534, 29
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+shou_02
+  rotate: true
+  xy: 593, 59
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+tou_01
+  rotate: false
+  xy: 454, 105
+  size: 175, 147
+  orig: 175, 147
+  offset: 0, 0
+  index: -1
+tui_01
+  rotate: false
+  xy: 849, 160
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+tui_02
+  rotate: true
+  xy: 751, 178
+  size: 74, 96
+  orig: 74, 96
+  offset: 0, 0
+  index: -1
+tunbu_01
+  rotate: false
+  xy: 631, 183
+  size: 118, 69
+  orig: 118, 69
+  offset: 0, 0
+  index: -1
+xiaobi_01
+  rotate: false
+  xy: 403, 25
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: -1
+xiaobi_02
+  rotate: false
+  xy: 263, 26
+  size: 70, 60
+  orig: 70, 60
+  offset: 0, 0
+  index: -1
+xiaotui_01
+  rotate: false
+  xy: 465, 56
+  size: 66, 47
+  orig: 66, 47
+  offset: 0, 0
+  index: -1
+xiatui_02
+  rotate: false
+  xy: 533, 64
+  size: 58, 39
+  orig: 58, 39
+  offset: 0, 0
+  index: -1
+yanjing_01
+  rotate: false
+  xy: 71, 10
+  size: 60, 19
+  orig: 60, 19
+  offset: 0, 0
+  index: -1

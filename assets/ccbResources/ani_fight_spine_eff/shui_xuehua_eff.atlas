@@ -1,0 +1,90 @@
+
+shui_xuehua_eff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00000/00003
+  rotate: false
+  xy: 717, 770
+  size: 184, 184
+  orig: 188, 188
+  offset: 1, 1
+  index: -1
+00000/00003 (2)
+  rotate: false
+  xy: 903, 750
+  size: 86, 85
+  orig: 113, 113
+  offset: 13, 18
+  index: -1
+00000/00003 (3)
+  rotate: false
+  xy: 903, 837
+  size: 117, 117
+  orig: 135, 135
+  offset: 8, 11
+  index: -1
+00000/00004
+  rotate: false
+  xy: 530, 768
+  size: 185, 186
+  orig: 188, 188
+  offset: 1, 0
+  index: -1
+00000/00005
+  rotate: false
+  xy: 2, 2
+  size: 185, 186
+  orig: 188, 188
+  offset: 1, 0
+  index: -1
+00000/00006
+  rotate: true
+  xy: 530, 583
+  size: 183, 184
+  orig: 188, 188
+  offset: 2, 2
+  index: -1
+ring01 (2)
+  rotate: false
+  xy: 189, 33
+  size: 147, 155
+  orig: 150, 157
+  offset: 1, 1
+  index: -1
+shuipaozhakai/00001
+  rotate: false
+  xy: 2, 190
+  size: 235, 235
+  orig: 263, 263
+  offset: 17, 12
+  index: -1
+shuipaozhakai/00002
+  rotate: false
+  xy: 2, 691
+  size: 263, 263
+  orig: 263, 263
+  offset: 0, 0
+  index: -1
+shuipaozhakai/00003
+  rotate: false
+  xy: 2, 427
+  size: 261, 262
+  orig: 263, 263
+  offset: 2, 0
+  index: -1
+shuipaozhakai/00004
+  rotate: false
+  xy: 267, 692
+  size: 261, 262
+  orig: 263, 263
+  offset: 2, 0
+  index: -1
+xuehua2
+  rotate: false
+  xy: 239, 275
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+CJ_ZaWu_YinYueHe.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff_flo
+  rotate: false
+  xy: 104, 104
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_mid
+  rotate: false
+  xy: 104, 104
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+buff_up
+  rotate: false
+  xy: 104, 104
+  size: 16, 16
+  orig: 47, 46
+  offset: 15, 15
+  index: -1
+pg1
+  rotate: false
+  xy: 128, 115
+  size: 78, 75
+  orig: 80, 77
+  offset: 1, 1
+  index: -1
+pg2
+  rotate: false
+  xy: 2, 2
+  size: 38, 12
+  orig: 40, 14
+  offset: 1, 1
+  index: -1
+pg3
+  rotate: true
+  xy: 208, 142
+  size: 48, 33
+  orig: 50, 35
+  offset: 1, 1
+  index: -1
+pg4
+  rotate: false
+  xy: 2, 16
+  size: 100, 104
+  orig: 102, 106
+  offset: 1, 1
+  index: -1
+pgs
+  rotate: false
+  xy: 128, 192
+  size: 109, 54
+  orig: 111, 56
+  offset: 1, 1
+  index: -1
+wave
+  rotate: false
+  xy: 2, 122
+  size: 124, 124
+  orig: 126, 126
+  offset: 1, 1
+  index: -1

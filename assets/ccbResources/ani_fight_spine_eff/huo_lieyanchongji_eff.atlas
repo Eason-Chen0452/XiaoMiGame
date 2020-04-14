@@ -1,0 +1,132 @@
+
+huo_lieyanchongji_eff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha1_eff/behit_jiguanpao_c_04
+  rotate: false
+  xy: 236, 717
+  size: 170, 118
+  orig: 244, 195
+  offset: 28, 4
+  index: -1
+baozha1_eff/behit_jiguanpao_c_05
+  rotate: false
+  xy: 687, 720
+  size: 182, 129
+  orig: 244, 195
+  offset: 42, 11
+  index: -1
+baozha1_eff/behit_jiguanpao_c_06
+  rotate: true
+  xy: 188, 446
+  size: 196, 154
+  orig: 244, 195
+  offset: 33, 8
+  index: -1
+baozha1_eff/behit_jiguanpao_c_07
+  rotate: false
+  xy: 2, 832
+  size: 232, 187
+  orig: 244, 195
+  offset: 11, 3
+  index: -1
+baozha1_eff/behit_jiguanpao_c_08
+  rotate: true
+  xy: 2, 216
+  size: 208, 183
+  orig: 244, 195
+  offset: 21, 0
+  index: -1
+baozha1_eff/behit_jiguanpao_c_09
+  rotate: false
+  xy: 2, 644
+  size: 229, 186
+  orig: 244, 195
+  offset: 11, 4
+  index: -1
+baozha1_eff/behit_jiguanpao_c_10
+  rotate: false
+  xy: 236, 837
+  size: 230, 182
+  orig: 244, 195
+  offset: 4, 6
+  index: -1
+baozha1_eff/behit_jiguanpao_c_11
+  rotate: false
+  xy: 687, 851
+  size: 221, 168
+  orig: 244, 195
+  offset: 4, 27
+  index: -1
+huo_xiaojianshe-eff/dimianbaozha1-001
+  rotate: true
+  xy: 408, 670
+  size: 165, 117
+  orig: 263, 188
+  offset: 45, 33
+  index: -1
+huo_xiaojianshe-eff/dimianbaozha1-002
+  rotate: true
+  xy: 527, 671
+  size: 165, 95
+  orig: 263, 188
+  offset: 45, 31
+  index: -1
+huo_xiaojianshe-eff/dimianbaozha1-003
+  rotate: true
+  xy: 871, 739
+  size: 110, 75
+  orig: 263, 188
+  offset: 74, 33
+  index: -1
+huo_xiaojianshe-eff/dimianbaozha1-004
+  rotate: true
+  xy: 624, 734
+  size: 102, 44
+  orig: 263, 188
+  offset: 80, 32
+  index: -1
+huo_xiaojianshe-eff/dimianbaozha1-005
+  rotate: true
+  xy: 1007, 985
+  size: 34, 10
+  orig: 263, 188
+  offset: 114, 35
+  index: -1
+huoyan-penshe2-eff/cheng_huoyan_01_eff_02
+  rotate: false
+  xy: 910, 852
+  size: 95, 167
+  orig: 225, 240
+  offset: 66, 0
+  index: -1
+huoyan-penshe2-eff/cheng_huoyan_01_eff_03
+  rotate: false
+  xy: 2, 2
+  size: 159, 212
+  orig: 225, 240
+  offset: 33, 0
+  index: -1
+huoyan-penshe2-eff/cheng_huoyan_01_eff_04
+  rotate: true
+  xy: 468, 838
+  size: 181, 217
+  orig: 225, 240
+  offset: 25, 6
+  index: -1
+huoyan-penshe2-eff/cheng_huoyan_01_eff_05
+  rotate: false
+  xy: 2, 426
+  size: 184, 216
+  orig: 225, 240
+  offset: 22, 14
+  index: -1
+huoyan-penshe2-eff/cheng_huoyan_01_eff_06
+  rotate: false
+  xy: 163, 19
+  size: 175, 195
+  orig: 225, 240
+  offset: 24, 43
+  index: -1

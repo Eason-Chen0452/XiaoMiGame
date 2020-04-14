@@ -1,0 +1,97 @@
+
+zd_hundubao_eff.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cheng_dimianbaozha_05_eff/eff_baozha_0011
+  rotate: false
+  xy: 904, 243
+  size: 68, 63
+  orig: 270, 270
+  offset: 102, 69
+  index: -1
+cheng_dimianbaozha_05_eff/eff_baozha_0012
+  rotate: true
+  xy: 905, 308
+  size: 171, 108
+  orig: 270, 270
+  offset: 51, 52
+  index: -1
+cheng_dimianbaozha_05_eff/eff_baozha_0013
+  rotate: false
+  xy: 2, 174
+  size: 255, 146
+  orig: 270, 270
+  offset: 12, 50
+  index: -1
+cheng_dimianbaozha_05_eff/eff_baozha_0014
+  rotate: false
+  xy: 2, 322
+  size: 268, 157
+  orig: 270, 270
+  offset: 1, 51
+  index: -1
+cheng_dimianbaozha_05_eff/eff_baozha_0015
+  rotate: false
+  xy: 492, 321
+  size: 199, 158
+  orig: 270, 270
+  offset: 33, 54
+  index: -1
+cheng_dimianbaozha_05_eff/eff_baozha_0016
+  rotate: false
+  xy: 2, 13
+  size: 230, 159
+  orig: 270, 270
+  offset: 24, 57
+  index: -1
+cheng_dimianbaozha_05_eff/eff_baozha_0017
+  rotate: false
+  xy: 272, 324
+  size: 218, 155
+  orig: 270, 270
+  offset: 39, 62
+  index: -1
+cheng_dimianbaozha_05_eff/eff_baozha_0018
+  rotate: false
+  xy: 272, 171
+  size: 183, 151
+  orig: 270, 270
+  offset: 39, 65
+  index: -1
+yanwu_eff/ziyan01
+  rotate: true
+  xy: 234, 2
+  size: 167, 172
+  orig: 167, 174
+  offset: 0, 1
+  index: -1
+yanwu_eff/ziyan02
+  rotate: false
+  xy: 408, 20
+  size: 143, 149
+  orig: 143, 149
+  offset: 0, 0
+  index: -1
+yanwu_eff/ziyan03
+  rotate: true
+  xy: 457, 186
+  size: 133, 179
+  orig: 133, 179
+  offset: 0, 0
+  index: -1
+yanwu_eff/ziyan04
+  rotate: true
+  xy: 693, 225
+  size: 122, 209
+  orig: 122, 209
+  offset: 0, 0
+  index: -1
+yanwu_eff/ziyan05
+  rotate: true
+  xy: 693, 349
+  size: 130, 210
+  orig: 130, 211
+  offset: 0, 0
+  index: -1

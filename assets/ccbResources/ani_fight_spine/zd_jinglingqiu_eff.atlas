@@ -1,0 +1,104 @@
+
+zd_jinglingqiu_eff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha1_eff/00001
+  rotate: false
+  xy: 617, 401
+  size: 199, 199
+  orig: 350, 300
+  offset: 59, 13
+  index: -1
+baozha1_eff/00002
+  rotate: false
+  xy: 264, 78
+  size: 254, 222
+  orig: 350, 300
+  offset: 39, 15
+  index: -1
+baozha1_eff/00003
+  rotate: false
+  xy: 637, 762
+  size: 276, 241
+  orig: 350, 300
+  offset: 32, 15
+  index: -1
+baozha1_eff/00004
+  rotate: false
+  xy: 2, 408
+  size: 314, 260
+  orig: 350, 300
+  offset: 13, 14
+  index: -1
+guangyun01@2x
+  rotate: false
+  xy: 2, 670
+  size: 333, 333
+  orig: 333, 333
+  offset: 0, 0
+  index: -1
+jinglingqiu
+  rotate: false
+  xy: 116, 46
+  size: 81, 77
+  orig: 167, 158
+  offset: 43, 41
+  index: -1
+jinglingqiu_kai
+  rotate: false
+  xy: 915, 908
+  size: 80, 95
+  orig: 167, 158
+  offset: 43, 32
+  index: -1
+nengliangjianzadi_00013
+  rotate: true
+  xy: 520, 76
+  size: 224, 182
+  orig: 278, 182
+  offset: 27, 0
+  index: -1
+nengliangjianzadi_00014
+  rotate: false
+  xy: 337, 550
+  size: 278, 176
+  orig: 278, 182
+  offset: 0, 2
+  index: -1
+nengliangjianzadi_00015
+  rotate: false
+  xy: 637, 602
+  size: 268, 158
+  orig: 278, 182
+  offset: 5, 14
+  index: -1
+particle02
+  rotate: false
+  xy: 2, 2
+  size: 112, 121
+  orig: 114, 123
+  offset: 1, 1
+  index: -1
+shandian_eff/00005
+  rotate: false
+  xy: 337, 728
+  size: 298, 275
+  orig: 300, 290
+  offset: 2, 8
+  index: -1
+shandian_eff/00006
+  rotate: true
+  xy: 318, 302
+  size: 246, 270
+  orig: 300, 290
+  offset: 28, 11
+  index: -1
+shandian_eff/00007
+  rotate: false
+  xy: 2, 125
+  size: 260, 281
+  orig: 300, 290
+  offset: 21, 5
+  index: -1

@@ -1,0 +1,118 @@
+
+youling_qianlingqixi_eff.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guihuo1_eff/00001
+  rotate: false
+  xy: 187, 2
+  size: 15, 31
+  orig: 203, 203
+  offset: 158, 52
+  index: -1
+guihuo1_eff/00002
+  rotate: false
+  xy: 955, 449
+  size: 46, 61
+  orig: 203, 203
+  offset: 124, 38
+  index: -1
+guihuo1_eff/00003
+  rotate: true
+  xy: 755, 283
+  size: 83, 102
+  orig: 203, 203
+  offset: 92, 39
+  index: -1
+guihuo1_eff/00004
+  rotate: false
+  xy: 553, 292
+  size: 116, 124
+  orig: 203, 203
+  offset: 66, 27
+  index: -1
+guihuo1_eff/00005
+  rotate: false
+  xy: 430, 244
+  size: 121, 146
+  orig: 203, 203
+  offset: 63, 27
+  index: -1
+guihuo1_eff/00006
+  rotate: true
+  xy: 244, 229
+  size: 161, 184
+  orig: 203, 203
+  offset: 13, 8
+  index: -1
+guihuo1_eff/00007
+  rotate: true
+  xy: 767, 368
+  size: 142, 186
+  orig: 203, 203
+  offset: 19, 11
+  index: -1
+guihuo1_eff/00008
+  rotate: false
+  xy: 240, 71
+  size: 163, 156
+  orig: 203, 203
+  offset: 14, 29
+  index: -1
+guihuo1_eff/00009
+  rotate: false
+  xy: 671, 279
+  size: 82, 137
+  orig: 203, 203
+  offset: 18, 33
+  index: -1
+guihuo1_eff/00010
+  rotate: true
+  xy: 859, 294
+  size: 72, 86
+  orig: 203, 203
+  offset: 17, 52
+  index: -1
+guihuo1_eff/00011
+  rotate: true
+  xy: 120, 12
+  size: 21, 65
+  orig: 203, 203
+  offset: 32, 61
+  index: -1
+guihuo2_eff/00001
+  rotate: false
+  xy: 2, 301
+  size: 240, 209
+  orig: 255, 270
+  offset: 12, 6
+  index: -1
+zi_yanwu_eff_01
+  rotate: true
+  xy: 2, 11
+  size: 288, 116
+  orig: 342, 131
+  offset: 18, 0
+  index: -1
+zi_yanwu_eff_02
+  rotate: true
+  xy: 120, 35
+  size: 264, 118
+  orig: 342, 131
+  offset: 36, 4
+  index: -1
+zi_yanwu_eff_03
+  rotate: false
+  xy: 244, 392
+  size: 266, 118
+  orig: 342, 131
+  offset: 36, 13
+  index: -1
+zi_yanwu_eff_04
+  rotate: false
+  xy: 512, 418
+  size: 253, 92
+  orig: 342, 131
+  offset: 49, 8
+  index: -1

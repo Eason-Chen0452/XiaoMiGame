@@ -1,0 +1,69 @@
+
+shui_shuiqiang_eff.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+absolute_zero
+  rotate: false
+  xy: 2, 42
+  size: 368, 207
+  orig: 368, 207
+  offset: 0, 0
+  index: -1
+bingdongshexian_001@2x
+  rotate: true
+  xy: 2, 2
+  size: 38, 241
+  orig: 38, 242
+  offset: 0, 1
+  index: -1
+bingdongshexian_002@2x
+  rotate: false
+  xy: 656, 155
+  size: 159, 94
+  orig: 159, 94
+  offset: 0, 0
+  index: -1
+duantoutai/duantoutai01
+  rotate: true
+  xy: 372, 151
+  size: 98, 282
+  orig: 98, 282
+  offset: 0, 0
+  index: -1
+duantoutai/duantoutai02
+  rotate: true
+  xy: 372, 88
+  size: 61, 247
+  orig: 98, 282
+  offset: 13, 17
+  index: -1
+xingxing1
+  rotate: false
+  xy: 372, 48
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+xingxing2
+  rotate: false
+  xy: 621, 120
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+xuanfenghuichen/xuanfenghuichen03_eff
+  rotate: false
+  xy: 817, 153
+  size: 108, 96
+  orig: 192, 192
+  offset: 38, 46
+  index: -1
+xuanfenghuichen/xuanfenghuichen04_eff
+  rotate: false
+  xy: 927, 153
+  size: 91, 96
+  orig: 192, 192
+  offset: 49, 46
+  index: -1

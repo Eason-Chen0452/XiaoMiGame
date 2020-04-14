@@ -1,0 +1,195 @@
+
+cao_jishengzhongzi-mogubaozi_eff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+absolute_zero
+  rotate: false
+  xy: 2, 815
+  size: 368, 207
+  orig: 368, 207
+  offset: 0, 0
+  index: -1
+bush_50
+  rotate: false
+  xy: 2, 640
+  size: 341, 173
+  orig: 341, 173
+  offset: 0, 0
+  index: -1
+cao_eff/tengman_00002
+  rotate: true
+  xy: 540, 780
+  size: 48, 43
+  orig: 94, 94
+  offset: 8, 5
+  index: -1
+cao_eff/tengman_00004
+  rotate: true
+  xy: 517, 588
+  size: 58, 56
+  orig: 94, 94
+  offset: 7, 5
+  index: -1
+cao_eff/tengman_00006
+  rotate: false
+  xy: 698, 674
+  size: 70, 71
+  orig: 94, 94
+  offset: 7, 5
+  index: -1
+cao_eff/tengman_00008
+  rotate: false
+  xy: 614, 665
+  size: 82, 80
+  orig: 94, 94
+  offset: 7, 5
+  index: -1
+grass_07
+  rotate: false
+  xy: 586, 867
+  size: 209, 155
+  orig: 209, 155
+  offset: 0, 0
+  index: -1
+huaban/cao-huawu010
+  rotate: false
+  xy: 2, 253
+  size: 179, 174
+  orig: 210, 188
+  offset: 13, 5
+  index: -1
+huaban/cao-huawu011
+  rotate: true
+  xy: 2, 71
+  size: 180, 173
+  orig: 210, 188
+  offset: 14, 4
+  index: -1
+huaban/cao-huawu012
+  rotate: true
+  xy: 189, 458
+  size: 180, 173
+  orig: 210, 188
+  offset: 15, 2
+  index: -1
+huaban/cao-huawu013
+  rotate: true
+  xy: 177, 6
+  size: 134, 139
+  orig: 210, 188
+  offset: 36, 30
+  index: -1
+huaban/cao-huawu014
+  rotate: true
+  xy: 183, 142
+  size: 141, 143
+  orig: 210, 188
+  offset: 35, 28
+  index: -1
+huaban/cao-huawu015
+  rotate: true
+  xy: 362, 196
+  size: 144, 145
+  orig: 210, 188
+  offset: 35, 26
+  index: -1
+huaban/cao-huawu016
+  rotate: false
+  xy: 364, 491
+  size: 151, 153
+  orig: 210, 188
+  offset: 32, 22
+  index: -1
+huatuo_dimianhuichen_eff/huatuo_dimianhuichen_eff_000
+  rotate: false
+  xy: 2, 2
+  size: 82, 67
+  orig: 131, 113
+  offset: 22, 32
+  index: -1
+huatuo_dimianhuichen_eff/huatuo_dimianhuichen_eff_001
+  rotate: false
+  xy: 86, 3
+  size: 85, 66
+  orig: 131, 113
+  offset: 22, 32
+  index: -1
+huatuo_dimianhuichen_eff/huatuo_dimianhuichen_eff_002
+  rotate: false
+  xy: 454, 648
+  size: 84, 62
+  orig: 131, 113
+  offset: 22, 32
+  index: -1
+light
+  rotate: false
+  xy: 2, 429
+  size: 185, 209
+  orig: 185, 209
+  offset: 0, 0
+  index: -1
+mogu_eff/mushroom_41
+  rotate: false
+  xy: 454, 712
+  size: 84, 116
+  orig: 84, 116
+  offset: 0, 0
+  index: -1
+mogu_eff/mushroom_42
+  rotate: false
+  xy: 372, 830
+  size: 212, 192
+  orig: 212, 192
+  offset: 0, 0
+  index: -1
+mogu_eff/mushroom_43
+  rotate: true
+  xy: 797, 882
+  size: 140, 211
+  orig: 140, 211
+  offset: 0, 0
+  index: -1
+mogu_eff/mushroom_44
+  rotate: true
+  xy: 586, 747
+  size: 118, 194
+  orig: 118, 194
+  offset: 0, 0
+  index: -1
+mogu_eff/mushroom_45
+  rotate: false
+  xy: 345, 646
+  size: 107, 167
+  orig: 107, 167
+  offset: 0, 0
+  index: -1
+mogu_eff/mushroom_46
+  rotate: false
+  xy: 540, 649
+  size: 72, 96
+  orig: 72, 96
+  offset: 0, 0
+  index: -1
+starlight
+  rotate: false
+  xy: 364, 342
+  size: 147, 147
+  orig: 149, 149
+  offset: 1, 1
+  index: -1
+ys_zhizhuwang_eff_03
+  rotate: false
+  xy: 189, 285
+  size: 171, 171
+  orig: 225, 225
+  offset: 27, 27
+  index: -1
+zhongzi
+  rotate: true
+  xy: 328, 264
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+youling_yuannian_eff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cheng_fangshe_03_eff_02
+  rotate: false
+  xy: 2, 2
+  size: 202, 203
+  orig: 225, 225
+  offset: 18, 19
+  index: -1
+cheng_fangshe_03_eff_03
+  rotate: false
+  xy: 777, 841
+  size: 135, 130
+  orig: 225, 225
+  offset: 54, 59
+  index: -1
+cheng_fangshe_03_eff_04
+  rotate: false
+  xy: 604, 659
+  size: 137, 139
+  orig: 225, 225
+  offset: 51, 51
+  index: -1
+darkboom01@2x
+  rotate: false
+  xy: 2, 207
+  size: 323, 344
+  orig: 323, 344
+  offset: 0, 0
+  index: -1
+fangshe_eff
+  rotate: true
+  xy: 421, 348
+  size: 623, 59
+  orig: 710, 74
+  offset: 50, 10
+  index: -1
+fangshe_eff2
+  rotate: true
+  xy: 482, 348
+  size: 623, 59
+  orig: 710, 74
+  offset: 50, 10
+  index: -1
+fangshe_eff3
+  rotate: true
+  xy: 543, 348
+  size: 623, 59
+  orig: 710, 74
+  offset: 50, 10
+  index: -1
+heidong
+  rotate: false
+  xy: 2, 553
+  size: 417, 418
+  orig: 439, 425
+  offset: 11, 4
+  index: -1
+wind00
+  rotate: false
+  xy: 604, 399
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+wind01
+  rotate: false
+  xy: 206, 80
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+wind02
+  rotate: false
+  xy: 604, 526
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+ys_zhizhuwang_eff_03
+  rotate: false
+  xy: 604, 800
+  size: 171, 171
+  orig: 225, 225
+  offset: 27, 27
+  index: -1
+zi_fangshe_02_eff_03
+  rotate: true
+  xy: 327, 457
+  size: 94, 92
+  orig: 125, 126
+  offset: 18, 19
+  index: -1
