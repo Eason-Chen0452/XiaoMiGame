@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="23" android:compileSdkVersionCodename="6.0-2438415" package="com.woqugame.gnxjl.mi" platformBuildVersionCode="23" platformBuildVersionName="6.0-2438415">
+    <supports-screens android:anyDensity="true" android:largeScreens="true" android:normalScreens="true" android:resizeable="true" android:smallScreens="true"/>
+ 
+<uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.GET_TASKS"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="com.android.vending.BILLING"/>
+    <application android:allowBackup="true" android:icon="@drawable/ic_launcher" android:label="@string/zws_game_name" android:name="org.cocos2dx.plugin.MyApplication" android:theme="@android:style/Theme.NoTitleBar.Fullscreen" android:windowSoftInputMode="adjustResize|stateVisible">
+        <meta-data android:name="aonedef.channel.id" android:value="2"/>
+        <meta-data android:name="aonedef.channel.class" android:value="channel.SSWrapper"/>
+        <meta-data android:name="android.max_aspect" android:value="2.5"/>
+        <activity android:configChanges="keyboardHidden|navigation|orientation|screenSize" android:label="@string/zws_game_name" android:name="main.GameActivity" android:screenOrientation="sensorLandscape">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.aonesoft.lib.AoneOpenUrl" android:screenOrientation="portrait"/>
+        <meta-data android:name="notch.config" android:value="portrait|landscape"/>
+        <meta-data android:name="android.max_aspect" android:value="2.078"/>
+        <meta-data android:name="MiLinkGroupAppID" android:value="@integer/MiLinkGroupAppID"/>
+        <activity android:configChanges="orientation|screenSize" android:name="com.xiaomi.gamecenter.sdk.ui.MiActivity" android:screenOrientation="behind" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <activity android:configChanges="orientation|screenSize" android:exported="true" android:name="com.xiaomi.gamecenter.sdk.ui.PayListActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <activity android:configChanges="orientation|screenSize" android:exported="true" android:name="com.xiaomi.hy.dj.HyDjActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <activity android:configChanges="keyboardHidden|navigation|orientation|screenSize" android:exported="false" android:name="com.alipay.sdk.app.H5PayActivity" android:screenOrientation="behind" android:windowSoftInputMode="adjustResize|stateHidden"/>
+        <service android:exported="true" android:name="com.xiaomi.gamecenter.push.GamePushService">
+            <intent-filter>
+                <action android:name="com.woqugame.gnxjl.mi.MI_GAME_PUSH"/>
+            </intent-filter>
+        </service>
+        <receiver android:exported="true" android:name="com.xiaomi.gamecenter.push.OnClickReceiver">
+            <intent-filter>
+                <action android:name="com.xiaomi.hy.push.client.ONCLICK"/>
+            </intent-filter>
+        </receiver>
+        <provider android:authorities="com.woqugame.gnxjl.mi.fileprovider" android:exported="false" android:grantUriPermissions="true" android:name="android.support.v4.content.FileProvider">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/file_paths"/>
+        </provider>
+        <activity android:configChanges="orientation|screenSize" android:excludeFromRecents="true" android:name="com.xiaomi.gamecenter.sdk.ui.fault.ViewFaultNoticeActivity" android:screenOrientation="behind" android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen"/>
+        <activity android:configChanges="orientation|screenSize" android:excludeFromRecents="true" android:name="com.xiaomi.gamecenter.sdk.ui.notice.NoticeActivity" android:screenOrientation="behind" android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen"/>
+    </application>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="com.xiaomi.sdk.permission.PAYMENT"/>
+    <uses-permission android:name="com.xiaomi.permission.AUTH_SERVICE"/>
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES"/>
+</manifest>

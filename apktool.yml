@@ -1,0 +1,28 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: xiaomi.apk
+compressionType: false
+doNotCompress:
+- arsc
+- ini
+- assets/straw
+- assets/version
+- lua
+- MP3
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '9'
+  targetSdkVersion: '26'
+sharedLibrary: false
+sparseResources: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.2
+versionInfo:
+  versionCode: '1405'
+  versionName: 1.4.5
