@@ -1,0 +1,587 @@
+{
+  "classname": "CCNode",
+  "name": null,
+  "canedit": true,
+  "objecttag": 10000,
+  "rotation": 0,
+  "scalex": 1,
+  "scaley": 1,
+  "visible": 1,
+  "x": 0,
+  "y": 0,
+  "zorder": 1,
+  "gameobjects": [
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": "far2",
+      "canedit": true,
+      "objecttag": 10024,
+      "rotation": 0,
+      "scalex": 1,
+      "scaley": 1,
+      "visible": 1,
+      "x": 0,
+      "y": 0,
+      "zorder": 1,
+      "gameobjects": [
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "node_map",
+          "canedit": true,
+          "objecttag": 10025,
+          "rotation": 0,
+          "scalex": 1,
+          "scaley": 1,
+          "visible": 1,
+          "x": 0,
+          "y": 0,
+          "zorder": 1,
+          "gameobjects": [
+            {
+              "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+              "classname": "CCNode",
+              "name": null,
+              "canedit": true,
+              "objecttag": 10033,
+              "rotation": 0,
+              "scalex": 1,
+              "scaley": 1,
+              "visible": 1,
+              "x": 903.8887939453125,
+              "y": 463.50006103515625,
+              "zorder": 1,
+              "gameobjects": [],
+              "components": [
+                {
+                  "__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+                  "classname": "CCSprite",
+                  "name": "CCSprite",
+                  "file": null,
+                  "fileData": {
+                    "path": "img/1/7.png",
+                    "plistFile": "",
+                    "resourceType": 0
+                  }
+                }
+              ]
+            }
+          ],
+          "components": []
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "node_other",
+          "canedit": true,
+          "objecttag": 10026,
+          "rotation": 0,
+          "scalex": 1,
+          "scaley": 1,
+          "visible": 1,
+          "x": 0,
+          "y": 0,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": []
+        }
+      ],
+      "components": []
+    },
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": "far1",
+      "canedit": true,
+      "objecttag": 10021,
+      "rotation": 0,
+      "scalex": 1,
+      "scaley": 1,
+      "visible": 1,
+      "x": 0,
+      "y": 0,
+      "zorder": 2,
+      "gameobjects": [
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "node_map",
+          "canedit": true,
+          "objecttag": 10022,
+          "rotation": 0,
+          "scalex": 1,
+          "scaley": 1,
+          "visible": 1,
+          "x": 0,
+          "y": 0,
+          "zorder": 1,
+          "gameobjects": [
+            {
+              "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+              "classname": "CCNode",
+              "name": null,
+              "canedit": true,
+              "objecttag": 10032,
+              "rotation": 0,
+              "scalex": 1,
+              "scaley": 1,
+              "visible": 1,
+              "x": 660.722900390625,
+              "y": 339,
+              "zorder": 1,
+              "gameobjects": [],
+              "components": [
+                {
+                  "__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+                  "classname": "CCSprite",
+                  "name": "CCSprite",
+                  "file": null,
+                  "fileData": {
+                    "path": "img/1/6.png",
+                    "plistFile": "",
+                    "resourceType": 0
+                  }
+                }
+              ]
+            }
+          ],
+          "components": []
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "node_other",
+          "canedit": true,
+          "objecttag": 10023,
+          "rotation": 0,
+          "scalex": 1,
+          "scaley": 1,
+          "visible": 1,
+          "x": 0,
+          "y": 0,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": []
+        }
+      ],
+      "components": []
+    },
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": "far",
+      "canedit": true,
+      "objecttag": 1,
+      "rotation": 0,
+      "scalex": 1,
+      "scaley": 1,
+      "visible": 1,
+      "x": 0,
+      "y": 0,
+      "zorder": 3,
+      "gameobjects": [
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "node_map",
+          "canedit": true,
+          "objecttag": 11,
+          "rotation": 0,
+          "scalex": 1,
+          "scaley": 1,
+          "visible": 1,
+          "x": 0,
+          "y": 0,
+          "zorder": 1,
+          "gameobjects": [
+            {
+              "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+              "classname": "CCNode",
+              "name": null,
+              "canedit": true,
+              "objecttag": 10031,
+              "rotation": 0,
+              "scalex": 1,
+              "scaley": 1,
+              "visible": 1,
+              "x": 712.5,
+              "y": 250,
+              "zorder": 1,
+              "gameobjects": [],
+              "components": [
+                {
+                  "__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+                  "classname": "CCSprite",
+                  "name": "CCSprite",
+                  "file": null,
+                  "fileData": {
+                    "path": "img/1/5.png",
+                    "plistFile": "",
+                    "resourceType": 0
+                  }
+                }
+              ]
+            }
+          ],
+          "components": []
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "node_other",
+          "canedit": true,
+          "objecttag": 22,
+          "rotation": 0,
+          "scalex": 1,
+          "scaley": 1,
+          "visible": 1,
+          "x": 0,
+          "y": 0,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": []
+        }
+      ],
+      "components": []
+    },
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": "mid2",
+      "canedit": true,
+      "objecttag": 2,
+      "rotation": 0,
+      "scalex": 1,
+      "scaley": 1,
+      "visible": 1,
+      "x": 0,
+      "y": 0,
+      "zorder": 4,
+      "gameobjects": [
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "node_map",
+          "canedit": true,
+          "objecttag": 21,
+          "rotation": 0,
+          "scalex": 1,
+          "scaley": 1,
+          "visible": 1,
+          "x": 0,
+          "y": 0,
+          "zorder": 1,
+          "gameobjects": [
+            {
+              "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+              "classname": "CCNode",
+              "name": null,
+              "canedit": true,
+              "objecttag": 10029,
+              "rotation": 0,
+              "scalex": 1,
+              "scaley": 1,
+              "visible": 1,
+              "x": 837.6912841796875,
+              "y": 246,
+              "zorder": 1,
+              "gameobjects": [],
+              "components": [
+                {
+                  "__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+                  "classname": "CCSprite",
+                  "name": "CCSprite",
+                  "file": null,
+                  "fileData": {
+                    "path": "img/1/4.png",
+                    "plistFile": "",
+                    "resourceType": 0
+                  }
+                }
+              ]
+            }
+          ],
+          "components": []
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "node_other",
+          "canedit": true,
+          "objecttag": 22,
+          "rotation": 0,
+          "scalex": 1,
+          "scaley": 1,
+          "visible": 1,
+          "x": 0,
+          "y": 0,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": []
+        }
+      ],
+      "components": []
+    },
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": "mid1",
+      "canedit": true,
+      "objecttag": 3,
+      "rotation": 0,
+      "scalex": 1,
+      "scaley": 1,
+      "visible": 1,
+      "x": 0,
+      "y": 0,
+      "zorder": 5,
+      "gameobjects": [
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "node_map",
+          "canedit": true,
+          "objecttag": 31,
+          "rotation": 0,
+          "scalex": 1,
+          "scaley": 1,
+          "visible": 1,
+          "x": 0,
+          "y": 0,
+          "zorder": 1,
+          "gameobjects": [
+            {
+              "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+              "classname": "CCNode",
+              "name": null,
+              "canedit": true,
+              "objecttag": 10028,
+              "rotation": 0,
+              "scalex": 1,
+              "scaley": 1,
+              "visible": 1,
+              "x": 906.5,
+              "y": 207,
+              "zorder": 1,
+              "gameobjects": [],
+              "components": [
+                {
+                  "__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+                  "classname": "CCSprite",
+                  "name": "CCSprite",
+                  "file": null,
+                  "fileData": {
+                    "path": "img/1/3.png",
+                    "plistFile": "",
+                    "resourceType": 0
+                  }
+                }
+              ]
+            }
+          ],
+          "components": []
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "node_other",
+          "canedit": true,
+          "objecttag": 32,
+          "rotation": 0,
+          "scalex": 1,
+          "scaley": 1,
+          "visible": 1,
+          "x": 0,
+          "y": 0,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": []
+        }
+      ],
+      "components": []
+    },
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": "group",
+      "canedit": true,
+      "objecttag": 4,
+      "rotation": 0,
+      "scalex": 1,
+      "scaley": 1,
+      "visible": 1,
+      "x": 0,
+      "y": 0,
+      "zorder": 6,
+      "gameobjects": [
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "node_map",
+          "canedit": true,
+          "objecttag": 41,
+          "rotation": 0,
+          "scalex": 1,
+          "scaley": 1,
+          "visible": 1,
+          "x": 0,
+          "y": 0,
+          "zorder": 1,
+          "gameobjects": [
+            {
+              "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+              "classname": "CCNode",
+              "name": null,
+              "canedit": true,
+              "objecttag": 10027,
+              "rotation": 0,
+              "scalex": 1,
+              "scaley": 1,
+              "visible": 1,
+              "x": 963.500244140625,
+              "y": 94,
+              "zorder": 1,
+              "gameobjects": [],
+              "components": [
+                {
+                  "__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+                  "classname": "CCSprite",
+                  "name": "CCSprite",
+                  "file": null,
+                  "fileData": {
+                    "path": "img/1/2.png",
+                    "plistFile": "",
+                    "resourceType": 0
+                  }
+                }
+              ]
+            }
+          ],
+          "components": []
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "node_other",
+          "canedit": true,
+          "objecttag": 42,
+          "rotation": 0,
+          "scalex": 1,
+          "scaley": 1,
+          "visible": 1,
+          "x": 0,
+          "y": 0,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": []
+        }
+      ],
+      "components": []
+    },
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": "close",
+      "canedit": true,
+      "objecttag": 5,
+      "rotation": 0,
+      "scalex": 1,
+      "scaley": 1,
+      "visible": 1,
+      "x": 0,
+      "y": 0,
+      "zorder": 7,
+      "gameobjects": [
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "node_map",
+          "canedit": true,
+          "objecttag": 51,
+          "rotation": 0,
+          "scalex": 1,
+          "scaley": 1,
+          "visible": 1,
+          "x": 0,
+          "y": 0,
+          "zorder": 1,
+          "gameobjects": [
+            {
+              "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+              "classname": "CCNode",
+              "name": null,
+              "canedit": true,
+              "objecttag": 10019,
+              "rotation": 0,
+              "scalex": 1,
+              "scaley": 1,
+              "visible": 1,
+              "x": 981.5,
+              "y": 135,
+              "zorder": 1,
+              "gameobjects": [],
+              "components": [
+                {
+                  "__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+                  "classname": "CCSprite",
+                  "name": "CCSprite",
+                  "file": null,
+                  "fileData": {
+                    "path": "img/1/1.png",
+                    "plistFile": "",
+                    "resourceType": 0
+                  }
+                }
+              ]
+            }
+          ],
+          "components": []
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "node_other",
+          "canedit": true,
+          "objecttag": 52,
+          "rotation": 0,
+          "scalex": 1,
+          "scaley": 1,
+          "visible": 1,
+          "x": -2.5000004768371582,
+          "y": 0,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": []
+        }
+      ],
+      "components": []
+    }
+  ],
+  "CanvasSize": {
+    "_height": 640,
+    "_width": 1810
+  },
+  "Triggers": null,
+  "Version": "1.4.0.0",
+  "components": [
+    {
+      "__type": "ComSceneSurrogate:#EditorCommon.JsonModel.Component",
+      "classname": "CCScene",
+      "name": "CCScene",
+      "scenename": "1"
+    },
+    {
+      "__type": "ComSimpleAudioSurrogate:#EditorCommon.JsonModel.Component",
+      "classname": "CCBackgroundAudio",
+      "name": "CCBackgroundAudio",
+      "file": null,
+      "fileData": {
+        "path": null,
+        "plistFile": null,
+        "resourceType": 0
+      },
+      "loop": 0
+    }
+  ]
+}
